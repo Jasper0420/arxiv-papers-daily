@@ -371,7 +371,7 @@ def json_to_md(filename,md_filename,
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("## USage Instructions " + "\n")
-            f.write("> Usage instructions: [here](./docs/README.md#usage)" + "\n")
+            f.write("> Usage instructions: [here](./docs/README.md)" + "\n")
     logging.info(f"{task} finished")
 
 def demo(**config):
