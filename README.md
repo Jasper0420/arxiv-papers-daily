@@ -5,7 +5,7 @@
 
 # Updated on<span style="color: red;"> 2024.07.18</span> 
 
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#tracking>Tracking</a></li>
