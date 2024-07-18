@@ -7,9 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
-> Usage instructions: [here](./docs/README.md#usage)
-
+# Updated on <span style='color:orange;'>2024.07.18</span>
 ## Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -111,6 +109,8 @@ layout: default
 |**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|null|
 |**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|null|
 
+## USage Instructions 
+> Usage instructions: [here](./docs/README.md#usage)
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
