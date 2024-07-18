@@ -140,5 +140,5 @@
 [issues-url]: https://github.com/Jasper0420/arxiv-papers-daily/issues
 
 
-## Updated on 2024.07.18
+## USage Instructions
 > Usage instructions: [here](./docs/README.md#usage)
