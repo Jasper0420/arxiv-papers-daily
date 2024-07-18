@@ -4,10 +4,8 @@
 [![Issues][issues-shield]][issues-url]
 
 # Updated on <span style='color:orange;'>2024.07.18</span>
-
-## Website
+## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
-
 <details open>
   <summary>Table of Contents</summary>
   <ol>
