@@ -345,11 +345,7 @@ def json_to_md(filename,md_filename,
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info.lower()}>back to top</a>)</p>\n\n")
 
-        if use_usage == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("## USage Instructions " + "\n")
-            f.write("> Usage instructions: [here](./docs/README.md#usage)" + "\n")
+        
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
@@ -369,6 +365,11 @@ def json_to_md(filename,md_filename,
             f.write((f"[issues-url]: https://github.com/Jasper0420/"
                      f"arxiv-papers-daily/issues\n\n"))
 
+        if use_usage == True:
+            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
+            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
+            f.write("## USage Instructions " + "\n")
+            f.write("> Usage instructions: [here](./docs/README.md#usage)" + "\n")
     logging.info(f"{task} finished")
 
 def demo(**config):
