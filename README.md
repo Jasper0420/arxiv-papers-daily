@@ -129,8 +129,6 @@
 
 <p align=right>(<a href=#updated-on-<span-style='color:orange;'>20240718</span>>back to top</a>)</p>
 
-## USage Instructions 
-> Usage instructions: [here](./docs/README.md#usage)
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
@@ -140,3 +138,5 @@
 [issues-shield]: https://img.shields.io/github/issues/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [issues-url]: https://github.com/Jasper0420/arxiv-papers-daily/issues
 
+## USage Instructions 
+> Usage instructions: [here](./docs/README.md#usage)
