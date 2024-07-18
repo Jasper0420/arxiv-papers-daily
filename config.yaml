@@ -1,0 +1,41 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "Jasper0420"
+repo_name: "arxiv-papers-daily"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    "Tracking": 
+        filters: ["UAV tracking","SOT", "Visual Object Tracking","vision language tracking","RGB-E Tracking","RGB-T Tracking"
+        ,"RGB-D Tracking"]
+    "HDR":
+        filters: ["HDR","HDR Video", "HDR Images", "Real-Time HDR","High Dynamic Range"]
+    "Low-Level":
+        filters: ["Low-light Image Enhancement","Image Fusion",
+                  "Image Restoration"," Image Enhancement",
+                  "Multi-Granularity","image retrieval","context-aware"]
+    "Image Matching":
+        filters: ["Image Matching", "Keypoint Matching", 
+                  "Line Segment Detection", "Local Feature Matching"]
+    "MutilModal":
+        filters: ["MutilModal", "MLLM", "Multimodal Alignment", 
+                  "Vision-and-Language", "Multimodal Fusion", "Crossmodal Retrieval","Mutil-view", "cross-view"]
+    "Prompt":
+        filters: ["Multi-Granularity", "LORA", "Contextual", "Prompt"]
