@@ -33,7 +33,8 @@ This codebase is composed of the following parts:
    - If you want to delete my content , please delete the`json file`content ! Otherwise the content will be messed up !
 
      ![image-20240718141112333](https://s2.loli.net/2024/07/18/QrXytnSqPjCMxLv.png)
-
+  
+  - If you want to change the content and formatting of the markdown file, change the `json_to_md` in the [daily_arxiv.py](../daily_arxiv.py) file！
    - Push changes to remote repo
 
 3. Config Github Actions
