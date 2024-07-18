@@ -270,7 +270,7 @@ def json_to_md(filename,md_filename,
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
-    DateNow = f"<span style='color:orange;'>{DateNow}</span>"
+    DateNow_color = f"<span style='color:orange;'>{DateNow}</span>"
 
     with open(filename,"r") as f:
         content = f.read()
@@ -298,9 +298,9 @@ def json_to_md(filename,md_filename,
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
-            f.write("# Updated on " + DateNow + "\n")
+            f.write("# Updated on " + DateNow_color + "\n")
         else:
-            f.write("> Updated on " + DateNow + "\n")
+            f.write("> Updated on " + DateNow_color + "\n")
 
         #Add: table of contents
         if use_tc == True:
