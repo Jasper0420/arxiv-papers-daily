@@ -299,6 +299,8 @@ def json_to_md(filename,md_filename,
             #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
             f.write("# Updated on " + DateNow_color + "\n")
+            f.write("## Website "  + "\n")
+            f.write("You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)"  + "\n")
         else:
             f.write("> Updated on " + DateNow_color + "\n")
 
