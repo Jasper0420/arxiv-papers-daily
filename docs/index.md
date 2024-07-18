@@ -7,7 +7,8 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on<span style="color: red;"> 2024.07.18</span> 
+## Updated on 2024.07.18
+> Usage instructions: [here](./docs/README.md#usage)
 
 ## Tracking
 

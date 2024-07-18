@@ -3,9 +3,10 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on<span style="color: red;"> 2024.07.18</span> 
+## Updated on 2024.07.18
+> Usage instructions: [here](./docs/README.md#usage)
 
-<details open>
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#tracking>Tracking</a></li>
@@ -139,6 +140,3 @@
 [issues-shield]: https://img.shields.io/github/issues/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [issues-url]: https://github.com/Jasper0420/arxiv-papers-daily/issues
 
-
-## Updated on 2024.07.18
-> Usage instructions: [here](./docs/README.md#usage)
