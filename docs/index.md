@@ -131,23 +131,23 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-19**|**Improving Retrieval in Sponsored Search by Leveraging Query Context Signals**|Akash Kumar Mohankumar et.al.|[2407.14346](http://arxiv.org/abs/2407.14346)|null|
 |**2024-07-18**|**Streetscapes: Large-scale Consistent Street View Generation Using Autoregressive Video Diffusion**|Boyang Deng et.al.|[2407.13759](http://arxiv.org/abs/2407.13759)|null|
 |**2024-07-18**|**LLMs as Function Approximators: Terminology, Taxonomy, and Questions for Evaluation**|David Schlangen et.al.|[2407.13744](http://arxiv.org/abs/2407.13744)|null|
-|**2024-07-18**|**HazeCLIP: Towards Language Guided Real-World Image Dehazing**|Ruiyi Wang et.al.|[2407.13719](http://arxiv.org/abs/2407.13719)|null|
-|**2024-07-18**|**CoDefeater: Using LLMs To Find Defeaters in Assurance Cases**|Usman Gohar et.al.|[2407.13717](http://arxiv.org/abs/2407.13717)|null|
+|**2024-07-18**|**HazeCLIP: Towards Language Guided Real-World Image Dehazing**|Ruiyi Wang et.al.|[2407.13719](http://arxiv.org/abs/2407.13719)|**[link](https://github.com/Troivyn/HazeCLIP)**|
+|**2024-07-18**|**CoDefeater: Using LLMs To Find Defeaters in Assurance Cases**|Usman Gohar et.al.|[2407.13717](http://arxiv.org/abs/2407.13717)|**[link](https://gitlab.com/anonymousdot/codefeater)**|
 |**2024-07-18**|**Dynamic Pricing in Securities Lending Market: Application in Revenue Optimization for an Agent Lender Portfolio**|Jing Xu et.al.|[2407.13687](http://arxiv.org/abs/2407.13687)|null|
 |**2024-07-18**|**EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
-|**2024-07-18**|**Robust Calibration of Large Vision-Language Adapters**|Balamurali Murugesan et.al.|[2407.13588](http://arxiv.org/abs/2407.13588)|null|
+|**2024-07-18**|**Robust Calibration of Large Vision-Language Adapters**|Balamurali Murugesan et.al.|[2407.13588](http://arxiv.org/abs/2407.13588)|**[link](https://github.com/Bala93/CLIPCalib)**|
 |**2024-07-18**|**SAM-Driven Weakly Supervised Nodule Segmentation with Uncertainty-Aware Cross Teaching**|Xingyue Zhao et.al.|[2407.13553](http://arxiv.org/abs/2407.13553)|null|
 |**2024-07-18**|**GPSFormer: A Global Perception and Local Structure Fitting-based Transformer for Point Cloud Understanding**|Changshuo Wang et.al.|[2407.13519](http://arxiv.org/abs/2407.13519)|**[link](https://github.com/changshuowang/GPSFormer)**|
 |**2024-07-19**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[2407.13517](http://arxiv.org/abs/2407.13517)|**[link](https://github.com/SehwanChoi0307/Mask2Map)**|
 |**2024-07-17**|**NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model**|Zhongqun Zhang et.al.|[2407.12727](http://arxiv.org/abs/2407.12727)|null|
 |**2024-07-17**|**Is Sarcasm Detection A Step-by-Step Reasoning Process in Large Language Models?**|Ben Yao et.al.|[2407.12725](http://arxiv.org/abs/2407.12725)|null|
-|**2024-07-17**|**Promptable Counterfactual Diffusion Model for Unified Brain Tumor Segmentation and Generation with MRIs**|Yiqing Shen et.al.|[2407.12678](http://arxiv.org/abs/2407.12678)|null|
-|**2024-07-17**|**FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification**|Yiqing Shen et.al.|[2407.12658](http://arxiv.org/abs/2407.12658)|null|
+|**2024-07-17**|**Promptable Counterfactual Diffusion Model for Unified Brain Tumor Segmentation and Generation with MRIs**|Yiqing Shen et.al.|[2407.12678](http://arxiv.org/abs/2407.12678)|**[link](https://github.com/arcadelab/counterfactual_diffusion)**|
+|**2024-07-17**|**FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification**|Yiqing Shen et.al.|[2407.12658](http://arxiv.org/abs/2407.12658)|**[link](https://github.com/arcadelab/fastsam3d_slicer)**|
 |**2024-07-17**|**Zero-shot Text-guided Infinite Image Synthesis with LLM guidance**|Soyeong Kwon et.al.|[2407.12642](http://arxiv.org/abs/2407.12642)|null|
-|**2024-07-17**|**Rethinking the Architecture Design for Efficient Generic Event Boundary Detection**|Ziwei Zheng et.al.|[2407.12622](http://arxiv.org/abs/2407.12622)|null|
+|**2024-07-17**|**Rethinking the Architecture Design for Efficient Generic Event Boundary Detection**|Ziwei Zheng et.al.|[2407.12622](http://arxiv.org/abs/2407.12622)|**[link](https://github.com/ziwei-zheng/efficientgebd)**|
 |**2024-07-17**|**Missing Modality Prediction for Unpaired Multimodal Learning via Joint Embedding of Unimodal Models**|Donggeun Kim et.al.|[2407.12616](http://arxiv.org/abs/2407.12616)|null|
-|**2024-07-17**|**AudienceView: AI-Assisted Interpretation of Audience Feedback in Journalism**|William Brannon et.al.|[2407.12613](http://arxiv.org/abs/2407.12613)|null|
-|**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|null|
+|**2024-07-17**|**AudienceView: AI-Assisted Interpretation of Audience Feedback in Journalism**|William Brannon et.al.|[2407.12613](http://arxiv.org/abs/2407.12613)|**[link](https://github.com/mit-ccc/AudienceView-demo)**|
+|**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|**[link](https://github.com/teto1992/declace)**|
 |**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
