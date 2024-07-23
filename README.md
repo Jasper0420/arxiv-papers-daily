@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.07.22</span>
+# Updated on <span style='color:orange;'>2024.07.23</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 <details open>
@@ -42,7 +42,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|null|
 |**2024-07-04**|**Out-of-Plane Polarization from Spin Reflection Induces Field-Free Spin-Orbit Torque Switching in Structures with Canted NiO Interfacial Moments**|Zhe Zhang et.al.|[2407.03676](http://arxiv.org/abs/2407.03676)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## HDR
 
@@ -63,7 +63,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Neuromorphic Imaging with Super-Resolution**|Pei Zhang et.al.|[2407.05764](http://arxiv.org/abs/2407.05764)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## Low-Level
 
@@ -72,11 +72,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-19**|**Adaptive Frequency Enhancement Network for Single Image Deraining**|Fei Yan et.al.|[2407.14292](http://arxiv.org/abs/2407.14292)|**[link](https://github.com/yanfefei/FENet)**|
 |**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198](http://arxiv.org/abs/2407.14198)|null|
 |**2024-07-19**|**TaGAT: Topology-Aware Graph Attention Network For Multi-modal Retinal Image Fusion**|Xin Tian et.al.|[2407.14188](http://arxiv.org/abs/2407.14188)|**[link](https://github.com/xintian-99/tagat)**|
-|**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|null|
+|**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|**[link](https://github.com/visual-haystacks/vhs_benchmark)**|
 |**2024-07-18**|**Any Image Restoration with Efficient Automatic Degradation Adaptation**|Bin Ren et.al.|[2407.13372](http://arxiv.org/abs/2407.13372)|**[link](https://github.com/Amazingren/AnyIR)**|
 |**2024-07-18**|**Training-Free Large Model Priors for Multiple-in-One Image Restoration**|Xuanhua He et.al.|[2407.13181](http://arxiv.org/abs/2407.13181)|null|
 |**2024-07-18**|**Unified-EGformer: Exposure Guided Lightweight Transformer for Mixed-Exposure Image Enhancement**|Eashan Adhikarla et.al.|[2407.13170](http://arxiv.org/abs/2407.13170)|null|
-|**2024-07-18**|**HPPP: Halpern-type Preconditioned Proximal Point Algorithms and Applications to Image Restoration**|Shuchang Zhang et.al.|[2407.13120](http://arxiv.org/abs/2407.13120)|null|
+|**2024-07-21**|**HPPP: Halpern-type Preconditioned Proximal Point Algorithms and Applications to Image Restoration**|Shuchang Zhang et.al.|[2407.13120](http://arxiv.org/abs/2407.13120)|null|
 |**2024-07-17**|**Fast Context-Based Low-Light Image Enhancement via Neural Implicit Representations**|Tomáš Chobola et.al.|[2407.12511](http://arxiv.org/abs/2407.12511)|**[link](https://github.com/ctom2/colie)**|
 |**2024-07-17**|**GLARE: Low Light Image Enhancement via Generative Latent Feature based Codebook Retrieval**|Han Zhou et.al.|[2407.12431](http://arxiv.org/abs/2407.12431)|**[link](https://github.com/lowlevelai/glare)**|
 |**2024-07-17**|**Towards Revisiting Visual Place Recognition for Joining Submaps in Multimap SLAM**|Markus Weißflog et.al.|[2407.12408](http://arxiv.org/abs/2407.12408)|null|
@@ -90,7 +90,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## Image Matching
 
@@ -107,7 +107,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|**[link](https://github.com/naver/mast3r)**|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## MutilModal
 
@@ -118,7 +118,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-19**|**Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding**|Renshan Zhang et.al.|[2407.14439](http://arxiv.org/abs/2407.14439)|**[link](https://github.com/JiuTian-VL/TokenCorrCompressor)**|
 |**2024-07-19**|**Not All Attention is Needed: Parameter and Computation Efficient Tuning for Multi-modal Large Language Models via Effective Attention Skipping**|Qiong Wu et.al.|[2407.14093](http://arxiv.org/abs/2407.14093)|null|
 |**2024-07-18**|**X-Former: Unifying Contrastive and Reconstruction Learning for MLLMs**|Sirnam Swetha et.al.|[2407.13851](http://arxiv.org/abs/2407.13851)|null|
-|**2024-07-18**|**EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
+|**2024-07-20**|**EarthMarker: Visual Prompt Learning for Region-level and Point-level Remote Sensing Imagery Comprehension**|Wei Zhang et.al.|[2407.13596](http://arxiv.org/abs/2407.13596)|null|
 |**2024-07-18**|**OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**|Jian Sun et.al.|[2407.13137](http://arxiv.org/abs/2407.13137)|null|
 |**2024-07-17**|**MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models**|Leyang Shen et.al.|[2407.12709](http://arxiv.org/abs/2407.12709)|**[link](https://github.com/jiutian-vl/mome)**|
 |**2024-07-17**|**E5-V: Universal Embeddings with Multimodal Large Language Models**|Ting Jiang et.al.|[2407.12580](http://arxiv.org/abs/2407.12580)|**[link](https://github.com/kongds/e5-v)**|
@@ -131,7 +131,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
 |**2024-07-17**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## Prompt
 
@@ -168,7 +168,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|**[link](https://github.com/teto1992/declace)**|
 |**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
