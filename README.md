@@ -72,6 +72,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**ALEN: A Dual-Approach for Uniform and Non-Uniform Low-Light Image Enhancement**|Ezequiel Perez-Zarate et.al.|[2407.19708](http://arxiv.org/abs/2407.19708)|**[link](https://github.com/xingyumex/alen)**|
+|**2024-07-27**|**Mamba-UIE: Enhancing Underwater Images with Physical Model Constraint**|Song Zhang et.al.|[2407.19248](http://arxiv.org/abs/2407.19248)|null|
+|**2024-07-27**|**Multi-Expert Adaptive Selection: Task-Balancing for All-in-One Image Restoration**|Xiaoyan Yu et.al.|[2407.19139](http://arxiv.org/abs/2407.19139)|null|
 |**2024-07-26**|**Dilated Strip Attention Network for Image Restoration**|Fangwei Hao et.al.|[2407.18613](http://arxiv.org/abs/2407.18613)|null|
 |**2024-07-25**|**RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models**|Haoyu Chen et.al.|[2407.18035](http://arxiv.org/abs/2407.18035)|null|
 |**2024-07-25**|**Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography**|Kailai Zhou et.al.|[2407.17996](http://arxiv.org/abs/2407.17996)|**[link](https://github.com/calayzhou/jdm-hdrnet)**|
@@ -109,6 +112,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
 |**2024-07-26**|**PIV3CAMS: a multi-camera dataset for multiple computer vision problems and its application to novel view-point synthesis**|Sohyeong Kim et.al.|[2407.18695](http://arxiv.org/abs/2407.18695)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736](http://arxiv.org/abs/2407.11736)|**[link](https://github.com/jarvisyjw/gv-bench)**|
@@ -128,6 +132,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning**|Xingchen Zeng et.al.|[2407.20174](http://arxiv.org/abs/2407.20174)|**[link](https://github.com/zengxingchen/chartqa-mllm)**|
+|**2024-07-29**|**Diffusion Feedback Helps CLIP See Better**|Wenxuan Wang et.al.|[2407.20171](http://arxiv.org/abs/2407.20171)|null|
+|**2024-07-29**|**ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2**|Wenjun Huang et.al.|[2407.19832](http://arxiv.org/abs/2407.19832)|null|
+|**2024-07-29**|**Multimodal Large Language Models for Bioimage Analysis**|Shanghang Zhang et.al.|[2407.19778](http://arxiv.org/abs/2407.19778)|null|
+|**2024-07-29**|**Revolutionizing Urban Safety Perception Assessments: Integrating Multimodal Large Language Models with Street View Images**|Jiaxin Zhanga et.al.|[2407.19719](http://arxiv.org/abs/2407.19719)|null|
+|**2024-07-29**|**Harnessing Large Vision and Language Models in Agriculture: A Review**|Hongyan Zhu et.al.|[2407.19679](http://arxiv.org/abs/2407.19679)|null|
+|**2024-07-29**|**ComNeck: Bridging Compressed Image Latents and Multimodal LLMs via Universal Transform-Neck**|Chia-Hao Kao et.al.|[2407.19651](http://arxiv.org/abs/2407.19651)|null|
+|**2024-07-28**|**ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding**|Zhen Chen et.al.|[2407.19435](http://arxiv.org/abs/2407.19435)|**[link](https://github.com/zonmgin-zhang/asi-seg)**|
+|**2024-07-28**|**LLAVADI: What Matters For Multimodal Large Language Models Distillation**|Shilin Xu et.al.|[2407.19409](http://arxiv.org/abs/2407.19409)|null|
+|**2024-07-27**|**Data Processing Techniques for Modern Multimodal Models**|Yinheng Li et.al.|[2407.19180](http://arxiv.org/abs/2407.19180)|null|
 |**2024-07-26**|**Unifying Visual and Semantic Feature Spaces with Diffusion Models for Enhanced Cross-Modal Alignment**|Yuze Zheng et.al.|[2407.18854](http://arxiv.org/abs/2407.18854)|null|
 |**2024-07-26**|**Every Part Matters: Integrity Verification of Scientific Figures Based on Multimodal Large Language Models**|Xiang Shi et.al.|[2407.18626](http://arxiv.org/abs/2407.18626)|null|
 |**2024-07-25**|**Automated Ensemble Multimodal Machine Learning for Healthcare**|Fergus Imrie et.al.|[2407.18227](http://arxiv.org/abs/2407.18227)|null|
@@ -172,6 +186,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**QAEA-DR: A Unified Text Augmentation Framework for Dense Retrieval**|Hongming Tan et.al.|[2407.20207](http://arxiv.org/abs/2407.20207)|null|
+|**2024-07-29**|**Deciphering the Instability of the Black Hole Ringdown Quasinormal Spectrum**|A. Ianniccari et.al.|[2407.20144](http://arxiv.org/abs/2407.20144)|null|
+|**2024-07-29**|**Context-Aware CSI Tracking and Path Loss Prediction Using Machine Learning and Dynamical Systems**|Anis Hamadouche et.al.|[2407.20123](http://arxiv.org/abs/2407.20123)|null|
+|**2024-07-29**|**Generative Diffusion Model Bootstraps Zero-shot Classification of Fetal Ultrasound Images In Underrepresented African Populations**|Fangyijie Wang et.al.|[2407.20072](http://arxiv.org/abs/2407.20072)|null|
+|**2024-07-29**|**Orca: Ocean Significant Wave Height Estimation with Spatio-temporally Aware Large Language Models**|Zhe Li et.al.|[2407.20053](http://arxiv.org/abs/2407.20053)|null|
+|**2024-07-29**|**Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"**|Daniel Gallo Fernández et.al.|[2407.19996](http://arxiv.org/abs/2407.19996)|null|
+|**2024-07-29**|**A Study on the Implementation Method of an Agent-Based Advanced RAG System Using Graph**|Cheonsu Jeong et.al.|[2407.19994](http://arxiv.org/abs/2407.19994)|null|
+|**2024-07-29**|**MambaGesture: Enhancing Co-Speech Gesture Generation with Mamba and Disentangled Multi-Modality Fusion**|Chencan Fu et.al.|[2407.19976](http://arxiv.org/abs/2407.19976)|null|
+|**2024-07-29**|**FedDEO: Description-Enhanced One-Shot Federated Learning with Diffusion Models**|Mingzhao Yang et.al.|[2407.19953](http://arxiv.org/abs/2407.19953)|null|
+|**2024-07-29**|**FreeLong: Training-Free Long Video Generation with SpectralBlend Temporal Attention**|Yu Lu et.al.|[2407.19918](http://arxiv.org/abs/2407.19918)|null|
 |**2024-07-26**|**Small Molecule Optimization with Large Language Models**|Philipp Guevorguian et.al.|[2407.18897](http://arxiv.org/abs/2407.18897)|**[link](https://github.com/yerevann/chemlactica)**|
 |**2024-07-26**|**The power of Prompts: Evaluating and Mitigating Gender Bias in MT with LLMs**|Aleix Sant et.al.|[2407.18786](http://arxiv.org/abs/2407.18786)|null|
 |**2024-07-26**|**TESSILATOR: a one-stop shop for measuring TESS rotation periods**|A. S. Binks et.al.|[2407.18761](http://arxiv.org/abs/2407.18761)|null|
