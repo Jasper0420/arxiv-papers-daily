@@ -74,6 +74,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Underwater Object Detection Enhancement via Channel Stabilization**|Muhammad Ali et.al.|[2408.01293](http://arxiv.org/abs/2408.01293)|null|
+|**2024-08-02**|**Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement**|Wenbin Zou et.al.|[2408.01276](http://arxiv.org/abs/2408.01276)|null|
+|**2024-08-02**|**Contribution-based Low-Rank Adaptation with Pre-training Model for Real Image Restoration**|Donwon Park et.al.|[2408.01099](http://arxiv.org/abs/2408.01099)|null|
+|**2024-08-02**|**FCDFusion: a Fast, Low Color Deviation Method for Fusing Visible and Infrared Image Pairs**|Hesong Li et.al.|[2408.01080](http://arxiv.org/abs/2408.01080)|null|
 |**2024-08-01**|**A Prior Embedding-Driven Architecture for Long Distance Blind Iris Recognition**|Qi Xiong et.al.|[2408.00210](http://arxiv.org/abs/2408.00210)|null|
 |**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
 |**2024-07-27**|**Inverse Problems with Diffusion Models: A MAP Estimation Perspective**|Sai bharath chandra Gutha et.al.|[2407.20784](http://arxiv.org/abs/2407.20784)|null|
@@ -137,6 +141,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**|Yilun Hua et.al.|[2408.01417](http://arxiv.org/abs/2408.01417)|null|
+|**2024-08-02**|**Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs**|Peng Ding et.al.|[2408.01355](http://arxiv.org/abs/2408.01355)|null|
+|**2024-08-02**|**A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks**|Jiaqi Wang et.al.|[2408.01319](http://arxiv.org/abs/2408.01319)|null|
+|**2024-08-02**|**Piculet: Specialized Models-Guided Hallucination Decrease for MultiModal Large Language Models**|Kohou Wang et.al.|[2408.01003](http://arxiv.org/abs/2408.01003)|null|
+|**2024-08-02**|**Multimodal Fusion via Hypergraph Autoencoder and Contrastive Learning for Emotion Recognition in Conversation**|Zijian Yi et.al.|[2408.00970](http://arxiv.org/abs/2408.00970)|null|
 |**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754](http://arxiv.org/abs/2408.00754)|null|
 |**2024-08-01**|**Are Bigger Encoders Always Better in Vision Large Models?**|Bozhou Li et.al.|[2408.00620](http://arxiv.org/abs/2408.00620)|null|
 |**2024-08-01**|**Multimodal Fusion and Coherence Modeling for Video Topic Segmentation**|Hai Yu et.al.|[2408.00365](http://arxiv.org/abs/2408.00365)|null|
@@ -202,6 +211,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423](http://arxiv.org/abs/2408.01423)|null|
+|**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
+|**2024-08-02**|**Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**|Yilun Hua et.al.|[2408.01417](http://arxiv.org/abs/2408.01417)|null|
+|**2024-08-02**|**Conditional LoRA Parameter Generation**|Xiaolong Jin et.al.|[2408.01415](http://arxiv.org/abs/2408.01415)|null|
+|**2024-08-02**|**Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer**|Yu Yang et.al.|[2408.01402](http://arxiv.org/abs/2408.01402)|null|
+|**2024-08-02**|**Transformers are Universal In-context Learners**|Takashi Furuya et.al.|[2408.01367](http://arxiv.org/abs/2408.01367)|null|
+|**2024-08-02**|**MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**|Kaiwen Ning et.al.|[2408.01354](http://arxiv.org/abs/2408.01354)|null|
+|**2024-08-02**|**Prompt Refinement or Fine-tuning? Best Practices for using LLMs in Computational Social Science Tasks**|Anders Giovanni Møller et.al.|[2408.01346](http://arxiv.org/abs/2408.01346)|null|
+|**2024-08-02**|**Synergistic pathways of modulation enable robust task packing within neural dynamics**|Giacomo Vedovati et.al.|[2408.01316](http://arxiv.org/abs/2408.01316)|null|
+|**2024-08-02**|**TexGen: Text-Guided 3D Texture Generation with Multi-view Sampling and Resampling**|Dong Huo et.al.|[2408.01291](http://arxiv.org/abs/2408.01291)|null|
 |**2024-08-01**|**Segment anything model 2: an application to 2D and 3D medical images**|Haoyu Dong et.al.|[2408.00756](http://arxiv.org/abs/2408.00756)|null|
 |**2024-08-01**|**Coarse Correspondence Elicit 3D Spacetime Understanding in Multimodal Language Model**|Benlin Liu et.al.|[2408.00754](http://arxiv.org/abs/2408.00754)|null|
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
