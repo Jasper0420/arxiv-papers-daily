@@ -143,7 +143,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-06**|**Infusing Environmental Captions for Long-Form Video Language Grounding**|Hyogun Lee et.al.|[2408.02336](http://arxiv.org/abs/2408.02336)|null|
 |**2024-08-05**|**REVISION: Rendering Tools Enable Spatial Fidelity in Vision-Language Models**|Agneet Chatterjee et.al.|[2408.02231](http://arxiv.org/abs/2408.02231)|null|
 |**2024-08-04**|**Mini-Monkey: Alleviate the Sawtooth Effect by Multi-Scale Adaptive Cropping**|Mingxin Huang et.al.|[2408.02034](http://arxiv.org/abs/2408.02034)|**[link](https://github.com/yuliang-liu/monkey)**|
-|**2024-08-03**|**MiniCPM-V: A GPT-4V Level MLLM on Your Phone**|Yuan Yao et.al.|[2408.01800](http://arxiv.org/abs/2408.01800)|null|
+|**2024-08-03**|**MiniCPM-V: A GPT-4V Level MLLM on Your Phone**|Yuan Yao et.al.|[2408.01800](http://arxiv.org/abs/2408.01800)|**[link](https://github.com/openbmb/minicpm-v)**|
 |**2024-08-03**|**MultiFuser: Multimodal Fusion Transformer for Enhanced Driver Action Recognition**|Ruoyu Wang et.al.|[2408.01766](http://arxiv.org/abs/2408.01766)|null|
 |**2024-08-02**|**Talk Less, Interact Better: Evaluating In-context Conversational Adaptation in Multimodal LLMs**|Yilun Hua et.al.|[2408.01417](http://arxiv.org/abs/2408.01417)|null|
 |**2024-08-05**|**Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs**|Peng Ding et.al.|[2408.01355](http://arxiv.org/abs/2408.01355)|**[link](https://github.com/njunlp/hallu-pi)**|
