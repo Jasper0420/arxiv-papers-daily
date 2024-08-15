@@ -126,6 +126,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
@@ -148,6 +149,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694](http://arxiv.org/abs/2408.07694)|null|
+|**2024-08-14**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
+|**2024-08-14**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
+|**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422](http://arxiv.org/abs/2408.07422)|null|
+|**2024-08-14**|**Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion**|Peiyuan Chen et.al.|[2408.07303](http://arxiv.org/abs/2408.07303)|null|
 |**2024-08-13**|**CROME: Cross-Modal Adapters for Efficient Multimodal LLM**|Sayna Ebrahimi et.al.|[2408.06610](http://arxiv.org/abs/2408.06610)|null|
 |**2024-08-13**|**Social Debiasing for Fair Multi-modal LLMs**|Harry Cheng et.al.|[2408.06569](http://arxiv.org/abs/2408.06569)|null|
 |**2024-08-12**|**Deep Multimodal Collaborative Learning for Polyp Re-Identification**|Suncheng Xiang et.al.|[2408.05914](http://arxiv.org/abs/2408.05914)|null|
@@ -243,6 +249,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Enhanced Detection of Conversational Mental Manipulation Through Advanced Prompting Techniques**|Ivory Yang et.al.|[2408.07676](http://arxiv.org/abs/2408.07676)|null|
+|**2024-08-14**|**See It All: Contextualized Late Aggregation for 3D Dense Captioning**|Minjung Kim et.al.|[2408.07648](http://arxiv.org/abs/2408.07648)|null|
+|**2024-08-14**|**Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach**|Shizhou Zhang et.al.|[2408.07500](http://arxiv.org/abs/2408.07500)|**[link](https://github.com/fhr-l/vsla-clip)**|
+|**2024-08-14**|**DeCo: Decoupled Human-Centered Diffusion Video Editing with Motion Consistency**|Xiaojing Zhong et.al.|[2408.07481](http://arxiv.org/abs/2408.07481)|null|
+|**2024-08-14**|**Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification**|Yongcheng Li et.al.|[2408.07467](http://arxiv.org/abs/2408.07467)|**[link](https://github.com/anok3111/dorl)**|
+|**2024-08-14**|**Large Language Models Prompting With Episodic Memory**|Dai Do et.al.|[2408.07465](http://arxiv.org/abs/2408.07465)|null|
+|**2024-08-14**|**BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning**|Asif Hanif et.al.|[2408.07440](http://arxiv.org/abs/2408.07440)|**[link](https://github.com/asif-hanif/baple)**|
+|**2024-08-14**|**Efficient Edge AI: Deploying Convolutional Neural Networks on FPGA with the Gemmini Accelerator**|Federico Nicolas Peccia et.al.|[2408.07404](http://arxiv.org/abs/2408.07404)|null|
+|**2024-08-14**|**A Quantum-Inspired Analysis of Human Disambiguation Processes**|Daphne Wang et.al.|[2408.07402](http://arxiv.org/abs/2408.07402)|null|
+|**2024-08-14**|**Segment Using Just One Example**|Pratik Vora et.al.|[2408.07393](http://arxiv.org/abs/2408.07393)|null|
 |**2024-08-13**|**Categorical Framework for Typed Extensional and Intensional Models in Formal Semantics**|Daniel Quigley et.al.|[2408.07058](http://arxiv.org/abs/2408.07058)|null|
 |**2024-08-13**|**TableGuard -- Securing Structured & Unstructured Data**|Anantha Sharma et.al.|[2408.07045](http://arxiv.org/abs/2408.07045)|null|
 |**2024-08-13**|**Imagen 3**|Imagen-Team-Google et.al.|[2408.07009](http://arxiv.org/abs/2408.07009)|null|
