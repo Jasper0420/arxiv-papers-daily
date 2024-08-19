@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.08.18</span>
+# Updated on <span style='color:orange;'>2024.08.19</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -257,8 +257,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-15**|**SLCA++: Unleash the Power of Sequential Fine-tuning for Continual Learning with Pre-training**|Gengwei Zhang et.al.|[2408.08295](http://arxiv.org/abs/2408.08295)|**[link](https://github.com/gengdavid/slca)**|
 |**2024-08-15**|**Heavy Labels Out! Dataset Distillation with Label Space Lightening**|Ruonan Yu et.al.|[2408.08201](http://arxiv.org/abs/2408.08201)|null|
 |**2024-08-15**|**"I Try to Represent Myself as I Am": Self-Presentation Preferences of People with Invisible Disabilities through Embodied Social VR Avatars**|Ria J. Gualano et.al.|[2408.08193](http://arxiv.org/abs/2408.08193)|null|
-|**2024-08-15**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|null|
-|**2024-08-15**|**FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance**|Jiasong Feng et.al.|[2408.08189](http://arxiv.org/abs/2408.08189)|null|
+|**2024-08-16**|**Beyond Full Label: Single-Point Prompt for Infrared Small Target Label Generation**|Shuai Yuan et.al.|[2408.08191](http://arxiv.org/abs/2408.08191)|null|
+|**2024-08-16**|**FancyVideo: Towards Dynamic and Consistent Video Generation via Cross-frame Textual Guidance**|Jiasong Feng et.al.|[2408.08189](http://arxiv.org/abs/2408.08189)|null|
 |**2024-08-15**|**Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion**|Adi Haviv et.al.|[2408.08184](http://arxiv.org/abs/2408.08184)|null|
 |**2024-08-15**|**EmBARDiment: an Embodied AI Agent for Productivity in XR**|Riccardo Bovo et.al.|[2408.08158](http://arxiv.org/abs/2408.08158)|null|
 |**2024-08-15**|**P/D-Serve: Serving Disaggregated Large Language Model at Scale**|Yibo Jin et.al.|[2408.08147](http://arxiv.org/abs/2408.08147)|null|
