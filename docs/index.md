@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.08.19</span>
+# Updated on <span style='color:orange;'>2024.08.20</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -166,7 +166,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-15**|**When Video Coding Meets Multimodal Large Language Models: A Unified Paradigm for Video Coding**|Pingping Zhang et.al.|[2408.08093](http://arxiv.org/abs/2408.08093)|null|
 |**2024-08-14**|**End-to-end Semantic-centric Video-based Multimodal Affective Computing**|Ronghao Lin et.al.|[2408.07694](http://arxiv.org/abs/2408.07694)|null|
 |**2024-08-15**|**Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities**|Enneng Yang et.al.|[2408.07666](http://arxiv.org/abs/2408.07666)|**[link](https://github.com/ennengyang/awesome-model-merging-methods-theories-applications)**|
-|**2024-08-15**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|null|
+|**2024-08-15**|**MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark**|Minxuan Zhou et.al.|[2408.07543](http://arxiv.org/abs/2408.07543)|**[link](https://github.com/PKU-Baichuan-MLSystemLab/MathScape)**|
 |**2024-08-14**|**LLMI3D: Empowering LLM with 3D Perception from a Single 2D Image**|Fan Yang et.al.|[2408.07422](http://arxiv.org/abs/2408.07422)|null|
 |**2024-08-14**|**Enhancing Visual Question Answering through Ranking-Based Hybrid Training and Multimodal Fusion**|Peiyuan Chen et.al.|[2408.07303](http://arxiv.org/abs/2408.07303)|null|
 |**2024-08-13**|**CROME: Cross-Modal Adapters for Efficient Multimodal LLM**|Sayna Ebrahimi et.al.|[2408.06610](http://arxiv.org/abs/2408.06610)|null|
@@ -264,7 +264,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-16**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
+|**2024-08-19**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
 |**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|null|
 |**2024-08-16**|**Revisiting the propagation of highly-energetic gamma rays in the Galaxy**|Gaetano Di Marco et.al.|[2408.08818](http://arxiv.org/abs/2408.08818)|null|
 |**2024-08-16**|**CIKMar: A Dual-Encoder Approach to Prompt-Based Reranking in Educational Dialogue Systems**|Joanito Agili Lopo et.al.|[2408.08805](http://arxiv.org/abs/2408.08805)|null|
