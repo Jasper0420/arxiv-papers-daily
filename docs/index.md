@@ -14,6 +14,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|null|
 |**2024-08-19**|**Reconfigurable Spin Logics and High-density Multistate Memory in a Single Spin-orbit Torque Device**|Raghvendra Posti et.al.|[2408.09866](http://arxiv.org/abs/2408.09866)|null|
 |**2024-08-16**|**Initialization-Free Multistate Memristor: Synergy of Spin-Orbit Torque and Magnetic Fields**|Raghvendra Posti et.al.|[2408.08641](http://arxiv.org/abs/2408.08641)|null|
 |**2024-08-15**|**MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking**|Simiao Lai et.al.|[2408.07889](http://arxiv.org/abs/2408.07889)|null|
@@ -46,6 +47,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488](http://arxiv.org/abs/2408.10488)|null|
+|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|null|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 |**2024-08-19**|**Phase-Separated Charge Order and Twinning Across Length Scales in CsV $_3$Sb$_5$**|Jayden Plumb et.al.|[2408.08842](http://arxiv.org/abs/2408.08842)|null|
 |**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[2408.08500](http://arxiv.org/abs/2408.08500)|null|
@@ -77,6 +80,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement**|Satoshi Kosugi et.al.|[2408.11055](http://arxiv.org/abs/2408.11055)|**[link](https://github.com/satoshi-kosugi/pg-ia-nilut)**|
+|**2024-08-20**|**SDI-Net: Toward Sufficient Dual-View Interaction for Low-light Stereo Image Enhancement**|Linlin Hu et.al.|[2408.10934](http://arxiv.org/abs/2408.10934)|null|
+|**2024-08-20**|**UIE-UnFold: Deep Unfolding Network with Color Priors and Vision Transformer for Underwater Image Enhancement**|Yingtie Lei et.al.|[2408.10653](http://arxiv.org/abs/2408.10653)|**[link](https://github.com/CXH-Research/UIE-UnFold)**|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-19**|**Multi-Scale Representation Learning for Image Restoration with State-Space Model**|Yuhong He et.al.|[2408.10145](http://arxiv.org/abs/2408.10145)|null|
 |**2024-08-19**|**Harnessing Multi-resolution and Multi-scale Attention for Underwater Image Restoration**|Alik Pramanick et.al.|[2408.09912](http://arxiv.org/abs/2408.09912)|**[link](https://github.com/alik033/lit-net)**|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
@@ -141,6 +148,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
@@ -164,6 +172,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|null|
+|**2024-08-19**|**CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**|Hidehisa Arai et.al.|[2408.10845](http://arxiv.org/abs/2408.10845)|null|
+|**2024-08-20**|**PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection**|Tri Cao et.al.|[2408.10738](http://arxiv.org/abs/2408.10738)|null|
+|**2024-08-20**|**SZTU-CMU at MER2024: Improving Emotion-LLaMA with Conv-Attention for Multimodal Emotion Recognition**|Zebang Cheng et.al.|[2408.10500](http://arxiv.org/abs/2408.10500)|**[link](https://github.com/zebangcheng/emotion-llama)**|
 |**2024-08-19**|**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant**|Zhengchao Huang et.al.|[2408.10072](http://arxiv.org/abs/2408.10072)|null|
 |**2024-08-19**|**Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting**|Yun-Da Tsai et.al.|[2408.09798](http://arxiv.org/abs/2408.09798)|null|
 |**2024-08-20**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
@@ -276,6 +288,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement**|Satoshi Kosugi et.al.|[2408.11055](http://arxiv.org/abs/2408.11055)|**[link](https://github.com/satoshi-kosugi/pg-ia-nilut)**|
+|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
+|**2024-08-20**|**Multiple Topology Replica Exchange of Expanded Ensembles (MT-REXEE) for Multidimensional Alchemical Calculations**|Anika J. Friedman et.al.|[2408.11038](http://arxiv.org/abs/2408.11038)|null|
+|**2024-08-20**|**An Overlooked Role of Context-Sensitive Dendrites**|Mohsin Raza et.al.|[2408.11019](http://arxiv.org/abs/2408.11019)|null|
+|**2024-08-20**|**Multichannel Attention Networks with Ensembled Transfer Learning to Recognize Bangla Handwritten Charecter**|Farhanul Haque et.al.|[2408.10955](http://arxiv.org/abs/2408.10955)|null|
+|**2024-08-20**|**The Evolution of Reinforcement Learning in Quantitative Finance**|Nikolaos Pippas et.al.|[2408.10932](http://arxiv.org/abs/2408.10932)|null|
+|**2024-08-20**|**CHECKWHY: Causal Fact Verification via Argument Structure**|Jiasheng Si et.al.|[2408.10918](http://arxiv.org/abs/2408.10918)|null|
+|**2024-08-20**|**BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**|Yeyong Yu et.al.|[2408.10903](http://arxiv.org/abs/2408.10903)|null|
+|**2024-08-20**|**DAAD: Dynamic Analysis and Adaptive Discriminator for Fake News Detection**|Xinqi Su et.al.|[2408.10883](http://arxiv.org/abs/2408.10883)|**[link](https://github.com/suxinqi/daad)**|
+|**2024-08-20**|**Manifold Transform by Recurrent Cortical Circuit Enhances Robust Encoding of Familiar Stimuli**|Weifan Wang et.al.|[2408.10873](http://arxiv.org/abs/2408.10873)|null|
 |**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174](http://arxiv.org/abs/2408.10174)|**[link](https://github.com/tanganke/fusion_bench)**|
 |**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
 |**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
