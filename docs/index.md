@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.08.22</span>
+# Updated on <span style='color:orange;'>2024.08.23</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -180,11 +180,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
 |**2024-08-21**|**EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning**|Bohao Xing et.al.|[2408.11424](http://arxiv.org/abs/2408.11424)|**[link](https://github.com/xxtars/emo-llama)**|
 |**2024-08-21**|**EAGLE: Elevating Geometric Reasoning through LLM-empowered Visual Instruction Tuning**|Zhihao Li et.al.|[2408.11397](http://arxiv.org/abs/2408.11397)|null|
-|**2024-08-21**|**Video Emotion Open-vocabulary Recognition Based on Multimodal Large Language Model**|Mengying Ge et.al.|[2408.11286](http://arxiv.org/abs/2408.11286)|null|
+|**2024-08-22**|**Video Emotion Open-vocabulary Recognition Based on Multimodal Large Language Model**|Mengying Ge et.al.|[2408.11286](http://arxiv.org/abs/2408.11286)|null|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
 |**2024-08-19**|**CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving**|Hidehisa Arai et.al.|[2408.10845](http://arxiv.org/abs/2408.10845)|null|
 |**2024-08-20**|**PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection**|Tri Cao et.al.|[2408.10738](http://arxiv.org/abs/2408.10738)|null|
-|**2024-08-20**|**SZTU-CMU at MER2024: Improving Emotion-LLaMA with Conv-Attention for Multimodal Emotion Recognition**|Zebang Cheng et.al.|[2408.10500](http://arxiv.org/abs/2408.10500)|**[link](https://github.com/zebangcheng/emotion-llama)**|
+|**2024-08-21**|**SZTU-CMU at MER2024: Improving Emotion-LLaMA with Conv-Attention for Multimodal Emotion Recognition**|Zebang Cheng et.al.|[2408.10500](http://arxiv.org/abs/2408.10500)|**[link](https://github.com/zebangcheng/emotion-llama)**|
 |**2024-08-19**|**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant**|Zhengchao Huang et.al.|[2408.10072](http://arxiv.org/abs/2408.10072)|null|
 |**2024-08-19**|**Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting**|Yun-Da Tsai et.al.|[2408.09798](http://arxiv.org/abs/2408.09798)|null|
 |**2024-08-20**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
@@ -304,7 +304,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-21**|**FocusLLM: Scaling LLM's Context by Parallel Decoding**|Zhenyu Li et.al.|[2408.11745](http://arxiv.org/abs/2408.11745)|null|
 |**2024-08-21**|**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet**|Yujia Gu et.al.|[2408.11744](http://arxiv.org/abs/2408.11744)|null|
 |**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|null|
-|**2024-08-21**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
+|**2024-08-22**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
 |**2024-08-21**|**Efficient Detection of Toxic Prompts in Large Language Models**|Yi Liu et.al.|[2408.11727](http://arxiv.org/abs/2408.11727)|null|
 |**2024-08-21**|**Leveraging Large Language Models for Enhancing the Understandability of Generated Unit Tests**|Amirhossein Deljouyi et.al.|[2408.11710](http://arxiv.org/abs/2408.11710)|null|
 |**2024-08-20**|**Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement**|Satoshi Kosugi et.al.|[2408.11055](http://arxiv.org/abs/2408.11055)|**[link](https://github.com/satoshi-kosugi/pg-ia-nilut)**|
