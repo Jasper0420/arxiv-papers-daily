@@ -15,7 +15,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-21**|**Low-Light Object Tracking: A Benchmark**|Pengzhi Zhong et.al.|[2408.11463](http://arxiv.org/abs/2408.11463)|null|
-|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|null|
+|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|**[link](https://github.com/event-ahu/mambaevt)**|
 |**2024-08-19**|**Reconfigurable Spin Logics and High-density Multistate Memory in a Single Spin-orbit Torque Device**|Raghvendra Posti et.al.|[2408.09866](http://arxiv.org/abs/2408.09866)|null|
 |**2024-08-16**|**Initialization-Free Multistate Memristor: Synergy of Spin-Orbit Torque and Magnetic Fields**|Raghvendra Posti et.al.|[2408.08641](http://arxiv.org/abs/2408.08641)|null|
 |**2024-08-15**|**MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking**|Simiao Lai et.al.|[2408.07889](http://arxiv.org/abs/2408.07889)|null|
@@ -48,8 +48,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488](http://arxiv.org/abs/2408.10488)|null|
-|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|null|
+|**2024-08-22**|**ISETHDR: A Physics-based Synthetic Radiance Dataset for High Dynamic Range Driving Scenes**|Zhenyi Liu et.al.|[2408.12048](http://arxiv.org/abs/2408.12048)|**[link](https://github.com/iset/isethdrsensor)**|
+|**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488](http://arxiv.org/abs/2408.10488)|**[link](https://github.com/event-ahu/openesl)**|
+|**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|**[link](https://github.com/event-ahu/mambaevt)**|
 |**2024-08-19**|**Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**|Xiao Wang et.al.|[2408.09764](http://arxiv.org/abs/2408.09764)|**[link](https://github.com/event-ahu/celex-har)**|
 |**2024-08-19**|**Phase-Separated Charge Order and Twinning Across Length Scales in CsV $_3$Sb$_5$**|Jayden Plumb et.al.|[2408.08842](http://arxiv.org/abs/2408.08842)|null|
 |**2024-08-16**|**CoSEC: A Coaxial Stereo Event Camera Dataset for Autonomous Driving**|Shihan Peng et.al.|[2408.08500](http://arxiv.org/abs/2408.08500)|null|
@@ -81,6 +82,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
+|**2024-08-22**|**Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement**|Lingyu Zhu et.al.|[2408.12316](http://arxiv.org/abs/2408.12316)|**[link](https://github.com/lingyzhu0101/udu)**|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
 |**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
 |**2024-08-21**|**Taming Generative Diffusion for Universal Blind Image Restoration**|Siwei Tu et.al.|[2408.11287](http://arxiv.org/abs/2408.11287)|null|
@@ -176,6 +180,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese**|Khang T. Doan et.al.|[2408.12480](http://arxiv.org/abs/2408.12480)|null|
+|**2024-08-22**|**MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model**|Chaoya Jiang et.al.|[2408.12321](http://arxiv.org/abs/2408.12321)|null|
+|**2024-08-21**|**CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion**|Yunlong Tang et.al.|[2408.12009](http://arxiv.org/abs/2408.12009)|null|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
 |**2024-08-21**|**EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning**|Bohao Xing et.al.|[2408.11424](http://arxiv.org/abs/2408.11424)|**[link](https://github.com/xxtars/emo-llama)**|
@@ -297,6 +304,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
+|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
+|**2024-08-22**|**Contextual Stochastic Optimization for School Desegregation Policymaking**|Hongzhao Guan et.al.|[2408.12572](http://arxiv.org/abs/2408.12572)|null|
+|**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
+|**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475](http://arxiv.org/abs/2408.12475)|null|
+|**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
+|**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/abs/2408.12429)|**[link](https://github.com/a-new-b/flex_edit)**|
+|**2024-08-22**|**Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce**|Ádám Tibor Czapp et.al.|[2408.12392](http://arxiv.org/abs/2408.12392)|null|
+|**2024-08-22**|**Orbits of Binary Stars: from Visual Measures to Speckle Interferometry**|Andrei Tokovinin et.al.|[2408.12376](http://arxiv.org/abs/2408.12376)|null|
+|**2024-08-22**|**RoundTable: Leveraging Dynamic Schema and Contextual Autocomplete for Enhanced Query Precision in Tabular Question Answering**|Pratyush Kumar et.al.|[2408.12369](http://arxiv.org/abs/2408.12369)|null|
 |**2024-08-21**|**NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation**|Zhenye Lou et.al.|[2408.11787](http://arxiv.org/abs/2408.11787)|**[link](https://github.com/xq141839/nusegdg)**|
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 |**2024-08-21**|**D-RMGPT: Robot-assisted collaborative tasks driven by large multimodal models**|M. Forlini et.al.|[2408.11761](http://arxiv.org/abs/2408.11761)|null|
