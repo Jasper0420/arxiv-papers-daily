@@ -59,6 +59,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-24**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627](http://arxiv.org/abs/2408.13627)|**[link](https://github.com/chakravarthi589/event-based-vision_resources)**|
+|**2024-08-24**|**Balancing Diversity and Risk in LLM Sampling: How to Select Your Method and Parameter for Open-Ended Text Generation**|Yuxuan Zhou et.al.|[2408.13586](http://arxiv.org/abs/2408.13586)|null|
 |**2024-08-22**|**ISETHDR: A Physics-based Synthetic Radiance Dataset for High Dynamic Range Driving Scenes**|Zhenyi Liu et.al.|[2408.12048](http://arxiv.org/abs/2408.12048)|**[link](https://github.com/iset/isethdrsensor)**|
 |**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488](http://arxiv.org/abs/2408.10488)|**[link](https://github.com/event-ahu/openesl)**|
 |**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|**[link](https://github.com/event-ahu/mambaevt)**|
@@ -95,6 +97,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980](http://arxiv.org/abs/2408.13980)|null|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
 |**2024-08-23**|**O-Mamba: O-shape State-Space Model for Underwater Image Enhancement**|Chenyu Dong et.al.|[2408.12816](http://arxiv.org/abs/2408.12816)|**[link](https://github.com/chenydong/o-mamba)**|
 |**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
 |**2024-08-22**|**Unrolled Decomposed Unpaired Learning for Controllable Low-Light Video Enhancement**|Lingyu Zhu et.al.|[2408.12316](http://arxiv.org/abs/2408.12316)|**[link](https://github.com/lingyzhu0101/udu)**|
@@ -172,6 +176,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
@@ -199,6 +205,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
+|**2024-08-26**|**Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos**|Jiajun Fei et.al.|[2408.14023](http://arxiv.org/abs/2408.14023)|**[link](https://github.com/qq-mm/video-ccam)**|
+|**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980](http://arxiv.org/abs/2408.13980)|null|
+|**2024-08-25**|**ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models**|Yeji Park et.al.|[2408.13906](http://arxiv.org/abs/2408.13906)|**[link](https://github.com/yejipark-m/convis)**|
 |**2024-08-23**|**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**|Yi-Fan Zhang et.al.|[2408.13257](http://arxiv.org/abs/2408.13257)|null|
 |**2024-08-23**|**ParGo: Bridging Vision-Language with Partial and Global Views**|An-Lan Wang et.al.|[2408.12928](http://arxiv.org/abs/2408.12928)|null|
 |**2024-08-23**|**IAA: Inner-Adaptor Architecture Empowers Frozen Large Language Model with Multimodal Capabilities**|Bin Wang et.al.|[2408.12902](http://arxiv.org/abs/2408.12902)|null|
@@ -330,6 +340,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
+|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
+|**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
+|**2024-08-26**|**Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications**|Luyue Xu et.al.|[2408.14432](http://arxiv.org/abs/2408.14432)|null|
+|**2024-08-26**|**Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14387](http://arxiv.org/abs/2408.14387)|null|
+|**2024-08-26**|**ConceptMix: A Compositional Image Generation Benchmark with Controllable Difficulty**|Xindi Wu et.al.|[2408.14339](http://arxiv.org/abs/2408.14339)|null|
+|**2024-08-26**|**Claim Verification in the Age of Large Language Models: A Survey**|Alphaeus Dmonte et.al.|[2408.14317](http://arxiv.org/abs/2408.14317)|null|
+|**2024-08-26**|**Text3DAug -- Prompted Instance Augmentation for LiDAR Perception**|Laurenz Reichardt et.al.|[2408.14253](http://arxiv.org/abs/2408.14253)|null|
+|**2024-08-26**|**SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher**|Trung Dao et.al.|[2408.14176](http://arxiv.org/abs/2408.14176)|null|
+|**2024-08-26**|**Contrastive Learning Subspace for Text Clustering**|Qian Yong et.al.|[2408.14119](http://arxiv.org/abs/2408.14119)|null|
 |**2024-08-23**|**Domain-specific long text classification from sparse relevant information**|Célia D'Cruz et.al.|[2408.13253](http://arxiv.org/abs/2408.13253)|null|
 |**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252](http://arxiv.org/abs/2408.13252)|null|
 |**2024-08-23**|**CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities**|Tao Wu et.al.|[2408.13239](http://arxiv.org/abs/2408.13239)|null|
