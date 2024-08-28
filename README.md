@@ -59,6 +59,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|
 |**2024-08-27**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627](http://arxiv.org/abs/2408.13627)|**[link](https://github.com/chakravarthi589/event-based-vision_resources)**|
 |**2024-08-24**|**Balancing Diversity and Risk in LLM Sampling: How to Select Your Method and Parameter for Open-Ended Text Generation**|Yuxuan Zhou et.al.|[2408.13586](http://arxiv.org/abs/2408.13586)|null|
 |**2024-08-22**|**ISETHDR: A Physics-based Synthetic Radiance Dataset for High Dynamic Range Driving Scenes**|Zhenyi Liu et.al.|[2408.12048](http://arxiv.org/abs/2408.12048)|**[link](https://github.com/iset/isethdrsensor)**|
@@ -97,6 +98,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**A Preliminary Exploration Towards General Image Restoration**|Xiangtao Kong et.al.|[2408.15143](http://arxiv.org/abs/2408.15143)|null|
+|**2024-08-27**|**Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild**|Tianqi Wei et.al.|[2408.14723](http://arxiv.org/abs/2408.14723)|null|
 |**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980](http://arxiv.org/abs/2408.13980)|null|
 |**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
 |**2024-08-23**|**O-Mamba: O-shape State-Space Model for Underwater Image Enhancement**|Chenyu Dong et.al.|[2408.12816](http://arxiv.org/abs/2408.12816)|**[link](https://github.com/chenydong/o-mamba)**|
@@ -205,6 +208,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**|Jian Hu et.al.|[2408.15205](http://arxiv.org/abs/2408.15205)|null|
+|**2024-08-27**|**GSIFN: A Graph-Structured and Interlaced-Masked Multimodal Transformer Based Fusion Network for Multimodal Sentiment Analysis**|Yijie Jin et.al.|[2408.14809](http://arxiv.org/abs/2408.14809)|null|
 |**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
 |**2024-08-26**|**Video-CCAM: Enhancing Video-Language Understanding with Causal Cross-Attention Masks for Short and Long Videos**|Jiajun Fei et.al.|[2408.14023](http://arxiv.org/abs/2408.14023)|**[link](https://github.com/qq-mm/video-ccam)**|
 |**2024-08-26**|**FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation**|Daixun Li et.al.|[2408.13980](http://arxiv.org/abs/2408.13980)|null|
@@ -340,6 +345,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images**|Zafer Yildiz et.al.|[2408.15224](http://arxiv.org/abs/2408.15224)|**[link](https://github.com/mazurowski-lab/slicersegmentwithsam)**|
+|**2024-08-27**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
+|**2024-08-27**|**Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation**|Jian Hu et.al.|[2408.15205](http://arxiv.org/abs/2408.15205)|null|
+|**2024-08-27**|**On the parameterized complexity of computing good edge-labelings**|Davi de Andrade et.al.|[2408.15181](http://arxiv.org/abs/2408.15181)|null|
+|**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178](http://arxiv.org/abs/2408.15178)|null|
+|**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
+|**2024-08-27**|**Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling**|Ahmed Mustafa et.al.|[2408.15119](http://arxiv.org/abs/2408.15119)|null|
+|**2024-08-27**|**CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP**|Zhenchen Tang et.al.|[2408.15098](http://arxiv.org/abs/2408.15098)|null|
+|**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076](http://arxiv.org/abs/2408.15076)|null|
+|**2024-08-27**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063](http://arxiv.org/abs/2408.15063)|null|
 |**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|**[link](https://github.com/Aradhye2002/selective-peft-toolkit)**|
 |**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
 |**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
