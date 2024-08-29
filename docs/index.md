@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.08.28</span>
+# Updated on <span style='color:orange;'>2024.08.29</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -51,7 +51,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|
 |**2024-08-27**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627](http://arxiv.org/abs/2408.13627)|**[link](https://github.com/chakravarthi589/event-based-vision_resources)**|
-|**2024-08-24**|**Balancing Diversity and Risk in LLM Sampling: How to Select Your Method and Parameter for Open-Ended Text Generation**|Yuxuan Zhou et.al.|[2408.13586](http://arxiv.org/abs/2408.13586)|null|
+|**2024-08-24**|**Balancing Diversity and Risk in LLM Sampling: How to Select Your Method and Parameter for Open-Ended Text Generation**|Yuxuan Zhou et.al.|[2408.13586](http://arxiv.org/abs/2408.13586)|**[link](https://github.com/ZhouYuxuanYX/Benchmarking-and-Guiding-Adaptive-Sampling-Decoding-for-LLMs)**|
 |**2024-08-22**|**ISETHDR: A Physics-based Synthetic Radiance Dataset for High Dynamic Range Driving Scenes**|Zhenyi Liu et.al.|[2408.12048](http://arxiv.org/abs/2408.12048)|**[link](https://github.com/iset/isethdrsensor)**|
 |**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488](http://arxiv.org/abs/2408.10488)|**[link](https://github.com/event-ahu/openesl)**|
 |**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|**[link](https://github.com/event-ahu/mambaevt)**|
@@ -333,10 +333,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-27**|**On the parameterized complexity of computing good edge-labelings**|Davi de Andrade et.al.|[2408.15181](http://arxiv.org/abs/2408.15181)|null|
 |**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178](http://arxiv.org/abs/2408.15178)|null|
 |**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
-|**2024-08-27**|**Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling**|Ahmed Mustafa et.al.|[2408.15119](http://arxiv.org/abs/2408.15119)|null|
+|**2024-08-28**|**Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling**|Ahmed Mustafa et.al.|[2408.15119](http://arxiv.org/abs/2408.15119)|null|
 |**2024-08-27**|**CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP**|Zhenchen Tang et.al.|[2408.15098](http://arxiv.org/abs/2408.15098)|null|
 |**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076](http://arxiv.org/abs/2408.15076)|null|
-|**2024-08-27**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063](http://arxiv.org/abs/2408.15063)|null|
+|**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063](http://arxiv.org/abs/2408.15063)|null|
 |**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|**[link](https://github.com/Aradhye2002/selective-peft-toolkit)**|
 |**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
 |**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|

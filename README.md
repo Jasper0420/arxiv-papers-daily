@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.08.28</span>
+# Updated on <span style='color:orange;'>2024.08.29</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 <details open>
@@ -53,7 +53,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|null|
 |**2024-07-04**|**Out-of-Plane Polarization from Spin Reflection Induces Field-Free Spin-Orbit Torque Switching in Structures with Canted NiO Interfacial Moments**|Zhe Zhang et.al.|[2407.03676](http://arxiv.org/abs/2407.03676)|null|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 ## HDR
 
@@ -61,7 +61,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |---|---|---|---|---|
 |**2024-08-27**|**Towards Real-world Event-guided Low-light Video Enhancement and Deblurring**|Taewoo Kim et.al.|[2408.14916](http://arxiv.org/abs/2408.14916)|**[link](https://github.com/intelpro/elednet)**|
 |**2024-08-27**|**Recent Event Camera Innovations: A Survey**|Bharatesh Chakravarthi et.al.|[2408.13627](http://arxiv.org/abs/2408.13627)|**[link](https://github.com/chakravarthi589/event-based-vision_resources)**|
-|**2024-08-24**|**Balancing Diversity and Risk in LLM Sampling: How to Select Your Method and Parameter for Open-Ended Text Generation**|Yuxuan Zhou et.al.|[2408.13586](http://arxiv.org/abs/2408.13586)|null|
+|**2024-08-24**|**Balancing Diversity and Risk in LLM Sampling: How to Select Your Method and Parameter for Open-Ended Text Generation**|Yuxuan Zhou et.al.|[2408.13586](http://arxiv.org/abs/2408.13586)|**[link](https://github.com/ZhouYuxuanYX/Benchmarking-and-Guiding-Adaptive-Sampling-Decoding-for-LLMs)**|
 |**2024-08-22**|**ISETHDR: A Physics-based Synthetic Radiance Dataset for High Dynamic Range Driving Scenes**|Zhenyi Liu et.al.|[2408.12048](http://arxiv.org/abs/2408.12048)|**[link](https://github.com/iset/isethdrsensor)**|
 |**2024-08-20**|**Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**|Xiao Wang et.al.|[2408.10488](http://arxiv.org/abs/2408.10488)|**[link](https://github.com/event-ahu/openesl)**|
 |**2024-08-20**|**MambaEVT: Event Stream based Visual Object Tracking using State Space Model**|Xiao Wang et.al.|[2408.10487](http://arxiv.org/abs/2408.10487)|**[link](https://github.com/event-ahu/mambaevt)**|
@@ -92,7 +92,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Neuromorphic Imaging with Super-Resolution**|Pei Zhang et.al.|[2407.05764](http://arxiv.org/abs/2407.05764)|null|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 ## Low-Level
 
@@ -173,7 +173,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 ## Image Matching
 
@@ -202,7 +202,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|**[link](https://github.com/naver/mast3r)**|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 ## MutilModal
 
@@ -339,7 +339,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
 |**2024-07-17**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 ## Prompt
 
@@ -351,10 +351,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-27**|**On the parameterized complexity of computing good edge-labelings**|Davi de Andrade et.al.|[2408.15181](http://arxiv.org/abs/2408.15181)|null|
 |**2024-08-27**|**A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships**|Gracile Astlin Pereira et.al.|[2408.15178](http://arxiv.org/abs/2408.15178)|null|
 |**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
-|**2024-08-27**|**Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling**|Ahmed Mustafa et.al.|[2408.15119](http://arxiv.org/abs/2408.15119)|null|
+|**2024-08-28**|**Urdu Digital Text Word Optical Character Recognition Using Permuted Auto Regressive Sequence Modeling**|Ahmed Mustafa et.al.|[2408.15119](http://arxiv.org/abs/2408.15119)|null|
 |**2024-08-27**|**CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP**|Zhenchen Tang et.al.|[2408.15098](http://arxiv.org/abs/2408.15098)|null|
 |**2024-08-27**|**MiWaves Reinforcement Learning Algorithm**|Susobhan Ghosh et.al.|[2408.15076](http://arxiv.org/abs/2408.15076)|null|
-|**2024-08-27**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063](http://arxiv.org/abs/2408.15063)|null|
+|**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063](http://arxiv.org/abs/2408.15063)|null|
 |**2024-08-27**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|**[link](https://github.com/Aradhye2002/selective-peft-toolkit)**|
 |**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
 |**2024-08-26**|**Social perception of faces in a vision-language model**|Carina I. Hausladen et.al.|[2408.14435](http://arxiv.org/abs/2408.14435)|**[link](https://github.com/carinahausladen/clip-face-bias)**|
@@ -646,7 +646,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|**[link](https://github.com/teto1992/declace)**|
 |**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|null|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
