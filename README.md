@@ -111,7 +111,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |---|---|---|---|---|
 |**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|null|
 |**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
-|**2024-09-09**|**Rethinking the Atmospheric Scattering-driven Attention via Channel and Gamma Correction Priors for Low-Light Image Enhancement**|Shyang-En Weng et.al.|[2409.05274](http://arxiv.org/abs/2409.05274)|null|
+|**2024-09-09**|**Rethinking the Atmospheric Scattering-driven Attention via Channel and Gamma Correction Priors for Low-Light Image Enhancement**|Shyang-En Weng et.al.|[2409.05274](http://arxiv.org/abs/2409.05274)|**[link](https://github.com/Shyandram/CPGA-Net_Plus)**|
 |**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
 |**2024-09-07**|**Power Line Aerial Image Restoration under dverse Weather: Datasets and Baselines**|Sai Yang et.al.|[2409.04812](http://arxiv.org/abs/2409.04812)|**[link](https://github.com/ntuhubin/plair-aw)**|
 |**2024-09-06**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
