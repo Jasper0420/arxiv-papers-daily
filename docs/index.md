@@ -14,6 +14,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Topological Spin-Orbit Torque in Ferrimagnetic Weyl Semimetal**|Tomonari Meguro et.al.|[2409.07106](http://arxiv.org/abs/2409.07106)|null|
 |**2024-09-09**|**Effects of Interfacial Oxygen Diffusion on the Magnetic Properties and Thermal Stability of Pd/CoFeB/Pd/Ta Heterostructure**|Saravanan Lakshmanan et.al.|[2409.05783](http://arxiv.org/abs/2409.05783)|null|
 |**2024-09-11**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
@@ -97,6 +98,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
+|**2024-09-11**|**Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement**|Xianmin Chen et.al.|[2409.07040](http://arxiv.org/abs/2409.07040)|null|
+|**2024-09-11**|**PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**|RuoCheng Wu et.al.|[2409.06980](http://arxiv.org/abs/2409.06980)|null|
+|**2024-09-10**|**Modeling Image Tone Dichotomy with the Power Function**|Axel Martinez et.al.|[2409.06764](http://arxiv.org/abs/2409.06764)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
 |**2024-09-10**|**Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models**|Siyu Zhai et.al.|[2409.06420](http://arxiv.org/abs/2409.06420)|null|
 |**2024-09-10**|**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions**|Zhicong Wu et.al.|[2409.06381](http://arxiv.org/abs/2409.06381)|null|
@@ -249,6 +254,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
+|**2024-09-11**|**Multimodal Emotion Recognition with Vision-language Prompting and Modality Dropout**|Anbin QI et.al.|[2409.07078](http://arxiv.org/abs/2409.07078)|null|
+|**2024-09-10**|**LIME-M: Less Is More for Evaluation of MLLMs**|Kang Zhu et.al.|[2409.06851](http://arxiv.org/abs/2409.06851)|**[link](https://github.com/kangreen0210/lime-m)**|
 |**2024-09-10**|**VoiceWukong: Benchmarking Deepfake Voice Detection**|Ziwei Yan et.al.|[2409.06348](http://arxiv.org/abs/2409.06348)|null|
 |**2024-09-10**|**MIP-GAF: A MLLM-annotated Benchmark for Most Important Person Localization and Group Context Understanding**|Surbhi Madan et.al.|[2409.06224](http://arxiv.org/abs/2409.06224)|null|
 |**2024-09-09**|**MLLM-FL: Multimodal Large Language Model Assisted Federated Learning on Heterogeneous and Long-tailed Data**|Jianyi Zhang et.al.|[2409.06067](http://arxiv.org/abs/2409.06067)|null|
@@ -416,6 +424,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation**|Gavin Butts et.al.|[2409.07424](http://arxiv.org/abs/2409.07424)|null|
+|**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
+|**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
+|**2024-09-11**|**Enhancing Sequential Music Recommendation with Negative Feedback-informed Contrastive Learning**|Pavan Seshadri et.al.|[2409.07367](http://arxiv.org/abs/2409.07367)|null|
+|**2024-09-11**|**PaveSAM Segment Anything for Pavement Distress**|Neema Jakisa Owor et.al.|[2409.07295](http://arxiv.org/abs/2409.07295)|null|
+|**2024-09-11**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253](http://arxiv.org/abs/2409.07253)|null|
+|**2024-09-11**|**Diff-VPS: Video Polyp Segmentation via a Multi-task Diffusion Network with Adversarial Temporal Reasoning**|Yingling Lu et.al.|[2409.07238](http://arxiv.org/abs/2409.07238)|**[link](https://github.com/lydia-yllu/diff-vps)**|
+|**2024-09-11**|**3DGCQA: A Quality Assessment Database for 3D AI-Generated Contents**|Yingjie Zhou et.al.|[2409.07236](http://arxiv.org/abs/2409.07236)|null|
+|**2024-09-11**|**Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets**|Ruochen Gao et.al.|[2409.07172](http://arxiv.org/abs/2409.07172)|null|
+|**2024-09-11**|**Leveraging Unstructured Text Data for Federated Instruction Tuning of Large Language Models**|Rui Ye et.al.|[2409.07136](http://arxiv.org/abs/2409.07136)|null|
 |**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
 |**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
 |**2024-09-10**|**One-Shot Imitation under Mismatched Execution**|Kushal Kedia et.al.|[2409.06615](http://arxiv.org/abs/2409.06615)|null|
