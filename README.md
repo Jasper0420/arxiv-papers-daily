@@ -113,7 +113,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-12**|**Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement**|Vamsi Krishna Vasa et.al.|[2409.07862](http://arxiv.org/abs/2409.07862)|null|
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797](http://arxiv.org/abs/2409.07797)|null|
 |**2024-09-11**|**FreeEnhance: Tuning-Free Image Enhancement via Content-Consistent Noising-and-Denoising Process**|Yang Luo et.al.|[2409.07451](http://arxiv.org/abs/2409.07451)|null|
-|**2024-09-11**|**Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement**|Xianmin Chen et.al.|[2409.07040](http://arxiv.org/abs/2409.07040)|null|
+|**2024-09-11**|**Retinex-RAWMamba: Bridging Demosaicing and Denoising for Low-Light RAW Image Enhancement**|Xianmin Chen et.al.|[2409.07040](http://arxiv.org/abs/2409.07040)|**[link](https://github.com/cynicarlos/retinexrawmamba)**|
 |**2024-09-11**|**PanAdapter: Two-Stage Fine-Tuning with Spatial-Spectral Priors Injecting for Pansharpening**|RuoCheng Wu et.al.|[2409.06980](http://arxiv.org/abs/2409.06980)|null|
 |**2024-09-10**|**Modeling Image Tone Dichotomy with the Power Function**|Axel Martinez et.al.|[2409.06764](http://arxiv.org/abs/2409.06764)|null|
 |**2024-09-10**|**Lightweight Multiscale Feature Fusion Super-Resolution Network Based on Two-branch Convolution and Transformer**|Li Ke et.al.|[2409.06590](http://arxiv.org/abs/2409.06590)|null|
