@@ -448,7 +448,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
 |**2024-09-12**|**OmniQuery: Contextually Augmenting Captured Multimodal Memory to Enable Personal Question Answering**|Jiahao Nick Li et.al.|[2409.08250](http://arxiv.org/abs/2409.08250)|null|
-|**2024-09-12**|**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder**|NaHyeon Park et.al.|[2409.08248](http://arxiv.org/abs/2409.08248)|**[link](https://github.com/nahyeonkatie/textboost)**|
+|**2024-09-12**|**TextBoost: Towards One-Shot Personalization of Text-to-Image Models via Fine-tuning Text Encoder**|NaHyeon Park et.al.|[2409.08248](http://arxiv.org/abs/2409.08248)|**[link](https://github.com/nahyeonkaty/textboost)**|
 |**2024-09-12**|**LLM Honeypot: Leveraging Large Language Models as Advanced Interactive Honeypot Systems**|Hakan T. Otal et.al.|[2409.08234](http://arxiv.org/abs/2409.08234)|**[link](https://github.com/ai-in-complex-systems-lab/llm-honeypot)**|
 |**2024-09-12**|**Exploring Use and Perceptions of Generative AI Art Tools by Blind Artists**|Gayatri Raman et.al.|[2409.08226](http://arxiv.org/abs/2409.08226)|null|
 |**2024-09-12**|**AudioBERT: Audio Knowledge Augmented Language Model**|Hyunjong Ok et.al.|[2409.08199](http://arxiv.org/abs/2409.08199)|**[link](https://github.com/hj-ok/audiobert)**|
