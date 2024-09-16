@@ -54,6 +54,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Integration of high-performance compact interferometric sensors in a suspended interferometer**|Alexandra Mitchell et.al.|[2409.08843](http://arxiv.org/abs/2409.08843)|null|
+|**2024-09-13**|**Adaptive Robust High-Precision Atomic Gravimetry**|Jinye Wei et.al.|[2409.08550](http://arxiv.org/abs/2409.08550)|null|
 |**2024-09-07**|**Neural Augmentation Based Panoramic High Dynamic Range Stitching**|Chaobing Zheng et.al.|[2409.04679](http://arxiv.org/abs/2409.04679)|null|
 |**2024-09-05**|**MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice**|Friedhelm Hamann et.al.|[2409.03358](http://arxiv.org/abs/2409.03358)|null|
 |**2024-09-03**|**Gradient events: improved acquisition of visual information in event cameras**|Eero Lehtonen et.al.|[2409.01764](http://arxiv.org/abs/2409.01764)|null|
@@ -256,6 +258,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation**|Hanning Chen et.al.|[2409.08464](http://arxiv.org/abs/2409.08464)|null|
 |**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
 |**2024-09-11**|**Multimodal Emotion Recognition with Vision-language Prompting and Modality Dropout**|Anbin QI et.al.|[2409.07078](http://arxiv.org/abs/2409.07078)|null|
 |**2024-09-10**|**LIME-M: Less Is More for Evaluation of MLLMs**|Kang Zhu et.al.|[2409.06851](http://arxiv.org/abs/2409.06851)|**[link](https://github.com/kangreen0210/lime-m)**|
@@ -426,6 +429,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
+|**2024-09-13**|**SynSUM -- Synthetic Benchmark with Structured and Unstructured Medical Records**|Paloma Rabaey et.al.|[2409.08936](http://arxiv.org/abs/2409.08936)|**[link](https://github.com/prabaey/synsum)**|
+|**2024-09-13**|**LLM-based Weak Supervision Framework for Query Intent Classification in Video Search**|Farnoosh Javadi et.al.|[2409.08931](http://arxiv.org/abs/2409.08931)|null|
+|**2024-09-13**|**Farmer.Chat: Scaling AI-Powered Agricultural Services for Smallholder Farmers**|Namita Singh et.al.|[2409.08916](http://arxiv.org/abs/2409.08916)|null|
+|**2024-09-13**|**Interactive Masked Image Modeling for Multimodal Object Detection in Remote Sensing**|Minh-Duc Vu et.al.|[2409.08885](http://arxiv.org/abs/2409.08885)|null|
+|**2024-09-13**|**Data Efficient Child-Adult Speaker Diarization with Simulated Conversations**|Anfeng Xu et.al.|[2409.08881](http://arxiv.org/abs/2409.08881)|**[link](https://github.com/usc-sail/child-adult-diarization)**|
+|**2024-09-13**|**InstantDrag: Improving Interactivity in Drag-based Image Editing**|Joonghyuk Shin et.al.|[2409.08857](http://arxiv.org/abs/2409.08857)|null|
+|**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820](http://arxiv.org/abs/2409.08820)|null|
+|**2024-09-13**|**Exploring SSL Discrete Speech Features for Zipformer-based Contextual ASR**|Mingyu Cui et.al.|[2409.08797](http://arxiv.org/abs/2409.08797)|**[link](https://github.com/open-creator/icefall)**|
+|**2024-09-13**|**LLaQo: Towards a Query-Based Coach in Expressive Music Performance Assessment**|Huan Zhang et.al.|[2409.08795](http://arxiv.org/abs/2409.08795)|null|
 |**2024-09-12**|**Click2Mask: Local Editing with Dynamic Mask Generation**|Omer Regev et.al.|[2409.08272](http://arxiv.org/abs/2409.08272)|null|
 |**2024-09-12**|**Improving Text-guided Object Inpainting with Semantic Pre-inpainting**|Yifu Chen et.al.|[2409.08260](http://arxiv.org/abs/2409.08260)|**[link](https://github.com/nnn-s/catdiffusion)**|
 |**2024-09-12**|**Dynamic Prompting of Frozen Text-to-Image Diffusion Models for Panoptic Narrative Grounding**|Hongyu Li et.al.|[2409.08251](http://arxiv.org/abs/2409.08251)|null|
