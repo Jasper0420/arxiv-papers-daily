@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.09.16</span>
+# Updated on <span style='color:orange;'>2024.09.17</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -267,7 +267,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-09**|**MLLM-FL: Multimodal Large Language Model Assisted Federated Learning on Heterogeneous and Long-tailed Data**|Jianyi Zhang et.al.|[2409.06067](http://arxiv.org/abs/2409.06067)|null|
 |**2024-09-09**|**Alt-MoE: Multimodal Alignment via Alternating Optimization of Multi-directional MoE with Unimodal Models**|Hongyang Lei et.al.|[2409.05929](http://arxiv.org/abs/2409.05929)|null|
 |**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865](http://arxiv.org/abs/2409.05865)|**[link](https://github.com/haritheja-e/robot-utility-models)**|
-|**2024-09-09**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840](http://arxiv.org/abs/2409.05840)|null|
+|**2024-09-15**|**MMEvol: Empowering Multimodal Large Language Models with Evol-Instruct**|Run Luo et.al.|[2409.05840](http://arxiv.org/abs/2409.05840)|null|
 |**2024-09-11**|**A Survey of Multimodal Composite Editing and Retrieval**|Suyan Li et.al.|[2409.05405](http://arxiv.org/abs/2409.05405)|**[link](https://github.com/fuxianghuang1/multimodal-composite-editing-and-retrieval)**|
 |**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
 |**2024-09-06**|**Influence of Early through Late Fusion on Pancreas Segmentation from Imperfectly Registered Multimodal MRI**|Lucas W. Remedios et.al.|[2409.04563](http://arxiv.org/abs/2409.04563)|**[link](https://github.com/masilab/influence_of_fusion_on_pancreas_segmentation)**|
