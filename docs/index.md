@@ -457,7 +457,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|Bowen Dong et.al.|[2409.11323](http://arxiv.org/abs/2409.11323)|null|
-|**2024-09-17**|**MSDNet: Multi-Scale Decoder for Few-Shot Semantic Segmentation via Transformer-Guided Prototyping**|Amirreza Fateh et.al.|[2409.11316](http://arxiv.org/abs/2409.11316)|null|
+|**2024-09-17**|**MSDNet: Multi-Scale Decoder for Few-Shot Semantic Segmentation via Transformer-Guided Prototyping**|Amirreza Fateh et.al.|[2409.11316](http://arxiv.org/abs/2409.11316)|**[link](https://github.com/amirrezafateh/msdnet)**|
 |**2024-09-17**|**Beyond LoRA: Exploring Efficient Fine-Tuning Techniques for Time Series Foundational Models**|Divij Gupta et.al.|[2409.11302](http://arxiv.org/abs/2409.11302)|null|
 |**2024-09-17**|**TISIS : Trajectory Indexing for SImilarity Search**|Sara Jarrad et.al.|[2409.11301](http://arxiv.org/abs/2409.11301)|null|
 |**2024-09-17**|**Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**|Xinyue Fang et.al.|[2409.11283](http://arxiv.org/abs/2409.11283)|null|
