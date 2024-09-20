@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.09.19</span>
+# Updated on <span style='color:orange;'>2024.09.20</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -469,7 +469,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-18**|**Self-similar solutions of oscillatory reconnection: parameter study of magnetic field strength and background temperature**|Luiz A. C. A. Schiavo et.al.|[2409.12130](http://arxiv.org/abs/2409.12130)|null|
 |**2024-09-18**|**Fully charmed tetraquark production at the LHC experiments**|Ilia Belov et.al.|[2409.12070](http://arxiv.org/abs/2409.12070)|null|
 |**2024-09-18**|**Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking**|Ningyuan Xi et.al.|[2409.12059](http://arxiv.org/abs/2409.12059)|null|
-|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
+|**2024-09-19**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
 |**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|Yu Du et.al.|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
 |**2024-09-18**|**Ramp reversal memory in bulk crystals of 1T-TaS2**|Avital Fried et.al.|[2409.11977](http://arxiv.org/abs/2409.11977)|null|
 |**2024-09-18**|**Sampling Latent Material-Property Information From LLM-Derived Embedding Representations**|Luke P. J. Gilligan et.al.|[2409.11971](http://arxiv.org/abs/2409.11971)|null|
