@@ -126,8 +126,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-16**|**Garment Attribute Manipulation with Multi-level Attention**|Vittorio Casula et.al.|[2409.10206](http://arxiv.org/abs/2409.10206)|null|
 |**2024-09-16**|**DAE-Fuse: An Adaptive Discriminative Autoencoder for Multi-Modality Image Fusion**|Yuchen Guo et.al.|[2409.10080](http://arxiv.org/abs/2409.10080)|null|
 |**2024-09-15**|**Underwater Image Enhancement via Dehazing and Color Restoration**|Chengqin Wu et.al.|[2409.09779](http://arxiv.org/abs/2409.09779)|null|
-|**2024-09-15**|**Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning**|He Wang et.al.|[2409.09670](http://arxiv.org/abs/2409.09670)|null|
-|**2024-09-14**|**Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval**|Amirreza Mahbod et.al.|[2409.09430](http://arxiv.org/abs/2409.09430)|null|
+|**2024-09-15**|**Unsupervised Hyperspectral and Multispectral Image Blind Fusion Based on Deep Tucker Decomposition Network with Spatial-Spectral Manifold Learning**|He Wang et.al.|[2409.09670](http://arxiv.org/abs/2409.09670)|**[link](https://github.com/shawn-h-wang/dtdnml)**|
+|**2024-09-14**|**Evaluating Pre-trained Convolutional Neural Networks and Foundation Models as Feature Extractors for Content-based Medical Image Retrieval**|Amirreza Mahbod et.al.|[2409.09430](http://arxiv.org/abs/2409.09430)|**[link](https://github.com/masih4/MedImageRetrieval)**|
 |**2024-09-14**|**Infrared and Visible Image Fusion with Hierarchical Human Perception**|Guang Yang et.al.|[2409.09291](http://arxiv.org/abs/2409.09291)|null|
 |**2024-09-12**|**Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement**|Vamsi Krishna Vasa et.al.|[2409.07862](http://arxiv.org/abs/2409.07862)|null|
 |**2024-09-12**|**Quaternion Nuclear Norm minus Frobenius Norm Minimization for color image reconstruction**|Yu Guo et.al.|[2409.07797](http://arxiv.org/abs/2409.07797)|null|
@@ -159,7 +159,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|**[link](https://github.com/szeighami/nudge)**|
 |**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|Jiaqi Xu et.al.|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
 |**2024-09-03**|**F2former: When Fractional Fourier Meets Deep Wiener Deconvolution and Selective Frequency Transformer for Image Deblurring**|Subhajit Paul et.al.|[2409.02056](http://arxiv.org/abs/2409.02056)|null|
-|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/abs/2409.02045)|null|
+|**2024-09-03**|**AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions**|Chenghao Qian et.al.|[2409.02045](http://arxiv.org/abs/2409.02045)|**[link](https://github.com/jumponthemoon/allweathernet)**|
 |**2024-09-03**|**Optimizing CLIP Models for Image Retrieval with Maintained Joint-Embedding Alignment**|Konstantin Schall et.al.|[2409.01936](http://arxiv.org/abs/2409.01936)|**[link](https://github.com/Visual-Computing/MCIP)**|
 |**2024-09-03**|**Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion**|Ke Cao et.al.|[2409.01728](http://arxiv.org/abs/2409.01728)|null|
 |**2024-09-03**|**Unveiling Advanced Frequency Disentanglement Paradigm for Low-Light Image Enhancement**|Kun Zhou et.al.|[2409.01641](http://arxiv.org/abs/2409.01641)|**[link](https://github.com/redrock303/adf-llie)**|
@@ -393,7 +393,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-10**|**How Does Audio Influence Visual Attention in Omnidirectional Videos? Database and Model**|Yuxin Zhu et.al.|[2408.05411](http://arxiv.org/abs/2408.05411)|null|
 |**2024-08-09**|**Revisiting Multi-Modal LLM Evaluation**|Jian Lu et.al.|[2408.05334](http://arxiv.org/abs/2408.05334)|null|
 |**2024-08-09**|**Audio-visual cross-modality knowledge transfer for machine learning-based in-situ monitoring in laser additive manufacturing**|Jiarui Xie et.al.|[2408.05307](http://arxiv.org/abs/2408.05307)|null|
-|**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211](http://arxiv.org/abs/2408.05211)|null|
+|**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211](http://arxiv.org/abs/2408.05211)|**[link](https://github.com/VITA-MLLM/VITA)**|
 |**2024-08-09**|**Instruction Tuning-free Visual Token Complement for Multimodal LLMs**|Dongsheng Wang et.al.|[2408.05019](http://arxiv.org/abs/2408.05019)|null|
 |**2024-08-13**|**mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models**|Jiabo Ye et.al.|[2408.04840](http://arxiv.org/abs/2408.04840)|**[link](https://github.com/x-plug/mplug-owl)**|
 |**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
@@ -498,7 +498,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-18**|**Zero-resource Hallucination Detection for Text Generation via Graph-based Contextual Knowledge Triples Modeling**|Xinyue Fang et.al.|[2409.11283](http://arxiv.org/abs/2409.11283)|null|
 |**2024-09-17**|**Machine Learning and Theory Ladenness -- A Phenomenological Account**|Alberto Termine et.al.|[2409.11277](http://arxiv.org/abs/2409.11277)|null|
 |**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
-|**2024-09-17**|**Norm of Mean Contextualized Embeddings Determines their Variance**|Hiroaki Yamagiwa et.al.|[2409.11253](http://arxiv.org/abs/2409.11253)|null|
+|**2024-09-17**|**Norm of Mean Contextualized Embeddings Determines their Variance**|Hiroaki Yamagiwa et.al.|[2409.11253](http://arxiv.org/abs/2409.11253)|**[link](https://github.com/ymgw55/Norm-and-Variance)**|
 |**2024-09-17**|**Measuring and Enhancing Trustworthiness of LLMs in RAG through Grounded Attributions and Learning to Refuse**|Maojia Song et.al.|[2409.11242](http://arxiv.org/abs/2409.11242)|**[link](https://github.com/declare-lab/trust-align)**|
 |**2024-09-17**|**Multimodal Attention-Enhanced Feature Fusion-based Weekly Supervised Anomaly Violence Detection**|Yuta Kaneko et.al.|[2409.11223](http://arxiv.org/abs/2409.11223)|null|
 |**2024-09-16**|**Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models**|Momoko Shiraishi et.al.|[2409.10506](http://arxiv.org/abs/2409.10506)|null|
@@ -545,7 +545,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-10**|**SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation**|Teng Hu et.al.|[2409.06633](http://arxiv.org/abs/2409.06633)|null|
 |**2024-09-10**|**One-Shot Imitation under Mismatched Execution**|Kushal Kedia et.al.|[2409.06615](http://arxiv.org/abs/2409.06615)|null|
 |**2024-09-10**|**Simulation-based Scenario Generation for Robust Hybrid AI for Autonomy**|Hambisa Keno et.al.|[2409.06608](http://arxiv.org/abs/2409.06608)|null|
-|**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|null|
+|**2024-09-10**|**Think-on-Process: Dynamic Process Generation for Collaborative Development of Multi-Agent System**|Leilei Lin et.al.|[2409.06568](http://arxiv.org/abs/2409.06568)|**[link](https://github.com/aizhouym/think-on-process)**|
 |**2024-09-10**|**ChatGPT's Potential in Cryptography Misuse Detection: A Comparative Analysis with Static Analysis Tools**|Ehsan Firouzi et.al.|[2409.06561](http://arxiv.org/abs/2409.06561)|null|
 |**2024-09-10**|**An Effective Context-Balanced Adaptation Approach for Long-Tailed Speech Recognition**|Yi-Cheng Wang et.al.|[2409.06468](http://arxiv.org/abs/2409.06468)|null|
 |**2024-09-10**|**Continual Domain Incremental Learning for Privacy-aware Digital Pathology**|Pratibha Kumari et.al.|[2409.06455](http://arxiv.org/abs/2409.06455)|null|
@@ -743,7 +743,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-12**|**Improving Structural Diversity of Blackbox LLMs via Chain-of-Specification Prompting**|Halley Young et.al.|[2408.06186](http://arxiv.org/abs/2408.06186)|null|
 |**2024-08-09**|**Multi-Garment Customized Model Generation**|Yichen Liu et.al.|[2408.05206](http://arxiv.org/abs/2408.05206)|null|
 |**2024-08-09**|**Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners**|Michael Vaccaro Jr et.al.|[2408.05204](http://arxiv.org/abs/2408.05204)|null|
-|**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|null|
+|**2024-08-09**|**TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning**|Yujie Feng et.al.|[2408.05200](http://arxiv.org/abs/2408.05200)|**[link](https://github.com/WoodScene/TaSL)**|
 |**2024-08-09**|**ECG-FM: An Open Electrocardiogram Foundation Model**|Kaden McKeen et.al.|[2408.05178](http://arxiv.org/abs/2408.05178)|**[link](https://github.com/bowang-lab/ecg-fm)**|
 |**2024-08-09**|**AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset**|Pritam Deka et.al.|[2408.05149](http://arxiv.org/abs/2408.05149)|null|
 |**2024-08-09**|**How Well Do LLMs Identify Cultural Unity in Diversity?**|Jialin Li et.al.|[2408.05102](http://arxiv.org/abs/2408.05102)|**[link](https://github.com/ljl0222/CUNIT)**|
