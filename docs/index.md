@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.09.25</span>
+# Updated on <span style='color:orange;'>2024.09.26</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**CloudTrack: Scalable UAV Tracking with Cloud Semantics**|Yannik Blei et.al.|[2409.16111](http://arxiv.org/abs/2409.16111)|null|
+|**2024-09-20**|**A survey of sulfur-bearing molecular lines toward the dense cores in eleven massive protoclusters**|Mengyao Tang et.al.|[2409.13231](http://arxiv.org/abs/2409.13231)|null|
+|**2024-09-19**|**Disentangling Speakers in Multi-Talker Speech Recognition with Speaker-Aware CTC**|Jiawen Kang et.al.|[2409.12388](http://arxiv.org/abs/2409.12388)|null|
 |**2024-09-11**|**Topological Spin-Orbit Torque in Ferrimagnetic Weyl Semimetal**|Tomonari Meguro et.al.|[2409.07106](http://arxiv.org/abs/2409.07106)|null|
 |**2024-09-09**|**Effects of Interfacial Oxygen Diffusion on the Magnetic Properties and Thermal Stability of Pd/CoFeB/Pd/Ta Heterostructure**|Saravanan Lakshmanan et.al.|[2409.05783](http://arxiv.org/abs/2409.05783)|null|
 |**2024-09-11**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
@@ -54,6 +57,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Neuromorphic Drone Detection: an Event-RGB Multimodal Approach**|Gabriele Magrini et.al.|[2409.16099](http://arxiv.org/abs/2409.16099)|null|
+|**2024-09-24**|**Deep chroma compression of tone-mapped images**|Xenios Milidonis et.al.|[2409.16032](http://arxiv.org/abs/2409.16032)|**[link](https://github.com/DeepCamera/HDR-chroma-compression)**|
+|**2024-09-23**|**Mixing Data-driven and Geometric Models for Satellite Docking Port State Estimation using an RGB or Event Camera**|Cedric Le Gentil et.al.|[2409.15581](http://arxiv.org/abs/2409.15581)|null|
+|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|null|
+|**2024-09-21**|**Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking**|Kai Tang et.al.|[2409.13971](http://arxiv.org/abs/2409.13971)|null|
+|**2024-09-20**|**Intrinsic Single-Image HDR Reconstruction**|Sebastian Dille et.al.|[2409.13803](http://arxiv.org/abs/2409.13803)|null|
+|**2024-09-20**|**Elite-EvGS: Learning Event-based 3D Gaussian Splatting by Distilling Event-to-Video Priors**|Zixin Zhang et.al.|[2409.13392](http://arxiv.org/abs/2409.13392)|null|
 |**2024-09-18**|**EventAug: Multifaceted Spatio-Temporal Data Augmentation Methods for Event-based Learning**|Yukun Tian et.al.|[2409.11813](http://arxiv.org/abs/2409.11813)|null|
 |**2024-09-18**|**Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network**|Jiale Wang et.al.|[2409.11677](http://arxiv.org/abs/2409.11677)|null|
 |**2024-09-16**|**Programmable multifunctional integrated microwave photonic circuit on thin-film lithium niobate**|Chuangchuang Wei et.al.|[2409.10227](http://arxiv.org/abs/2409.10227)|null|
@@ -104,6 +114,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Liger at W.M. Keck Observatory: imager structural analysis, fabrication, and characterization plan**|James Wiley et.al.|[2409.16263](http://arxiv.org/abs/2409.16263)|null|
+|**2024-09-23**|**PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions**|Weifeng Lin et.al.|[2409.15278](http://arxiv.org/abs/2409.15278)|null|
+|**2024-09-23**|**FusionRF: High-Fidelity Satellite Neural Radiance Fields from Multispectral and Panchromatic Acquisitions**|Michael Sprintson et.al.|[2409.15132](http://arxiv.org/abs/2409.15132)|null|
+|**2024-09-22**|**Low-Light Enhancement Effect on Classification and Detection: An Empirical Study**|Xu Wu et.al.|[2409.14461](http://arxiv.org/abs/2409.14461)|null|
+|**2024-09-22**|**Quantitative and Qualitative Evaluation of NLM and Wavelet Methods in Image Enhancement**|Cameron Khanpour et.al.|[2409.14334](http://arxiv.org/abs/2409.14334)|null|
+|**2024-09-20**|**Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval**|Morris Florek et.al.|[2409.13513](http://arxiv.org/abs/2409.13513)|**[link](https://github.com/morrisfl/unifex)**|
+|**2024-09-19**|**Deep Learning-Based Detection of Referable Diabetic Retinopathy and Macular Edema Using Ultra-Widefield Fundus Imaging**|Philippe Zhang et.al.|[2409.12854](http://arxiv.org/abs/2409.12854)|null|
+|**2024-09-19**|**Fundus image enhancement through direct diffusion bridges**|Sehui Kim et.al.|[2409.12377](http://arxiv.org/abs/2409.12377)|**[link](https://github.com/heeheee888/fd3)**|
 |**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078](http://arxiv.org/abs/2409.12078)|null|
 |**2024-09-18**|**DAF-Net: A Dual-Branch Feature Decomposition Fusion Network with Domain Adaptive for Infrared and Visible Image Fusion**|Jian Xu et.al.|[2409.11642](http://arxiv.org/abs/2409.11642)|**[link](https://github.com/xujian000/daf-net)**|
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
@@ -243,9 +261,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
-|**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
+|**2024-09-20**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|**[link](https://github.com/gdaosu/albedo_aerial_photogrammetry)**|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
 |**2024-09-15**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
@@ -275,6 +294,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection**|Jiaxin Ye et.al.|[2409.15936](http://arxiv.org/abs/2409.15936)|**[link](https://github.com/Jiaxin-Ye/DepMamba)**|
+|**2024-09-25**|**M^2PT: Multimodal Prompt Tuning for Zero-shot Instruction Learning**|Taowen Wang et.al.|[2409.15657](http://arxiv.org/abs/2409.15657)|**[link](https://github.com/william-wang618/mmpt-emnlp2024)**|
+|**2024-09-23**|**MediConfusion: Can you trust your AI radiologist? Probing the reliability of multimodal medical foundation models**|Mohammad Shahab Sepehri et.al.|[2409.15477](http://arxiv.org/abs/2409.15477)|**[link](https://github.com/mshahabsepehri/mediconfusion)**|
+|**2024-09-24**|**OmniBench: Towards The Future of Universal Omni-Language Models**|Yizhi Li et.al.|[2409.15272](http://arxiv.org/abs/2409.15272)|null|
+|**2024-09-23**|**Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation**|Manu Gaur et.al.|[2409.15125](http://arxiv.org/abs/2409.15125)|null|
+|**2024-09-23**|**Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond**|Hong Chen et.al.|[2409.14993](http://arxiv.org/abs/2409.14993)|null|
+|**2024-09-23**|**FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional Referring Expression Comprehension**|Junzhuo Liu et.al.|[2409.14750](http://arxiv.org/abs/2409.14750)|**[link](https://github.com/liujunzhuo/FineCops-Ref)**|
+|**2024-09-24**|**Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding**|Yan Shu et.al.|[2409.14485](http://arxiv.org/abs/2409.14485)|null|
+|**2024-09-21**|**Enhancing Advanced Visual Reasoning Ability of Large Language Models**|Zhiyuan Li et.al.|[2409.13980](http://arxiv.org/abs/2409.13980)|null|
+|**2024-09-20**|**MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension**|Ting Liu et.al.|[2409.13609](http://arxiv.org/abs/2409.13609)|null|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
 |**2024-09-18**|**Fusion in Context: A Multimodal Approach to Affective State Recognition**|Youssef Mohamed et.al.|[2409.11906](http://arxiv.org/abs/2409.11906)|null|
 |**2024-09-18**|**Bridging Design and Development with Automated Declarative UI Code Generation**|Ting Zhou et.al.|[2409.11667](http://arxiv.org/abs/2409.11667)|null|
@@ -463,6 +492,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-24**|**Semantic Refocused Tuning for Open-Vocabulary Panoptic Segmentation**|Yong Xien Chng et.al.|[2409.16278](http://arxiv.org/abs/2409.16278)|null|
+|**2024-09-24**|**Second Order Bounds for Contextual Bandits with Function Approximation**|Aldo Pacchiano et.al.|[2409.16197](http://arxiv.org/abs/2409.16197)|null|
+|**2024-09-24**|**Expert-level vision-language foundation model for real-world radiology and comprehensive evaluation**|Xiaohong Liu et.al.|[2409.16183](http://arxiv.org/abs/2409.16183)|null|
+|**2024-09-24**|**Merging LoRAs like Playing LEGO: Pushing the Modularity of LoRA to Extremes Through Rank-Wise Clustering**|Ziyu Zhao et.al.|[2409.16167](http://arxiv.org/abs/2409.16167)|null|
+|**2024-09-24**|**Controlling Risk of Retrieval-augmented Generation: A Counterfactual Prompting Framework**|Lu Chen et.al.|[2409.16146](http://arxiv.org/abs/2409.16146)|null|
+|**2024-09-24**|**HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection**|Yuqi Ma et.al.|[2409.16136](http://arxiv.org/abs/2409.16136)|null|
+|**2024-09-24**|**Evaluation of state-of-the-art ASR Models in Child-Adult Interactions**|Aditya Ashvin et.al.|[2409.16135](http://arxiv.org/abs/2409.16135)|null|
+|**2024-09-24**|**MOSS: Enabling Code-Driven Evolution and Context Management for AI Agents**|Ming Zhu et.al.|[2409.16120](http://arxiv.org/abs/2409.16120)|**[link](https://github.com/ghost-in-moss/ghostos)**|
+|**2024-09-24**|**Exploring Hint Generation Approaches in Open-Domain Question Answering**|Jamshid Mozafari et.al.|[2409.16096](http://arxiv.org/abs/2409.16096)|**[link](https://github.com/datascienceuibk/hintqa)**|
+|**2024-09-24**|**MHRC: Closed-loop Decentralized Multi-Heterogeneous Robot Collaboration with Large Language Models**|Wenhao Yu et.al.|[2409.16030](http://arxiv.org/abs/2409.16030)|null|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
 |**2024-09-18**|**Investigating the effects of precise mass measurements of Ru and Pd isotopes on machine learning mass modeling**|W. S. Porter et.al.|[2409.12141](http://arxiv.org/abs/2409.12141)|null|
 |**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
