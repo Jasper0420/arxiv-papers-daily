@@ -22,6 +22,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**A 5T-2MTJ STT-assisted Spin Orbit Torque based Ternary Content Addressable Memory for Hardware Accelerators**|Siri Narla et.al.|[2409.17863](http://arxiv.org/abs/2409.17863)|null|
+|**2024-09-26**|**General Compression Framework for Efficient Transformer Object Tracking**|Lingyi Hong et.al.|[2409.17564](http://arxiv.org/abs/2409.17564)|null|
+|**2024-09-26**|**Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking**|Pengcheng Shao et.al.|[2409.17560](http://arxiv.org/abs/2409.17560)|null|
 |**2024-09-25**|**Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2**|Chunhui Zhang et.al.|[2409.16902](http://arxiv.org/abs/2409.16902)|**[link](https://github.com/983632847/awesome-multimodal-object-tracking)**|
 |**2024-09-25**|**Conditional Generative Denoiser for Nighttime UAV Tracking**|Yucheng Wang et.al.|[2409.16834](http://arxiv.org/abs/2409.16834)|null|
 |**2024-09-25**|**Progressive Representation Learning for Real-Time UAV Tracking**|Changhong Fu et.al.|[2409.16652](http://arxiv.org/abs/2409.16652)|**[link](https://github.com/vision4robotics/prl-track)**|
@@ -72,6 +75,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
+|**2024-09-26**|**Unsupervised Learning Based Multi-Scale Exposure Fusion**|Chaobing Zheng et.al.|[2409.17830](http://arxiv.org/abs/2409.17830)|null|
+|**2024-09-26**|**Event-based Stereo Depth Estimation: A Survey**|Suman Ghosh et.al.|[2409.17680](http://arxiv.org/abs/2409.17680)|null|
+|**2024-09-26**|**Dynamic Subframe Splitting and Spatio-Temporal Motion Entangled Sparse Attention for RGB-E Tracking**|Pengcheng Shao et.al.|[2409.17560](http://arxiv.org/abs/2409.17560)|null|
 |**2024-09-25**|**EventHDR: from Event to High-Speed HDR Videos and Beyond**|Yunhao Zou et.al.|[2409.17029](http://arxiv.org/abs/2409.17029)|null|
 |**2024-09-25**|**Exploring Information-Theoretic Metrics Associated with Neural Collapse in Supervised Training**|Kun Song et.al.|[2409.16767](http://arxiv.org/abs/2409.16767)|null|
 |**2024-09-24**|**Sub-Nyquist USF Spectral Estimation: $K$ Frequencies with $6K + 4$ Modulo Samples**|Ruiming Guo et.al.|[2409.16472](http://arxiv.org/abs/2409.16472)|null|
@@ -134,6 +141,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs**|Qinpeng Cui et.al.|[2409.17778](http://arxiv.org/abs/2409.17778)|**[link](https://github.com/qinpengcui/dossr)**|
 |**2024-09-25**|**Morphological-consistent Diffusion Network for Ultrasound Coronal Image Enhancement**|Yihao Zhou et.al.|[2409.16661](http://arxiv.org/abs/2409.16661)|null|
 |**2024-09-25**|**Semi-LLIE: Semi-supervised Contrastive Learning with Mamba-based Low-light Image Enhancement**|Guanlin Li et.al.|[2409.16604](http://arxiv.org/abs/2409.16604)|null|
 |**2024-09-24**|**Proactive Schemes: A Survey of Adversarial Attacks for Social Good**|Vishal Asnani et.al.|[2409.16491](http://arxiv.org/abs/2409.16491)|null|
@@ -286,7 +294,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|null|
+|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 |**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
@@ -322,6 +330,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**EAGLE: Egocentric AGgregated Language-video Engine**|Jing Bi et.al.|[2409.17523](http://arxiv.org/abs/2409.17523)|null|
+|**2024-09-26**|**Uni-Med: A Unified Medical Generalist Foundation Model For Multi-Task Learning Via Connector-MoE**|Xun Zhu et.al.|[2409.17508](http://arxiv.org/abs/2409.17508)|null|
 |**2024-09-25**|**Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents**|Junting Lu et.al.|[2409.17140](http://arxiv.org/abs/2409.17140)|null|
 |**2024-09-25**|**Pruning Multilingual Large Language Models for Multilingual Inference**|Hwichan Kim et.al.|[2409.16911](http://arxiv.org/abs/2409.16911)|null|
 |**2024-09-25**|**MaViLS, a Benchmark Dataset for Video-to-Slide Alignment, Assessing Baseline Accuracy with a Multimodal Alignment Algorithm Leveraging Speech, OCR, and Visual Features**|Katharina Anderer et.al.|[2409.16765](http://arxiv.org/abs/2409.16765)|**[link](https://github.com/andererka/mavils)**|
@@ -527,6 +537,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127](http://arxiv.org/abs/2409.18127)|null|
+|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084](http://arxiv.org/abs/2409.18084)|null|
+|**2024-09-26**|**Infer Human's Intentions Before Following Natural Language Instructions**|Yanming Wan et.al.|[2409.18073](http://arxiv.org/abs/2409.18073)|null|
+|**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|Sabrina Haque et.al.|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
+|**2024-09-26**|**MARS: Multi-radio Architecture with Radio Selection using Decision Trees for emerging mesoscale CPS/IoT applications**|Jothi Prasanna Shanmuga Sundaram et.al.|[2409.18043](http://arxiv.org/abs/2409.18043)|null|
+|**2024-09-26**|**DARE: Diverse Visual Question Answering with Robustness Evaluation**|Hannah Sterz et.al.|[2409.18023](http://arxiv.org/abs/2409.18023)|null|
+|**2024-09-26**|**Control Industrial Automation System with Large Language Models**|Yuchen Xia et.al.|[2409.18009](http://arxiv.org/abs/2409.18009)|**[link](https://github.com/yuchenxia/llm4ias)**|
+|**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
+|**2024-09-26**|**Extracting Affect Aggregates from Longitudinal Social Media Data with Temporal Adapters for Large Language Models**|Georg Ahnert et.al.|[2409.17990](http://arxiv.org/abs/2409.17990)|**[link](https://github.com/dess-mannheim/temporal-adapters)**|
+|**2024-09-26**|**GRB 240529A: A Tale of Two Shocks**|Tian-Rui Sun et.al.|[2409.17983](http://arxiv.org/abs/2409.17983)|null|
 |**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143](http://arxiv.org/abs/2409.17143)|**[link](https://github.com/yu-rp/apiprompting)**|
 |**2024-09-25**|**Blox-Net: Generative Design-for-Robot-Assembly Using VLM Supervision, Physics Simulation, and a Robot with Reset**|Andrew Goldberg et.al.|[2409.17126](http://arxiv.org/abs/2409.17126)|null|
 |**2024-09-26**|**Characterizing stable regions in the residual stream of LLMs**|Jett Janiak et.al.|[2409.17113](http://arxiv.org/abs/2409.17113)|null|
