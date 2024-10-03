@@ -22,6 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**Energy-efficient picosecond spin-orbit torque magnetization switching in ferro- and ferrimagnetic films**|Eva Díaz et.al.|[2410.00474](http://arxiv.org/abs/2410.00474)|null|
 |**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|**[link](https://github.com/chenshihfang/GOT)**|
 |**2024-09-27**|**Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking**|Changhong Fu et.al.|[2409.18533](http://arxiv.org/abs/2409.18533)|**[link](https://github.com/vision4robotics/tda-track)**|
 |**2024-09-26**|**A 5T-2MTJ STT-assisted Spin Orbit Torque based Ternary Content Addressable Memory for Hardware Accelerators**|Siri Narla et.al.|[2409.17863](http://arxiv.org/abs/2409.17863)|null|
@@ -77,6 +78,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**Signatures of Black Hole Spin and Plasma Acceleration in Jet Polarimetry**|Zachary Gelles et.al.|[2410.00954](http://arxiv.org/abs/2410.00954)|null|
+|**2024-10-01**|**VideoCLIP-XL: Advancing Long Description Understanding for Video CLIP Models**|Jiapeng Wang et.al.|[2410.00741](http://arxiv.org/abs/2410.00741)|null|
 |**2024-09-26**|**Photon Inhibition for Energy-Efficient Single-Photon Imaging**|Lucas J. Koerner et.al.|[2409.18337](http://arxiv.org/abs/2409.18337)|null|
 |**2024-09-26**|**Deblur e-NeRF: NeRF from Motion-Blurred Events under High-speed or Low-light Conditions**|Weng Fei Low et.al.|[2409.17988](http://arxiv.org/abs/2409.17988)|null|
 |**2024-09-26**|**Unsupervised Learning Based Multi-Scale Exposure Fusion**|Chaobing Zheng et.al.|[2409.17830](http://arxiv.org/abs/2409.17830)|null|
@@ -144,6 +147,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|null|
+|**2024-10-02**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|null|
+|**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099](http://arxiv.org/abs/2410.01099)|null|
+|**2024-10-01**|**GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**|Youngho Yoon et.al.|[2410.00672](http://arxiv.org/abs/2410.00672)|**[link](https://github.com/yh-yoon/gmt)**|
+|**2024-10-01**|**Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration**|Guy Ohayon et.al.|[2410.00418](http://arxiv.org/abs/2410.00418)|**[link](https://github.com/ohayonguy/PMRF)**|
+|**2024-10-01**|**GLMHA A Guided Low-rank Multi-Head Self-Attention for Efficient Image Restoration and Spectral Reconstruction**|Zaid Ilyas et.al.|[2410.00380](http://arxiv.org/abs/2410.00380)|null|
+|**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
+|**2024-09-30**|**A Survey on Diffusion Models for Inverse Problems**|Giannis Daras et.al.|[2410.00083](http://arxiv.org/abs/2410.00083)|null|
 |**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong et.al.|[2409.19685](http://arxiv.org/abs/2409.19685)|**[link](https://github.com/xiaofeng-life/colorcode)**|
 |**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|null|
@@ -347,6 +358,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
+|**2024-10-02**|**Visual Perception in Text Strings**|Qi Jia et.al.|[2410.01733](http://arxiv.org/abs/2410.01733)|null|
+|**2024-10-02**|**The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs**|Hong Li et.al.|[2410.01417](http://arxiv.org/abs/2410.01417)|null|
+|**2024-10-02**|**SHAP-CAT: A interpretable multi-modal framework enhancing WSI classification via virtual staining and shapley-value-based multimodal fusion**|Jun Wang et.al.|[2410.01408](http://arxiv.org/abs/2410.01408)|null|
+|**2024-10-01**|**FMBench: Benchmarking Fairness in Multimodal Large Language Models on Medical Tasks**|Peiran Wu et.al.|[2410.01089](http://arxiv.org/abs/2410.01089)|null|
+|**2024-10-01**|**Deep Multimodal Fusion for Semantic Segmentation of Remote Sensing Earth Observation Data**|Ivica Dimitrovski et.al.|[2410.00469](http://arxiv.org/abs/2410.00469)|null|
+|**2024-10-01**|**Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations**|Miyu Goko et.al.|[2410.00436](http://arxiv.org/abs/2410.00436)|null|
+|**2024-10-01**|**MERIT: Multimodal Wearable Vital Sign Waveform Monitoring**|Yongyang Tang et.al.|[2410.00392](http://arxiv.org/abs/2410.00392)|null|
+|**2024-09-30**|**Multimodal Alignment of Histopathological Images Using Cell Segmentation and Point Set Matching for Integrative Cancer Analysis**|Jun Jiang et.al.|[2410.00152](http://arxiv.org/abs/2410.00152)|null|
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
 |**2024-09-30**|**UniAff: A Unified Representation of Affordances for Tool Usage and Articulation with Vision-Language Models**|Qiaojun Yu et.al.|[2409.20551](http://arxiv.org/abs/2409.20551)|null|
 |**2024-09-30**|**Melody Is All You Need For Music Generation**|Shaopeng Wei et.al.|[2409.20196](http://arxiv.org/abs/2409.20196)|**[link](https://github.com/shaopengw/Awesome-Music-Generation)**|
@@ -571,6 +591,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**DreamGarden: A Designer Assistant for Growing Games from a Single Prompt**|Sam Earle et.al.|[2410.01791](http://arxiv.org/abs/2410.01791)|null|
+|**2024-10-02**|**Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models**|Shayekh Bin Islam et.al.|[2410.01782](http://arxiv.org/abs/2410.01782)|null|
+|**2024-10-02**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739](http://arxiv.org/abs/2410.01739)|null|
+|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
+|**2024-10-02**|**ComfyGen: Prompt-Adaptive Workflows for Text-to-Image Generation**|Rinon Gal et.al.|[2410.01731](http://arxiv.org/abs/2410.01731)|null|
+|**2024-10-02**|**Auto-Demo Prompting: Leveraging Generated Outputs as Demonstrations for Enhanced Batch Prompting**|Longyu Feng et.al.|[2410.01724](http://arxiv.org/abs/2410.01724)|null|
+|**2024-10-02**|**Examining the Role of Relationship Alignment in Large Language Models**|Kristen M. Altenburger et.al.|[2410.01708](http://arxiv.org/abs/2410.01708)|null|
+|**2024-10-02**|**FactAlign: Long-form Factuality Alignment of Large Language Models**|Chao-Wei Huang et.al.|[2410.01691](http://arxiv.org/abs/2410.01691)|**[link](https://github.com/miulab/factalign)**|
+|**2024-10-02**|**Bridging Context Gaps: Leveraging Coreference Resolution for Long Contextual Understanding**|Yanming Liu et.al.|[2410.01671](http://arxiv.org/abs/2410.01671)|null|
+|**2024-10-02**|**Extending Contextual Self-Modulation: Meta-Learning Across Modalities, Task Dimensionalities, and Data Regimes**|Roussel Desmond Nzoyem et.al.|[2410.01655](http://arxiv.org/abs/2410.01655)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
 |**2024-09-30**|**Uni $^2$ Det: Unified and Universal Framework for Prompt-Guided Multi-dataset 3D Detection**|Yubin Wang et.al.|[2409.20558](http://arxiv.org/abs/2409.20558)|null|
 |**2024-09-30**|**LLM Hallucinations in Practical Code Generation: Phenomena, Mechanism, and Mitigation**|Ziyao Zhang et.al.|[2409.20550](http://arxiv.org/abs/2409.20550)|null|
