@@ -14,7 +14,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-03**|**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2410.02492](http://arxiv.org/abs/2410.02492)|null|
+|**2024-10-09**|**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2410.02492](http://arxiv.org/abs/2410.02492)|null|
 |**2024-10-01**|**Energy-efficient picosecond spin-orbit torque magnetization switching in ferro- and ferrimagnetic films**|Eva Díaz et.al.|[2410.00474](http://arxiv.org/abs/2410.00474)|null|
 |**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|**[link](https://github.com/chenshihfang/GOT)**|
 |**2024-09-27**|**Prompt-Driven Temporal Domain Adaptation for Nighttime UAV Tracking**|Changhong Fu et.al.|[2409.18533](http://arxiv.org/abs/2409.18533)|**[link](https://github.com/vision4robotics/tda-track)**|
@@ -69,6 +69,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Fourier-based Action Recognition for Wildlife Behavior Quantification with Event Cameras**|Friedhelm Hamann et.al.|[2410.06698](http://arxiv.org/abs/2410.06698)|null|
 |**2024-10-03**|**Spiking Neural Network as Adaptive Event Stream Slicer**|Jiahang Cao et.al.|[2410.02249](http://arxiv.org/abs/2410.02249)|null|
 |**2024-10-03**|**Capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves**|Arvin Tashakori et.al.|[2410.02221](http://arxiv.org/abs/2410.02221)|**[link](https://github.com/arvintashakori/SmartTextileGlove)**|
 |**2024-10-01**|**Signatures of Black Hole Spin and Plasma Acceleration in Jet Polarimetry**|Zachary Gelles et.al.|[2410.00954](http://arxiv.org/abs/2410.00954)|null|
@@ -138,7 +139,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-07**|**LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**|Wei Wu et.al.|[2410.05249](http://arxiv.org/abs/2410.05249)|null|
+|**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
+|**2024-10-09**|**Rethinking the Evaluation of Visible and Infrared Image Fusion**|Dayan Guan et.al.|[2410.06811](http://arxiv.org/abs/2410.06811)|**[link](https://github.com/yixuan-2002/sea)**|
+|**2024-10-09**|**InstantIR: Blind Image Restoration with Instant Generative Reference**|Jen-Yuan Huang et.al.|[2410.06551](http://arxiv.org/abs/2410.06551)|null|
+|**2024-10-09**|**MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**|Noel C. F. Codella et.al.|[2410.06542](http://arxiv.org/abs/2410.06542)|null|
+|**2024-10-08**|**Temporal Image Caption Retrieval Competition -- Description and Results**|Jakub Pokrywka et.al.|[2410.06314](http://arxiv.org/abs/2410.06314)|null|
+|**2024-10-08**|**GSLoc: Visual Localization with 3D Gaussian Splatting**|Kazii Botashev et.al.|[2410.06165](http://arxiv.org/abs/2410.06165)|null|
+|**2024-10-08**|**Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning**|Ayush Singh et.al.|[2410.05928](http://arxiv.org/abs/2410.05928)|null|
+|**2024-10-08**|**ReFIR: Grounding Large Restoration Models with Retrieval Augmentation**|Hang Guo et.al.|[2410.05601](http://arxiv.org/abs/2410.05601)|**[link](https://github.com/csguoh/refir)**|
+|**2024-10-09**|**LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**|Wei Wu et.al.|[2410.05249](http://arxiv.org/abs/2410.05249)|null|
 |**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
 |**2024-10-06**|**Generalizability analysis of deep learning predictions of human brain responses to augmented and semantically novel visual stimuli**|Valentyn Piskovskyi et.al.|[2410.04497](http://arxiv.org/abs/2410.04497)|null|
 |**2024-10-06**|**SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems**|Ismail Alkhouri et.al.|[2410.04479](http://arxiv.org/abs/2410.04479)|**[link](https://github.com/sjames40/SITCOM)**|
@@ -354,6 +363,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
+|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|null|
+|**2024-10-09**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
+|**2024-10-09**|**HERM: Benchmarking and Enhancing Multimodal LLMs for Human-Centric Understanding**|Keliang Li et.al.|[2410.06777](http://arxiv.org/abs/2410.06777)|null|
+|**2024-10-09**|**To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models**|Junyan Lin et.al.|[2410.06765](http://arxiv.org/abs/2410.06765)|**[link](https://github.com/eit-nlp/connector-selection-for-mllm)**|
+|**2024-10-09**|**ING-VP: MLLMs cannot Play Easy Vision-based Games Yet**|Haoran Zhang et.al.|[2410.06555](http://arxiv.org/abs/2410.06555)|**[link](https://github.com/thisisus7/ing-vp)**|
+|**2024-10-09**|**Gumbel Rao Monte Carlo based Bi-Modal Neural Architecture Search for Audio-Visual Deepfake Detection**|Aravinda Reddy PN et.al.|[2410.06543](http://arxiv.org/abs/2410.06543)|null|
+|**2024-10-08**|**Multimodal Situational Safety**|Kaiwen Zhou et.al.|[2410.06172](http://arxiv.org/abs/2410.06172)|null|
+|**2024-10-08**|**Quadratic Is Not What You Need For Multimodal Large Language Models**|Phu Pham et.al.|[2410.06169](http://arxiv.org/abs/2410.06169)|null|
+|**2024-10-08**|**$\textit{X}^2$-DFD: A framework for e${X}$plainable and e${X}$ tendable Deepfake Detection**|Yize Chen et.al.|[2410.06126](http://arxiv.org/abs/2410.06126)|null|
 |**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
 |**2024-10-07**|**Organizing Unstructured Image Collections using Natural Language**|Mingxuan Liu et.al.|[2410.05217](http://arxiv.org/abs/2410.05217)|null|
 |**2024-10-07**|**Multimodal Fusion Strategies for Mapping Biophysical Landscape Features**|Lucia Gordon et.al.|[2410.04833](http://arxiv.org/abs/2410.04833)|**[link](https://github.com/lgordon99/fusion-strategies-eccv)**|
@@ -606,6 +625,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
+|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170](http://arxiv.org/abs/2410.07170)|null|
+|**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
+|**2024-10-09**|**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs**|Bowen Jin et.al.|[2410.07157](http://arxiv.org/abs/2410.07157)|null|
+|**2024-10-09**|**VHELM: A Holistic Evaluation of Vision Language Models**|Tony Lee et.al.|[2410.07112](http://arxiv.org/abs/2410.07112)|null|
+|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|null|
+|**2024-10-09**|**Unleashing Multi-Hop Reasoning Potential in Large Language Models through Repetition of Misordered Context**|Sangwon Yu et.al.|[2410.07103](http://arxiv.org/abs/2410.07103)|null|
+|**2024-10-09**|**Robots in the Middle: Evaluating LLMs in Dispute Resolution**|Jinzhe Tan et.al.|[2410.07053](http://arxiv.org/abs/2410.07053)|null|
+|**2024-10-09**|**PositionID: LLMs can Control Lengths, Copy and Paste with Explicit Positional Awareness**|Zekun Wang et.al.|[2410.07035](http://arxiv.org/abs/2410.07035)|null|
+|**2024-10-09**|**Modeling of the Gamma Ray Burst photospheric emission: Monte Carlo simulation of the GRB prompt emission, numerical results and discussion**|Amina Trabelsi et.al.|[2410.07005](http://arxiv.org/abs/2410.07005)|null|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-08**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|
 |**2024-10-07**|**Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**|Siyuan Hou et.al.|[2410.05151](http://arxiv.org/abs/2410.05151)|null|
