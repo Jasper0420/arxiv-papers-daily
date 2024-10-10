@@ -634,7 +634,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-10-09**|**Unleashing Multi-Hop Reasoning Potential in Large Language Models through Repetition of Misordered Context**|Sangwon Yu et.al.|[2410.07103](http://arxiv.org/abs/2410.07103)|null|
 |**2024-10-09**|**Robots in the Middle: Evaluating LLMs in Dispute Resolution**|Jinzhe Tan et.al.|[2410.07053](http://arxiv.org/abs/2410.07053)|null|
 |**2024-10-09**|**PositionID: LLMs can Control Lengths, Copy and Paste with Explicit Positional Awareness**|Zekun Wang et.al.|[2410.07035](http://arxiv.org/abs/2410.07035)|null|
-|**2024-10-09**|**Modeling of the Gamma Ray Burst photospheric emission: Monte Carlo simulation of the GRB prompt emission, numerical results and discussion**|Amina Trabelsi et.al.|[2410.07005](http://arxiv.org/abs/2410.07005)|null|
+|**2024-10-09**|**Modeling of the Gamma Ray Burst photospheric emission: Monte Carlo simulation of the GRB prompt emission, numerical results and discussion**|Amina Trabelsi et.al.|[2410.07005](http://arxiv.org/abs/2410.07005)|**[link](https://github.com/ouichaoui/resnet)**|
 |**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
 |**2024-10-08**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|
 |**2024-10-07**|**Editing Music with Melody and Text: Using ControlNet for Diffusion Transformer**|Siyuan Hou et.al.|[2410.05151](http://arxiv.org/abs/2410.05151)|null|
