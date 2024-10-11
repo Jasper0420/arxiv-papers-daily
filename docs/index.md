@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.10.10</span>
+# Updated on <span style='color:orange;'>2024.10.11</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -365,7 +365,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
 |**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|null|
-|**2024-10-09**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
+|**2024-10-10**|**Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology**|Xiangyu Wang et.al.|[2410.07087](http://arxiv.org/abs/2410.07087)|null|
 |**2024-10-09**|**HERM: Benchmarking and Enhancing Multimodal LLMs for Human-Centric Understanding**|Keliang Li et.al.|[2410.06777](http://arxiv.org/abs/2410.06777)|null|
 |**2024-10-09**|**To Preserve or To Compress: An In-Depth Study of Connector Selection in Multimodal Large Language Models**|Junyan Lin et.al.|[2410.06765](http://arxiv.org/abs/2410.06765)|**[link](https://github.com/eit-nlp/connector-selection-for-mllm)**|
 |**2024-10-09**|**ING-VP: MLLMs cannot Play Easy Vision-based Games Yet**|Haoran Zhang et.al.|[2410.06555](http://arxiv.org/abs/2410.06555)|**[link](https://github.com/thisisus7/ing-vp)**|
