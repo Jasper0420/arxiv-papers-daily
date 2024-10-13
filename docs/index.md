@@ -643,7 +643,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-10-10**|**What Makes Large Language Models Reason in (Multi-Turn) Code Generation?**|Kunhao Zheng et.al.|[2410.08105](http://arxiv.org/abs/2410.08105)|null|
 |**2024-10-10**|**Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models**|Wenting Tan et.al.|[2410.08068](http://arxiv.org/abs/2410.08068)|**[link](https://github.com/sallytan13/teaching-inspired-prompting)**|
 |**2024-10-10**|**Reversible Decoupling Network for Single Image Reflection Removal**|Hao Zhao et.al.|[2410.08063](http://arxiv.org/abs/2410.08063)|**[link](https://github.com/lime-j/RDNet)**|
-|**2024-10-10**|**Closing the Loop: Learning to Generate Writing Feedback via Language Model Simulated Student Revisions**|Inderjeet Nair et.al.|[2410.08058](http://arxiv.org/abs/2410.08058)|null|
+|**2024-10-10**|**Closing the Loop: Learning to Generate Writing Feedback via Language Model Simulated Student Revisions**|Inderjeet Nair et.al.|[2410.08058](http://arxiv.org/abs/2410.08058)|**[link](https://github.com/launchnlp/PROF)**|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170](http://arxiv.org/abs/2410.07170)|null|
 |**2024-10-09**|**AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation**|Yukang Cao et.al.|[2410.07164](http://arxiv.org/abs/2410.07164)|null|
