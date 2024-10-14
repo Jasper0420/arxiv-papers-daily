@@ -141,6 +141,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**LIME-Eval: Rethinking Low-light Image Enhancement Evaluation via Object Detection**|Mingjia Li et.al.|[2410.08810](http://arxiv.org/abs/2410.08810)|null|
+|**2024-10-11**|**Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers**|Jin Cao et.al.|[2410.08688](http://arxiv.org/abs/2410.08688)|**[link](https://github.com/toummhus/chain-of-restoration)**|
+|**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
+|**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**TANet: Triplet Attention Network for All-In-One Adverse Weather Image Restoration**|Hsing-Hua Wang et.al.|[2410.08177](http://arxiv.org/abs/2410.08177)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
@@ -367,6 +371,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Multi-modal Fusion based Q-distribution Prediction for Controlled Nuclear Fusion**|Shiao Wang et.al.|[2410.08879](http://arxiv.org/abs/2410.08879)|null|
+|**2024-10-11**|**Dual-AEB: Synergizing Rule-Based and Multimodal Large Language Models for Effective Emergency Braking**|Wei Zhang et.al.|[2410.08616](http://arxiv.org/abs/2410.08616)|null|
+|**2024-10-11**|**Baichuan-Omni Technical Report**|Yadong Li et.al.|[2410.08565](http://arxiv.org/abs/2410.08565)|**[link](https://github.com/westlake-baichuan-mllm/bc-omni)**|
+|**2024-10-11**|**SPORTU: A Comprehensive Sports Understanding Benchmark for Multimodal Large Language Models**|Haotian Xia et.al.|[2410.08474](http://arxiv.org/abs/2410.08474)|null|
 |**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
 |**2024-10-10**|**Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**|Qingni Wang et.al.|[2410.08174](http://arxiv.org/abs/2410.08174)|null|
 |**2024-10-10**|**Agent S: An Open Agentic Framework that Uses Computers Like a Human**|Saaket Agashe et.al.|[2410.08164](http://arxiv.org/abs/2410.08164)|**[link](https://github.com/simular-ai/agent-s)**|
@@ -634,6 +642,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**AttnGCG: Enhancing Jailbreaking Attacks on LLMs with Attention Manipulation**|Zijun Wang et.al.|[2410.09040](http://arxiv.org/abs/2410.09040)|**[link](https://github.com/ucsc-vlaa/attngcg-attack)**|
+|**2024-10-11**|**Mentor-KD: Making Small Language Models Better Multi-step Reasoners**|Hojae Lee et.al.|[2410.09037](http://arxiv.org/abs/2410.09037)|**[link](https://github.com/2hojae/mentor-kd)**|
+|**2024-10-11**|**AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents**|Maksym Andriushchenko et.al.|[2410.09024](http://arxiv.org/abs/2410.09024)|null|
+|**2024-10-11**|**Parameter-Efficient Fine-Tuning of State Space Models**|Kevin Galim et.al.|[2410.09016](http://arxiv.org/abs/2410.09016)|**[link](https://github.com/furiosa-ai/ssm-peft)**|
+|**2024-10-11**|**The Impact of Visual Information in Chinese Characters: Evaluating Large Models' Ability to Recognize and Utilize Radicals**|Xiaofeng Wu et.al.|[2410.09013](http://arxiv.org/abs/2410.09013)|null|
+|**2024-10-11**|**Software Engineering and Foundation Models: Insights from Industry Blogs Using a Jury of Foundation Models**|Hao Li et.al.|[2410.09012](http://arxiv.org/abs/2410.09012)|null|
+|**2024-10-11**|**Science is Exploration: Computational Frontiers for Conceptual Metaphor Theory**|Rebecca M. M. Hicke et.al.|[2410.08991](http://arxiv.org/abs/2410.08991)|null|
+|**2024-10-11**|**Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements**|Jingyu Zhang et.al.|[2410.08968](http://arxiv.org/abs/2410.08968)|null|
+|**2024-10-11**|**Exploring the Design Space of Cognitive Engagement Techniques with AI-Generated Code for Enhanced Learning**|Majeed Kazemitabaar et.al.|[2410.08922](http://arxiv.org/abs/2410.08922)|null|
+|**2024-10-11**|**Utilizing ChatGPT in a Data Structures and Algorithms Course: A Teaching Assistant's Perspective**|Pooriya Jamie et.al.|[2410.08899](http://arxiv.org/abs/2410.08899)|null|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
 |**2024-10-10**|**HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation**|Shanyan Guan et.al.|[2410.08192](http://arxiv.org/abs/2410.08192)|null|
 |**2024-10-10**|**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**|Hang Yin et.al.|[2410.08189](http://arxiv.org/abs/2410.08189)|null|
