@@ -376,7 +376,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
-|**2024-10-14**|**MMCFND: Multimodal Multilingual Caption-aware Fake News Detection for Low-resource Indic Languages**|Shubhi Bansal et.al.|[2410.10407](http://arxiv.org/abs/2410.10407)|null|
+|**2024-10-14**|**MMCFND: Multimodal Multilingual Caption-aware Fake News Detection for Low-resource Indic Languages**|Shubhi Bansal et.al.|[2410.10407](http://arxiv.org/abs/2410.10407)|**[link](https://github.com/shubhi-bansal/MMCFND)**|
 |**2024-10-14**|**Spatial-Aware Efficient Projector for MLLMs via Multi-Layer Feature Aggregation**|Shun Qian et.al.|[2410.10319](http://arxiv.org/abs/2410.10319)|null|
 |**2024-10-14**|**ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization**|Jiawei Li et.al.|[2410.10238](http://arxiv.org/abs/2410.10238)|null|
 |**2024-10-14**|**Tracing Human Stress from Physiological Signals using UWB Radar**|Jia Xu et.al.|[2410.10155](http://arxiv.org/abs/2410.10155)|null|
