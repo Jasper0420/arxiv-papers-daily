@@ -142,6 +142,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Analysis and Benchmarking of Extending Blind Face Image Restoration to Videos**|Zhouxia Wang et.al.|[2410.11828](http://arxiv.org/abs/2410.11828)|null|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-13**|**Fusion Based Hand Geometry Recognition Using Dempster-Shafer Theory**|Asish Bera et.al.|[2410.09842](http://arxiv.org/abs/2410.09842)|null|
 |**2024-10-13**|**LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond**|Md Tanvir Islam et.al.|[2410.09831](http://arxiv.org/abs/2410.09831)|**[link](https://github.com/tanvirnwu/trifuse)**|
 |**2024-10-14**|**LIME-Eval: Rethinking Low-light Image Enhancement Evaluation via Object Detection**|Mingjia Li et.al.|[2410.08810](http://arxiv.org/abs/2410.08810)|**[link](https://github.com/lime-j/lime-eval)**|
@@ -339,6 +341,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
@@ -375,6 +378,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding**|Yue Cao et.al.|[2410.11829](http://arxiv.org/abs/2410.11829)|**[link](https://github.com/yuecao0119/MMFuser)**|
+|**2024-10-15**|**MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation**|Chenxi Wang et.al.|[2410.11779](http://arxiv.org/abs/2410.11779)|**[link](https://github.com/zjunlp/Deco)**|
+|**2024-10-15**|**SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding**|Ying Chen et.al.|[2410.11761](http://arxiv.org/abs/2410.11761)|null|
+|**2024-10-15**|**Magnifier Prompt: Tackling Multimodal Hallucination via Extremely Simple Instructions**|Yuhan Fu et.al.|[2410.11701](http://arxiv.org/abs/2410.11701)|null|
+|**2024-10-15**|**VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI**|Sijie Cheng et.al.|[2410.11623](http://arxiv.org/abs/2410.11623)|null|
+|**2024-10-15**|**MCTBench: Multimodal Cognition towards Text-Rich Visual Scenes Benchmark**|Bin Shan et.al.|[2410.11538](http://arxiv.org/abs/2410.11538)|**[link](https://github.com/xfey/mctbench)**|
+|**2024-10-15**|**Difficult Task Yes but Simple Task No: Unveiling the Laziness in Multimodal LLMs**|Sihang Zhao et.al.|[2410.11437](http://arxiv.org/abs/2410.11437)|null|
+|**2024-10-15**|**Automatically Generating Visual Hallucination Test Cases for Multimodal Large Language Models**|Zhongye Liu et.al.|[2410.11242](http://arxiv.org/abs/2410.11242)|**[link](https://github.com/lycheeefish/vhexpansion)**|
+|**2024-10-15**|**MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation**|Xianping Ma et.al.|[2410.11160](http://arxiv.org/abs/2410.11160)|**[link](https://github.com/sstary/ssrs)**|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
 |**2024-10-14**|**MMCFND: Multimodal Multilingual Caption-aware Fake News Detection for Low-resource Indic Languages**|Shubhi Bansal et.al.|[2410.10407](http://arxiv.org/abs/2410.10407)|**[link](https://github.com/shubhi-bansal/MMCFND)**|
 |**2024-10-14**|**Spatial-Aware Efficient Projector for MLLMs via Multi-Layer Feature Aggregation**|Shun Qian et.al.|[2410.10319](http://arxiv.org/abs/2410.10319)|null|
@@ -656,6 +668,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities**|Hsin-Ping Huang et.al.|[2410.11824](http://arxiv.org/abs/2410.11824)|null|
+|**2024-10-15**|**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**|Zhiyuan Zhang et.al.|[2410.11815](http://arxiv.org/abs/2410.11815)|null|
+|**2024-10-15**|**Selection-p: Self-Supervised Task-Agnostic Prompt Compression for Faithfulness and Transferability**|Tsz Ting Chung et.al.|[2410.11786](http://arxiv.org/abs/2410.11786)|null|
+|**2024-10-15**|**On the Training Convergence of Transformers for In-Context Classification**|Wei Shen et.al.|[2410.11778](http://arxiv.org/abs/2410.11778)|null|
+|**2024-10-15**|**SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding**|Ying Chen et.al.|[2410.11761](http://arxiv.org/abs/2410.11761)|null|
+|**2024-10-15**|**Identification and modelling of optically thin inverse Compton scattering in the prompt emission of GRB131014A**|Pragyan Pratim Bordoloi et.al.|[2410.11753](http://arxiv.org/abs/2410.11753)|null|
+|**2024-10-15**|**Personas with Attitudes: Controlling LLMs for Diverse Data Annotation**|Leon Fröhling et.al.|[2410.11745](http://arxiv.org/abs/2410.11745)|**[link](https://github.com/frohleon/personas-with-attitudes)**|
+|**2024-10-15**|**RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation**|Anton Antonov et.al.|[2410.11722](http://arxiv.org/abs/2410.11722)|null|
+|**2024-10-15**|**Adaptive Coordinators and Prompts on Heterogeneous Graphs for Cross-Domain Recommendations**|Hengyu Zhang et.al.|[2410.11719](http://arxiv.org/abs/2410.11719)|null|
+|**2024-10-15**|**It's Just Another Day: Unique Video Captioning by Discriminative Prompting**|Toby Perrett et.al.|[2410.11702](http://arxiv.org/abs/2410.11702)|null|
 |**2024-10-14**|**Tex4D: Zero-shot 4D Scene Texturing with Video Diffusion Models**|Jingzhi Bao et.al.|[2410.10821](http://arxiv.org/abs/2410.10821)|null|
 |**2024-10-14**|**Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free**|Ziyue Li et.al.|[2410.10814](http://arxiv.org/abs/2410.10814)|null|
 |**2024-10-14**|**Denial-of-Service Poisoning Attacks against Large Language Models**|Kuofeng Gao et.al.|[2410.10760](http://arxiv.org/abs/2410.10760)|**[link](https://github.com/sail-sg/p-dos)**|
