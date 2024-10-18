@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.10.17</span>
+# Updated on <span style='color:orange;'>2024.10.18</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -684,8 +684,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-10-16**|**SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation**|Jaehong Yoon et.al.|[2410.12761](http://arxiv.org/abs/2410.12761)|null|
 |**2024-10-16**|**How Does Variance Shape the Regret in Contextual Bandits?**|Zeyu Jia et.al.|[2410.12713](http://arxiv.org/abs/2410.12713)|null|
 |**2024-10-16**|**Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization**|Xingqi Wang et.al.|[2410.12700](http://arxiv.org/abs/2410.12700)|**[link](https://github.com/achernarwang/LiVO)**|
-|**2024-10-16**|**Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2**|Mohamad Abdi et.al.|[2410.12686](http://arxiv.org/abs/2410.12686)|null|
-|**2024-10-16**|**Context Matters: Leveraging Contextual Features for Time Series Forecasting**|Sameep Chattopadhyay et.al.|[2410.12672](http://arxiv.org/abs/2410.12672)|null|
+|**2024-10-17**|**Automatic Mapping of Anatomical Landmarks from Free-Text Using Large Language Models: Insights from Llama-2**|Mohamad Abdi et.al.|[2410.12686](http://arxiv.org/abs/2410.12686)|null|
+|**2024-10-17**|**Context Matters: Leveraging Contextual Features for Time Series Forecasting**|Sameep Chattopadhyay et.al.|[2410.12672](http://arxiv.org/abs/2410.12672)|null|
 |**2024-10-16**|**CMAL: A Novel Cross-Modal Associative Learning Framework for Vision-Language Pre-Training**|Zhiyuan Ma et.al.|[2410.12595](http://arxiv.org/abs/2410.12595)|null|
 |**2024-10-15**|**KITTEN: A Knowledge-Intensive Evaluation of Image Generation on Visual Entities**|Hsin-Ping Huang et.al.|[2410.11824](http://arxiv.org/abs/2410.11824)|null|
 |**2024-10-15**|**SGEdit: Bridging LLM with Text2Image Generative Model for Scene Graph-based Image Editing**|Zhiyuan Zhang et.al.|[2410.11815](http://arxiv.org/abs/2410.11815)|null|
