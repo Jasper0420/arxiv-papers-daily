@@ -156,7 +156,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822](http://arxiv.org/abs/2410.17822)|**[link](https://github.com/eeic-lab/dreb-net)**|
-|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|Kaiwen Zhu et.al.|[2410.17809](http://arxiv.org/abs/2410.17809)|**[link](https://github.com/Kaiwen-Zhu/AgenticIR)**|
 |**2024-10-23**|**A variational approach to nonlocal image restoration flows**|Harsh Prasad et.al.|[2410.17649](http://arxiv.org/abs/2410.17649)|null|
 |**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521](http://arxiv.org/abs/2410.17521)|**[link](https://github.com/hust-tan/diffusionvi)**|
 |**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393](http://arxiv.org/abs/2410.17393)|null|
