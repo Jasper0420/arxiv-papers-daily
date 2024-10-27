@@ -86,7 +86,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |---|---|---|---|---|
 |**2024-10-24**|**Environment Maps Editing using Inverse Rendering and Adversarial Implicit Functions**|Antonio D'Orazio et.al.|[2410.18622](http://arxiv.org/abs/2410.18622)|null|
 |**2024-10-23**|**Frequency-dependent amplitude correction to free-precession scalar magnetometers**|M. E. Limes et.al.|[2410.18224](http://arxiv.org/abs/2410.18224)|null|
-|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746](http://arxiv.org/abs/2410.16746)|null|
+|**2024-10-22**|**SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition**|Jiaqi Chen et.al.|[2410.16746](http://arxiv.org/abs/2410.16746)|**[link](https://github.com/typistchen/spikmamba)**|
 |**2024-10-19**|**A Cycle Ride to HDR: Semantics Aware Self-Supervised Framework for Unpaired LDR-to-HDR Image Translation**|Hrishav Bakul Barua et.al.|[2410.15068](http://arxiv.org/abs/2410.15068)|null|
 |**2024-10-17**|**360U-Former: HDR Illumination Estimation with Panoramic Adapted Vision Transformers**|Jack Hilliard et.al.|[2410.13566](http://arxiv.org/abs/2410.13566)|null|
 |**2024-10-17**|**On Quantum Programming Languages**|Benoît Valiron et.al.|[2410.13337](http://arxiv.org/abs/2410.13337)|null|
