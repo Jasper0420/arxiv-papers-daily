@@ -14,6 +14,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Can Stories Help LLMs Reason? Curating Information Space Through Narrative**|Vahid Sadiri Javadi et.al.|[2410.19221](http://arxiv.org/abs/2410.19221)|null|
 |**2024-10-19**|**The Solution for Single Object Tracking Task of Perception Test Challenge 2024**|Zhiqiang Zhong et.al.|[2410.16329](http://arxiv.org/abs/2410.16329)|null|
 |**2024-10-14**|**A stronger form of Yamamoto's theorem II -- Spectral operators**|Soumyashant Nayak et.al.|[2410.16318](http://arxiv.org/abs/2410.16318)|null|
 |**2024-10-03**|**Leveraging Event Streams with Deep Reinforcement Learning for End-to-End UAV Tracking**|Ala Souissi et.al.|[2410.14685](http://arxiv.org/abs/2410.14685)|null|
@@ -153,6 +154,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**HUE Dataset: High-Resolution Event and Frame Sequences for Low-Light Vision**|Burak Ercan et.al.|[2410.19164](http://arxiv.org/abs/2410.19164)|null|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-24**|**DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation**|Yuang Ai et.al.|[2410.18666](http://arxiv.org/abs/2410.18666)|**[link](https://github.com/shallowdream204/dreamclear)**|
 |**2024-10-23**|**DREB-Net: Dual-stream Restoration Embedding Blur-feature Fusion Network for High-mobility UAV Object Detection**|Qingpeng Li et.al.|[2410.17822](http://arxiv.org/abs/2410.17822)|**[link](https://github.com/eeic-lab/dreb-net)**|
@@ -404,6 +406,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning**|Xiangyu Zeng et.al.|[2410.19702](http://arxiv.org/abs/2410.19702)|null|
+|**2024-10-24**|**BIFRÖST: 3D-Aware Image compositing with Language Instructions**|Lingxiao Li et.al.|[2410.19079](http://arxiv.org/abs/2410.19079)|**[link](https://github.com/lingxiao-li/bifrost)**|
 |**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
 |**2024-10-24**|**SafeBench: A Safety Evaluation Framework for Multimodal Large Language Models**|Zonghao Ying et.al.|[2410.18927](http://arxiv.org/abs/2410.18927)|null|
 |**2024-10-24**|**Distill Visual Chart Reasoning Ability from LLMs to MLLMs**|Wei He et.al.|[2410.18798](http://arxiv.org/abs/2410.18798)|**[link](https://github.com/hewei2001/reachqa)**|
@@ -731,6 +735,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Model merging with SVD to tie the Knots**|George Stoica et.al.|[2410.19735](http://arxiv.org/abs/2410.19735)|**[link](https://github.com/gstoica27/knots)**|
+|**2024-10-25**|**Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks**|Yinglun Xu et.al.|[2410.19705](http://arxiv.org/abs/2410.19705)|null|
+|**2024-10-25**|**Less is More: Extreme Gradient Boost Rank-1 Adaption for Efficient Finetuning of LLMs**|Yifei Zhang et.al.|[2410.19694](http://arxiv.org/abs/2410.19694)|null|
+|**2024-10-25**|**AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs**|Clemencia Siro et.al.|[2410.19692](http://arxiv.org/abs/2410.19692)|null|
+|**2024-10-25**|**Planning-Aware Diffusion Networks for Enhanced Motion Forecasting in Autonomous Driving**|Liu Yunhao et.al.|[2410.19639](http://arxiv.org/abs/2410.19639)|null|
+|**2024-10-25**|**GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing**|Hosam Elgendy et.al.|[2410.19552](http://arxiv.org/abs/2410.19552)|null|
+|**2024-10-25**|**CloserMusicDB: A Modern Multipurpose Dataset of High Quality Music**|Aleksandra Piekarzewicz et.al.|[2410.19540](http://arxiv.org/abs/2410.19540)|null|
+|**2024-10-25**|**Optimization with First Order Algorithms**|Charles Dossal et.al.|[2410.19506](http://arxiv.org/abs/2410.19506)|null|
+|**2024-10-25**|**Introducing MAPO: Momentum-Aided Gradient Descent Prompt Optimization**|Anthony Cui et.al.|[2410.19499](http://arxiv.org/abs/2410.19499)|null|
+|**2024-10-25**|**A Debate-Driven Experiment on LLM Hallucinations and Accuracy**|Ray Li et.al.|[2410.19485](http://arxiv.org/abs/2410.19485)|null|
 |**2024-10-24**|**Unbounded: A Generative Infinite Game of Character Life Simulation**|Jialu Li et.al.|[2410.18975](http://arxiv.org/abs/2410.18975)|null|
 |**2024-10-24**|**ConceptDrift: Uncovering Biases through the Lens of Foundational Models**|Cristian Daniel Păduraru et.al.|[2410.18970](http://arxiv.org/abs/2410.18970)|null|
 |**2024-10-24**|**Ferret-UI 2: Mastering Universal User Interface Understanding Across Platforms**|Zhangheng Li et.al.|[2410.18967](http://arxiv.org/abs/2410.18967)|null|
