@@ -76,6 +76,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data**|Zhonghua Yi et.al.|[2410.21743](http://arxiv.org/abs/2410.21743)|null|
+|**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|null|
 |**2024-10-27**|**BlinkVision: A Benchmark for Optical Flow, Scene Flow and Point Tracking Estimation using RGB Frames and Events**|Yijin Li et.al.|[2410.20451](http://arxiv.org/abs/2410.20451)|null|
 |**2024-10-26**|**Unleashing Dynamic Range and Resolution in Unlimited Sensing Framework via Novel Hardware**|Yuliang Zhu et.al.|[2410.20193](http://arxiv.org/abs/2410.20193)|null|
 |**2024-10-21**|**Scene-Segmentation-Based Exposure Compensation for Tone Mapping of High Dynamic Range Scenes**|Yuma Kinoshita et.al.|[2410.19839](http://arxiv.org/abs/2410.19839)|null|
@@ -158,6 +160,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946](http://arxiv.org/abs/2410.21946)|**[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)**|
+|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|null|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
 |**2024-10-27**|**Wavelet-based Mamba with Fourier Adjustment for Low-light Image Enhancement**|Junhao Tan et.al.|[2410.20314](http://arxiv.org/abs/2410.20314)|**[link](https://github.com/mcpaulgeorge/walmafa)**|
 |**2024-10-27**|**Deep Learning, Machine Learning -- Digital Signal and Image Processing: From Theory to Application**|Weiche Hsieh et.al.|[2410.20304](http://arxiv.org/abs/2410.20304)|null|
@@ -414,6 +418,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench**|Zheyuan Liu et.al.|[2410.22108](http://arxiv.org/abs/2410.22108)|null|
 |**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264](http://arxiv.org/abs/2410.21264)|null|
 |**2024-10-28**|**Face-MLLM: A Large Face Perception Model**|Haomiao Sun et.al.|[2410.20717](http://arxiv.org/abs/2410.20717)|null|
 |**2024-10-27**|**Deep Learning-Driven Microstructure Characterization and Vickers Hardness Prediction of Mg-Gd Alloys**|Lu Wang et.al.|[2410.20402](http://arxiv.org/abs/2410.20402)|null|
@@ -749,6 +754,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317](http://arxiv.org/abs/2410.22317)|**[link](https://github.com/wangkai930418/mc_ti)**|
+|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|null|
+|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|null|
+|**2024-10-29**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|null|
+|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|null|
+|**2024-10-29**|**FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation**|Farima Fatahi Bayat et.al.|[2410.22257](http://arxiv.org/abs/2410.22257)|null|
+|**2024-10-29**|**ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising**|Ashutosh Chaubey et.al.|[2410.22233](http://arxiv.org/abs/2410.22233)|null|
+|**2024-10-29**|**Synthetic Data Generation with Large Language Models for Personalized Community Question Answering**|Marco Braga et.al.|[2410.22182](http://arxiv.org/abs/2410.22182)|null|
+|**2024-10-29**|**Benchmarking LLM Guardrails in Handling Multilingual Toxicity**|Yahan Yang et.al.|[2410.22153](http://arxiv.org/abs/2410.22153)|null|
+|**2024-10-29**|**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**|Vishal Kumar et.al.|[2410.22143](http://arxiv.org/abs/2410.22143)|null|
 |**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275](http://arxiv.org/abs/2410.21275)|**[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)**|
 |**2024-10-28**|**Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics**|Yaniv Nikankin et.al.|[2410.21272](http://arxiv.org/abs/2410.21272)|null|
 |**2024-10-28**|**LoRA vs Full Fine-tuning: An Illusion of Equivalence**|Reece Shuttleworth et.al.|[2410.21228](http://arxiv.org/abs/2410.21228)|null|
