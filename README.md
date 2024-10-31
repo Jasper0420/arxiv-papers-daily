@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.10.30</span>
+# Updated on <span style='color:orange;'>2024.10.31</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 <details open>
@@ -80,7 +80,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|null|
 |**2024-07-04**|**Out-of-Plane Polarization from Spin Reflection Induces Field-Free Spin-Orbit Torque Switching in Structures with Canted NiO Interfacial Moments**|Zhe Zhang et.al.|[2407.03676](http://arxiv.org/abs/2407.03676)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## HDR
 
@@ -166,14 +166,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Neuromorphic Imaging with Super-Resolution**|Pei Zhang et.al.|[2407.05764](http://arxiv.org/abs/2407.05764)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## Low-Level
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-29**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946](http://arxiv.org/abs/2410.21946)|**[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)**|
-|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|null|
+|**2024-10-30**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946](http://arxiv.org/abs/2410.21946)|**[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)**|
+|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
 |**2024-10-27**|**Wavelet-based Mamba with Fourier Adjustment for Low-light Image Enhancement**|Junhao Tan et.al.|[2410.20314](http://arxiv.org/abs/2410.20314)|**[link](https://github.com/mcpaulgeorge/walmafa)**|
 |**2024-10-27**|**Deep Learning, Machine Learning -- Digital Signal and Image Processing: From Theory to Application**|Weiche Hsieh et.al.|[2410.20304](http://arxiv.org/abs/2410.20304)|null|
@@ -387,7 +387,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## Image Matching
 
@@ -428,13 +428,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|**[link](https://github.com/naver/mast3r)**|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## MutilModal
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-29**|**Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench**|Zheyuan Liu et.al.|[2410.22108](http://arxiv.org/abs/2410.22108)|null|
+|**2024-10-29**|**Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench**|Zheyuan Liu et.al.|[2410.22108](http://arxiv.org/abs/2410.22108)|**[link](https://github.com/franciscoliu/MLLMU-Bench)**|
 |**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264](http://arxiv.org/abs/2410.21264)|null|
 |**2024-10-28**|**Face-MLLM: A Large Face Perception Model**|Haomiao Sun et.al.|[2410.20717](http://arxiv.org/abs/2410.20717)|null|
 |**2024-10-27**|**Deep Learning-Driven Microstructure Characterization and Vickers Hardness Prediction of Mg-Gd Alloys**|Lu Wang et.al.|[2410.20402](http://arxiv.org/abs/2410.20402)|null|
@@ -766,20 +766,20 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
 |**2024-07-17**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 ## Prompt
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-29**|**Multi-Class Textual-Inversion Secretly Yields a Semantic-Agnostic Classifier**|Kai Wang et.al.|[2410.22317](http://arxiv.org/abs/2410.22317)|**[link](https://github.com/wangkai930418/mc_ti)**|
-|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|null|
-|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|null|
+|**2024-10-29**|**Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving**|Bo Jiang et.al.|[2410.22313](http://arxiv.org/abs/2410.22313)|**[link](https://github.com/hustvl/senna)**|
+|**2024-10-29**|**Embedding-based classifiers can detect prompt injection attacks**|Md. Ahsan Ayub et.al.|[2410.22284](http://arxiv.org/abs/2410.22284)|**[link](https://github.com/AhsanAyub/malicious-prompt-detection)**|
 |**2024-10-29**|**Whose ChatGPT? Unveiling Real-World Educational Inequalities Introduced by Large Language Models**|Renzhe Yu et.al.|[2410.22282](http://arxiv.org/abs/2410.22282)|null|
-|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|null|
+|**2024-10-29**|**NCA-Morph: Medical Image Registration with Neural Cellular Automata**|Amin Ranem et.al.|[2410.22265](http://arxiv.org/abs/2410.22265)|**[link](https://github.com/MECLabTUDA/NCA-Morph)**|
 |**2024-10-29**|**FactBench: A Dynamic Benchmark for In-the-Wild Language Model Factuality Evaluation**|Farima Fatahi Bayat et.al.|[2410.22257](http://arxiv.org/abs/2410.22257)|null|
-|**2024-10-29**|**ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising**|Ashutosh Chaubey et.al.|[2410.22233](http://arxiv.org/abs/2410.22233)|null|
-|**2024-10-29**|**Synthetic Data Generation with Large Language Models for Personalized Community Question Answering**|Marco Braga et.al.|[2410.22182](http://arxiv.org/abs/2410.22182)|null|
+|**2024-10-29**|**ContextIQ: A Multimodal Expert-Based Video Retrieval System for Contextual Advertising**|Ashutosh Chaubey et.al.|[2410.22233](http://arxiv.org/abs/2410.22233)|**[link](https://github.com/WACV2025Submission/ContextIQ)**|
+|**2024-10-29**|**Synthetic Data Generation with Large Language Models for Personalized Community Question Answering**|Marco Braga et.al.|[2410.22182](http://arxiv.org/abs/2410.22182)|**[link](https://github.com/pkasela/SY_SE-PQA)**|
 |**2024-10-29**|**Benchmarking LLM Guardrails in Handling Multilingual Toxicity**|Yahan Yang et.al.|[2410.22153](http://arxiv.org/abs/2410.22153)|null|
 |**2024-10-29**|**AmpleGCG-Plus: A Strong Generative Model of Adversarial Suffixes to Jailbreak LLMs with Higher Success Rates in Fewer Attempts**|Vishal Kumar et.al.|[2410.22143](http://arxiv.org/abs/2410.22143)|null|
 |**2024-10-28**|**Enhancing Action Recognition by Leveraging the Hierarchical Structure of Actions and Textual Context**|Manuel Benavent-Lledo et.al.|[2410.21275](http://arxiv.org/abs/2410.21275)|**[link](https://github.com/3dperceptionlab/hierarchicalactionrecognition)**|
@@ -1453,7 +1453,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|**[link](https://github.com/teto1992/declace)**|
 |**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|null|
 
-<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241031>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
