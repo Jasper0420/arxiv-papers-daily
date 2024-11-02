@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.11.01</span>
+# Updated on <span style='color:orange;'>2024.11.02</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -163,15 +163,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187](http://arxiv.org/abs/2410.24187)|**[link](https://github.com/vita-group/chasing-better-dips)**|
-|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|null|
+|**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**Image Synthesis with Class-Aware Semantic Diffusion Models for Surgical Scene Segmentation**|Yihang Zhou et.al.|[2410.23962](http://arxiv.org/abs/2410.23962)|null|
 |**2024-10-31**|**Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model**|Hao Zhang et.al.|[2410.23905](http://arxiv.org/abs/2410.23905)|**[link](https://github.com/leiii-cao/text-difuse)**|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 |**2024-10-31**|**Cycle-Constrained Adversarial Denoising Convolutional Network for PET Image Denoising: Multi-Dimensional Validation on Large Datasets with Reader Study and Real Low-Dose Data**|Yucun Hou et.al.|[2410.23628](http://arxiv.org/abs/2410.23628)|null|
 |**2024-10-31**|**MS-Glance: Non-semantic context vectors and the applications in supervising image reconstruction**|Ziqi Gao et.al.|[2410.23577](http://arxiv.org/abs/2410.23577)|**[link](https://github.com/z7gao/msglance)**|
 |**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
-|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|null|
-|**2024-10-30**|**SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion**|Kun Hu et.al.|[2410.22837](http://arxiv.org/abs/2410.22837)|null|
+|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|**[link](https://github.com/sunshangquan/EnsIR)**|
+|**2024-10-30**|**SFDFusion: An Efficient Spatial-Frequency Domain Fusion Network for Infrared and Visible Image Fusion**|Kun Hu et.al.|[2410.22837](http://arxiv.org/abs/2410.22837)|**[link](https://github.com/lqz2/SFDFusion)**|
 |**2024-10-30**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946](http://arxiv.org/abs/2410.21946)|**[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)**|
 |**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-28**|**Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework**|Vladimir Arkhipkin et.al.|[2410.21061](http://arxiv.org/abs/2410.21061)|null|
@@ -778,7 +778,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-10-31**|**DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion**|Weicai Ye et.al.|[2410.24203](http://arxiv.org/abs/2410.24203)|**[link](https://github.com/zju3dv/diffpano)**|
 |**2024-10-31**|**Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation**|Fu Feng et.al.|[2410.24160](http://arxiv.org/abs/2410.24160)|null|
 |**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
-|**2024-10-31**|**COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes**|Muhammad Ali et.al.|[2410.24139](http://arxiv.org/abs/2410.24139)|null|
+|**2024-10-31**|**COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes**|Muhammad Ali et.al.|[2410.24139](http://arxiv.org/abs/2410.24139)|**[link](https://github.com/techmn/cosnet)**|
 |**2024-10-31**|**Leveraging Large Language Models for Code Translation and Software Development in Scientific Computing**|Akash Dhruv et.al.|[2410.24119](http://arxiv.org/abs/2410.24119)|**[link](https://github.com/neucol/llm-conversion-performance)**|
 |**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[2410.24116](http://arxiv.org/abs/2410.24116)|null|
 |**2024-10-31**|**In-Context Fine-Tuning for Time-Series Foundation Models**|Abhimanyu Das et.al.|[2410.24087](http://arxiv.org/abs/2410.24087)|null|
