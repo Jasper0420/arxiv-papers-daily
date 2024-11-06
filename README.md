@@ -91,6 +91,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya et.al.|[2411.03303](http://arxiv.org/abs/2411.03303)|null|
+|**2024-11-05**|**Learning-based Lossless Event Data Compression**|Ahmadreza Sezavar et.al.|[2411.03010](http://arxiv.org/abs/2411.03010)|null|
 |**2024-10-30**|**Automatic programming via large language models with population self-evolution for dynamic job shop scheduling problem**|Jin Huang et.al.|[2410.22657](http://arxiv.org/abs/2410.22657)|null|
 |**2024-10-29**|**EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data**|Zhonghua Yi et.al.|[2410.21743](http://arxiv.org/abs/2410.21743)|null|
 |**2024-10-28**|**NYC-Event-VPR: A Large-Scale High-Resolution Event-Based Visual Place Recognition Dataset in Dense Urban Environments**|Taiyi Pan et.al.|[2410.21615](http://arxiv.org/abs/2410.21615)|null|
@@ -178,6 +180,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Test-Time Dynamic Image Fusion**|Bing Cao et.al.|[2411.02840](http://arxiv.org/abs/2411.02840)|**[link](https://github.com/yinan-xia/ttd)**|
+|**2024-11-05**|**ERUP-YOLO: Enhancing Object Detection Robustness for Adverse Weather Condition by Unified Image-Adaptive Processing**|Yuka Ogino et.al.|[2411.02799](http://arxiv.org/abs/2411.02799)|null|
+|**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
+|**2024-11-04**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656](http://arxiv.org/abs/2411.01656)|**[link](https://github.com/xl-tang3/DA-RCOT)**|
 |**2024-11-03**|**Conditional Controllable Image Fusion**|Bing Cao et.al.|[2411.01573](http://arxiv.org/abs/2411.01573)|null|
@@ -419,7 +425,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |---|---|---|---|---|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
-|**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
+|**2024-11-05**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 |**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097](http://arxiv.org/abs/2410.20097)|null|
@@ -463,6 +469,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning**|Ziliang Gan et.al.|[2411.03314](http://arxiv.org/abs/2411.03314)|null|
+|**2024-11-05**|**Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?**|Jingyu Xiao et.al.|[2411.03292](http://arxiv.org/abs/2411.03292)|null|
+|**2024-11-05**|**Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent**|Yangning Li et.al.|[2411.02937](http://arxiv.org/abs/2411.02937)|null|
+|**2024-11-05**|**Toward Robust Incomplete Multimodal Sentiment Analysis via Hierarchical Representation Learning**|Mingcheng Li et.al.|[2411.02793](http://arxiv.org/abs/2411.02793)|null|
+|**2024-11-05**|**Multimodal Commonsense Knowledge Distillation for Visual Question Answering**|Shuo Yang et.al.|[2411.02722](http://arxiv.org/abs/2411.02722)|null|
+|**2024-11-05**|**Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios**|Yunkai Dang et.al.|[2411.02708](http://arxiv.org/abs/2411.02708)|null|
+|**2024-11-04**|**MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs**|Sheng-Chieh Lin et.al.|[2411.02571](http://arxiv.org/abs/2411.02571)|null|
 |**2024-11-04**|**DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution**|Yang Yue et.al.|[2411.02359](http://arxiv.org/abs/2411.02359)|**[link](https://github.com/yueyang130/deer-vla)**|
 |**2024-11-04**|**KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**|Jie Yang et.al.|[2411.01846](http://arxiv.org/abs/2411.01846)|null|
 |**2024-11-04**|**ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model**|Yiming Sun et.al.|[2411.01756](http://arxiv.org/abs/2411.01756)|null|
@@ -815,6 +828,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?**|Jingyu Xiao et.al.|[2411.03292](http://arxiv.org/abs/2411.03292)|null|
+|**2024-11-05**|**Proxy-informed Bayesian transfer learning with unknown sources**|Sabina J. Sloman et.al.|[2411.03263](http://arxiv.org/abs/2411.03263)|null|
+|**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
+|**2024-11-05**|**On Improved Conditioning Mechanisms and Pre-training Strategies for Diffusion Models**|Tariq Berrada Ifriqi et.al.|[2411.03177](http://arxiv.org/abs/2411.03177)|null|
+|**2024-11-05**|**From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice**|Alicia Guo et.al.|[2411.03137](http://arxiv.org/abs/2411.03137)|null|
+|**2024-11-05**|**MA^2: A Self-Supervised and Motion Augmenting Autoencoder for Gait-Based Automatic Disease Detection**|Yiqun Liu et.al.|[2411.03129](http://arxiv.org/abs/2411.03129)|null|
+|**2024-11-05**|**"Create a Fear of Missing Out" -- ChatGPT Implements Unsolicited Deceptive Designs in Generated Websites Without Warning**|Veronika Krauß et.al.|[2411.03108](http://arxiv.org/abs/2411.03108)|null|
+|**2024-11-05**|**Speech Separation with Pretrained Frontend to Minimize Domain Mismatch**|Wupeng Wang et.al.|[2411.03085](http://arxiv.org/abs/2411.03085)|null|
+|**2024-11-05**|**Growing a Tail: Increasing Output Diversity in Large Language Models**|Michal Shur-Ofry et.al.|[2411.02989](http://arxiv.org/abs/2411.02989)|null|
+|**2024-11-05**|**AtlasSeg: Atlas Prior Guided Dual-U-Net for Cortical Segmentation in Fetal Brain MRI**|Haoan Xu et.al.|[2411.02867](http://arxiv.org/abs/2411.02867)|null|
 |**2024-11-04**|**Prompting with Phonemes: Enhancing LLM Multilinguality for non-Latin Script Languages**|Hoang Nguyen et.al.|[2411.02398](http://arxiv.org/abs/2411.02398)|null|
 |**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
 |**2024-11-04**|**Seq-VCR: Preventing Collapse in Intermediate Transformer Representations for Enhanced Reasoning**|Md Rifat Arefin et.al.|[2411.02344](http://arxiv.org/abs/2411.02344)|null|
