@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.11.07</span>
+# Updated on <span style='color:orange;'>2024.11.08</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -172,7 +172,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-05**|**Test-Time Dynamic Image Fusion**|Bing Cao et.al.|[2411.02840](http://arxiv.org/abs/2411.02840)|**[link](https://github.com/yinan-xia/ttd)**|
 |**2024-11-05**|**ERUP-YOLO: Enhancing Object Detection Robustness for Adverse Weather Condition by Unified Image-Adaptive Processing**|Yuka Ogino et.al.|[2411.02799](http://arxiv.org/abs/2411.02799)|null|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
-|**2024-11-04**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
+|**2024-11-06**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-03**|**Degradation-Aware Residual-Conditioned Optimal Transport for Unified Image Restoration**|Xiaole Tang et.al.|[2411.01656](http://arxiv.org/abs/2411.01656)|**[link](https://github.com/xl-tang3/DA-RCOT)**|
 |**2024-11-03**|**Conditional Controllable Image Fusion**|Bing Cao et.al.|[2411.01573](http://arxiv.org/abs/2411.01573)|null|
