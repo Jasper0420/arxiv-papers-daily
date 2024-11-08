@@ -91,6 +91,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Increasing the scalability of graph convolution for FPGA-implemented event-based vision**|Piotr Wzorek et.al.|[2411.04269](http://arxiv.org/abs/2411.04269)|null|
 |**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928](http://arxiv.org/abs/2411.03928)|null|
 |**2024-11-05**|**Monocular Event-Based Vision for Obstacle Avoidance with a Quadrotor**|Anish Bhattacharya et.al.|[2411.03303](http://arxiv.org/abs/2411.03303)|null|
 |**2024-11-05**|**Learning-based Lossless Event Data Compression**|Ahmadreza Sezavar et.al.|[2411.03010](http://arxiv.org/abs/2411.03010)|null|
@@ -181,6 +182,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Dynamic Brightness Adaptation for Robust Multi-modal Image Fusion**|Yiming Sun et.al.|[2411.04697](http://arxiv.org/abs/2411.04697)|**[link](https://github.com/sunym2020/ba-fusion)**|
+|**2024-11-07**|**l0-Regularized Sparse Coding-based Interpretable Network for Multi-Modal Image Fusion**|Gargi Panda et.al.|[2411.04519](http://arxiv.org/abs/2411.04519)|null|
 |**2024-11-05**|**Test-Time Dynamic Image Fusion**|Bing Cao et.al.|[2411.02840](http://arxiv.org/abs/2411.02840)|**[link](https://github.com/yinan-xia/ttd)**|
 |**2024-11-05**|**ERUP-YOLO: Enhancing Object Detection Robustness for Adverse Weather Condition by Unified Image-Adaptive Processing**|Yuka Ogino et.al.|[2411.02799](http://arxiv.org/abs/2411.02799)|null|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
@@ -424,6 +427,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
 |**2024-11-05**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
@@ -470,6 +474,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
+|**2024-11-07**|**GUI Agents with Foundation Models: A Comprehensive Survey**|Shuai Wang et.al.|[2411.04890](http://arxiv.org/abs/2411.04890)|null|
+|**2024-11-07**|**Exploring Hierarchical Molecular Graph Representation in Multimodal LLMs**|Chengxin Hu et.al.|[2411.04708](http://arxiv.org/abs/2411.04708)|null|
+|**2024-11-06**|**Improving Bilingual Capabilities of Language Models to Support Diverse Linguistic Practices in Education**|Anand Syamkumar et.al.|[2411.04308](http://arxiv.org/abs/2411.04308)|null|
+|**2024-11-06**|**Analyzing Multimodal Features of Spontaneous Voice Assistant Commands for Mild Cognitive Impairment Detection**|Nana Lin et.al.|[2411.04158](http://arxiv.org/abs/2411.04158)|null|
 |**2024-11-06**|**Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM Data Contamination**|Dingjie Song et.al.|[2411.03823](http://arxiv.org/abs/2411.03823)|null|
 |**2024-11-06**|**StreamingBench: Assessing the Gap for MLLMs to Achieve Streaming Video Understanding**|Junming Lin et.al.|[2411.03628](http://arxiv.org/abs/2411.03628)|null|
 |**2024-11-05**|**MME-Finance: A Multimodal Finance Benchmark for Expert-level Understanding and Reasoning**|Ziliang Gan et.al.|[2411.03314](http://arxiv.org/abs/2411.03314)|null|
@@ -831,6 +840,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models**|Muyang Li et.al.|[2411.05007](http://arxiv.org/abs/2411.05007)|**[link](https://github.com/mit-han-lab/deepcompressor)**|
+|**2024-11-07**|**HourVideo: 1-Hour Video-Language Understanding**|Keshigeyan Chandrasegaran et.al.|[2411.04998](http://arxiv.org/abs/2411.04998)|null|
+|**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
+|**2024-11-07**|**DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion**|Wenqiang Sun et.al.|[2411.04928](http://arxiv.org/abs/2411.04928)|null|
+|**2024-11-07**|**StoryAgent: Customized Storytelling Video Generation via Multi-Agent Collaboration**|Panwen Hu et.al.|[2411.04925](http://arxiv.org/abs/2411.04925)|null|
+|**2024-11-07**|**Structure Matters: Dynamic Policy Gradient**|Sara Klein et.al.|[2411.04913](http://arxiv.org/abs/2411.04913)|null|
+|**2024-11-07**|**In the Era of Prompt Learning with Vision-Language Models**|Ankit Jha et.al.|[2411.04892](http://arxiv.org/abs/2411.04892)|null|
+|**2024-11-07**|**Prompt-Guided Internal States for Hallucination Detection of Large Language Models**|Fujie Zhang et.al.|[2411.04847](http://arxiv.org/abs/2411.04847)|null|
+|**2024-11-07**|**VTechAGP: An Academic-to-General-Audience Text Paraphrase Dataset and Benchmark Models**|Ming Cheng et.al.|[2411.04825](http://arxiv.org/abs/2411.04825)|null|
+|**2024-11-07**|**Learn to Solve Vehicle Routing Problems ASAP: A Neural Optimization Approach for Time-Constrained Vehicle Routing Problems with Finite Vehicle Fleet**|Elija Deineko et.al.|[2411.04777](http://arxiv.org/abs/2411.04777)|null|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
 |**2024-11-06**|**Non-Stationary Learning of Neural Networks with Automatic Soft Parameter Reset**|Alexandre Galashov et.al.|[2411.04034](http://arxiv.org/abs/2411.04034)|null|
 |**2024-11-06**|**Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages**|Aniket Deroy et.al.|[2411.04025](http://arxiv.org/abs/2411.04025)|null|
