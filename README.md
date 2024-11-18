@@ -94,7 +94,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-14**|**CaLES: A GPU-accelerated solver for large-eddy simulation of wall-bounded flows**|Maochao Xiao et.al.|[2411.09364](http://arxiv.org/abs/2411.09364)|null|
+|**2024-11-15**|**CaLES: A GPU-accelerated solver for large-eddy simulation of wall-bounded flows**|Maochao Xiao et.al.|[2411.09364](http://arxiv.org/abs/2411.09364)|null|
 |**2024-11-11**|**Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models**|NVIDIA et.al.|[2411.07126](http://arxiv.org/abs/2411.07126)|null|
 |**2024-11-06**|**Increasing the scalability of graph convolution for FPGA-implemented event-based vision**|Piotr Wzorek et.al.|[2411.04269](http://arxiv.org/abs/2411.04269)|null|
 |**2024-11-13**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928](http://arxiv.org/abs/2411.03928)|**[link](https://github.com/arclab-hku/deio)**|
@@ -187,6 +187,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Probabilistic Prior Driven Attention Mechanism Based on Diffusion Model for Imaging Through Atmospheric Turbulence**|Guodong Sun et.al.|[2411.10321](http://arxiv.org/abs/2411.10321)|null|
+|**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309](http://arxiv.org/abs/2411.10309)|**[link](https://github.com/yayoyo66/rdistitcher)**|
+|**2024-11-15**|**Rethinking Normalization Strategies and Convolutional Kernels for Multimodal Image Fusion**|Dan He et.al.|[2411.10036](http://arxiv.org/abs/2411.10036)|null|
 |**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387](http://arxiv.org/abs/2411.09387)|null|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
 |**2024-11-13**|**Saliency Map-based Image Retrieval using Invariant Krawtchouk Moments**|Ashkan Nejad et.al.|[2411.08567](http://arxiv.org/abs/2411.08567)|**[link](https://github.com/arnejad/smikm)**|
@@ -442,7 +445,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
+|**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
@@ -491,6 +494,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**|Weiyun Wang et.al.|[2411.10442](http://arxiv.org/abs/2411.10442)|null|
+|**2024-11-15**|**Mitigating Hallucination in Multimodal Large Language Model via Hallucination-targeted Direct Preference Optimization**|Yuhan Fu et.al.|[2411.10436](http://arxiv.org/abs/2411.10436)|null|
+|**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309](http://arxiv.org/abs/2411.10309)|**[link](https://github.com/yayoyo66/rdistitcher)**|
+|**2024-11-15**|**Visual-Linguistic Agent: Towards Collaborative Contextual Object Reasoning**|Jingru Yang et.al.|[2411.10252](http://arxiv.org/abs/2411.10252)|null|
+|**2024-11-15**|**CMATH: Cross-Modality Augmented Transformer with Hierarchical Variational Distillation for Multimodal Emotion Recognition in Conversation**|Xiaofei Zhu et.al.|[2411.10060](http://arxiv.org/abs/2411.10060)|null|
+|**2024-11-15**|**VMID: A Multimodal Fusion LLM Framework for Detecting and Identifying Misinformation of Short Videos**|Weihao Zhong et.al.|[2411.10032](http://arxiv.org/abs/2411.10032)|null|
+|**2024-11-15**|**Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs**|Xiaofeng Zhang et.al.|[2411.09968](http://arxiv.org/abs/2411.09968)|null|
 |**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
 |**2024-11-14**|**Advancing Fine-Grained Visual Understanding with Multi-Scale Alignment in Multi-Modal Models**|Wei Wang et.al.|[2411.09691](http://arxiv.org/abs/2411.09691)|null|
 |**2024-11-14**|**Image Regeneration: Evaluating Text-to-Image Model via Generating Identical Image with Multimodal Large Language Models**|Chutian Meng et.al.|[2411.09449](http://arxiv.org/abs/2411.09449)|null|
@@ -878,6 +888,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
+|**2024-11-15**|**Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations**|Jianfeng Chi et.al.|[2411.10414](http://arxiv.org/abs/2411.10414)|null|
+|**2024-11-15**|**Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**|Markus Karmann et.al.|[2411.10411](http://arxiv.org/abs/2411.10411)|null|
+|**2024-11-15**|**On the Foundation Model for Cardiac MRI Reconstruction**|Chi Zhang et.al.|[2411.10403](http://arxiv.org/abs/2411.10403)|null|
+|**2024-11-15**|**A Survey of Event Causality Identification: Principles, Taxonomy, Challenges, and Assessment**|Zefan Zeng et.al.|[2411.10371](http://arxiv.org/abs/2411.10371)|null|
+|**2024-11-15**|**Bias Unveiled: Investigating Social Bias in LLM-Generated Code**|Lin Ling et.al.|[2411.10351](http://arxiv.org/abs/2411.10351)|null|
+|**2024-11-15**|**Number it: Temporal Grounding Videos like Flipping Manga**|Yongliang Wu et.al.|[2411.10332](http://arxiv.org/abs/2411.10332)|**[link](https://github.com/yongliang-wu/numpro)**|
+|**2024-11-15**|**Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding**|Huming Qiu et.al.|[2411.10329](http://arxiv.org/abs/2411.10329)|null|
+|**2024-11-15**|**Visual-Linguistic Agent: Towards Collaborative Contextual Object Reasoning**|Jingru Yang et.al.|[2411.10252](http://arxiv.org/abs/2411.10252)|null|
+|**2024-11-15**|**Measuring Non-Adversarial Reproduction of Training Data in Large Language Models**|Michael Aerni et.al.|[2411.10242](http://arxiv.org/abs/2411.10242)|null|
 |**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
 |**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689](http://arxiv.org/abs/2411.09689)|null|
 |**2024-11-14**|**Squeezed Attention: Accelerating Long Context Length LLM Inference**|Coleman Hooper et.al.|[2411.09688](http://arxiv.org/abs/2411.09688)|null|
