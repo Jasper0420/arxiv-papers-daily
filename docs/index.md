@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.11.21</span>
+# Updated on <span style='color:orange;'>2024.11.22</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -915,7 +915,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-20**|**From Prompt Engineering to Prompt Craft**|Joseph Lindley et.al.|[2411.13422](http://arxiv.org/abs/2411.13422)|null|
 |**2024-11-20**|**Theory-independent monitoring of the decoherence of a superconducting qubit with generalized contextuality**|Albert Aloy et.al.|[2411.13421](http://arxiv.org/abs/2411.13421)|null|
 |**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
-|**2024-11-20**|**Transformer-Based Contextualized Language Models Joint with Neural Networks for Natural Language Inference in Vietnamese**|Dat Van-Thanh Nguyen et.al.|[2411.13407](http://arxiv.org/abs/2411.13407)|null|
+|**2024-11-21**|**Transformer-Based Contextualized Language Models Joint with Neural Networks for Natural Language Inference in Vietnamese**|Dat Van-Thanh Nguyen et.al.|[2411.13407](http://arxiv.org/abs/2411.13407)|null|
 |**2024-11-20**|**Adversarial Diffusion Compression for Real-World Image Super-Resolution**|Bin Chen et.al.|[2411.13383](http://arxiv.org/abs/2411.13383)|null|
 |**2024-11-20**|**I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception**|Jiawei Zhang et.al.|[2411.13314](http://arxiv.org/abs/2411.13314)|null|
 |**2024-11-20**|**Combining Autoregressive and Autoencoder Language Models for Text Classification**|João Gonçalves et.al.|[2411.13282](http://arxiv.org/abs/2411.13282)|null|
