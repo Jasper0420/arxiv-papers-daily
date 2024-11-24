@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2024.11.23</span>
+# Updated on <span style='color:orange;'>2024.11.24</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -919,7 +919,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
 |**2024-11-21**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398](http://arxiv.org/abs/2411.14398)|null|
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
-|**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|null|
+|**2024-11-21**|**DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding**|Tianhe Ren et.al.|[2411.14347](http://arxiv.org/abs/2411.14347)|**[link](https://github.com/idea-research/dino-x-api)**|
 |**2024-11-21**|**UnifiedCrawl: Aggregated Common Crawl for Affordable Adaptation of LLMs on Low-Resource Languages**|Bethel Melesse Tessema et.al.|[2411.14343](http://arxiv.org/abs/2411.14343)|**[link](https://github.com/bethelmelesse/unifiedcrawl)**|
 |**2024-11-21**|**Auto-SPICE: Leveraging LLMs for Dataset Creation via Automated SPICE Netlist Extraction from Analog Circuit Diagrams**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
 |**2024-11-21**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative Prompting of LLMs**|Xi Jiang et.al.|[2411.14283](http://arxiv.org/abs/2411.14283)|null|
