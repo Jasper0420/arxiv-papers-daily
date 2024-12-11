@@ -96,6 +96,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
 |**2024-12-09**|**Fitting Spherical Gaussians to Dynamic HDRI Sequences**|Pascal Clausen et.al.|[2412.06511](http://arxiv.org/abs/2412.06511)|null|
 |**2024-12-09**|**Event fields: Capturing light fields at high speed, resolution, and dynamic range**|Ziyuan Qu et.al.|[2412.06191](http://arxiv.org/abs/2412.06191)|null|
 |**2024-12-07**|**On an Analytical Inversion Formula for the Modulo Radon Transform**|Matthias Beckmann et.al.|[2412.05711](http://arxiv.org/abs/2412.05711)|null|
@@ -202,6 +203,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance**|Wanwen Chen et.al.|[2412.07741](http://arxiv.org/abs/2412.07741)|null|
+|**2024-12-10**|**Leveraging Content and Context Cues for Low-Light Image Enhancement**|Igor Morawski et.al.|[2412.07693](http://arxiv.org/abs/2412.07693)|null|
+|**2024-12-10**|**Analytical-Heuristic Modeling and Optimization for Low-Light Image Enhancement**|Axel Martinez et.al.|[2412.07659](http://arxiv.org/abs/2412.07659)|null|
+|**2024-12-10**|**Deep Joint Unrolling for Deblurring and Low-Light Image Enhancement (JUDE).pdf**|Tu Vo et.al.|[2412.07527](http://arxiv.org/abs/2412.07527)|null|
+|**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256](http://arxiv.org/abs/2412.07256)|**[link](https://github.com/zhaoyuzhi/qrnet)**|
+|**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|
+|**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195](http://arxiv.org/abs/2412.07195)|null|
 |**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753](http://arxiv.org/abs/2412.06753)|null|
 |**2024-12-09**|**EchoSim4D: A Proof-of-Concept Gamified XR Echocardiography Training Simulator for Neonates using 4D Ultrasound Volume**|Deepthy Rose Jose et.al.|[2412.06271](http://arxiv.org/abs/2412.06271)|null|
 |**2024-12-08**|**A Review on Multisensor Data Fusion for Wearable Health Monitoring**|Arlene John et.al.|[2412.05895](http://arxiv.org/abs/2412.05895)|null|
@@ -574,6 +582,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation**|Jianzong Wu et.al.|[2412.07589](http://arxiv.org/abs/2412.07589)|null|
+|**2024-12-09**|**SafeWatch: An Efficient Safety-Policy Following Video Guardrail Model with Transparent Explanations**|Zhaorun Chen et.al.|[2412.06878](http://arxiv.org/abs/2412.06878)|null|
 |**2024-12-09**|**ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**|Chunwei Wang et.al.|[2412.06673](http://arxiv.org/abs/2412.06673)|null|
 |**2024-12-09**|**3D Spatial Understanding in MLLMs: Disambiguation and Evaluation**|Chun-Peng Chang et.al.|[2412.06613](http://arxiv.org/abs/2412.06613)|null|
 |**2024-12-09**|**World knowledge-enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving**|Mingliang Zhai et.al.|[2412.06324](http://arxiv.org/abs/2412.06324)|null|
@@ -1070,6 +1080,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772](http://arxiv.org/abs/2412.07772)|null|
+|**2024-12-10**|**Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**|Zetong Yang et.al.|[2412.07768](http://arxiv.org/abs/2412.07768)|null|
+|**2024-12-10**|**Make-A-Texture: Fast Shape-Aware Texture Generation in 3 Seconds**|Xiaoyu Xiang et.al.|[2412.07766](http://arxiv.org/abs/2412.07766)|null|
+|**2024-12-10**|**PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation**|Fatemeh Nazarieh et.al.|[2412.07754](http://arxiv.org/abs/2412.07754)|null|
+|**2024-12-10**|**Multi-Shot Character Consistency for Text-to-Video Generation**|Yuval Atzmon et.al.|[2412.07750](http://arxiv.org/abs/2412.07750)|null|
+|**2024-12-10**|**LoRA3D: Low-Rank Self-Calibration of 3D Geometric Foundation Models**|Ziqi Lu et.al.|[2412.07746](http://arxiv.org/abs/2412.07746)|null|
+|**2024-12-10**|**StyleMaster: Stylize Your Video with Artistic Generation and Translation**|Zixuan Ye et.al.|[2412.07744](http://arxiv.org/abs/2412.07744)|null|
+|**2024-12-10**|**SKIPNet: Spatial Attention Skip Connections for Enhanced Brain Tumor Classification**|Khush Mendiratta et.al.|[2412.07736](http://arxiv.org/abs/2412.07736)|null|
+|**2024-12-10**|**Granite Guardian**|Inkit Padhi et.al.|[2412.07724](http://arxiv.org/abs/2412.07724)|**[link](https://github.com/ibm-granite/granite-guardian)**|
+|**2024-12-10**|**Leveraging Content and Context Cues for Low-Light Image Enhancement**|Igor Morawski et.al.|[2412.07693](http://arxiv.org/abs/2412.07693)|null|
 |**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774](http://arxiv.org/abs/2412.06774)|null|
 |**2024-12-09**|**Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty**|Meera Hahn et.al.|[2412.06771](http://arxiv.org/abs/2412.06771)|**[link](https://github.com/google-deepmind/proactive_t2i_agents)**|
 |**2024-12-09**|**Ranking-aware adapter for text-driven image ordering with CLIP**|Wei-Hsiang Yu et.al.|[2412.06760](http://arxiv.org/abs/2412.06760)|**[link](https://github.com/uynaes/rankingawareclip)**|
