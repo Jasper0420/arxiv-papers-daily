@@ -75,7 +75,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-30**|**Strained topological insulator spin-orbit torque random access memory (STI-SOTRAM) bit cell for energy-efficient Processing in Memory**|Md Golam Morshed et.al.|[2407.20925](http://arxiv.org/abs/2407.20925)|null|
 |**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419](http://arxiv.org/abs/2407.14419)|null|
 |**2024-07-17**|**Strawberry detection and counting based on YOLOv7 pruning and information based tracking algorithm**|Shiyu Liu et.al.|[2407.12614](http://arxiv.org/abs/2407.12614)|null|
-|**2024-07-15**|**Effective Motion Modeling for UAV-platform Multiple Object Tracking with Re-Margin Loss**|Mufeng Yao et.al.|[2407.10485](http://arxiv.org/abs/2407.10485)|null|
+|**2024-07-15**|**Effective Motion Modeling for UAV-platform Multiple Object Tracking with Re-Margin Loss**|Mufeng Yao et.al.|[2407.10485](http://arxiv.org/abs/2407.10485)|**[link](https://github.com/yaomufeng/mmtracker)**|
 |**2024-07-16**|**Lost and Found: Overcoming Detector Failures in Online Multi-Object Tracking**|Lorenzo Vaquero et.al.|[2407.10151](http://arxiv.org/abs/2407.10151)|**[link](https://github.com/lorenzovaquero/busca)**|
 |**2024-07-12**|**DroneMOT: Drone-based Multi-Object Tracking Considering Detection Difficulties and Simultaneous Moving of Drones and Objects**|Peng Wang et.al.|[2407.09051](http://arxiv.org/abs/2407.09051)|null|
 |**2024-07-11**|**Manipulating a Tetris-Inspired 3D Video Representation**|Mihir Godbole et.al.|[2407.08885](http://arxiv.org/abs/2407.08885)|null|
@@ -411,7 +411,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078](http://arxiv.org/abs/2409.12078)|null|
 |**2024-09-18**|**DAF-Net: A Dual-Branch Feature Decomposition Fusion Network with Domain Adaptive for Infrared and Visible Image Fusion**|Jian Xu et.al.|[2409.11642](http://arxiv.org/abs/2409.11642)|**[link](https://github.com/xujian000/daf-net)**|
 |**2024-09-17**|**Ultrasound Image Enhancement with the Variance of Diffusion Models**|Yuxin Zhang et.al.|[2409.11380](http://arxiv.org/abs/2409.11380)|**[link](https://github.com/yuxin-zhang-jasmine/ius2024_diffusion)**|
-|**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
+|**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|**[link](https://github.com/paulaonta/blind-valm)**|
 |**2024-09-17**|**CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement**|Xuanzhao Dong et.al.|[2409.10966](http://arxiv.org/abs/2409.10966)|**[link](https://github.com/retinal-research/cunsb-rfie)**|
 |**2024-09-16**|**Taming Diffusion Models for Image Restoration: A Review**|Ziwei Luo et.al.|[2409.10353](http://arxiv.org/abs/2409.10353)|null|
 |**2024-09-17**|**Fuse4Seg: Image-Level Fusion Based Multi-Modality Medical Image Segmentation**|Yuchen Guo et.al.|[2409.10328](http://arxiv.org/abs/2409.10328)|null|
@@ -489,7 +489,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-19**|**ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement**|Eashan Adhikarla et.al.|[2408.09650](http://arxiv.org/abs/2408.09650)|**[link](https://github.com/eashanadhikarla/expomamba)**|
 |**2024-08-17**|**Re-boosting Self-Collaboration Parallel Prompt GAN for Unsupervised Image Restoration**|Xin Lin et.al.|[2408.09241](http://arxiv.org/abs/2408.09241)|**[link](https://github.com/linxin0/rscp2gan)**|
 |**2024-08-16**|**DFT-Based Adversarial Attack Detection in MRI Brain Imaging: Enhancing Diagnostic Accuracy in Alzheimer's Case Studies**|Mohammad Hossein Najafi et.al.|[2408.08489](http://arxiv.org/abs/2408.08489)|null|
-|**2024-08-15**|**Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks**|Jiawei Wu et.al.|[2408.08149](http://arxiv.org/abs/2408.08149)|null|
+|**2024-08-15**|**Unsupervised Variational Translator for Bridging Image Restoration and High-Level Vision Tasks**|Jiawei Wu et.al.|[2408.08149](http://arxiv.org/abs/2408.08149)|**[link](https://github.com/fire-friend/vat)**|
 |**2024-08-15**|**HAIR: Hypernetworks-based All-in-One Image Restoration**|Jin Cao et.al.|[2408.08091](http://arxiv.org/abs/2408.08091)|**[link](https://github.com/toummHus/HAIR)**|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-13**|**Review Learning: Advancing All-in-One Ultra-High-Definition Image Restoration Training Method**|Xin Su et.al.|[2408.06709](http://arxiv.org/abs/2408.06709)|null|
@@ -624,8 +624,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-08**|**GraPE: A Generate-Plan-Edit Framework for Compositional T2I Synthesis**|Ashish Goswami et.al.|[2412.06089](http://arxiv.org/abs/2412.06089)|null|
 |**2024-12-08**|**Exploring Multi-Grained Concept Annotations for Multimodal Large Language Models**|Xiao Xu et.al.|[2412.05939](http://arxiv.org/abs/2412.05939)|null|
 |**2024-12-08**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|null|
-|**2024-12-08**|**[CLS] Token Tells Everything Needed for Training-free Efficient MLLMs**|Ao Wang et.al.|[2412.05819](http://arxiv.org/abs/2412.05819)|null|
-|**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|null|
+|**2024-12-08**|**[CLS] Token Tells Everything Needed for Training-free Efficient MLLMs**|Ao Wang et.al.|[2412.05819](http://arxiv.org/abs/2412.05819)|**[link](https://github.com/thu-mig/vtc-cls)**|
+|**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|**[link](https://github.com/opengvlab/internvl)**|
 |**2024-12-06**|**CompCap: Improving Multimodal Large Language Models with Composite Captions**|Xiaohui Chen et.al.|[2412.05243](http://arxiv.org/abs/2412.05243)|null|
 |**2024-12-06**|**MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale**|Jarvis Guo et.al.|[2412.05237](http://arxiv.org/abs/2412.05237)|null|
 |**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
@@ -638,7 +638,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-05**|**GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration**|Kaiyi Huang et.al.|[2412.04440](http://arxiv.org/abs/2412.04440)|null|
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|**[link](https://github.com/shaunak27/grain-clip)**|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
-|**2024-12-05**|**Liquid: Language Models are Scalable Multi-modal Generators**|Junfeng Wu et.al.|[2412.04332](http://arxiv.org/abs/2412.04332)|null|
+|**2024-12-05**|**Liquid: Language Models are Scalable Multi-modal Generators**|Junfeng Wu et.al.|[2412.04332](http://arxiv.org/abs/2412.04332)|**[link](https://github.com/foundationvision/liquid)**|
 |**2024-12-05**|**FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression**|Bo Tong et.al.|[2412.04317](http://arxiv.org/abs/2412.04317)|**[link](https://github.com/codefanw/flashsloth)**|
 |**2024-12-04**|**VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding**|Chaoyu Li et.al.|[2412.03735](http://arxiv.org/abs/2412.03735)|null|
 |**2024-12-04**|**DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation**|Qingdong He et.al.|[2412.03255](http://arxiv.org/abs/2412.03255)|null|
@@ -740,7 +740,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-11**|**Multimodal Fusion Balancing Through Game-Theoretic Regularization**|Konstantinos Kontras et.al.|[2411.07335](http://arxiv.org/abs/2411.07335)|null|
 |**2024-11-11**|**CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models**|Junho Kim et.al.|[2411.06869](http://arxiv.org/abs/2411.06869)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
-|**2024-11-10**|**KMM: Key Frame Mask Mamba for Extended Motion Generation**|Zeyu Zhang et.al.|[2411.06481](http://arxiv.org/abs/2411.06481)|null|
+|**2024-11-10**|**KMM: Key Frame Mask Mamba for Extended Motion Generation**|Zeyu Zhang et.al.|[2411.06481](http://arxiv.org/abs/2411.06481)|**[link](https://github.com/steve-zeyu-zhang/KMM)**|
 |**2024-11-09**|**A Comprehensive Survey and Guide to Multimodal Large Language Models in Vision-Language Tasks**|Chia Xin Liang et.al.|[2411.06284](http://arxiv.org/abs/2411.06284)|null|
 |**2024-11-09**|**An Empirical Analysis on Spatial Reasoning Capabilities of Large Multimodal Models**|Fatemeh Shiri et.al.|[2411.06048](http://arxiv.org/abs/2411.06048)|**[link](https://github.com/fatemehshiri/spatial-mm)**|
 |**2024-11-08**|**Exploring the Alignment Landscape: LLMs and Geometric Deep Models in Protein Representation**|Dong Shu et.al.|[2411.05316](http://arxiv.org/abs/2411.05316)|**[link](https://github.com/tizzzzy/llm-gdm-alignment)**|
@@ -920,7 +920,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-23**|**Detect, Describe, Discriminate: Moving Beyond VQA for MLLM Evaluation**|Manu Gaur et.al.|[2409.15125](http://arxiv.org/abs/2409.15125)|null|
 |**2024-09-23**|**Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond**|Hong Chen et.al.|[2409.14993](http://arxiv.org/abs/2409.14993)|null|
 |**2024-09-23**|**FineCops-Ref: A new Dataset and Task for Fine-Grained Compositional Referring Expression Comprehension**|Junzhuo Liu et.al.|[2409.14750](http://arxiv.org/abs/2409.14750)|**[link](https://github.com/liujunzhuo/FineCops-Ref)**|
-|**2024-09-24**|**Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding**|Yan Shu et.al.|[2409.14485](http://arxiv.org/abs/2409.14485)|null|
+|**2024-09-24**|**Video-XL: Extra-Long Vision Language Model for Hour-Scale Video Understanding**|Yan Shu et.al.|[2409.14485](http://arxiv.org/abs/2409.14485)|**[link](https://github.com/vectorspacelab/video-xl)**|
 |**2024-09-21**|**Enhancing Advanced Visual Reasoning Ability of Large Language Models**|Zhiyuan Li et.al.|[2409.13980](http://arxiv.org/abs/2409.13980)|null|
 |**2024-09-20**|**MaPPER: Multimodal Prior-guided Parameter Efficient Tuning for Referring Expression Comprehension**|Ting Liu et.al.|[2409.13609](http://arxiv.org/abs/2409.13609)|**[link](https://github.com/liuting20/mapper)**|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
@@ -1150,13 +1150,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-10**|**StyleMaster: Stylize Your Video with Artistic Generation and Translation**|Zixuan Ye et.al.|[2412.07744](http://arxiv.org/abs/2412.07744)|null|
 |**2024-12-10**|**SKIPNet: Spatial Attention Skip Connections for Enhanced Brain Tumor Classification**|Khush Mendiratta et.al.|[2412.07736](http://arxiv.org/abs/2412.07736)|null|
 |**2024-12-10**|**Granite Guardian**|Inkit Padhi et.al.|[2412.07724](http://arxiv.org/abs/2412.07724)|**[link](https://github.com/ibm-granite/granite-guardian)**|
-|**2024-12-10**|**Leveraging Content and Context Cues for Low-Light Image Enhancement**|Igor Morawski et.al.|[2412.07693](http://arxiv.org/abs/2412.07693)|null|
+|**2024-12-10**|**Leveraging Content and Context Cues for Low-Light Image Enhancement**|Igor Morawski et.al.|[2412.07693](http://arxiv.org/abs/2412.07693)|**[link](https://github.com/igor-morawski/tmm-sem)**|
 |**2024-12-09**|**Visual Lexicon: Rich Image Features in Language Space**|XuDong Wang et.al.|[2412.06774](http://arxiv.org/abs/2412.06774)|null|
 |**2024-12-09**|**Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty**|Meera Hahn et.al.|[2412.06771](http://arxiv.org/abs/2412.06771)|**[link](https://github.com/google-deepmind/proactive_t2i_agents)**|
 |**2024-12-09**|**Ranking-aware adapter for text-driven image ordering with CLIP**|Wei-Hsiang Yu et.al.|[2412.06760](http://arxiv.org/abs/2412.06760)|**[link](https://github.com/uynaes/rankingawareclip)**|
-|**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|null|
+|**2024-12-09**|**JAPAGEN: Efficient Few/Zero-shot Learning via Japanese Training Dataset Generation with LLM**|Takuro Fujii et.al.|[2412.06738](http://arxiv.org/abs/2412.06738)|**[link](https://github.com/retrieva/japagen)**|
 |**2024-12-09**|**Revisiting GRB 060218: new insights into low-luminosity gamma-ray bursts from a revised shock breakout model**|Christopher M. Irwin et.al.|[2412.06736](http://arxiv.org/abs/2412.06736)|null|
-|**2024-12-09**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|null|
+|**2024-12-09**|**AutoDCWorkflow: LLM-based Data Cleaning Workflow Auto-Generation and Benchmark**|Lan Li et.al.|[2412.06724](http://arxiv.org/abs/2412.06724)|**[link](https://github.com/LanLi2017/LLM4DC)**|
 |**2024-12-09**|**VP-MEL: Visual Prompts Guided Multimodal Entity Linking**|Hongze Mi et.al.|[2412.06720](http://arxiv.org/abs/2412.06720)|null|
 |**2024-12-09**|**Facade: High-Precision Insider Threat Detection Using Deep Contextual Anomaly Detection**|Alex Kantchelian et.al.|[2412.06700](http://arxiv.org/abs/2412.06700)|null|
 |**2024-12-09**|**Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach**|Weichao Xu et.al.|[2412.06684](http://arxiv.org/abs/2412.06684)|null|
@@ -1168,7 +1168,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-06**|**LIAR: Leveraging Alignment (Best-of-N) to Jailbreak LLMs in Seconds**|James Beetham et.al.|[2412.05232](http://arxiv.org/abs/2412.05232)|null|
 |**2024-12-06**|**Are Frontier Large Language Models Suitable for Q&A in Science Centres?**|Jacob Watson et.al.|[2412.05200](http://arxiv.org/abs/2412.05200)|null|
 |**2024-12-06**|**QueEn: A Large Language Model for Quechua-English Translation**|Junhao Chen et.al.|[2412.05184](http://arxiv.org/abs/2412.05184)|null|
-|**2024-12-06**|**A text-to-tabular approach to generate synthetic patient data using LLMs**|Margaux Tornqvist et.al.|[2412.05153](http://arxiv.org/abs/2412.05153)|null|
+|**2024-12-06**|**A text-to-tabular approach to generate synthetic patient data using LLMs**|Margaux Tornqvist et.al.|[2412.05153](http://arxiv.org/abs/2412.05153)|**[link](https://github.com/quinten-health-os/synth-data-gen-from-text)**|
 |**2024-12-06**|**LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation**|Donald Shenaj et.al.|[2412.05148](http://arxiv.org/abs/2412.05148)|null|
 |**2024-12-06**|**A Practical Examination of AI-Generated Text Detectors for Large Language Models**|Brian Tufts et.al.|[2412.05139](http://arxiv.org/abs/2412.05139)|null|
 |**2024-12-05**|**Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail**|Luca Bartolomei et.al.|[2412.04472](http://arxiv.org/abs/2412.04472)|**[link](https://github.com/bartn8/stereoanywhere)**|
@@ -1367,7 +1367,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-06**|**Predicting and Publishing Accurate Imbalance Prices Using Monte Carlo Tree Search**|Fabio Pavirani et.al.|[2411.04011](http://arxiv.org/abs/2411.04011)|null|
 |**2024-11-06**|**Customized Multiple Clustering via Multi-Modal Subspace Proxy Learning**|Jiawei Yao et.al.|[2411.03978](http://arxiv.org/abs/2411.03978)|**[link](https://github.com/alexander-yao/multi-sub)**|
 |**2024-11-06**|**Continuous-Time State Estimation Methods in Robotics: A Survey**|William Talbot et.al.|[2411.03951](http://arxiv.org/abs/2411.03951)|null|
-|**2024-11-06**|**Long-Form Text-to-Music Generation with Adaptive Prompts: A Case of Study in Tabletop Role-Playing Games Soundtracks**|Felipe Marra et.al.|[2411.03948](http://arxiv.org/abs/2411.03948)|null|
+|**2024-11-06**|**Long-Form Text-to-Music Generation with Adaptive Prompts: A Case of Study in Tabletop Role-Playing Games Soundtracks**|Felipe Marra et.al.|[2411.03948](http://arxiv.org/abs/2411.03948)|**[link](https://github.com/felipemarra/babel-bardo)**|
 |**2024-11-06**|**Can Custom Models Learn In-Context? An Exploration of Hybrid Architecture Performance on In-Context Learning Tasks**|Ryan Campbell et.al.|[2411.03945](http://arxiv.org/abs/2411.03945)|**[link](https://github.com/in-context-learning-2024/in-context)**|
 |**2024-11-06**|**Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision-Language Models**|Minh Duc Bui et.al.|[2411.03888](http://arxiv.org/abs/2411.03888)|**[link](https://github.com/minhducbui/multi3hate)**|
 |**2024-11-06**|**Data Fusion of Synthetic Query Variants With Generative Large Language Models**|Timo Breuer et.al.|[2411.03881](http://arxiv.org/abs/2411.03881)|**[link](https://github.com/breuert/sigirap24)**|
@@ -1405,7 +1405,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-10-30**|**SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation**|Yining Hong et.al.|[2410.23277](http://arxiv.org/abs/2410.23277)|null|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
 |**2024-10-30**|**Evaluating Cultural and Social Awareness of LLM Web Agents**|Haoyi Qiu et.al.|[2410.23252](http://arxiv.org/abs/2410.23252)|null|
-|**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182](http://arxiv.org/abs/2410.23182)|null|
+|**2024-10-30**|**ProTransformer: Robustify Transformers via Plug-and-Play Paradigm**|Zhichao Hou et.al.|[2410.23182](http://arxiv.org/abs/2410.23182)|**[link](https://github.com/chris-hzc/ProTransformer)**|
 |**2024-10-30**|**ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning**|Millennium Bismay et.al.|[2410.23180](http://arxiv.org/abs/2410.23180)|**[link](https://github.com/millenniumbismay/reasoningrec)**|
 |**2024-10-31**|**Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models**|Navyansh Mahla et.al.|[2410.23111](http://arxiv.org/abs/2410.23111)|null|
 |**2024-10-30**|**PIP-MM: Pre-Integrating Prompt Information into Visual Encoding via Existing MLLM Structures**|Tianxiang Wu et.al.|[2410.23089](http://arxiv.org/abs/2410.23089)|null|
@@ -1822,7 +1822,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-23**|**Indoor scene recognition from images under visual corruptions**|Willams de Lima Costa et.al.|[2408.13029](http://arxiv.org/abs/2408.13029)|null|
 |**2024-08-23**|**A Web-Based Solution for Federated Learning with LLM-Based Automation**|Chamith Mawela et.al.|[2408.13010](http://arxiv.org/abs/2408.13010)|null|
 |**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
-|**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
+|**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|**[link](https://github.com/jaygagaga/pronog)**|
 |**2024-08-22**|**Contextual Stochastic Optimization for School Desegregation Policymaking**|Hongzhao Guan et.al.|[2408.12572](http://arxiv.org/abs/2408.12572)|null|
 |**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
 |**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475](http://arxiv.org/abs/2408.12475)|null|
@@ -1835,7 +1835,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
 |**2024-08-21**|**D-RMGPT: Robot-assisted collaborative tasks driven by large multimodal models**|M. Forlini et.al.|[2408.11761](http://arxiv.org/abs/2408.11761)|null|
 |**2024-08-21**|**MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs**|Yulin Ren et.al.|[2408.11758](http://arxiv.org/abs/2408.11758)|**[link](https://github.com/renyulin-f/mambacsr)**|
-|**2024-08-21**|**FocusLLM: Scaling LLM's Context by Parallel Decoding**|Zhenyu Li et.al.|[2408.11745](http://arxiv.org/abs/2408.11745)|null|
+|**2024-08-21**|**FocusLLM: Scaling LLM's Context by Parallel Decoding**|Zhenyu Li et.al.|[2408.11745](http://arxiv.org/abs/2408.11745)|**[link](https://github.com/leezythu/focusllm)**|
 |**2024-08-21**|**JieHua Paintings Style Feature Extracting Model using Stable Diffusion with ControlNet**|Yujia Gu et.al.|[2408.11744](http://arxiv.org/abs/2408.11744)|null|
 |**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|**[link](https://github.com/yuliangcai2022/clumo)**|
 |**2024-08-22**|**LLM4VV: Exploring LLM-as-a-Judge for Validation and Verification Testsuites**|Zachariah Sollenberger et.al.|[2408.11729](http://arxiv.org/abs/2408.11729)|null|
