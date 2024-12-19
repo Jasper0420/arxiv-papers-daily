@@ -22,7 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-17**|**Unsupervised UAV 3D Trajectories Estimation with Sparse Point Clouds**|Hanfang Liang et.al.|[2412.12716](http://arxiv.org/abs/2412.12716)|**[link](https://github.com/lianghanfang/UnLiDAR-UAV-Est)**|
+|**2024-12-18**|**Unsupervised UAV 3D Trajectories Estimation with Sparse Point Clouds**|Hanfang Liang et.al.|[2412.12716](http://arxiv.org/abs/2412.12716)|**[link](https://github.com/lianghanfang/UnLiDAR-UAV-Est)**|
 |**2024-12-15**|**Exploring Enhanced Contextual Information for Video-Level Object Tracking**|Ben Kang et.al.|[2412.11023](http://arxiv.org/abs/2412.11023)|**[link](https://github.com/kangben258/MCITrack)**|
 |**2024-12-13**|**Visual Object Tracking across Diverse Data Modalities: A Review**|Mengmeng Wang et.al.|[2412.09991](http://arxiv.org/abs/2412.09991)|null|
 |**2024-12-09**|**Magnetic Switching in Monolayer 2D Diluted Magnetic Semiconductors via Spin-to- Spin Conversion**|Siwei Chen et.al.|[2412.06650](http://arxiv.org/abs/2412.06650)|null|
@@ -109,6 +109,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Development of a High-Resolution, High-Dynamic-Range Charge Detector for Ion Beam Monitoring**|O. Adriani et.al.|[2412.13934](http://arxiv.org/abs/2412.13934)|null|
+|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|null|
 |**2024-12-17**|**Transforming Single Photon Camera Images to Color High Dynamic Range Images**|Sumit Sharma et.al.|[2412.12942](http://arxiv.org/abs/2412.12942)|null|
 |**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
 |**2024-12-17**|**Compressed Sensing Based Residual Recovery Algorithms and Hardware for Modulo Sampling**|Shaik Basheeruddin Shah et.al.|[2412.12724](http://arxiv.org/abs/2412.12724)|null|
@@ -226,6 +228,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
+|**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
+|**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818](http://arxiv.org/abs/2412.13818)|null|
+|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|null|
+|**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
+|**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|null|
+|**2024-12-18**|**Zero-Shot Low Light Image Enhancement with Diffusion Prior**|Joshua Cho et.al.|[2412.13401](http://arxiv.org/abs/2412.13401)|null|
 |**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550](http://arxiv.org/abs/2412.12550)|null|
 |**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-16**|**Expanded Comprehensive Robotic Cholecystectomy Dataset (CRCD)**|Ki-Hwan Oh et.al.|[2412.12238](http://arxiv.org/abs/2412.12238)|null|
@@ -579,6 +588,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
@@ -630,6 +640,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171](http://arxiv.org/abs/2412.14171)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
+|**2024-12-18**|**InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**|Cong Wei et.al.|[2412.14006](http://arxiv.org/abs/2412.14006)|**[link](https://github.com/congvvc/instructseg)**|
+|**2024-12-18**|**LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via Hierarchical Window Transformer**|Yipeng Zhang et.al.|[2412.13871](http://arxiv.org/abs/2412.13871)|null|
 |**2024-12-17**|**Modality-Inconsistent Continual Learning of Multimodal Large Language Models**|Weiguo Pian et.al.|[2412.13050](http://arxiv.org/abs/2412.13050)|null|
 |**2024-12-17**|**ComprehendEdit: A Comprehensive Dataset and Evaluation Framework for Multimodal Knowledge Editing**|Yaohui Ma et.al.|[2412.12821](http://arxiv.org/abs/2412.12821)|null|
 |**2024-12-17**|**PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model**|Yuqing Wang et.al.|[2412.12737](http://arxiv.org/abs/2412.12737)|null|
@@ -1165,6 +1178,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
+|**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
+|**2024-12-18**|**Understanding and Evaluating Trust in Generative AI and Large Language Models for Spreadsheets**|Simon Thorne et.al.|[2412.14062](http://arxiv.org/abs/2412.14062)|null|
+|**2024-12-18**|**Cross-Lingual Transfer of Debiasing and Detoxification in Multilingual LLMs: An Extensive Investigation**|Vera Neplenbroek et.al.|[2412.14050](http://arxiv.org/abs/2412.14050)|**[link](https://github.com/veranep/crosslingualdetoxdebias)**|
+|**2024-12-18**|**Hansel: Output Length Controlling Framework for Large Language Models**|Seoha Song et.al.|[2412.14033](http://arxiv.org/abs/2412.14033)|null|
+|**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|null|
+|**2024-12-18**|**What makes a good metric? Evaluating automatic metrics for text-to-image consistency**|Candace Ross et.al.|[2412.13989](http://arxiv.org/abs/2412.13989)|null|
+|**2024-12-18**|**RAG for Effective Supply Chain Security Questionnaire Automation**|Zaynab Batool Reza et.al.|[2412.13988](http://arxiv.org/abs/2412.13988)|null|
+|**2024-12-18**|**Prompting Strategies for Enabling Large Language Models to Infer Causation from Correlation**|Eleni Sgouritsa et.al.|[2412.13952](http://arxiv.org/abs/2412.13952)|null|
+|**2024-12-18**|**CoRa: A Collision-Resistant LoRa Symbol Detector of Low Complexity**|José Álamos et.al.|[2412.13930](http://arxiv.org/abs/2412.13930)|null|
 |**2024-12-17**|**CoMPaSS: Enhancing Spatial Understanding in Text-to-Image Diffusion Models**|Gaoyang Zhang et.al.|[2412.13195](http://arxiv.org/abs/2412.13195)|**[link](https://github.com/blurgyy/compass)**|
 |**2024-12-17**|**MotionBridge: Dynamic Video Inbetweening with Flexible Controls**|Maham Tanveer et.al.|[2412.13190](http://arxiv.org/abs/2412.13190)|null|
 |**2024-12-17**|**Move-in-2D: 2D-Conditioned Human Motion Generation**|Hsin-Ping Huang et.al.|[2412.13185](http://arxiv.org/abs/2412.13185)|null|
