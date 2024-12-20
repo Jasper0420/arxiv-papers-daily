@@ -109,8 +109,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Event-assisted 12-stop HDR Imaging of Dynamic Scene**|Shi Guo et.al.|[2412.14705](http://arxiv.org/abs/2412.14705)|null|
+|**2024-12-19**|**LEDiff: Latent Exposure Diffusion for HDR Generation**|Chao Wang et.al.|[2412.14456](http://arxiv.org/abs/2412.14456)|null|
 |**2024-12-18**|**Development of a High-Resolution, High-Dynamic-Range Charge Detector for Ion Beam Monitoring**|O. Adriani et.al.|[2412.13934](http://arxiv.org/abs/2412.13934)|null|
-|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|null|
+|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
 |**2024-12-17**|**Transforming Single Photon Camera Images to Color High Dynamic Range Images**|Sumit Sharma et.al.|[2412.12942](http://arxiv.org/abs/2412.12942)|null|
 |**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
 |**2024-12-17**|**Compressed Sensing Based Residual Recovery Algorithms and Hardware for Modulo Sampling**|Shaik Basheeruddin Shah et.al.|[2412.12724](http://arxiv.org/abs/2412.12724)|null|
@@ -228,10 +230,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|**[link](https://github.com/hejh8/cyclerdm)**|
+|**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
+|**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327](http://arxiv.org/abs/2412.14327)|null|
+|**2024-12-18**|**Distilled Pooling Transformer Encoder for Efficient Realistic Image Dehazing**|Le-Anh Tran et.al.|[2412.14220](http://arxiv.org/abs/2412.14220)|**[link](https://github.com/tranleanh/dpte-net)**|
 |**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
 |**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
 |**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818](http://arxiv.org/abs/2412.13818)|null|
-|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|null|
+|**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
 |**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
 |**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|null|
 |**2024-12-18**|**Zero-Shot Low Light Image Enhancement with Diffusion Prior**|Joshua Cho et.al.|[2412.13401](http://arxiv.org/abs/2412.13401)|null|
@@ -640,12 +646,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
+|**2024-12-19**|**Progressive Multimodal Reasoning via Active Retrieval**|Guanting Dong et.al.|[2412.14835](http://arxiv.org/abs/2412.14835)|null|
+|**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[2412.14660](http://arxiv.org/abs/2412.14660)|**[link](https://github.com/hfutml/calibration-mllm)**|
 |**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171](http://arxiv.org/abs/2412.14171)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
 |**2024-12-18**|**InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**|Cong Wei et.al.|[2412.14006](http://arxiv.org/abs/2412.14006)|**[link](https://github.com/congvvc/instructseg)**|
-|**2024-12-18**|**LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via Hierarchical Window Transformer**|Yipeng Zhang et.al.|[2412.13871](http://arxiv.org/abs/2412.13871)|null|
+|**2024-12-18**|**LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via Hierarchical Window Transformer**|Yipeng Zhang et.al.|[2412.13871](http://arxiv.org/abs/2412.13871)|**[link](https://github.com/thunlp/llava-uhd)**|
 |**2024-12-17**|**Modality-Inconsistent Continual Learning of Multimodal Large Language Models**|Weiguo Pian et.al.|[2412.13050](http://arxiv.org/abs/2412.13050)|null|
 |**2024-12-17**|**ComprehendEdit: A Comprehensive Dataset and Evaluation Framework for Multimodal Knowledge Editing**|Yaohui Ma et.al.|[2412.12821](http://arxiv.org/abs/2412.12821)|null|
-|**2024-12-17**|**PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model**|Yuqing Wang et.al.|[2412.12737](http://arxiv.org/abs/2412.12737)|null|
+|**2024-12-17**|**PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model**|Yuqing Wang et.al.|[2412.12737](http://arxiv.org/abs/2412.12737)|**[link](https://github.com/xai4sar/polsam)**|
 |**2024-12-17**|**ASAP: Advancing Semantic Alignment Promotes Multi-Modal Manipulation Detecting and Grounding**|Zhenxing Zhang et.al.|[2412.12718](http://arxiv.org/abs/2412.12718)|**[link](https://github.com/CriliasMiller/ASAP)**|
 |**2024-12-17**|**Make Imagination Clearer! Stable Diffusion-based Visual Imagination for Multimodal Machine Translation**|Andong Chen et.al.|[2412.12627](http://arxiv.org/abs/2412.12627)|null|
 |**2024-12-17**|**FCMR: Robust Evaluation of Financial Cross-Modal Multi-Hop Reasoning**|Seunghee Kim et.al.|[2412.12567](http://arxiv.org/abs/2412.12567)|null|
@@ -1178,6 +1187,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
+|**2024-12-19**|**FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**|Sucheng Ren et.al.|[2412.15205](http://arxiv.org/abs/2412.15205)|**[link](https://github.com/oliverrensu/flowar)**|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|
+|**2024-12-19**|**Prompt-A-Video: Prompt Your Video Diffusion Model via Preference-Aligned LLM**|Yatai Ji et.al.|[2412.15156](http://arxiv.org/abs/2412.15156)|**[link](https://github.com/jiyt17/prompt-a-video)**|
+|**2024-12-19**|**AceMath: Advancing Frontier Math Reasoning with Post-Training and Reward Modeling**|Zihan Liu et.al.|[2412.15084](http://arxiv.org/abs/2412.15084)|null|
+|**2024-12-19**|**MultiverSeg: Scalable Interactive Segmentation of Biomedical Imaging Datasets with In-Context Guidance**|Hallee E. Wong et.al.|[2412.15058](http://arxiv.org/abs/2412.15058)|null|
+|**2024-12-19**|**Measuring, Modeling, and Helping People Account for Privacy Risks in Online Self-Disclosures with AI**|Isadora Krsek et.al.|[2412.15047](http://arxiv.org/abs/2412.15047)|null|
+|**2024-12-19**|**LLMs Lost in Translation: M-ALERT uncovers Cross-Linguistic Safety Gaps**|Felix Friedrich et.al.|[2412.15035](http://arxiv.org/abs/2412.15035)|null|
+|**2024-12-19**|**Large Language Models and Code Security: A Systematic Literature Review**|Enna Basic et.al.|[2412.15004](http://arxiv.org/abs/2412.15004)|null|
 |**2024-12-18**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
 |**2024-12-18**|**Alignment faking in large language models**|Ryan Greenblatt et.al.|[2412.14093](http://arxiv.org/abs/2412.14093)|**[link](https://github.com/redwoodresearch/alignment_faking_public)**|
 |**2024-12-18**|**Understanding and Evaluating Trust in Generative AI and Large Language Models for Spreadsheets**|Simon Thorne et.al.|[2412.14062](http://arxiv.org/abs/2412.14062)|null|
