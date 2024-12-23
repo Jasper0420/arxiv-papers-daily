@@ -109,6 +109,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**High-Dynamic Range Broadband Terahertz Time-Domain Spectrometer Based on Organic Crystal MNA**|Samira Mansourzadeh et.al.|[2412.15718](http://arxiv.org/abs/2412.15718)|null|
 |**2024-12-19**|**Event-assisted 12-stop HDR Imaging of Dynamic Scene**|Shi Guo et.al.|[2412.14705](http://arxiv.org/abs/2412.14705)|null|
 |**2024-12-19**|**LEDiff: Latent Exposure Diffusion for HDR Generation**|Chao Wang et.al.|[2412.14456](http://arxiv.org/abs/2412.14456)|null|
 |**2024-12-18**|**Development of a High-Resolution, High-Dynamic-Range Charge Detector for Ion Beam Monitoring**|O. Adriani et.al.|[2412.13934](http://arxiv.org/abs/2412.13934)|null|
@@ -230,6 +231,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
+|**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
+|**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
+|**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
+|**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513](http://arxiv.org/abs/2412.15513)|null|
+|**2024-12-19**|**Learning Visual Composition through Improved Semantic Guidance**|Austin Stone et.al.|[2412.15396](http://arxiv.org/abs/2412.15396)|null|
 |**2024-12-19**|**Unified Image Restoration and Enhancement: Degradation Calibrated Cycle Reconstruction Diffusion Model**|Minglong Xue et.al.|[2412.14630](http://arxiv.org/abs/2412.14630)|null|
 |**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475](http://arxiv.org/abs/2412.14475)|null|
 |**2024-12-18**|**Personalized Generative Low-light Image Denoising and Enhancement**|Xijun Wang et.al.|[2412.14327](http://arxiv.org/abs/2412.14327)|null|
@@ -646,6 +653,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**MiniGPT-Pancreas: Multimodal Large Language Model for Pancreas Cancer Classification and Detection**|Andrea Moglia et.al.|[2412.15925](http://arxiv.org/abs/2412.15925)|**[link](https://github.com/elianastasio/minigpt-pancreas)**|
+|**2024-12-20**|**Beyond Human Data: Aligning Multimodal Large Language Models by Iterative Self-Evolution**|Wentao Tan et.al.|[2412.15650](http://arxiv.org/abs/2412.15650)|null|
+|**2024-12-20**|**Technical Report for ICML 2024 TiFA Workshop MLLM Attack Challenge: Suffix Injection and Projected Gradient Descent Can Easily Fool An MLLM**|Yangyang Guo et.al.|[2412.15614](http://arxiv.org/abs/2412.15614)|null|
+|**2024-12-20**|**QUART-Online: Latency-Free Large Multimodal Language Model for Quadruped Robot Learning**|Xinyang Tong et.al.|[2412.15576](http://arxiv.org/abs/2412.15576)|null|
+|**2024-12-20**|**Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage**|Saehyung Lee et.al.|[2412.15484](http://arxiv.org/abs/2412.15484)|null|
+|**2024-12-19**|**MRWeb: An Exploration of Generating Multi-Page Resource-Aware Web Code from UI Designs**|Yuxuan Wan et.al.|[2412.15310](http://arxiv.org/abs/2412.15310)|**[link](https://github.com/webpai/mrweb)**|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
 |**2024-12-19**|**Progressive Multimodal Reasoning via Active Retrieval**|Guanting Dong et.al.|[2412.14835](http://arxiv.org/abs/2412.14835)|null|
 |**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[2412.14660](http://arxiv.org/abs/2412.14660)|**[link](https://github.com/hfutml/calibration-mllm)**|
@@ -1187,6 +1200,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153](http://arxiv.org/abs/2412.16153)|null|
+|**2024-12-20**|**A vector logic for extensional formal semantics**|Daniel Quigley et.al.|[2412.16152](http://arxiv.org/abs/2412.16152)|null|
+|**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120](http://arxiv.org/abs/2412.16120)|null|
+|**2024-12-20**|**Fearful Falcons and Angry Llamas: Emotion Category Annotations of Arguments by Humans and LLMs**|Lynn Greschner et.al.|[2412.15993](http://arxiv.org/abs/2412.15993)|null|
+|**2024-12-20**|**APIRL: Deep Reinforcement Learning for REST API Fuzzing**|Myles Foley et.al.|[2412.15991](http://arxiv.org/abs/2412.15991)|**[link](https://github.com/ICL-ml4csec/APIRL)**|
+|**2024-12-20**|**From General to Specific: Tailoring Large Language Models for Personalized Healthcare**|Ruize Shi et.al.|[2412.15957](http://arxiv.org/abs/2412.15957)|null|
+|**2024-12-20**|**MiniGPT-Pancreas: Multimodal Large Language Model for Pancreas Cancer Classification and Detection**|Andrea Moglia et.al.|[2412.15925](http://arxiv.org/abs/2412.15925)|**[link](https://github.com/elianastasio/minigpt-pancreas)**|
+|**2024-12-20**|**On the Suitability of pre-trained foundational LLMs for Analysis in German Legal Education**|Lorenz Wendlinger et.al.|[2412.15902](http://arxiv.org/abs/2412.15902)|null|
+|**2024-12-20**|**On Robust Cross Domain Alignment**|Anish Chakrabarty et.al.|[2412.15861](http://arxiv.org/abs/2412.15861)|null|
+|**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
 |**2024-12-19**|**FlowAR: Scale-wise Autoregressive Image Generation Meets Flow Matching**|Sucheng Ren et.al.|[2412.15205](http://arxiv.org/abs/2412.15205)|**[link](https://github.com/oliverrensu/flowar)**|
 |**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|**[link](https://github.com/fcast07/cqot)**|
