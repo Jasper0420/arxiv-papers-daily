@@ -234,11 +234,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818](http://arxiv.org/abs/2412.13818)|null|
 |**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
 |**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
-|**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|null|
-|**2024-12-18**|**Zero-Shot Low Light Image Enhancement with Diffusion Prior**|Joshua Cho et.al.|[2412.13401](http://arxiv.org/abs/2412.13401)|null|
+|**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|**[link](https://github.com/cidautai/darkir)**|
+|**2024-12-18**|**Zero-Shot Low Light Image Enhancement with Diffusion Prior**|Joshua Cho et.al.|[2412.13401](http://arxiv.org/abs/2412.13401)|**[link](https://github.com/hello-world-from-joshua/zero-shot-llie)**|
 |**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550](http://arxiv.org/abs/2412.12550)|null|
 |**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
-|**2024-12-16**|**Expanded Comprehensive Robotic Cholecystectomy Dataset (CRCD)**|Ki-Hwan Oh et.al.|[2412.12238](http://arxiv.org/abs/2412.12238)|null|
+|**2024-12-16**|**Expanded Comprehensive Robotic Cholecystectomy Dataset (CRCD)**|Ki-Hwan Oh et.al.|[2412.12238](http://arxiv.org/abs/2412.12238)|**[link](https://github.com/sitleng/crcd)**|
 |**2024-12-16**|**Ultra-High-Definition Dynamic Multi-Exposure Image Fusion via Infinite Pixel Learning**|Xingchi Chen et.al.|[2412.11685](http://arxiv.org/abs/2412.11685)|null|
 |**2024-12-16**|**CLIP-SR: Collaborative Linguistic and Image Processing for Super-Resolution**|Bingwen Hu et.al.|[2412.11609](http://arxiv.org/abs/2412.11609)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
@@ -246,7 +246,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-15**|**Towards Context-aware Convolutional Network for Image Restoration**|Fangwei Hao et.al.|[2412.11008](http://arxiv.org/abs/2412.11008)|null|
 |**2024-12-14**|**Boosting ViT-based MRI Reconstruction from the Perspectives of Frequency Modulation, Spatial Purification, and Scale Diversification**|Yucong Meng et.al.|[2412.10776](http://arxiv.org/abs/2412.10776)|null|
 |**2024-12-16**|**Matrix Completion via Residual Spectral Matching**|Ziyuan Chen et.al.|[2412.10005](http://arxiv.org/abs/2412.10005)|null|
-|**2024-12-13**|**$\textrm{A}^{\textrm{2}}$ RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion**|Jiawei Li et.al.|[2412.09954](http://arxiv.org/abs/2412.09954)|null|
+|**2024-12-13**|**$\textrm{A}^{\textrm{2}}$ RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion**|Jiawei Li et.al.|[2412.09954](http://arxiv.org/abs/2412.09954)|**[link](https://github.com/lok-18/a2rnet)**|
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465](http://arxiv.org/abs/2412.09465)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
 |**2024-12-13**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
 |**2024-12-13**|**MVC-VPR: Mutual Learning of Viewpoint Classification and Visual Place Recognition**|Qiwen Gu et.al.|[2412.09199](http://arxiv.org/abs/2412.09199)|null|
@@ -267,7 +267,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753](http://arxiv.org/abs/2412.06753)|null|
 |**2024-12-09**|**EchoSim4D: A Proof-of-Concept Gamified XR Echocardiography Training Simulator for Neonates using 4D Ultrasound Volume**|Deepthy Rose Jose et.al.|[2412.06271](http://arxiv.org/abs/2412.06271)|null|
 |**2024-12-08**|**A Review on Multisensor Data Fusion for Wearable Health Monitoring**|Arlene John et.al.|[2412.05895](http://arxiv.org/abs/2412.05895)|null|
-|**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756](http://arxiv.org/abs/2412.05756)|null|
+|**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756](http://arxiv.org/abs/2412.05756)|**[link](https://github.com/zhwl2117/InstructCIR)**|
 |**2024-12-07**|**Enhancing Sample Generation of Diffusion Models using Noise Level Correction**|Abulikemu Abuduweili et.al.|[2412.05488](http://arxiv.org/abs/2412.05488)|null|
 |**2024-12-06**|**Equivariant Denoisers for Image Restoration**|Marien Renaud et.al.|[2412.05343](http://arxiv.org/abs/2412.05343)|null|
 |**2024-12-06**|**ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration**|Chi-Wei Hsiao et.al.|[2412.05043](http://arxiv.org/abs/2412.05043)|null|
@@ -300,7 +300,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-27**|**Complexity Experts are Task-Discriminative Learners for Any Image Restoration**|Eduard Zamfir et.al.|[2411.18466](http://arxiv.org/abs/2411.18466)|null|
 |**2024-11-27**|**Adaptive Blind All-in-One Image Restoration**|David Serrano-Lozano et.al.|[2411.18412](http://arxiv.org/abs/2411.18412)|**[link](https://github.com/davidserra9/abair)**|
 |**2024-11-29**|**HUPE: Heuristic Underwater Perceptual Enhancement with Semantic Collaborative Learning**|Zengxi Zhang et.al.|[2411.18296](http://arxiv.org/abs/2411.18296)|**[link](https://github.com/zengxizhang/hupe)**|
-|**2024-11-27**|**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution**|Linwei Dong et.al.|[2411.18263](http://arxiv.org/abs/2411.18263)|null|
+|**2024-11-27**|**TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution**|Linwei Dong et.al.|[2411.18263](http://arxiv.org/abs/2411.18263)|**[link](https://github.com/Microtreei/TSD-SR)**|
 |**2024-12-02**|**Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision**|Jinnyeong Kim et.al.|[2411.18025](http://arxiv.org/abs/2411.18025)|null|
 |**2024-11-26**|**Low-rank Adaptation-based All-Weather Removal for Autonomous Navigation**|Sudarshan Rajagopalan et.al.|[2411.17814](http://arxiv.org/abs/2411.17814)|null|
 |**2024-11-26**|**GenDeg: Diffusion-Based Degradation Synthesis for Generalizable All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2411.17687](http://arxiv.org/abs/2411.17687)|null|
@@ -714,7 +714,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-04**|**VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding**|Chaoyu Li et.al.|[2412.03735](http://arxiv.org/abs/2412.03735)|null|
 |**2024-12-04**|**DynamicControl: Adaptive Condition Selection for Improved Text-to-Image Generation**|Qingdong He et.al.|[2412.03255](http://arxiv.org/abs/2412.03255)|null|
 |**2024-12-04**|**Survey of different Large Language Model Architectures: Trends, Benchmarks, and Challenges**|Minghao Shao et.al.|[2412.03220](http://arxiv.org/abs/2412.03220)|null|
-|**2024-12-04**|**ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**|Zhe Xie et.al.|[2412.03104](http://arxiv.org/abs/2412.03104)|null|
+|**2024-12-04**|**ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning**|Zhe Xie et.al.|[2412.03104](http://arxiv.org/abs/2412.03104)|**[link](https://github.com/NetManAIOps/ChatTS)**|
 |**2024-12-03**|**AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?**|Kaixiong Gong et.al.|[2412.02611](http://arxiv.org/abs/2412.02611)|null|
 |**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|Jinjin Cai et.al.|[2412.02531](http://arxiv.org/abs/2412.02531)|null|
 |**2024-12-03**|**VR Based Emotion Recognition Using Deep Multimodal Fusion With Biosignals Across Multiple Anatomical Domains**|Pubudu L. Indrasiri et.al.|[2412.02283](http://arxiv.org/abs/2412.02283)|null|
@@ -966,7 +966,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-30**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al.|[2409.20146](http://arxiv.org/abs/2409.20146)|null|
 |**2024-09-30**|**Multimodal LLM Enhanced Cross-lingual Cross-modal Retrieval**|Yabing Wang et.al.|[2409.19961](http://arxiv.org/abs/2409.19961)|null|
 |**2024-09-30**|**WildFusion: Multimodal Implicit 3D Reconstructions in the Wild**|Yanbaihui Liu et.al.|[2409.19904](http://arxiv.org/abs/2409.19904)|null|
-|**2024-10-01**|**Towards Unified Multimodal Editing with Enhanced Knowledge Collaboration**|Kaihang Pan et.al.|[2409.19872](http://arxiv.org/abs/2409.19872)|null|
+|**2024-10-01**|**Towards Unified Multimodal Editing with Enhanced Knowledge Collaboration**|Kaihang Pan et.al.|[2409.19872](http://arxiv.org/abs/2409.19872)|**[link](https://github.com/beepkh/unike)**|
 |**2024-09-29**|**Multimodal Misinformation Detection by Learning from Synthetic Data with Multimodal LLMs**|Fengzhu Zeng et.al.|[2409.19656](http://arxiv.org/abs/2409.19656)|null|
 |**2024-09-28**|**A Parameter-Efficient Tuning Framework for Language-guided Object Grounding and Robot Grasping**|Houjian Yu et.al.|[2409.19457](http://arxiv.org/abs/2409.19457)|null|
 |**2024-09-28**|**Visual Question Decomposition on Multimodal Large Language Models**|Haowei Zhang et.al.|[2409.19339](http://arxiv.org/abs/2409.19339)|null|
@@ -1073,7 +1073,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-19**|**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant**|Zhengchao Huang et.al.|[2408.10072](http://arxiv.org/abs/2408.10072)|**[link](https://github.com/thu-huangzc/FFAA)**|
 |**2024-08-19**|**Enhance Modality Robustness in Text-Centric Multimodal Alignment with Adversarial Prompting**|Yun-Da Tsai et.al.|[2408.09798](http://arxiv.org/abs/2408.09798)|null|
 |**2024-08-20**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
-|**2024-08-18**|**Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models**|Kening Zheng et.al.|[2408.09429](http://arxiv.org/abs/2408.09429)|null|
+|**2024-08-18**|**Reefknot: A Comprehensive Benchmark for Relation Hallucination Evaluation, Analysis and Mitigation in Multimodal Large Language Models**|Kening Zheng et.al.|[2408.09429](http://arxiv.org/abs/2408.09429)|**[link](https://github.com/JackChen-seu/Reefknot)**|
 |**2024-08-17**|**BaThe: Defense against the Jailbreak Attack in Multimodal Large Language Models by Treating Harmful Instruction as Backdoor Trigger**|Yulin Chen et.al.|[2408.09093](http://arxiv.org/abs/2408.09093)|null|
 |**2024-08-16**|**ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis**|Yubao Zhao et.al.|[2408.08849](http://arxiv.org/abs/2408.08849)|**[link](https://github.com/YubaoZhao/ECG-Chat)**|
 |**2024-08-16**|**Rethinking Generative Semantic Communication for Multi-User Systems with Multi-Modal LLM**|Wanting Yang et.al.|[2408.08765](http://arxiv.org/abs/2408.08765)|null|
@@ -1255,7 +1255,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-11**|**GPD-1: Generative Pre-training for Driving**|Zixun Xie et.al.|[2412.08643](http://arxiv.org/abs/2412.08643)|**[link](https://github.com/wzzheng/gpd)**|
 |**2024-12-11**|**Fast Prompt Alignment for Text-to-Image Generation**|Khalil Mrini et.al.|[2412.08639](http://arxiv.org/abs/2412.08639)|**[link](https://github.com/tiktok/fast_prompt_alignment)**|
 |**2024-12-11**|**DMin: Scalable Training Data Influence Estimation for Diffusion Models**|Huawei Lin et.al.|[2412.08637](http://arxiv.org/abs/2412.08637)|**[link](https://github.com/huawei-lin/DMin)**|
-|**2024-12-11**|**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**|Vladimir Kulikov et.al.|[2412.08629](http://arxiv.org/abs/2412.08629)|null|
+|**2024-12-11**|**FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models**|Vladimir Kulikov et.al.|[2412.08629](http://arxiv.org/abs/2412.08629)|**[link](https://github.com/fallenshock/FlowEdit)**|
 |**2024-12-11**|**Der Effizienz- und Intelligenzbegriff in der Lexikographie und kuenstlichen Intelligenz: kann ChatGPT die lexikographische Textsorte nachbilden?**|Ivan Arias-Arias et.al.|[2412.08599](http://arxiv.org/abs/2412.08599)|null|
 |**2024-12-11**|**Leveraging Graph-RAG and Prompt Engineering to Enhance LLM-Based Automated Requirement Traceability and Compliance Checks**|Arsalan Masoudifard et.al.|[2412.08593](http://arxiv.org/abs/2412.08593)|null|
 |**2024-12-11**|**LAION-SG: An Enhanced Large-Scale Dataset for Training Complex Image-Text Models with Structural Annotations**|Zejian Li et.al.|[2412.08580](http://arxiv.org/abs/2412.08580)|**[link](https://github.com/mengcye/LAION-SG)**|
@@ -1381,7 +1381,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-21**|**CAIP: Detecting Router Misconfigurations with Context-Aware Iterative Prompting of LLMs**|Xi Jiang et.al.|[2411.14283](http://arxiv.org/abs/2411.14283)|null|
 |**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
 |**2024-11-21**|**Intent-Aware Dialogue Generation and Multi-Task Contrastive Learning for Multi-Turn Intent Classification**|Junhua Liu et.al.|[2411.14252](http://arxiv.org/abs/2411.14252)|null|
-|**2024-11-21**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2411.14251](http://arxiv.org/abs/2411.14251)|null|
+|**2024-11-21**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2411.14251](http://arxiv.org/abs/2411.14251)|**[link](https://github.com/waterhorse1/natural-language-rl)**|
 |**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
 |**2024-11-20**|**VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models**|Ziqi Huang et.al.|[2411.13503](http://arxiv.org/abs/2411.13503)|**[link](https://github.com/vchitect/vbench)**|
 |**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
@@ -1411,7 +1411,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-18**|**Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**|Mingchao Qi et.al.|[2411.11714](http://arxiv.org/abs/2411.11714)|**[link](https://github.com/mingchaoqi/skill_transfer)**|
 |**2024-11-18**|**Exploring LLMs for Verifying Technical System Specifications Against Requirements**|Lasse M. Reinpold et.al.|[2411.11582](http://arxiv.org/abs/2411.11582)|null|
 |**2024-11-18**|**Simple But Not Secure: An Empirical Security Analysis of Two-factor Authentication Systems**|Zhi Wang et.al.|[2411.11551](http://arxiv.org/abs/2411.11551)|null|
-|**2024-11-18**|**A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation**|Hanxiang Xu et.al.|[2411.11532](http://arxiv.org/abs/2411.11532)|null|
+|**2024-11-18**|**A Code Knowledge Graph-Enhanced System for LLM-Based Fuzz Driver Generation**|Hanxiang Xu et.al.|[2411.11532](http://arxiv.org/abs/2411.11532)|**[link](https://github.com/xuhxx/ckgfuzzer)**|
 |**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|**[link](https://github.com/PKU-YuanGroup/LLaVA-CoT)**|
 |**2024-11-15**|**Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations**|Jianfeng Chi et.al.|[2411.10414](http://arxiv.org/abs/2411.10414)|null|
 |**2024-11-15**|**Repurposing Stable Diffusion Attention for Training-Free Unsupervised Interactive Segmentation**|Markus Karmann et.al.|[2411.10411](http://arxiv.org/abs/2411.10411)|null|
@@ -1755,7 +1755,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143](http://arxiv.org/abs/2409.17143)|**[link](https://github.com/yu-rp/apiprompting)**|
 |**2024-09-25**|**Blox-Net: Generative Design-for-Robot-Assembly Using VLM Supervision, Physics Simulation, and a Robot with Reset**|Andrew Goldberg et.al.|[2409.17126](http://arxiv.org/abs/2409.17126)|null|
 |**2024-09-26**|**Characterizing stable regions in the residual stream of LLMs**|Jett Janiak et.al.|[2409.17113](http://arxiv.org/abs/2409.17113)|null|
-|**2024-09-25**|**Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts**|Mohammad Sadil Khan et.al.|[2409.17106](http://arxiv.org/abs/2409.17106)|null|
+|**2024-09-25**|**Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts**|Mohammad Sadil Khan et.al.|[2409.17106](http://arxiv.org/abs/2409.17106)|**[link](https://github.com/SadilKhan/Text2CAD)**|
 |**2024-09-25**|**Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation**|Richard D. Paul et.al.|[2409.17085](http://arxiv.org/abs/2409.17085)|null|
 |**2024-09-25**|**Degradation-Guided One-Step Image Super-Resolution with Diffusion Priors**|Aiping Zhang et.al.|[2409.17058](http://arxiv.org/abs/2409.17058)|**[link](https://github.com/arctichare105/s3diff)**|
 |**2024-09-25**|**GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**|Phillip Mueller et.al.|[2409.17045](http://arxiv.org/abs/2409.17045)|null|
@@ -1947,7 +1947,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-08-22**|**Contextual Stochastic Optimization for School Desegregation Policymaking**|Hongzhao Guan et.al.|[2408.12572](http://arxiv.org/abs/2408.12572)|null|
 |**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
 |**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475](http://arxiv.org/abs/2408.12475)|null|
-|**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
+|**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|**[link](https://github.com/jiaju-chen/dlcrec)**|
 |**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/abs/2408.12429)|**[link](https://github.com/a-new-b/flex_edit)**|
 |**2024-08-22**|**Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce**|Ádám Tibor Czapp et.al.|[2408.12392](http://arxiv.org/abs/2408.12392)|null|
 |**2024-08-22**|**Orbits of Binary Stars: from Visual Measures to Speckle Interferometry**|Andrei Tokovinin et.al.|[2408.12376](http://arxiv.org/abs/2408.12376)|null|
