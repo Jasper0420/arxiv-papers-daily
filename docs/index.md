@@ -219,6 +219,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
+|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/abs/2412.16672)|null|
+|**2024-12-21**|**Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising**|Yuchen Wang et.al.|[2412.16645](http://arxiv.org/abs/2412.16645)|null|
+|**2024-12-21**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
+|**2024-12-21**|**Rethinking Model Redundancy for Low-light Image Enhancement**|Tong Li et.al.|[2412.16459](http://arxiv.org/abs/2412.16459)|null|
 |**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
@@ -637,6 +642,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy**|Priyaranjan Pattnayak et.al.|[2412.17759](http://arxiv.org/abs/2412.17759)|null|
+|**2024-12-23**|**HumanVBench: Exploring Human-Centric Video Understanding Capabilities of MLLMs with Synthetic Benchmark Data**|Ting Zhou et.al.|[2412.17574](http://arxiv.org/abs/2412.17574)|null|
+|**2024-12-23**|**Multimodal Preference Data Synthetic Alignment with Reward Model**|Robert Wijaya et.al.|[2412.17417](http://arxiv.org/abs/2412.17417)|null|
+|**2024-12-23**|**MineAgent: Towards Remote-Sensing Mineral Exploration with Multimodal Large Language Models**|Beibei Yu et.al.|[2412.17339](http://arxiv.org/abs/2412.17339)|null|
+|**2024-12-23**|**Neural-MCRL: Neural Multimodal Contrastive Representation Learning for EEG-based Visual Decoding**|Yueyang Li et.al.|[2412.17337](http://arxiv.org/abs/2412.17337)|null|
+|**2024-12-23**|**Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective**|Kaifang Long et.al.|[2412.17297](http://arxiv.org/abs/2412.17297)|null|
+|**2024-12-22**|**SubstationAI: Multimodal Large Model-Based Approaches for Analyzing Substation Equipment Faults**|Jinzhi Wang et.al.|[2412.17077](http://arxiv.org/abs/2412.17077)|null|
+|**2024-12-22**|**CoF: Coarse to Fine-Grained Image Understanding for Multi-modal Large Language Models**|Yeyuan Wang et.al.|[2412.16869](http://arxiv.org/abs/2412.16869)|**[link](https://github.com/gavin001201/cof)**|
+|**2024-12-22**|**GME: Improving Universal Multimodal Retrieval by Multimodal LLMs**|Xin Zhang et.al.|[2412.16855](http://arxiv.org/abs/2412.16855)|null|
+|**2024-12-21**|**AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles**|Aritra Kumar Lahiri et.al.|[2412.16701](http://arxiv.org/abs/2412.16701)|null|
 |**2024-12-20**|**MiniGPT-Pancreas: Multimodal Large Language Model for Pancreas Cancer Classification and Detection**|Andrea Moglia et.al.|[2412.15925](http://arxiv.org/abs/2412.15925)|**[link](https://github.com/elianastasio/minigpt-pancreas)**|
 |**2024-12-20**|**Beyond Human Data: Aligning Multimodal Large Language Models by Iterative Self-Evolution**|Wentao Tan et.al.|[2412.15650](http://arxiv.org/abs/2412.15650)|null|
 |**2024-12-20**|**Technical Report for ICML 2024 TiFA Workshop MLLM Attack Challenge: Suffix Injection and Projected Gradient Descent Can Easily Fool An MLLM**|Yangyang Guo et.al.|[2412.15614](http://arxiv.org/abs/2412.15614)|null|
@@ -1182,6 +1197,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
+|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-23**|**Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback**|Jacob Fein-Ashley et.al.|[2412.17737](http://arxiv.org/abs/2412.17737)|null|
+|**2024-12-23**|**Chumor 2.0: Towards Benchmarking Chinese Humor Understanding**|Ruiqi He et.al.|[2412.17729](http://arxiv.org/abs/2412.17729)|**[link](https://github.com/dnaihao/chumor-dataset)**|
+|**2024-12-23**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727](http://arxiv.org/abs/2412.17727)|**[link](https://github.com/bebr2/editcot)**|
+|**2024-12-23**|**The Cosmological Population of Gamma-Ray Bursts from the Disks of Active Galactic Nuclei**|Hoyoung D. Kang et.al.|[2412.17714](http://arxiv.org/abs/2412.17714)|null|
+|**2024-12-23**|**EPE-P: Evidence-based Parameter-efficient Prompting for Multimodal Learning with Missing Modalities**|Zhe Chen et.al.|[2412.17677](http://arxiv.org/abs/2412.17677)|**[link](https://github.com/boris-jobs/epe-p_mllms-robustness)**|
+|**2024-12-23**|**Detecting anxiety and depression in dialogues: a multi-label and explainable approach**|Francisco de Arriba-Pérez et.al.|[2412.17651](http://arxiv.org/abs/2412.17651)|null|
+|**2024-12-23**|**DreamFit: Garment-Centric Human Generation via a Lightweight Anything-Dressing Encoder**|Ente Lin et.al.|[2412.17644](http://arxiv.org/abs/2412.17644)|null|
+|**2024-12-23**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635](http://arxiv.org/abs/2412.17635)|null|
 |**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153](http://arxiv.org/abs/2412.16153)|null|
 |**2024-12-20**|**A vector logic for extensional formal semantics**|Daniel Quigley et.al.|[2412.16152](http://arxiv.org/abs/2412.16152)|null|
 |**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120](http://arxiv.org/abs/2412.16120)|null|
