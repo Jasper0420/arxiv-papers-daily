@@ -14,6 +14,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**|X. Feng et.al.|[2412.19648](http://arxiv.org/abs/2412.19648)|null|
+|**2024-12-26**|**Semistrong edge colorings of planar graphs**|Yuquan Lin et.al.|[2412.19230](http://arxiv.org/abs/2412.19230)|null|
+|**2024-12-26**|**SUTrack: Towards Simple and Unified Single Object Tracking**|Xin Chen et.al.|[2412.19138](http://arxiv.org/abs/2412.19138)|**[link](https://github.com/chenxin-dlut/sutrack)**|
 |**2024-12-24**|**Linear Enhancement of Spin-Orbit Torques and Absence of Bulk Rashba-Type Spin Splitting in Perpendicularly Magnetized [Pt/Co/W]n Superlattices**|Zhihao Yan et.al.|[2412.18481](http://arxiv.org/abs/2412.18481)|null|
 |**2024-12-24**|**Field-free current-induced magnetization switching of a room temperature van der Waals magnet for neuromorphic computing**|Chenxi Zhou et.al.|[2412.18429](http://arxiv.org/abs/2412.18429)|null|
 |**2024-12-24**|**All-electric mimicking synaptic plasticity based on the noncollinear antiferromagnetic device**|Cuimei Cao et.al.|[2412.18418](http://arxiv.org/abs/2412.18418)|null|
@@ -102,6 +105,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-26**|**Learning Monocular Depth from Events via Egomotion Compensation**|Haitao Meng et.al.|[2412.19067](http://arxiv.org/abs/2412.19067)|null|
+|**2024-12-25**|**HAND: Hierarchical Attention Network for Multi-Scale Handwritten Document Recognition and Layout Analysis**|Mohammed Hamdan et.al.|[2412.18981](http://arxiv.org/abs/2412.18981)|null|
 |**2024-12-20**|**High-Dynamic Range Broadband Terahertz Time-Domain Spectrometer Based on Organic Crystal MNA**|Samira Mansourzadeh et.al.|[2412.15718](http://arxiv.org/abs/2412.15718)|null|
 |**2024-12-19**|**Event-assisted 12-stop HDR Imaging of Dynamic Scene**|Shi Guo et.al.|[2412.14705](http://arxiv.org/abs/2412.14705)|null|
 |**2024-12-19**|**LEDiff: Latent Exposure Diffusion for HDR Generation**|Chao Wang et.al.|[2412.14456](http://arxiv.org/abs/2412.14456)|null|
@@ -222,6 +227,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Generative Adversarial Network on Motion-Blur Image Restoration**|Zhengdong Li et.al.|[2412.19479](http://arxiv.org/abs/2412.19479)|null|
+|**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806](http://arxiv.org/abs/2412.18806)|null|
 |**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459](http://arxiv.org/abs/2412.18459)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
 |**2024-12-24**|**UNet--: Memory-Efficient and Feature-Enhanced Network Architecture based on U-Net with Reduced Skip-Connections**|Lingxiao Yin et.al.|[2412.18276](http://arxiv.org/abs/2412.18276)|null|
 |**2024-12-24**|**SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos**|Zhen Zhang et.al.|[2412.18214](http://arxiv.org/abs/2412.18214)|**[link](https://github.com/tanedam/sdm-car)**|
@@ -599,6 +606,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
@@ -650,6 +658,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework**|Jiang Liu et.al.|[2412.19684](http://arxiv.org/abs/2412.19684)|null|
+|**2024-12-27**|**CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs**|Siyu Wang et.al.|[2412.19663](http://arxiv.org/abs/2412.19663)|null|
+|**2024-12-27**|**MLLM-SUL: Multimodal Large Language Model for Semantic Scene Understanding and Localization in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.19406](http://arxiv.org/abs/2412.19406)|null|
+|**2024-12-26**|**Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment**|Ziang Yan et.al.|[2412.19326](http://arxiv.org/abs/2412.19326)|**[link](https://github.com/opengvlab/tpo)**|
+|**2024-12-26**|**Perceive, Query & Reason: Enhancing Video QA with Question-Guided Temporal Queries**|Roberto Amoroso et.al.|[2412.19304](http://arxiv.org/abs/2412.19304)|null|
+|**2024-12-26**|**SeaMo: A Multi-Seasonal and Multimodal Remote Sensing Foundation Model**|Xuyang Li et.al.|[2412.19237](http://arxiv.org/abs/2412.19237)|null|
+|**2024-12-25**|**MedHallBench: A New Benchmark for Assessing Hallucination in Medical Large Language Models**|Kaiwen Zuo et.al.|[2412.18947](http://arxiv.org/abs/2412.18947)|null|
+|**2024-12-25**|**RapGuard: Safeguarding Multimodal Large Language Models via Rationale-aware Defensive Prompting**|Yilei Jiang et.al.|[2412.18826](http://arxiv.org/abs/2412.18826)|null|
+|**2024-12-24**|**Video Is Worth a Thousand Images: Exploring the Latest Trends in Long Video Generation**|Faraz Waseem et.al.|[2412.18688](http://arxiv.org/abs/2412.18688)|null|
 |**2024-12-24**|**MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning**|Abdelmadjid Chergui et.al.|[2412.18437](http://arxiv.org/abs/2412.18437)|**[link](https://github.com/Madjid-CH/auto-mixer)**|
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**|Huanjin Yao et.al.|[2412.18319](http://arxiv.org/abs/2412.18319)|**[link](https://github.com/hjyao00/mulberry)**|
@@ -1214,6 +1231,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Enhancing Whisper's Accuracy and Speed for Indian Languages through Prompt-Tuning and Tokenization**|Kumud Tripathi et.al.|[2412.19785](http://arxiv.org/abs/2412.19785)|null|
+|**2024-12-27**|**Hard Photon Triggered Jets in $p$-$p$ and $A$-$A$ Collisions**|C. Sirimanna et.al.|[2412.19738](http://arxiv.org/abs/2412.19738)|null|
+|**2024-12-27**|**Can Large Language Models Adapt to Other Agents In-Context?**|Matthew Riemer et.al.|[2412.19726](http://arxiv.org/abs/2412.19726)|null|
+|**2024-12-27**|**Toward Adaptive Reasoning in Large Language Models with Thought Rollback**|Sijia Chen et.al.|[2412.19707](http://arxiv.org/abs/2412.19707)|**[link](https://github.com/iQua/llmpebase)**|
+|**2024-12-27**|**Boosting Private Domain Understanding of Efficient MLLMs: A Tuning-free, Adaptive, Universal Prompt Optimization Framework**|Jiang Liu et.al.|[2412.19684](http://arxiv.org/abs/2412.19684)|null|
+|**2024-12-27**|**Toward Modality Gap: Vision Prototype Learning for Weakly-supervised Semantic Segmentation with CLIP**|Zhongxing Xu et.al.|[2412.19650](http://arxiv.org/abs/2412.19650)|null|
+|**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637](http://arxiv.org/abs/2412.19637)|null|
+|**2024-12-27**|**RecConv: Efficient Recursive Convolutions for Multi-Frequency Representations**|Mingshu Zhao et.al.|[2412.19628](http://arxiv.org/abs/2412.19628)|**[link](https://github.com/suous/recnext)**|
+|**2024-12-27**|**Signatures of prediction during natural listening in MEG data?**|Sahel Azizpour et.al.|[2412.19622](http://arxiv.org/abs/2412.19622)|null|
+|**2024-12-27**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|null|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
 |**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600](http://arxiv.org/abs/2412.18600)|null|
 |**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597](http://arxiv.org/abs/2412.18597)|**[link](https://github.com/tencentarc/ditctrl)**|
