@@ -231,8 +231,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
 |**2025-01-02**|**Domain-invariant feature learning in brain MR imaging for content-based image retrieval**|Shuya Tobari et.al.|[2501.01326](http://arxiv.org/abs/2501.01326)|null|
-|**2025-01-02**|**Conditional Consistency Guided Image Translation and Enhancement**|A. V. Subramanyam et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
+|**2025-01-03**|**Conditional Consistency Guided Image Translation and Enhancement**|Amil Bhagat et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
 |**2025-01-02**|**Generalized Task-Driven Medical Image Quality Enhancement with Gradient Promotion**|Dong Zhang et.al.|[2501.01114](http://arxiv.org/abs/2501.01114)|null|
 |**2024-12-30**|**Text-to-Image GAN with Pretrained Representations**|Xiaozhou You et.al.|[2501.00116](http://arxiv.org/abs/2501.00116)|null|
 |**2024-12-30**|**Varformer: Adapting VAR's Generative Prior for Image Restoration**|Siyang Wang et.al.|[2412.21063](http://arxiv.org/abs/2412.21063)|**[link](https://github.com/siywang541/Varformer)**|
@@ -675,6 +676,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|null|
+|**2025-01-03**|**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**|Yifan Du et.al.|[2501.01904](http://arxiv.org/abs/2501.01904)|null|
+|**2025-01-03**|**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**|Guosheng Zhang et.al.|[2501.01720](http://arxiv.org/abs/2501.01720)|null|
 |**2025-01-02**|**Face-Human-Bench: A Comprehensive Benchmark of Face and Human Understanding for Multi-modal Assistants**|Lixiong Qin et.al.|[2501.01243](http://arxiv.org/abs/2501.01243)|null|
 |**2025-01-02**|**Towards Interactive Deepfake Analysis**|Lixiong Qin et.al.|[2501.01164](http://arxiv.org/abs/2501.01164)|null|
 |**2025-01-02**|**EliGen: Entity-Level Controlled Image Generation with Regional Attention**|Hong Zhang et.al.|[2501.01097](http://arxiv.org/abs/2501.01097)|null|
@@ -1262,6 +1266,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956](http://arxiv.org/abs/2501.01956)|null|
+|**2025-01-03**|**Structural and Statistical Audio Texture Knowledge Distillation (SSATKD) for Passive Sonar Classification**|Jarin Ritu et.al.|[2501.01921](http://arxiv.org/abs/2501.01921)|null|
+|**2025-01-03**|**Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions**|Rachneet Sachdeva et.al.|[2501.01872](http://arxiv.org/abs/2501.01872)|null|
+|**2025-01-03**|**A review of long lasting activities of the central engine of gamma-ray bursts**|Bruce Gendre et.al.|[2501.01857](http://arxiv.org/abs/2501.01857)|null|
+|**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
+|**2025-01-03**|**Time Series Language Model for Descriptive Caption Generation**|Mohamed Trabelsi et.al.|[2501.01832](http://arxiv.org/abs/2501.01832)|null|
+|**2025-01-03**|**Ingredients: Blending Custom Photos with Video Diffusion Transformers**|Zhengcong Fei et.al.|[2501.01790](http://arxiv.org/abs/2501.01790)|null|
+|**2025-01-03**|**SaLoRA: Safety-Alignment Preserved Low-Rank Adaptation**|Mingjie Li et.al.|[2501.01765](http://arxiv.org/abs/2501.01765)|null|
+|**2025-01-03**|**How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models**|Simone Corbo et.al.|[2501.01741](http://arxiv.org/abs/2501.01741)|null|
+|**2025-01-03**|**AR4D: Autoregressive 4D Generation from Monocular Videos**|Hanxin Zhu et.al.|[2501.01722](http://arxiv.org/abs/2501.01722)|null|
 |**2025-01-02**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428](http://arxiv.org/abs/2501.01428)|null|
 |**2025-01-02**|**Object-level Visual Prompts for Compositional Image Generation**|Gaurav Parmar et.al.|[2501.01424](http://arxiv.org/abs/2501.01424)|null|
 |**2025-01-02**|**Multi-Modal Video Feature Extraction for Popularity Prediction**|Haixu Liu et.al.|[2501.01422](http://arxiv.org/abs/2501.01422)|null|
