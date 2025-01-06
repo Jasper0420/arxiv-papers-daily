@@ -68,7 +68,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-24**|**Pulse Shaping Strategies for Efficient Switching of Magnetic Tunnel Junctions by Spin-Orbit Torque**|Marco Hoffmann et.al.|[2409.16454](http://arxiv.org/abs/2409.16454)|null|
 |**2024-09-24**|**CloudTrack: Scalable UAV Tracking with Cloud Semantics**|Yannik Blei et.al.|[2409.16111](http://arxiv.org/abs/2409.16111)|null|
 |**2024-09-20**|**A survey of sulfur-bearing molecular lines toward the dense cores in eleven massive protoclusters**|Mengyao Tang et.al.|[2409.13231](http://arxiv.org/abs/2409.13231)|null|
-|**2024-09-19**|**Disentangling Speakers in Multi-Talker Speech Recognition with Speaker-Aware CTC**|Jiawen Kang et.al.|[2409.12388](http://arxiv.org/abs/2409.12388)|null|
+|**2024-09-19**|**Disentangling Speakers in Multi-Talker Speech Recognition with Speaker-Aware CTC**|Jiawen Kang et.al.|[2409.12388](http://arxiv.org/abs/2409.12388)|**[link](https://github.com/kjw11/speaker-aware-ctc)**|
 |**2024-09-11**|**Topological Spin-Orbit Torque in Ferrimagnetic Weyl Semimetal**|Tomonari Meguro et.al.|[2409.07106](http://arxiv.org/abs/2409.07106)|null|
 |**2024-09-09**|**Effects of Interfacial Oxygen Diffusion on the Magnetic Properties and Thermal Stability of Pd/CoFeB/Pd/Ta Heterostructure**|Saravanan Lakshmanan et.al.|[2409.05783](http://arxiv.org/abs/2409.05783)|null|
 |**2024-09-11**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
@@ -132,7 +132,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-05**|**High-power single-cycle THz emission from large-area photoconductive emitters at 400 kHz**|Mohsen Khalili et.al.|[2412.04004](http://arxiv.org/abs/2412.04004)|null|
 |**2024-12-05**|**Enhancing and Accelerating Diffusion-Based Inverse Problem Solving through Measurements Optimization**|Tianyu Chen et.al.|[2412.03941](http://arxiv.org/abs/2412.03941)|null|
 |**2024-12-04**|**Accelerating HI density predictions during the Epoch of Reionization using a GPR-based emulator on N-body simulations**|Gaurav Pundir et.al.|[2412.03485](http://arxiv.org/abs/2412.03485)|null|
-|**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|null|
+|**2024-12-03**|**EvRT-DETR: The Surprising Effectiveness of DETR-based Detection for Event Cameras**|Dmitrii Torbunov et.al.|[2412.02890](http://arxiv.org/abs/2412.02890)|**[link](https://github.com/realtime-intelligence/evrt-detr)**|
 |**2024-12-02**|**Learning Differential Pyramid Representation for Tone Mapping**|Qirui Yang et.al.|[2412.01463](http://arxiv.org/abs/2412.01463)|null|
 |**2024-11-28**|**Event-based Tracking of Any Point with Motion-Robust Correlation Features**|Friedhelm Hamann et.al.|[2412.00133](http://arxiv.org/abs/2412.00133)|null|
 |**2024-11-25**|**CapHDR2IR: Caption-Driven Transfer from Visible Light to Infrared Domain**|Jingchao Peng et.al.|[2411.16327](http://arxiv.org/abs/2411.16327)|null|
@@ -179,7 +179,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-09-23**|**Mixing Data-driven and Geometric Models for Satellite Docking Port State Estimation using an RGB or Event Camera**|Cedric Le Gentil et.al.|[2409.15581](http://arxiv.org/abs/2409.15581)|null|
 |**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|**[link](https://github.com/520jz/spikegs)**|
 |**2024-09-21**|**Monocular Event-Inertial Odometry with Adaptive decay-based Time Surface and Polarity-aware Tracking**|Kai Tang et.al.|[2409.13971](http://arxiv.org/abs/2409.13971)|null|
-|**2024-09-20**|**Intrinsic Single-Image HDR Reconstruction**|Sebastian Dille et.al.|[2409.13803](http://arxiv.org/abs/2409.13803)|null|
+|**2024-09-20**|**Intrinsic Single-Image HDR Reconstruction**|Sebastian Dille et.al.|[2409.13803](http://arxiv.org/abs/2409.13803)|**[link](https://github.com/compphoto/IntrinsicHDR)**|
 |**2024-09-20**|**Elite-EvGS: Learning Event-based 3D Gaussian Splatting by Distilling Event-to-Video Priors**|Zixin Zhang et.al.|[2409.13392](http://arxiv.org/abs/2409.13392)|null|
 |**2024-09-18**|**EventAug: Multifaceted Spatio-Temporal Data Augmentation Methods for Event-based Learning**|Yukun Tian et.al.|[2409.11813](http://arxiv.org/abs/2409.11813)|null|
 |**2024-09-18**|**Enhancing Complex Formula Recognition with Hierarchical Detail-Focused Network**|Jiale Wang et.al.|[2409.11677](http://arxiv.org/abs/2409.11677)|null|
@@ -345,7 +345,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-25**|**Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding**|Yubin Gu et.al.|[2411.16217](http://arxiv.org/abs/2411.16217)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
 |**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171](http://arxiv.org/abs/2411.16171)|**[link](https://github.com/mischad/beyondfid)**|
-|**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|null|
+|**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|**[link](https://github.com/chingheng0808/PromptHSI)**|
 |**2024-11-24**|**MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking**|Chunhui Zhang et.al.|[2411.15761](http://arxiv.org/abs/2411.15761)|null|
 |**2024-11-24**|**LTCF-Net: A Transformer-Enhanced Dual-Channel Fourier Framework for Low-Light Image Restoration**|Gaojing Zhang et.al.|[2411.15740](http://arxiv.org/abs/2411.15740)|null|
 |**2024-11-22**|**Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration**|Darshan Thaker et.al.|[2411.15295](http://arxiv.org/abs/2411.15295)|null|
@@ -778,7 +778,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-09**|**ZeroKey: Point-Level Reasoning and Zero-Shot 3D Keypoint Detection from Large Language Models**|Bingchen Gong et.al.|[2412.06292](http://arxiv.org/abs/2412.06292)|null|
 |**2024-12-08**|**GraPE: A Generate-Plan-Edit Framework for Compositional T2I Synthesis**|Ashish Goswami et.al.|[2412.06089](http://arxiv.org/abs/2412.06089)|null|
 |**2024-12-08**|**Exploring Multi-Grained Concept Annotations for Multimodal Large Language Models**|Xiao Xu et.al.|[2412.05939](http://arxiv.org/abs/2412.05939)|null|
-|**2024-12-08**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|null|
+|**2024-12-08**|**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**|Ma Teng et.al.|[2412.05934](http://arxiv.org/abs/2412.05934)|**[link](https://github.com/matengsysu/himrd-jailbreak)**|
 |**2024-12-08**|**[CLS] Token Tells Everything Needed for Training-free Efficient MLLMs**|Ao Wang et.al.|[2412.05819](http://arxiv.org/abs/2412.05819)|**[link](https://github.com/thu-mig/vtc-cls)**|
 |**2024-12-06**|**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**|Zhe Chen et.al.|[2412.05271](http://arxiv.org/abs/2412.05271)|**[link](https://github.com/opengvlab/internvl)**|
 |**2024-12-06**|**CompCap: Improving Multimodal Large Language Models with Composite Captions**|Xiaohui Chen et.al.|[2412.05243](http://arxiv.org/abs/2412.05243)|null|
@@ -1305,7 +1305,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-27**|**ReNeg: Learning Negative Embedding with Reward Guidance**|Xiaomin Li et.al.|[2412.19637](http://arxiv.org/abs/2412.19637)|null|
 |**2024-12-27**|**RecConv: Efficient Recursive Convolutions for Multi-Frequency Representations**|Mingshu Zhao et.al.|[2412.19628](http://arxiv.org/abs/2412.19628)|**[link](https://github.com/suous/recnext)**|
 |**2024-12-27**|**Signatures of prediction during natural listening in MEG data?**|Sahel Azizpour et.al.|[2412.19622](http://arxiv.org/abs/2412.19622)|null|
-|**2024-12-27**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|null|
+|**2024-12-27**|**Gradient Weight-normalized Low-rank Projection for Efficient LLM Training**|Jia-Hong Huang et.al.|[2412.19616](http://arxiv.org/abs/2412.19616)|**[link](https://github.com/jhhuangkay/gradient-weight-normalized-low-rank-projection-for-efficient-llm-training)**|
 |**2024-12-24**|**Decentralized Intelligence in GameFi: Embodied AI Agents and the Convergence of DeFi and Virtual Ecosystems**|Fernando Jia et.al.|[2412.18601](http://arxiv.org/abs/2412.18601)|**[link](https://github.com/FJDeFi/Decentralized-Intelligence-in-GameFi)**|
 |**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600](http://arxiv.org/abs/2412.18600)|null|
 |**2024-12-24**|**DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation**|Minghong Cai et.al.|[2412.18597](http://arxiv.org/abs/2412.18597)|**[link](https://github.com/tencentarc/ditctrl)**|
@@ -1317,7 +1317,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-24**|**Betting vs. Trading: Learning a Linear Decision Policy for Selling Wind Power and Hydrogen**|Yannick Heiser et.al.|[2412.18479](http://arxiv.org/abs/2412.18479)|null|
 |**2024-12-24**|**Is Large Language Model Good at Triple Set Prediction? An Empirical Study**|Yuan Yuan et.al.|[2412.18443](http://arxiv.org/abs/2412.18443)|null|
 |**2024-12-23**|**The Superposition of Diffusion Models Using the Itô Density Estimator**|Marta Skreta et.al.|[2412.17762](http://arxiv.org/abs/2412.17762)|null|
-|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|null|
+|**2024-12-23**|**Reasoning to Attend: Try to Understand How <SEG> Token Works**|Rui Qian et.al.|[2412.17741](http://arxiv.org/abs/2412.17741)|**[link](https://github.com/rui-qian/read)**|
 |**2024-12-23**|**Contextual Backpropagation Loops: Amplifying Deep Reasoning with Iterative Top-Down Feedback**|Jacob Fein-Ashley et.al.|[2412.17737](http://arxiv.org/abs/2412.17737)|**[link](https://github.com/contextualbackpropagationloops/cbl)**|
 |**2024-12-23**|**Chumor 2.0: Towards Benchmarking Chinese Humor Understanding**|Ruiqi He et.al.|[2412.17729](http://arxiv.org/abs/2412.17729)|**[link](https://github.com/dnaihao/chumor-dataset)**|
 |**2024-12-23**|**Knowledge Editing through Chain-of-Thought**|Changyue Wang et.al.|[2412.17727](http://arxiv.org/abs/2412.17727)|**[link](https://github.com/bebr2/editcot)**|
@@ -2259,7 +2259,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-30**|**Add-SD: Rational Generation without Manual Reference**|Lingfeng Yang et.al.|[2407.21016](http://arxiv.org/abs/2407.21016)|**[link](https://github.com/ylingfeng/add-sd)**|
 |**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011](http://arxiv.org/abs/2407.21011)|**[link](https://github.com/xypb/cleft)**|
 |**2024-07-30**|**AI-Assisted Generation of Difficult Math Questions**|Vedant Shah et.al.|[2407.21009](http://arxiv.org/abs/2407.21009)|null|
-|**2024-07-30**|**Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection**|Jinfa Huang et.al.|[2407.21004](http://arxiv.org/abs/2407.21004)|null|
+|**2024-07-30**|**Evolver: Chain-of-Evolution Prompting to Boost Large Multimodal Models for Hateful Meme Detection**|Jinfa Huang et.al.|[2407.21004](http://arxiv.org/abs/2407.21004)|**[link](https://github.com/infaaa/evolver)**|
 |**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|**[link](https://github.com/suletekkesinoglu/xai_llm_rag)**|
 |**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
 |**2024-07-30**|**SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**|Hao Tan et.al.|[2407.20920](http://arxiv.org/abs/2407.20920)|null|
