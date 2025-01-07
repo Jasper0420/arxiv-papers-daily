@@ -1303,7 +1303,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-06**|**The Scaling Law for LoRA Base on Mutual Information Upper Bound**|Jing Zhang et.al.|[2501.03152](http://arxiv.org/abs/2501.03152)|null|
 |**2025-01-06**|**VicSim: Enhancing Victim Simulation with Emotional and Linguistic Fidelity**|Yerong Li et.al.|[2501.03139](http://arxiv.org/abs/2501.03139)|null|
-|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124](http://arxiv.org/abs/2501.03124)|null|
+|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124](http://arxiv.org/abs/2501.03124)|**[link](https://github.com/ssmisya/PRMBench)**|
 |**2025-01-06**|**LangFair: A Python Package for Assessing Bias and Fairness in Large Language Model Use Cases**|Dylan Bouchard et.al.|[2501.03112](http://arxiv.org/abs/2501.03112)|**[link](https://github.com/cvs-health/langfair)**|
 |**2025-01-06**|**Physics, Environment and Environmental Education; Perceptions from trainee Natural Science teachers**|Daniel Alejandro Valderrama et.al.|[2501.03090](http://arxiv.org/abs/2501.03090)|null|
 |**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956](http://arxiv.org/abs/2501.01956)|null|
