@@ -14,6 +14,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-05**|**DeTrack: In-model Latent Denoising Learning for Visual Object Tracking**|Xinyu Zhou et.al.|[2501.02467](http://arxiv.org/abs/2501.02467)|null|
 |**2024-12-31**|**Alternative harmonic detection approach for quantitative determination of spin and orbital torques**|Y. Xu et.al.|[2501.00403](http://arxiv.org/abs/2501.00403)|null|
 |**2024-12-30**|**An Experimental Study of Passive UAV Tracking with Digital Arrays and Cellular Downlink Signals**|Yifei Sun et.al.|[2412.20788](http://arxiv.org/abs/2412.20788)|null|
 |**2024-12-30**|**Spin-orbit torque in a three-fold-symmetric bilayer and its effect on magnetization dynamics**|Wuzhang Fang et.al.|[2412.20746](http://arxiv.org/abs/2412.20746)|null|
@@ -109,11 +110,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
 |**2024-12-26**|**Learning Monocular Depth from Events via Egomotion Compensation**|Haitao Meng et.al.|[2412.19067](http://arxiv.org/abs/2412.19067)|null|
 |**2024-12-25**|**HAND: Hierarchical Attention Network for Multi-Scale Handwritten Document Recognition and Layout Analysis**|Mohammed Hamdan et.al.|[2412.18981](http://arxiv.org/abs/2412.18981)|null|
 |**2024-12-20**|**High-Dynamic Range Broadband Terahertz Time-Domain Spectrometer Based on Organic Crystal MNA**|Samira Mansourzadeh et.al.|[2412.15718](http://arxiv.org/abs/2412.15718)|null|
 |**2024-12-19**|**Event-assisted 12-stop HDR Imaging of Dynamic Scene**|Shi Guo et.al.|[2412.14705](http://arxiv.org/abs/2412.14705)|null|
-|**2024-12-19**|**LEDiff: Latent Exposure Diffusion for HDR Generation**|Chao Wang et.al.|[2412.14456](http://arxiv.org/abs/2412.14456)|null|
+|**2025-01-06**|**LEDiff: Latent Exposure Diffusion for HDR Generation**|Chao Wang et.al.|[2412.14456](http://arxiv.org/abs/2412.14456)|null|
 |**2024-12-18**|**Development of a High-Resolution, High-Dynamic-Range Charge Detector for Ion Beam Monitoring**|O. Adriani et.al.|[2412.13934](http://arxiv.org/abs/2412.13934)|null|
 |**2024-12-18**|**Multi-Exposure Image Fusion via Distilled 3D LUT Grid with Editable Mode**|Xin Su et.al.|[2412.13749](http://arxiv.org/abs/2412.13749)|**[link](https://github.com/zzr-idam/uhd-multi-exposure-image-fusion-algorithm)**|
 |**2024-12-17**|**Transforming Single Photon Camera Images to Color High Dynamic Range Images**|Sumit Sharma et.al.|[2412.12942](http://arxiv.org/abs/2412.12942)|null|
@@ -231,6 +233,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
+|**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
+|**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701](http://arxiv.org/abs/2501.02701)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
 |**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
 |**2025-01-02**|**Domain-invariant feature learning in brain MR imaging for content-based image retrieval**|Shuya Tobari et.al.|[2501.01326](http://arxiv.org/abs/2501.01326)|null|
 |**2025-01-03**|**Conditional Consistency Guided Image Translation and Enhancement**|Amil Bhagat et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
@@ -676,6 +681,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
+|**2025-01-06**|**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**|Wanpeng Hu et.al.|[2501.02964](http://arxiv.org/abs/2501.02964)|**[link](https://github.com/aibee00/socraticquestioning)**|
+|**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858](http://arxiv.org/abs/2501.02858)|null|
+|**2025-01-06**|**Ultrasound-QBench: Can LLMs Aid in Quality Assessment of Ultrasound Imaging?**|Hongyi Miao et.al.|[2501.02751](http://arxiv.org/abs/2501.02751)|null|
+|**2025-01-05**|**FOLDER: Accelerating Multi-modal Large Language Models with Enhanced Performance**|Haicheng Wang et.al.|[2501.02430](http://arxiv.org/abs/2501.02430)|**[link](https://github.com/anakin-skywalker-joseph/folder)**|
+|**2025-01-04**|**What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**|Yutao Jiang et.al.|[2501.02268](http://arxiv.org/abs/2501.02268)|null|
+|**2025-01-03**|**AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs**|Sanjoy Chowdhury et.al.|[2501.02135](http://arxiv.org/abs/2501.02135)|null|
 |**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|**[link](https://github.com/VITA-MLLM/VITA)**|
 |**2025-01-03**|**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**|Yifan Du et.al.|[2501.01904](http://arxiv.org/abs/2501.01904)|null|
 |**2025-01-03**|**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**|Guosheng Zhang et.al.|[2501.01720](http://arxiv.org/abs/2501.01720)|null|
@@ -1266,6 +1278,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
+|**2025-01-06**|**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**|Rui Qian et.al.|[2501.03218](http://arxiv.org/abs/2501.03218)|**[link](https://github.com/mark12ding/dispider)**|
+|**2025-01-06**|**The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground Responses to Long-Form Input**|Alon Jacovi et.al.|[2501.03200](http://arxiv.org/abs/2501.03200)|null|
+|**2025-01-06**|**Visualizing quantum entanglement in Bose-Einstein condensates without state vectors**|Russell B. Thompson et.al.|[2501.03199](http://arxiv.org/abs/2501.03199)|null|
+|**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
+|**2025-01-06**|**The Scaling Law for LoRA Base on Mutual Information Upper Bound**|Jing Zhang et.al.|[2501.03152](http://arxiv.org/abs/2501.03152)|null|
+|**2025-01-06**|**VicSim: Enhancing Victim Simulation with Emotional and Linguistic Fidelity**|Yerong Li et.al.|[2501.03139](http://arxiv.org/abs/2501.03139)|null|
+|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124](http://arxiv.org/abs/2501.03124)|null|
+|**2025-01-06**|**LangFair: A Python Package for Assessing Bias and Fairness in Large Language Model Use Cases**|Dylan Bouchard et.al.|[2501.03112](http://arxiv.org/abs/2501.03112)|**[link](https://github.com/cvs-health/langfair)**|
+|**2025-01-06**|**Physics, Environment and Environmental Education; Perceptions from trainee Natural Science teachers**|Daniel Alejandro Valderrama et.al.|[2501.03090](http://arxiv.org/abs/2501.03090)|null|
 |**2025-01-03**|**Metadata Conditioning Accelerates Language Model Pre-training**|Tianyu Gao et.al.|[2501.01956](http://arxiv.org/abs/2501.01956)|null|
 |**2025-01-03**|**Structural and Statistical Audio Texture Knowledge Distillation (SSATKD) for Passive Sonar Classification**|Jarin Ritu et.al.|[2501.01921](http://arxiv.org/abs/2501.01921)|null|
 |**2025-01-03**|**Turning Logic Against Itself : Probing Model Defenses Through Contrastive Questions**|Rachneet Sachdeva et.al.|[2501.01872](http://arxiv.org/abs/2501.01872)|null|
