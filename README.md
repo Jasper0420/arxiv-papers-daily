@@ -22,6 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination**|Zhongxuan Zhang et.al.|[2501.03616](http://arxiv.org/abs/2501.03616)|null|
 |**2025-01-05**|**DeTrack: In-model Latent Denoising Learning for Visual Object Tracking**|Xinyu Zhou et.al.|[2501.02467](http://arxiv.org/abs/2501.02467)|null|
 |**2024-12-31**|**Alternative harmonic detection approach for quantitative determination of spin and orbital torques**|Y. Xu et.al.|[2501.00403](http://arxiv.org/abs/2501.00403)|null|
 |**2024-12-30**|**An Experimental Study of Passive UAV Tracking with Digital Arrays and Cellular Downlink Signals**|Yifei Sun et.al.|[2412.20788](http://arxiv.org/abs/2412.20788)|null|
@@ -120,7 +121,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
+|**2025-01-07**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
 |**2024-12-26**|**Learning Monocular Depth from Events via Egomotion Compensation**|Haitao Meng et.al.|[2412.19067](http://arxiv.org/abs/2412.19067)|null|
 |**2024-12-25**|**HAND: Hierarchical Attention Network for Multi-Scale Handwritten Document Recognition and Layout Analysis**|Mohammed Hamdan et.al.|[2412.18981](http://arxiv.org/abs/2412.18981)|null|
 |**2024-12-20**|**High-Dynamic Range Broadband Terahertz Time-Domain Spectrometer Based on Organic Crystal MNA**|Samira Mansourzadeh et.al.|[2412.15718](http://arxiv.org/abs/2412.15718)|null|
@@ -245,6 +246,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Convergent Primal-Dual Plug-and-Play Image Restoration: A General Algorithm and Applications**|Yodai Suzuki et.al.|[2501.03780](http://arxiv.org/abs/2501.03780)|null|
 |**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
 |**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701](http://arxiv.org/abs/2501.02701)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
@@ -697,8 +699,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
 |**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
-|**2025-01-06**|**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**|Wanpeng Hu et.al.|[2501.02964](http://arxiv.org/abs/2501.02964)|**[link](https://github.com/aibee00/socraticquestioning)**|
+|**2025-01-07**|**Socratic Questioning: Learn to Self-guide Multimodal Reasoning in the Wild**|Wanpeng Hu et.al.|[2501.02964](http://arxiv.org/abs/2501.02964)|**[link](https://github.com/aibee00/socraticquestioning)**|
 |**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858](http://arxiv.org/abs/2501.02858)|null|
 |**2025-01-06**|**Ultrasound-QBench: Can LLMs Aid in Quality Assessment of Ultrasound Imaging?**|Hongyi Miao et.al.|[2501.02751](http://arxiv.org/abs/2501.02751)|null|
 |**2025-01-05**|**FOLDER: Accelerating Multi-modal Large Language Models with Enhanced Performance**|Haicheng Wang et.al.|[2501.02430](http://arxiv.org/abs/2501.02430)|**[link](https://github.com/anakin-skywalker-joseph/folder)**|
@@ -1296,6 +1299,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**WAPTS: A Weighted Allocation Probability Adjusted Thompson Sampling Algorithm for High-Dimensional and Sparse Experiment Settings**|Haochen Song et.al.|[2501.03999](http://arxiv.org/abs/2501.03999)|null|
+|**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
+|**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
+|**2025-01-07**|**Semantically Cohesive Word Grouping in Indian Languages**|N J Karthika et.al.|[2501.03988](http://arxiv.org/abs/2501.03988)|null|
+|**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|null|
+|**2025-01-07**|**Vision Language Models as Values Detectors**|Giulio Antonio Abbo et.al.|[2501.03957](http://arxiv.org/abs/2501.03957)|null|
+|**2025-01-07**|**Not all tokens are created equal: Perplexity Attention Weighted Networks for AI generated text detection**|Pablo Miralles-González et.al.|[2501.03940](http://arxiv.org/abs/2501.03940)|null|
+|**2025-01-07**|**Truthful mechanisms for linear bandit games with private contexts**|Yiting Hu et.al.|[2501.03865](http://arxiv.org/abs/2501.03865)|null|
+|**2025-01-07**|**Progressive Document-level Text Simplification via Large Language Models**|Dengzhao Fang et.al.|[2501.03857](http://arxiv.org/abs/2501.03857)|null|
+|**2025-01-07**|**Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control**|Zekai Gu et.al.|[2501.03847](http://arxiv.org/abs/2501.03847)|**[link](https://github.com/igl-hkust/diffusionasshader)**|
 |**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
 |**2025-01-06**|**Dispider: Enabling Video LLMs with Active Real-Time Interaction via Disentangled Perception, Decision, and Reaction**|Rui Qian et.al.|[2501.03218](http://arxiv.org/abs/2501.03218)|**[link](https://github.com/mark12ding/dispider)**|
 |**2025-01-06**|**The FACTS Grounding Leaderboard: Benchmarking LLMs' Ability to Ground Responses to Long-Form Input**|Alon Jacovi et.al.|[2501.03200](http://arxiv.org/abs/2501.03200)|null|
