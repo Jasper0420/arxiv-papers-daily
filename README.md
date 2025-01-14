@@ -22,6 +22,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions**|Xiantong Zhao et.al.|[2501.07133](http://arxiv.org/abs/2501.07133)|null|
+|**2025-01-11**|**ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation**|Xuanle Zhao et.al.|[2501.06598](http://arxiv.org/abs/2501.06598)|null|
 |**2025-01-09**|**BTMTrack: Robust RGB-T Tracking via Dual-template Bridging and Temporal-Modal Candidate Elimination**|Zhongxuan Zhang et.al.|[2501.03616](http://arxiv.org/abs/2501.03616)|null|
 |**2025-01-05**|**DeTrack: In-model Latent Denoising Learning for Visual Object Tracking**|Xinyu Zhou et.al.|[2501.02467](http://arxiv.org/abs/2501.02467)|null|
 |**2024-12-31**|**Alternative harmonic detection approach for quantitative determination of spin and orbital torques**|Y. Xu et.al.|[2501.00403](http://arxiv.org/abs/2501.00403)|null|
@@ -247,11 +249,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**|Oleg Perezyabov et.al.|[2501.07245](http://arxiv.org/abs/2501.07245)|null|
+|**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
+|**2025-01-11**|**Natural Language Supervision for Low-light Image Enhancement**|Jiahui Tang et.al.|[2501.06546](http://arxiv.org/abs/2501.06546)|null|
+|**2025-01-10**|**Underwater Image Enhancement using Generative Adversarial Networks: A Survey**|Kancharagunta Kishan Babu et.al.|[2501.06273](http://arxiv.org/abs/2501.06273)|null|
 |**2025-01-09**|**HipyrNet: Hypernet-Guided Feature Pyramid network for mixed-exposure correction**|Shaurya Singh Rathore et.al.|[2501.05195](http://arxiv.org/abs/2501.05195)|null|
 |**2025-01-09**|**ResPanDiff: Diffusion Model with Disentangled Modulations for Image Fusion**|Shiqi Cao et.al.|[2501.05091](http://arxiv.org/abs/2501.05091)|null|
 |**2025-01-09**|**IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation**|Qi Chen et.al.|[2501.04995](http://arxiv.org/abs/2501.04995)|**[link](https://github.com/80chen86/ipdn)**|
 |**2025-01-08**|**Color Correction Meets Cross-Spectral Refinement: A Distribution-Aware Diffusion for Underwater Image Restoration**|Laibin Chang et.al.|[2501.04740](http://arxiv.org/abs/2501.04740)|null|
-|**2025-01-08**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665](http://arxiv.org/abs/2501.04665)|null|
+|**2025-01-11**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665](http://arxiv.org/abs/2501.04665)|null|
 |**2025-01-08**|**FrontierNet: Learning Visual Cues to Explore**|Boyang Sun et.al.|[2501.04597](http://arxiv.org/abs/2501.04597)|null|
 |**2025-01-08**|**MB-TaylorFormer V2: Improved Multi-branch Linear Transformer Expanded by Taylor Formula for Image Restoration**|Zhi Jin et.al.|[2501.04486](http://arxiv.org/abs/2501.04486)|**[link](https://github.com/fvl2020/mb-taylorformerv2)**|
 |**2025-01-08**|**Recognition-Oriented Low-Light Image Enhancement based on Global and Pixelwise Optimization**|Seitaro Ono et.al.|[2501.04210](http://arxiv.org/abs/2501.04210)|null|
@@ -653,6 +659,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
+|**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
 |**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
 |**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
@@ -709,6 +717,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li et.al.|[2501.07542](http://arxiv.org/abs/2501.07542)|null|
+|**2025-01-13**|**Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method**|Wenping Jin et.al.|[2501.07496](http://arxiv.org/abs/2501.07496)|null|
+|**2025-01-13**|**Dynamic Multimodal Fusion via Meta-Learning Towards Micro-Video Recommendation**|Han Liu et.al.|[2501.07110](http://arxiv.org/abs/2501.07110)|**[link](https://github.com/hanliu95/metammf)**|
+|**2025-01-13**|**LEO: Boosting Mixture of Vision Encoders for Multimodal Large Language Models**|Mozhgan Nasr Azadani et.al.|[2501.06986](http://arxiv.org/abs/2501.06986)|**[link](https://github.com/mozhgan91/leo)**|
+|**2025-01-12**|**X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding**|Wenqi Zhou et.al.|[2501.06835](http://arxiv.org/abs/2501.06835)|null|
+|**2025-01-12**|**GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing**|Ruizhe Ou et.al.|[2501.06828](http://arxiv.org/abs/2501.06828)|null|
+|**2025-01-12**|**MTPareto: A MultiModal Targeted Pareto Framework for Fake News Detection**|Kaiying Yan et.al.|[2501.06764](http://arxiv.org/abs/2501.06764)|null|
+|**2025-01-12**|**Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints**|Ming Dai et.al.|[2501.06710](http://arxiv.org/abs/2501.06710)|**[link](https://github.com/dmmm1997/c3vg)**|
+|**2025-01-11**|**ChartCoder: Advancing Multimodal Large Language Model for Chart-to-Code Generation**|Xuanle Zhao et.al.|[2501.06598](http://arxiv.org/abs/2501.06598)|null|
+|**2025-01-11**|**Open Eyes, Then Reason: Fine-grained Visual Mathematical Understanding in MLLMs**|Shan Zhang et.al.|[2501.06430](http://arxiv.org/abs/2501.06430)|**[link](https://github.com/ai4math-shanzhang/sve-math)**|
 |**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184](http://arxiv.org/abs/2501.06184)|null|
 |**2025-01-10**|**Text-to-Edit: Controllable End-to-End Video Ad Creation via Multimodal LLMs**|Dabing Cheng et.al.|[2501.05884](http://arxiv.org/abs/2501.05884)|null|
 |**2025-01-10**|**Migician: Revealing the Magic of Free-Form Multi-Image Grounding in Multimodal Large Language Models**|You Li et.al.|[2501.05767](http://arxiv.org/abs/2501.05767)|null|
@@ -1324,6 +1342,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li et.al.|[2501.07542](http://arxiv.org/abs/2501.07542)|null|
+|**2025-01-13**|**Investigating Large Language Models in Inferring Personality Traits from User Conversations**|Jianfeng Zhu et.al.|[2501.07532](http://arxiv.org/abs/2501.07532)|null|
+|**2025-01-13**|**IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion**|Tharun Anand et.al.|[2501.07530](http://arxiv.org/abs/2501.07530)|null|
+|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
+|**2025-01-13**|**Guided SAM: Label-Efficient Part Segmentation**|S. B. van Rooij et.al.|[2501.07434](http://arxiv.org/abs/2501.07434)|null|
+|**2025-01-13**|**Enhancing LLM's Ability to Generate More Repository-Aware Unit Tests Through Precise Contextual Information Injection**|Xin Yin et.al.|[2501.07425](http://arxiv.org/abs/2501.07425)|null|
+|**2025-01-13**|**Initial Findings on Sensor based Open Vocabulary Activity Recognition via Text Embedding Inversion**|Lala Shakti Swarup Ray et.al.|[2501.07408](http://arxiv.org/abs/2501.07408)|null|
+|**2025-01-13**|**Zero-Shot Scene Understanding for Automatic Target Recognition Using Large Vision-Language Models**|Yasiru Ranasinghe et.al.|[2501.07396](http://arxiv.org/abs/2501.07396)|null|
+|**2025-01-13**|**Enhancing Retrieval-Augmented Generation: A Study of Best Practices**|Siran Li et.al.|[2501.07391](http://arxiv.org/abs/2501.07391)|**[link](https://github.com/ali-bahrainian/rag_best_practices)**|
+|**2025-01-13**|**Approaching ballistic motion in 3D simulations of gamma-ray burst jets in realistic binary neutron star merger environments**|Emma Dreas et.al.|[2501.07385](http://arxiv.org/abs/2501.07385)|null|
 |**2025-01-10**|**Multi-subject Open-set Personalization in Video Generation**|Tsai-Shien Chen et.al.|[2501.06187](http://arxiv.org/abs/2501.06187)|null|
 |**2025-01-10**|**PEACE: Empowering Geologic Map Holistic Understanding with MLLMs**|Yangyu Huang et.al.|[2501.06184](http://arxiv.org/abs/2501.06184)|null|
 |**2025-01-10**|**ScooterLab: A Programmable and Participatory Sensing Research Testbed using Micromobility Vehicles**|Ubaidullah Khan et.al.|[2501.06177](http://arxiv.org/abs/2501.06177)|null|
