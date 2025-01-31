@@ -245,6 +245,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
+|**2025-01-30**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|null|
+|**2025-01-30**|**Arbitrary Data as Images: Fusion of Patient Data Across Modalities and Irregular Intervals with Vision Transformers**|Malte Tölle et.al.|[2501.18237](http://arxiv.org/abs/2501.18237)|null|
 |**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
 |**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
@@ -745,7 +748,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
+|**2025-01-30**|**BounTCHA: A CAPTCHA Utilizing Boundary Identification in AI-extended Videos**|Lehao Lin et.al.|[2501.18565](http://arxiv.org/abs/2501.18565)|null|
+|**2025-01-29**|**Generative AI for Vision: A Comprehensive Study of Frameworks and Applications**|Fouad Bousetouane et.al.|[2501.18033](http://arxiv.org/abs/2501.18033)|null|
+|**2025-01-29**|**Topological Signatures of Adversaries in Multimodal Alignments**|Minh Vu et.al.|[2501.18006](http://arxiv.org/abs/2501.18006)|null|
+|**2025-01-30**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
 |**2025-01-29**|**Learning Free Token Reduction for Multi-Modal LLM**|Zihui Zhao et.al.|[2501.17391](http://arxiv.org/abs/2501.17391)|null|
 |**2025-01-28**|**Whispers of Sound-Enhancing Information Extraction from Depression Patients' Unstructured Data through Audio and Text Emotion Recognition and Llama Fine-tuning**|Lindy Gan et.al.|[2501.16813](http://arxiv.org/abs/2501.16813)|null|
 |**2025-01-28**|**Exploring the Role of Explicit Temporal Modeling in Multimodal Large Language Models for Video Understanding**|Yun Li et.al.|[2501.16786](http://arxiv.org/abs/2501.16786)|null|
@@ -1413,6 +1419,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**R.I.P.: Better Models by Survival of the Fittest Prompts**|Ping Yu et.al.|[2501.18578](http://arxiv.org/abs/2501.18578)|null|
+|**2025-01-30**|**BounTCHA: A CAPTCHA Utilizing Boundary Identification in AI-extended Videos**|Lehao Lin et.al.|[2501.18565](http://arxiv.org/abs/2501.18565)|null|
+|**2025-01-30**|**Semantic Web and Creative AI -- A Technical Report from ISWS 2023**|Raia Abu Ahmad et.al.|[2501.18542](http://arxiv.org/abs/2501.18542)|null|
+|**2025-01-30**|**Illusions of Relevance: Using Content Injection Attacks to Deceive Retrievers, Rerankers, and LLM Judges**|Manveer Singh Tamber et.al.|[2501.18536](http://arxiv.org/abs/2501.18536)|null|
+|**2025-01-30**|**CLEAR: Cue Learning using Evolution for Accurate Recognition Applied to Sustainability Data Extraction**|Peter J. Bentley et.al.|[2501.18504](http://arxiv.org/abs/2501.18504)|null|
+|**2025-01-30**|**HSRMamba: Contextual Spatial-Spectral State Space Model for Single Hyperspectral Super-Resolution**|Shi Chen et.al.|[2501.18500](http://arxiv.org/abs/2501.18500)|null|
+|**2025-01-30**|**CLoQ: Enhancing Fine-Tuning of Quantized LLMs via Calibrated LoRA Initialization**|Yanxia Deng et.al.|[2501.18475](http://arxiv.org/abs/2501.18475)|null|
+|**2025-01-30**|**Tuning Vision Foundation Model via Test-Time Prompt-Guided Training for VFSS Segmentations**|Chengxi Zeng et.al.|[2501.18474](http://arxiv.org/abs/2501.18474)|null|
+|**2025-01-30**|**ExeCoder: Empowering Large Language Models with Executability Representation for Code Translation**|Minghua He et.al.|[2501.18460](http://arxiv.org/abs/2501.18460)|null|
+|**2025-01-30**|**o3-mini vs DeepSeek-R1: Which One is Safer?**|Aitor Arrieta et.al.|[2501.18438](http://arxiv.org/abs/2501.18438)|null|
 |**2025-01-29**|**Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?**|Pouya Pezeshkpour et.al.|[2501.17840](http://arxiv.org/abs/2501.17840)|**[link](https://github.com/megagonlabs/insight_miner)**|
 |**2025-01-29**|**U2A: Unified Unimodal Adaptation for Robust and Efficient Multimodal Learning**|Md Kaykobad Reza et.al.|[2501.17823](http://arxiv.org/abs/2501.17823)|null|
 |**2025-01-29**|**Leveraging Multimodal LLM for Inspirational User Interface Search**|Seokhyeon Park et.al.|[2501.17799](http://arxiv.org/abs/2501.17799)|**[link](https://github.com/spark-damian/s-ui)**|
