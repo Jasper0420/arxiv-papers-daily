@@ -769,7 +769,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-01-26**|**Ocean-OCR: Towards General OCR Application via a Vision-Language Model**|Song Chen et.al.|[2501.15558](http://arxiv.org/abs/2501.15558)|null|
 |**2025-01-26**|**Unveiling the Potential of Multimodal Retrieval Augmented Generation with Planning**|Xiaohan Yu et.al.|[2501.15470](http://arxiv.org/abs/2501.15470)|null|
 |**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379](http://arxiv.org/abs/2501.15379)|null|
-|**2025-01-26**|**Baichuan-Omni-1.5 Technical Report**|Yadong Li et.al.|[2501.15368](http://arxiv.org/abs/2501.15368)|null|
+|**2025-01-26**|**Baichuan-Omni-1.5 Technical Report**|Yadong Li et.al.|[2501.15368](http://arxiv.org/abs/2501.15368)|**[link](https://github.com/baichuan-inc/Baichuan-Omni-1.5)**|
 |**2025-01-25**|**Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink**|Yining Wang et.al.|[2501.15269](http://arxiv.org/abs/2501.15269)|null|
 |**2025-01-23**|**Pilot: Building the Federated Multimodal Instruction Tuning Framework**|Baochen Xiong et.al.|[2501.13985](http://arxiv.org/abs/2501.13985)|null|
 |**2025-01-23**|**GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration**|Yue Fan et.al.|[2501.13896](http://arxiv.org/abs/2501.13896)|null|
@@ -777,7 +777,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-01-23**|**LVPruning: An Effective yet Simple Language-Guided Vision Token Pruning Approach for Multi-modal Large Language Models**|Yizheng Sun et.al.|[2501.13652](http://arxiv.org/abs/2501.13652)|null|
 |**2025-01-23**|**ReasVQA: Advancing VideoQA with Imperfect Reasoning Process**|Jianxin Liang et.al.|[2501.13536](http://arxiv.org/abs/2501.13536)|null|
 |**2025-01-23**|**50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications**|Zewei Shi et.al.|[2501.13351](http://arxiv.org/abs/2501.13351)|null|
-|**2025-01-24**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|null|
+|**2025-01-24**|**Multi-aspect Knowledge Distillation with Large Language Model**|Taegyeong Lee et.al.|[2501.13341](http://arxiv.org/abs/2501.13341)|**[link](https://github.com/taegyeong-lee/makd)**|
 |**2025-01-22**|**Does Table Source Matter? Benchmarking and Improving Multimodal Scientific Table Understanding and Reasoning**|Bohao Yang et.al.|[2501.13042](http://arxiv.org/abs/2501.13042)|**[link](https://github.com/bernard-yang/mmsci_table)**|
 |**2025-01-22**|**InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling**|Yi Wang et.al.|[2501.12386](http://arxiv.org/abs/2501.12386)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2025-01-21**|**VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model**|Xianwei Zhuang et.al.|[2501.12327](http://arxiv.org/abs/2501.12327)|**[link](https://github.com/VARGPT-family/VARGPT)**|
@@ -1141,7 +1141,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-10-15**|**Difficult Task Yes but Simple Task No: Unveiling the Laziness in Multimodal LLMs**|Sihang Zhao et.al.|[2410.11437](http://arxiv.org/abs/2410.11437)|**[link](https://github.com/Akutagawa1998/LazyBench)**|
 |**2024-10-15**|**Automatically Generating Visual Hallucination Test Cases for Multimodal Large Language Models**|Zhongye Liu et.al.|[2410.11242](http://arxiv.org/abs/2410.11242)|**[link](https://github.com/lycheeefish/vhexpansion)**|
 |**2024-10-15**|**MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation**|Xianping Ma et.al.|[2410.11160](http://arxiv.org/abs/2410.11160)|**[link](https://github.com/sstary/ssrs)**|
-|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|**[link](https://github.com/timbroed/cafuser)**|
 |**2024-10-14**|**MMCFND: Multimodal Multilingual Caption-aware Fake News Detection for Low-resource Indic Languages**|Shubhi Bansal et.al.|[2410.10407](http://arxiv.org/abs/2410.10407)|**[link](https://github.com/shubhi-bansal/MMCFND)**|
 |**2024-10-14**|**Spatial-Aware Efficient Projector for MLLMs via Multi-Layer Feature Aggregation**|Shun Qian et.al.|[2410.10319](http://arxiv.org/abs/2410.10319)|null|
 |**2024-10-14**|**ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization**|Jiawei Li et.al.|[2410.10238](http://arxiv.org/abs/2410.10238)|null|
@@ -1453,7 +1453,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-01-29**|**In-Context Meta LoRA Generation**|Yihua Shao et.al.|[2501.17635](http://arxiv.org/abs/2501.17635)|null|
 |**2025-01-29**|**Uncertainty Quantification and Decomposition for LLM-based Recommendation**|Wonbin Kweon et.al.|[2501.17630](http://arxiv.org/abs/2501.17630)|**[link](https://github.com/wonbinkweon/unc_llm_rec_www2025)**|
 |**2025-01-28**|**CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation**|Nikolai Kalischek et.al.|[2501.17162](http://arxiv.org/abs/2501.17162)|null|
-|**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148](http://arxiv.org/abs/2501.17148)|null|
+|**2025-01-28**|**AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders**|Zhengxuan Wu et.al.|[2501.17148](http://arxiv.org/abs/2501.17148)|**[link](https://github.com/stanfordnlp/axbench)**|
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**ASTRAL: Automated Safety Testing of Large Language Models**|Miriam Ugarte et.al.|[2501.17132](http://arxiv.org/abs/2501.17132)|null|
 |**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
@@ -1461,17 +1461,17 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
 |**2025-01-28**|**Context is Key in Agent Security**|Lillian Tsai et.al.|[2501.17070](http://arxiv.org/abs/2501.17070)|null|
 |**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053](http://arxiv.org/abs/2501.17053)|null|
-|**2025-01-28**|**Large Language Models for Code Generation: The Practitioners Perspective**|Zeeshan Rasheed et.al.|[2501.16998](http://arxiv.org/abs/2501.16998)|null|
+|**2025-01-28**|**Large Language Models for Code Generation: The Practitioners Perspective**|Zeeshan Rasheed et.al.|[2501.16998](http://arxiv.org/abs/2501.16998)|**[link](https://github.com/gpt-laboratory/llm-evaluation)**|
 |**2025-01-27**|**RelightVid: Temporal-Consistent Diffusion Model for Video Relighting**|Ye Fang et.al.|[2501.16330](http://arxiv.org/abs/2501.16330)|null|
 |**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
 |**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
 |**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
 |**2025-01-27**|**Language-Based Bayesian Optimization Research Assistant (BORA)**|Abdoulatif Cissé et.al.|[2501.16224](http://arxiv.org/abs/2501.16224)|null|
-|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215](http://arxiv.org/abs/2501.16215)|null|
+|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215](http://arxiv.org/abs/2501.16215)|**[link](https://github.com/HuayuLiArizona/Conformalized-Multiple-Instance-Learning-For-MedTS)**|
 |**2025-01-27**|**Raiders of the Lost Dependency: Fixing Dependency Conflicts in Python using LLMs**|Antony Bartlett et.al.|[2501.16191](http://arxiv.org/abs/2501.16191)|null|
 |**2025-01-27**|**Can summarization approximate simplification? A gold standard comparison**|Giacomo Magnifico et.al.|[2501.16181](http://arxiv.org/abs/2501.16181)|null|
 |**2025-01-27**|**BAG: Body-Aligned 3D Wearable Asset Generation**|Zhongjin Luo et.al.|[2501.16177](http://arxiv.org/abs/2501.16177)|null|
-|**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|null|
+|**2025-01-27**|**Will Systems of LLM Agents Cooperate: An Investigation into a Social Dilemma**|Richard Willis et.al.|[2501.16173](http://arxiv.org/abs/2501.16173)|**[link](https://github.com/willis-richard/evollm)**|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
 |**2025-01-24**|**Gland Segmentation Using SAM With Cancer Grade as a Prompt**|Yijie Zhu et.al.|[2501.14718](http://arxiv.org/abs/2501.14718)|null|
@@ -1483,7 +1483,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-01-24**|**Evaluating and Improving Graph to Text Generation with Large Language Models**|Jie He et.al.|[2501.14497](http://arxiv.org/abs/2501.14497)|**[link](https://github.com/probe2/kg_text)**|
 |**2025-01-24**|**Boundary Value Test Input Generation Using Prompt Engineering with LLMs: Fault Detection and Coverage Analysis**|Xiujing Guo et.al.|[2501.14465](http://arxiv.org/abs/2501.14465)|null|
 |**2025-01-23**|**GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing**|Akashah Shabbir et.al.|[2501.13925](http://arxiv.org/abs/2501.13925)|**[link](https://github.com/mbzuai-oryx/geopixel)**|
-|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/abs/2501.13921)|null|
+|**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/abs/2501.13921)|**[link](https://github.com/mtkresearch/mr-models)**|
 |**2025-01-23**|**IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models**|Jiayi Lei et.al.|[2501.13920](http://arxiv.org/abs/2501.13920)|null|
 |**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
 |**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
