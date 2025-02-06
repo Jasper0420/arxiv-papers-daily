@@ -1456,7 +1456,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-02-05**|**Interactive Visualization Recommendation with Hier-SUCB**|Songwen Hu et.al.|[2502.03375](http://arxiv.org/abs/2502.03375)|null|
 |**2025-02-05**|**Controllable GUI Exploration**|Aryan Garg et.al.|[2502.03330](http://arxiv.org/abs/2502.03330)|null|
 |**2025-02-05**|**ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model**|Qiguang Chen et.al.|[2502.03325](http://arxiv.org/abs/2502.03325)|null|
-|**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266](http://arxiv.org/abs/2502.03266)|null|
+|**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266](http://arxiv.org/abs/2502.03266)|**[link](https://github.com/Yinmlmaoliang/zisvfm)**|
 |**2025-02-05**|**MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent**|Xinyao Liao et.al.|[2502.03207](http://arxiv.org/abs/2502.03207)|null|
 |**2025-02-04**|**Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling**|Xiaowen Qiu et.al.|[2502.02590](http://arxiv.org/abs/2502.02590)|null|
 |**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu et.al.|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
