@@ -22,6 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Modelling spin-orbitronics effects at interfaces and chiral molecules**|Poonam Kumari et.al.|[2502.09239](http://arxiv.org/abs/2502.09239)|null|
 |**2025-02-12**|**Highly efficient field-free switching by orbital Hall torque in a MoS2-based device operating at room temperature**|Antonio Bianco et.al.|[2502.08483](http://arxiv.org/abs/2502.08483)|null|
 |**2025-02-08**|**Event Stream-based Visual Object Tracking: HDETrack V2 and A High-Definition Benchmark**|Shiao Wang et.al.|[2502.05574](http://arxiv.org/abs/2502.05574)|**[link](https://github.com/event-ahu/eventvot_benchmark)**|
 |**2025-02-06**|**Visualizing Field-free Deterministic Magnetic Switching of all-van der Waals Spin-Orbit Torque System Using Spin Ensembles in Hexagonal Boron Nitride**|Xi Zhang et.al.|[2502.04561](http://arxiv.org/abs/2502.04561)|null|
@@ -266,8 +267,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Source function from two-particle correlation function through entropy-regularized Richardson-Lucy deblurring**|C. K. Tam et.al.|[2502.09478](http://arxiv.org/abs/2502.09478)|null|
+|**2025-02-13**|**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**|Rotem Shalev-Arkushin et.al.|[2502.09411](http://arxiv.org/abs/2502.09411)|null|
 |**2025-02-12**|**Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions**|Prajwal Gatti et.al.|[2502.08438](http://arxiv.org/abs/2502.08438)|null|
-|**2025-02-11**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856](http://arxiv.org/abs/2502.07856)|null|
+|**2025-02-13**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856](http://arxiv.org/abs/2502.07856)|null|
 |**2025-02-11**|**Captured by Captions: On Memorization and its Mitigation in CLIP Models**|Wenhao Wang et.al.|[2502.07830](http://arxiv.org/abs/2502.07830)|null|
 |**2025-02-11**|**Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems**|Ai Chen et.al.|[2502.07351](http://arxiv.org/abs/2502.07351)|**[link](https://github.com/ai-chen-lab/mtoie)**|
 |**2025-02-11**|**Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos**|Haowen Gao et.al.|[2502.07327](http://arxiv.org/abs/2502.07327)|null|
@@ -803,9 +806,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents**|Rui Yang et.al.|[2502.09560](http://arxiv.org/abs/2502.09560)|null|
+|**2025-02-13**|**A Benchmark for Crime Surveillance Video Analysis with Large Models**|Haoran Chen et.al.|[2502.09325](http://arxiv.org/abs/2502.09325)|null|
+|**2025-02-13**|**From Visuals to Vocabulary: Establishing Equivalence Between Image and Text Token Through Autoregressive Pre-training in MLLMs**|Mingxiao Li et.al.|[2502.09093](http://arxiv.org/abs/2502.09093)|null|
 |**2025-02-12**|**FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**|Yang Sun et.al.|[2502.08260](http://arxiv.org/abs/2502.08260)|null|
 |**2025-02-12**|**Learning Human Skill Generators at Key-Step Levels**|Yilu Wu et.al.|[2502.08234](http://arxiv.org/abs/2502.08234)|null|
-|**2025-02-11**|**Universal Adversarial Attack on Aligned Multimodal LLMs**|Temurbek Rahmatullaev et.al.|[2502.07987](http://arxiv.org/abs/2502.07987)|null|
+|**2025-02-13**|**Universal Adversarial Attack on Aligned Multimodal LLMs**|Temurbek Rahmatullaev et.al.|[2502.07987](http://arxiv.org/abs/2502.07987)|null|
 |**2025-02-11**|**DeepSeek on a Trip: Inducing Targeted Visual Hallucinations via Representation Vulnerabilities**|Chashi Mahiul Islam et.al.|[2502.07905](http://arxiv.org/abs/2502.07905)|null|
 |**2025-02-11**|**Towards Zero-Shot Anomaly Detection and Reasoning with Multimodal Large Language Models**|Jiacong Xu et.al.|[2502.07601](http://arxiv.org/abs/2502.07601)|null|
 |**2025-02-11**|**MLLM4PUE: Toward Universal Embeddings in Computational Pathology through Multimodal LLMs**|Qifeng Zhou et.al.|[2502.07221](http://arxiv.org/abs/2502.07221)|null|
@@ -1511,6 +1517,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/abs/2502.09621)|null|
+|**2025-02-13**|**Designing a Conditional Prior Distribution for Flow-Based Generative Models**|Noam Issachar et.al.|[2502.09611](http://arxiv.org/abs/2502.09611)|null|
+|**2025-02-13**|**CoT-Valve: Length-Compressible Chain-of-Thought Tuning**|Xinyin Ma et.al.|[2502.09601](http://arxiv.org/abs/2502.09601)|null|
+|**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598](http://arxiv.org/abs/2502.09598)|null|
+|**2025-02-13**|**Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs**|Siyan Zhao et.al.|[2502.09597](http://arxiv.org/abs/2502.09597)|null|
+|**2025-02-13**|**Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks**|Qian Wan et.al.|[2502.09577](http://arxiv.org/abs/2502.09577)|null|
+|**2025-02-13**|**Optimizing GPT for Video Understanding: Zero-Shot Performance and Prompt Engineering**|Mark Beliaev et.al.|[2502.09573](http://arxiv.org/abs/2502.09573)|null|
+|**2025-02-13**|**MDCrow: Automating Molecular Dynamics Workflows with Large Language Models**|Quintina Campbell et.al.|[2502.09565](http://arxiv.org/abs/2502.09565)|null|
+|**2025-02-13**|**Improve LLM-based Automatic Essay Scoring with Linguistic Features**|Zhaoyi Joey Hou et.al.|[2502.09497](http://arxiv.org/abs/2502.09497)|null|
+|**2025-02-13**|**Objective quantification of mood states using large language models**|Jakub Onysk et.al.|[2502.09487](http://arxiv.org/abs/2502.09487)|null|
 |**2025-02-12**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644](http://arxiv.org/abs/2502.08644)|null|
 |**2025-02-12**|**Ultrasound Image Generation using Latent Diffusion Models**|Benoit Freiche et.al.|[2502.08580](http://arxiv.org/abs/2502.08580)|null|
 |**2025-02-12**|**AR Glulam: Accurate Augmented Reality Using Multiple Fiducial Markers for Glulam Fabrication**|Alexander Htet Kyaw et.al.|[2502.08566](http://arxiv.org/abs/2502.08566)|null|
