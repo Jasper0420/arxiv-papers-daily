@@ -133,6 +133,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Fast Antibiotic resistance-Based gene editing of mammalian cells with CRISPR-Cas9 (FAB-CRISPR)**|Petia Adarska et.al.|[2502.12675](http://arxiv.org/abs/2502.12675)|null|
 |**2025-02-14**|**Quantifying Phase Magnitudes of Open-Source Focused-Probe 4D-STEM Ptychography Reconstructions**|Toma Susi et.al.|[2502.09938](http://arxiv.org/abs/2502.09938)|null|
 |**2025-02-10**|**Indoor Light and Heat Estimation from a Single Panorama**|Guanzhou Ji et.al.|[2502.06973](http://arxiv.org/abs/2502.06973)|null|
 |**2025-02-09**|**Compressed sensing enabled high-bandwidth and large dynamic range magnetic sensing**|Galya Haim et.al.|[2502.06070](http://arxiv.org/abs/2502.06070)|null|
@@ -269,6 +270,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**Local Flaw Detection with Adaptive Pyramid Image Fusion Across Spatial Sampling Resolution for SWRs**|Siyu You et.al.|[2502.12512](http://arxiv.org/abs/2502.12512)|null|
 |**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095](http://arxiv.org/abs/2502.12095)|null|
 |**2025-02-17**|**ILIAS: Instance-Level Image retrieval At Scale**|Giorgos Kordopatis-Zilos et.al.|[2502.11748](http://arxiv.org/abs/2502.11748)|null|
 |**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725](http://arxiv.org/abs/2502.11725)|null|
@@ -815,6 +818,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
+|**2025-02-18**|**SimpleVQA: Multimodal Factuality Evaluation for Multimodal Large Language Models**|Xianfu Cheng et.al.|[2502.13059](http://arxiv.org/abs/2502.13059)|null|
+|**2025-02-18**|**AEIA-MN: Evaluating the Robustness of Multimodal LLM-Powered Mobile Agents Against Active Environmental Injection Attacks**|Yurun Chen et.al.|[2502.13053](http://arxiv.org/abs/2502.13053)|null|
+|**2025-02-18**|**Towards Text-Image Interleaved Retrieval**|Xin Zhang et.al.|[2502.12799](http://arxiv.org/abs/2502.12799)|null|
+|**2025-02-18**|**Corrupted but Not Broken: Rethinking the Impact of Corrupted Data in Visual Instruction Tuning**|Yunhao Gou et.al.|[2502.12635](http://arxiv.org/abs/2502.12635)|null|
+|**2025-02-18**|**SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings**|Weikai Lu et.al.|[2502.12562](http://arxiv.org/abs/2502.12562)|null|
+|**2025-02-18**|**MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos**|Huaying Yuan et.al.|[2502.12558](http://arxiv.org/abs/2502.12558)|null|
+|**2025-02-18**|**SAFEERASER: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning**|Junkai Chen et.al.|[2502.12520](http://arxiv.org/abs/2502.12520)|null|
 |**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
 |**2025-02-17**|**PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection**|Jinhe Bi et.al.|[2502.12119](http://arxiv.org/abs/2502.12119)|null|
 |**2025-02-17**|**Token Communications: A Unified Framework for Cross-modal Context-aware Semantic Communications**|Li Qiao et.al.|[2502.12096](http://arxiv.org/abs/2502.12096)|null|
@@ -1538,6 +1549,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
+|**2025-02-18**|**Sleepless Nights, Sugary Days: Creating Synthetic Users with Health Conditions for Realistic Coaching Agent Interactions**|Taedong Yun et.al.|[2502.13135](http://arxiv.org/abs/2502.13135)|null|
+|**2025-02-18**|**STEER-ME: Assessing the Microeconomic Reasoning of Large Language Models**|Narun Raman et.al.|[2502.13119](http://arxiv.org/abs/2502.13119)|null|
+|**2025-02-18**|**Near-Optimal Private Learning in Linear Contextual Bandits**|Fan Chen et.al.|[2502.13115](http://arxiv.org/abs/2502.13115)|null|
+|**2025-02-18**|**KAPPA: A Generic Patent Analysis Framework with Keyphrase-Based Portraits**|Xin Xia et.al.|[2502.13076](http://arxiv.org/abs/2502.13076)|null|
+|**2025-02-18**|**Do we still need Human Annotators? Prompting Large Language Models for Aspect Sentiment Quad Prediction**|Nils Constantin Hellwig et.al.|[2502.13044](http://arxiv.org/abs/2502.13044)|null|
+|**2025-02-18**|**HPSS: Heuristic Prompting Strategy Search for LLM Evaluators**|Bosi Wen et.al.|[2502.13031](http://arxiv.org/abs/2502.13031)|null|
+|**2025-02-18**|**Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks**|Markus J. Buehler et.al.|[2502.13025](http://arxiv.org/abs/2502.13025)|null|
+|**2025-02-18**|**Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation**|Sha Li et.al.|[2502.13019](http://arxiv.org/abs/2502.13019)|null|
+|**2025-02-18**|**LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**|Junchen Fu et.al.|[2502.12945](http://arxiv.org/abs/2502.12945)|null|
 |**2025-02-17**|**Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA**|Patryk Marszałek et.al.|[2502.12122](http://arxiv.org/abs/2502.12122)|null|
 |**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
 |**2025-02-17**|**VLM $^2$ -Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues**|Jianshu Zhang et.al.|[2502.12084](http://arxiv.org/abs/2502.12084)|null|
