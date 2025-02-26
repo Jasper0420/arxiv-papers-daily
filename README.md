@@ -22,6 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking**|He Wang et.al.|[2502.18220](http://arxiv.org/abs/2502.18220)|null|
 |**2025-02-24**|**Symmetry-breaking effects on spin-orbit torque switching in ferromagnetic semiconductors with perpendicular magnetic anisotropy**|Apu Kumar Jana et.al.|[2502.16788](http://arxiv.org/abs/2502.16788)|null|
 |**2025-02-17**|**Effects of antiferromagnetic coupling and pinning on domain wall dynamics in synthetic ferrimagnets**|Sougata Mallick et.al.|[2502.11621](http://arxiv.org/abs/2502.11621)|null|
 |**2025-02-13**|**Modelling spin-orbitronics effects at interfaces and chiral molecules**|Poonam Kumari et.al.|[2502.09239](http://arxiv.org/abs/2502.09239)|null|
@@ -765,6 +766,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|null|
+|**2025-02-25**|**Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking**|Xin Tong et.al.|[2502.17766](http://arxiv.org/abs/2502.17766)|null|
 |**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
@@ -830,6 +833,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**|Xiangyu Zhao et.al.|[2502.18411](http://arxiv.org/abs/2502.18411)|null|
+|**2025-02-25**|**ChatMotion: A Multimodal Multi-Agent for Human Motion Analysis**|Li Lei et.al.|[2502.18180](http://arxiv.org/abs/2502.18180)|null|
+|**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[2502.18042](http://arxiv.org/abs/2502.18042)|null|
+|**2025-02-25**|**MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Poisoning Attacks**|Hyeonjeong Ha et.al.|[2502.17832](http://arxiv.org/abs/2502.17832)|null|
+|**2025-02-25**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al.|[2502.17812](http://arxiv.org/abs/2502.17812)|null|
+|**2025-02-24**|**MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference**|Zhongwei Wan et.al.|[2502.17599](http://arxiv.org/abs/2502.17599)|null|
+|**2025-02-24**|**PosterSum: A Multimodal Benchmark for Scientific Poster Summarization**|Rohit Saxena et.al.|[2502.17540](http://arxiv.org/abs/2502.17540)|null|
 |**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|**[link](https://github.com/yu-rp/visualperceptiontoken)**|
 |**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|
 |**2025-02-24**|**HIPPO: Enhancing the Table Understanding Capability of Large Language Models through Hybrid-Modal Preference Optimization**|Zhenghao Liu et.al.|[2502.17315](http://arxiv.org/abs/2502.17315)|**[link](https://github.com/neuir/hippo)**|
@@ -1582,6 +1592,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**K-LoRA: Unlocking Training-Free Fusion of Any Subject and Style LoRAs**|Ziheng Ouyang et.al.|[2502.18461](http://arxiv.org/abs/2502.18461)|null|
+|**2025-02-25**|**Evaluating the Effectiveness of Small Language Models in Detecting Refactoring Bugs**|Rohit Gheyi et.al.|[2502.18454](http://arxiv.org/abs/2502.18454)|null|
+|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439](http://arxiv.org/abs/2502.18439)|null|
+|**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
+|**2025-02-25**|**MedKAN: An Advanced Kolmogorov-Arnold Network for Medical Image Classification**|Zhuoqin Yang et.al.|[2502.18416](http://arxiv.org/abs/2502.18416)|null|
+|**2025-02-25**|**ART: Anonymous Region Transformer for Variable Multi-Layer Transparent Image Generation**|Yifan Pu et.al.|[2502.18364](http://arxiv.org/abs/2502.18364)|null|
+|**2025-02-25**|**GCDance: Genre-Controlled 3D Full Body Dance Generation Driven By Music**|Xinran Liu et.al.|[2502.18309](http://arxiv.org/abs/2502.18309)|null|
+|**2025-02-25**|**LDGen: Enhancing Text-to-Image Synthesis via Large Language Model-Driven Language Representation**|Pengzhi Li et.al.|[2502.18302](http://arxiv.org/abs/2502.18302)|null|
+|**2025-02-25**|**Synthesizing Consistent Novel Views via 3D Epipolar Attention without Re-Training**|Botao Ye et.al.|[2502.18219](http://arxiv.org/abs/2502.18219)|null|
+|**2025-02-25**|**FLARE: A Framework for Stellar Flare Forecasting using Stellar Physical Properties and Historical Records**|Bingke Zhu et.al.|[2502.18218](http://arxiv.org/abs/2502.18218)|null|
 |**2025-02-24**|**Stronger Neyman Regret Guarantees for Adaptive Experimental Design**|Georgy Noarov et.al.|[2502.17427](http://arxiv.org/abs/2502.17427)|null|
 |**2025-02-24**|**Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs**|Jan Betley et.al.|[2502.17424](http://arxiv.org/abs/2502.17424)|**[link](https://github.com/emergent-misalignment/emergent-misalignment)**|
 |**2025-02-24**|**Function-Space Learning Rates**|Edward Milsom et.al.|[2502.17405](http://arxiv.org/abs/2502.17405)|null|
