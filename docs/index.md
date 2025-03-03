@@ -127,6 +127,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**SEE: See Everything Every Time -- Adaptive Brightness Adjustment for Broad Light Range Images via Events**|Yunfan Lu et.al.|[2502.21120](http://arxiv.org/abs/2502.21120)|null|
 |**2025-02-18**|**Fast Antibiotic resistance-Based gene editing of mammalian cells with CRISPR-Cas9 (FAB-CRISPR)**|Petia Adarska et.al.|[2502.12675](http://arxiv.org/abs/2502.12675)|null|
 |**2025-02-14**|**Quantifying Phase Magnitudes of Open-Source Focused-Probe 4D-STEM Ptychography Reconstructions**|Toma Susi et.al.|[2502.09938](http://arxiv.org/abs/2502.09938)|**[link](https://github.com/TomaSusi/arina-ptycho)**|
 |**2025-02-10**|**Indoor Light and Heat Estimation from a Single Panorama**|Guanzhou Ji et.al.|[2502.06973](http://arxiv.org/abs/2502.06973)|null|
@@ -262,7 +263,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**HVI: A New color space for Low-light Image Enhancement**|Qingsen Yan et.al.|[2502.20272](http://arxiv.org/abs/2502.20272)|**[link](https://github.com/fediory/hvi-cidnet)**|
+|**2025-02-28**|**SEE: See Everything Every Time -- Adaptive Brightness Adjustment for Broad Light Range Images via Events**|Yunfan Lu et.al.|[2502.21120](http://arxiv.org/abs/2502.21120)|null|
+|**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
+|**2025-02-28**|**Diffusion Restoration Adapter for Real-World Image Restoration**|Hanbang Liang et.al.|[2502.20679](http://arxiv.org/abs/2502.20679)|null|
+|**2025-02-28**|**HVI: A New Color Space for Low-light Image Enhancement**|Qingsen Yan et.al.|[2502.20272](http://arxiv.org/abs/2502.20272)|**[link](https://github.com/fediory/hvi-cidnet)**|
 |**2025-02-27**|**Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps**|Tianxiao Gao et.al.|[2502.20054](http://arxiv.org/abs/2502.20054)|null|
 |**2025-02-27**|**Striving for Faster and Better: A One-Layer Architecture with Auto Re-parameterization for Low-Light Image Enhancement**|Nan An et.al.|[2502.19867](http://arxiv.org/abs/2502.19867)|null|
 |**2025-02-27**|**One Model for ALL: Low-Level Task Interaction Is a Key to Task-Agnostic Image Fusion**|Chunyang Cheng et.al.|[2502.19854](http://arxiv.org/abs/2502.19854)|null|
@@ -770,7 +774,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-25**|**Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking**|Xin Tong et.al.|[2502.17766](http://arxiv.org/abs/2502.17766)|null|
-|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
+|**2025-02-28**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
@@ -833,6 +837,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/abs/2502.21271)|null|
+|**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
+|**2025-02-28**|**Fine-Grained Retrieval-Augmented Generation for Visual Question Answering**|Zhengxuan Zhang et.al.|[2502.20964](http://arxiv.org/abs/2502.20964)|null|
+|**2025-02-28**|**HAIC: Improving Human Action Understanding and Generation with Better Captions for Multi-modal Large Language Models**|Xiao Wang et.al.|[2502.20811](http://arxiv.org/abs/2502.20811)|null|
+|**2025-02-28**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808](http://arxiv.org/abs/2502.20808)|null|
+|**2025-02-28**|**Towards General Visual-Linguistic Face Forgery Detection(V2)**|Ke Sun et.al.|[2502.20698](http://arxiv.org/abs/2502.20698)|null|
+|**2025-02-27**|**Visual Reasoning at Urban Intersections: FineTuning GPT-4o for Traffic Conflict Detection**|Sari Masri et.al.|[2502.20573](http://arxiv.org/abs/2502.20573)|null|
+|**2025-02-27**|**Protecting multimodal large language models against misleading visualizations**|Jonathan Tonglet et.al.|[2502.20503](http://arxiv.org/abs/2502.20503)|null|
+|**2025-02-27**|**VideoA11y: Method and Dataset for Accessible Video Description**|Chaoyu Li et.al.|[2502.20480](http://arxiv.org/abs/2502.20480)|null|
 |**2025-02-27**|**Judge a Book by its Cover: Investigating Multi-Modal LLMs for Multi-Page Handwritten Document Transcription**|Benjamin Gutteridge et.al.|[2502.20295](http://arxiv.org/abs/2502.20295)|null|
 |**2025-02-27**|**Mixture of Experts for Recognizing Depression from Interview and Reading Tasks**|Loukas Ilias et.al.|[2502.20213](http://arxiv.org/abs/2502.20213)|null|
 |**2025-02-27**|**New Dataset and Methods for Fine-Grained Compositional Referring Expression Comprehension via Specialist-MLLM Collaboration**|Xuzheng Yang et.al.|[2502.20104](http://arxiv.org/abs/2502.20104)|null|
@@ -1602,6 +1615,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Persuasion Should be Double-Blind: A Multi-Domain Dialogue Dataset With Faithfulness Based on Causal Theory of Mind**|Dingyi Zhang et.al.|[2502.21297](http://arxiv.org/abs/2502.21297)|null|
+|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/abs/2502.21290)|null|
+|**2025-02-28**|**Adaptive Keyframe Sampling for Long Video Understanding**|Xi Tang et.al.|[2502.21271](http://arxiv.org/abs/2502.21271)|null|
+|**2025-02-28**|**RuCCoD: Towards Automated ICD Coding in Russian**|Aleksandr Nesterov et.al.|[2502.21263](http://arxiv.org/abs/2502.21263)|null|
+|**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260](http://arxiv.org/abs/2502.21260)|null|
+|**2025-02-28**|**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**|Nijesh Upreti et.al.|[2502.21250](http://arxiv.org/abs/2502.21250)|null|
+|**2025-02-28**|**Brickify: Enabling Expressive Design Intent Specification through Direct Manipulation on Design Tokens**|Xinyu Shi et.al.|[2502.21219](http://arxiv.org/abs/2502.21219)|null|
+|**2025-02-28**|**Transformers Learn to Implement Multi-step Gradient Descent with Chain of Thought**|Jianhao Huang et.al.|[2502.21212](http://arxiv.org/abs/2502.21212)|null|
+|**2025-02-28**|**CuPID: Leveraging Masked Single-Lead ECG Modelling for Enhancing the Representations**|Adtian Atienza et.al.|[2502.21127](http://arxiv.org/abs/2502.21127)|null|
+|**2025-02-28**|**SEE: See Everything Every Time -- Adaptive Brightness Adjustment for Broad Light Range Images via Events**|Yunfan Lu et.al.|[2502.21120](http://arxiv.org/abs/2502.21120)|null|
 |**2025-02-27**|**Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**|Sucheng Ren et.al.|[2502.20388](http://arxiv.org/abs/2502.20388)|null|
 |**2025-02-27**|**Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis**|Jeffrey Yang Fan Chiang et.al.|[2502.20383](http://arxiv.org/abs/2502.20383)|null|
 |**2025-02-27**|**Multi-Agent Verification: Scaling Test-Time Compute with Multiple Verifiers**|Shalev Lifshitz et.al.|[2502.20379](http://arxiv.org/abs/2502.20379)|null|
