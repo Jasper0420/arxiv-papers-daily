@@ -841,7 +841,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-02-28**|**RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete**|Yuheng Ji et.al.|[2502.21257](http://arxiv.org/abs/2502.21257)|null|
 |**2025-02-28**|**Fine-Grained Retrieval-Augmented Generation for Visual Question Answering**|Zhengxuan Zhang et.al.|[2502.20964](http://arxiv.org/abs/2502.20964)|null|
 |**2025-02-28**|**HAIC: Improving Human Action Understanding and Generation with Better Captions for Multi-modal Large Language Models**|Xiao Wang et.al.|[2502.20811](http://arxiv.org/abs/2502.20811)|null|
-|**2025-02-28**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808](http://arxiv.org/abs/2502.20808)|null|
+|**2025-03-03**|**MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**|Peijie Wang et.al.|[2502.20808](http://arxiv.org/abs/2502.20808)|null|
 |**2025-02-28**|**Towards General Visual-Linguistic Face Forgery Detection(V2)**|Ke Sun et.al.|[2502.20698](http://arxiv.org/abs/2502.20698)|null|
 |**2025-02-27**|**Visual Reasoning at Urban Intersections: FineTuning GPT-4o for Traffic Conflict Detection**|Sari Masri et.al.|[2502.20573](http://arxiv.org/abs/2502.20573)|null|
 |**2025-02-27**|**Protecting multimodal large language models against misleading visualizations**|Jonathan Tonglet et.al.|[2502.20503](http://arxiv.org/abs/2502.20503)|null|
