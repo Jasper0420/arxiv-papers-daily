@@ -22,6 +22,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-09**|**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**|Chaocan Xue et.al.|[2503.06625](http://arxiv.org/abs/2503.06625)|null|
+|**2025-03-09**|**Dynamic Updates for Language Adaptation in Visual-Language Tracking**|Xiaohai Li et.al.|[2503.06621](http://arxiv.org/abs/2503.06621)|null|
+|**2025-03-06**|**High resolution spectra of the [6297-6303] and [6361-6367] Angstr{ö}m domains (including forbidden OI lines) of the Sun and brightest stars**|Jean-Marie Malherbe et.al.|[2503.05832](http://arxiv.org/abs/2503.05832)|null|
 |**2025-03-07**|**Separating the bulk and interface contribution of spin-orbit torque in ferromagnet-Heavy metal bilayers tuned by variation of resistivity of heavy metal**|Abu Bakkar Miah et.al.|[2503.05341](http://arxiv.org/abs/2503.05341)|null|
 |**2025-03-07**|**Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**|Simon A. Aytes et.al.|[2503.05179](http://arxiv.org/abs/2503.05179)|null|
 |**2025-03-02**|**Inefficiency of the orbit Hall effect on spin torque in transition metal/ferromagnet bilayers**|Yizhuo Song et.al.|[2503.00910](http://arxiv.org/abs/2503.00910)|null|
@@ -140,6 +143,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion**|Haowen Bai et.al.|[2503.07235](http://arxiv.org/abs/2503.07235)|null|
+|**2025-03-08**|**Optimization models for needle placement in 3D-printed masks for high dose rate brachytherapy**|Nasim Mirzavand Boroujeni et.al.|[2503.06000](http://arxiv.org/abs/2503.06000)|null|
 |**2025-03-05**|**DeepGrav: Anomalous Gravitational-Wave Detection Through Deep Latent Features**|Jianqi Yan et.al.|[2503.03799](http://arxiv.org/abs/2503.03799)|null|
 |**2025-03-05**|**BAT: Learning Event-based Optical Flow with Bidirectional Adaptive Temporal Correlation**|Gangwei Xu et.al.|[2503.03256](http://arxiv.org/abs/2503.03256)|null|
 |**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|null|
@@ -286,6 +291,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
+|**2025-03-10**|**Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion**|Haowen Bai et.al.|[2503.07235](http://arxiv.org/abs/2503.07235)|null|
+|**2025-03-10**|**Boosting Diffusion-Based Text Image Super-Resolution Model Towards Generalized Real-World Scenarios**|Chenglu Pan et.al.|[2503.07232](http://arxiv.org/abs/2503.07232)|null|
+|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Mihcael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
+|**2025-03-10**|**Zero-Shot Hashing Based on Reconstruction With Part Alignment**|Yan Jiang et.al.|[2503.07037](http://arxiv.org/abs/2503.07037)|null|
+|**2025-03-10**|**Learning a Unified Degradation-aware Representation Model for Multi-modal Image Fusion**|Haolong Ma et.al.|[2503.07033](http://arxiv.org/abs/2503.07033)|null|
+|**2025-03-10**|**MERLION: Marine ExploRation with Language guIded Online iNformative Visual Sampling and Enhancement**|Shrutika Vishal Thengane et.al.|[2503.06953](http://arxiv.org/abs/2503.06953)|null|
+|**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
+|**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**|Haitao Wu et.al.|[2503.04207](http://arxiv.org/abs/2503.04207)|null|
@@ -885,6 +899,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**ALLVB: All-in-One Long Video Understanding Benchmark**|Xichen Tan et.al.|[2503.07298](http://arxiv.org/abs/2503.07298)|null|
+|**2025-03-10**|**A Novel Ophthalmic Benchmark for Evaluating Multimodal Large Language Models with Fundus Photographs and OCT Images**|Xiaoyi Liang et.al.|[2503.07094](http://arxiv.org/abs/2503.07094)|null|
+|**2025-03-10**|**Taking Notes Brings Focus? Towards Multi-Turn Multimodal Dialogue Learning**|Jiazheng Liu et.al.|[2503.07002](http://arxiv.org/abs/2503.07002)|null|
+|**2025-03-10**|**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**|Wenzhuo Xu et.al.|[2503.06989](http://arxiv.org/abs/2503.06989)|null|
+|**2025-03-10**|**Lightweight Multimodal Artificial Intelligence Framework for Maritime Multi-Scene Recognition**|Xinyu Xi et.al.|[2503.06978](http://arxiv.org/abs/2503.06978)|null|
+|**2025-03-10**|**ProBench: Judging Multimodal Foundation Models on Open-ended Multi-domain Expert Tasks**|Yan Yang et.al.|[2503.06885](http://arxiv.org/abs/2503.06885)|null|
+|**2025-03-09**|**SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation**|Zisheng Chen et.al.|[2503.06764](http://arxiv.org/abs/2503.06764)|**[link](https://github.com/HalvesChen/SemHiTok)**|
+|**2025-03-09**|**Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models**|Wenxuan Huang et.al.|[2503.06749](http://arxiv.org/abs/2503.06749)|null|
 |**2025-03-07**|**Pi-GPS: Enhancing Geometry Problem Solving by Unleashing the Power of Diagrammatic Information**|Junbo Zhao et.al.|[2503.05543](http://arxiv.org/abs/2503.05543)|null|
 |**2025-03-07**|**Can Large Language Models Grasp Concepts in Visual Content? A Case Study on YouTube Shorts about Depression**|Jiaying "Lizzy" Liu et.al.|[2503.05109](http://arxiv.org/abs/2503.05109)|null|
 |**2025-03-06**|**FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement**|Ian Huang et.al.|[2503.04919](http://arxiv.org/abs/2503.04919)|null|
@@ -1688,6 +1712,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
+|**2025-03-10**|**YOLOE: Real-Time Seeing Anything**|Ao Wang et.al.|[2503.07465](http://arxiv.org/abs/2503.07465)|**[link](https://github.com/THU-MIG/yoloe)**|
+|**2025-03-10**|**Anatomy-Aware Conditional Image-Text Retrieval**|Meng Zheng et.al.|[2503.07456](http://arxiv.org/abs/2503.07456)|null|
+|**2025-03-10**|**From Text to Visuals: Using LLMs to Generate Math Diagrams with Vector Graphics**|Jaewook Lee et.al.|[2503.07429](http://arxiv.org/abs/2503.07429)|null|
+|**2025-03-10**|**TimeStep Master: Asymmetrical Mixture of Timestep LoRA Experts for Versatile and Efficient Diffusion Models in Vision**|Shaobin Zhuang et.al.|[2503.07416](http://arxiv.org/abs/2503.07416)|null|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models**|Ruidong Chen et.al.|[2503.07389](http://arxiv.org/abs/2503.07389)|null|
+|**2025-03-10**|**Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment**|Xing Xie et.al.|[2503.07334](http://arxiv.org/abs/2503.07334)|null|
+|**2025-03-10**|**Self-Corrective Task Planning by Inverse Prompting with Large Language Models**|Jiho Lee et.al.|[2503.07317](http://arxiv.org/abs/2503.07317)|null|
+|**2025-03-10**|**Benchmarking Chinese Medical LLMs: A Medbench-based Analysis of Performance Gaps and Hierarchical Optimization Strategies**|Luyi Jiang et.al.|[2503.07306](http://arxiv.org/abs/2503.07306)|null|
 |**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684](http://arxiv.org/abs/2503.05684)|null|
 |**2025-03-07**|**Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**|Zhenxuan Zhang et.al.|[2503.05682](http://arxiv.org/abs/2503.05682)|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|
