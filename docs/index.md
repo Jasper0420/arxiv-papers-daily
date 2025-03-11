@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.10</span>
+# Updated on <span style='color:orange;'>2025.03.11</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -18,7 +18,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-07**|**Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**|Simon A. Aytes et.al.|[2503.05179](http://arxiv.org/abs/2503.05179)|null|
 |**2025-03-02**|**Inefficiency of the orbit Hall effect on spin torque in transition metal/ferromagnet bilayers**|Yizhuo Song et.al.|[2503.00910](http://arxiv.org/abs/2503.00910)|null|
 |**2025-02-27**|**MITracker: Multi-View Integration for Visual Object Tracking**|Mengjie Xu et.al.|[2502.20111](http://arxiv.org/abs/2502.20111)|null|
-|**2025-02-26**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068](http://arxiv.org/abs/2502.19068)|null|
+|**2025-03-08**|**Dynamic Degradation Decomposition Network for All-in-One Image Restoration**|Huiqiang Wang et.al.|[2502.19068](http://arxiv.org/abs/2502.19068)|null|
 |**2025-02-25**|**UASTrack: A Unified Adaptive Selection Framework with Modality-Customization in Single Object Tracking**|He Wang et.al.|[2502.18220](http://arxiv.org/abs/2502.18220)|null|
 |**2025-02-24**|**Symmetry-breaking effects on spin-orbit torque switching in ferromagnetic semiconductors with perpendicular magnetic anisotropy**|Apu Kumar Jana et.al.|[2502.16788](http://arxiv.org/abs/2502.16788)|null|
 |**2025-02-17**|**Effects of antiferromagnetic coupling and pinning on domain wall dynamics in synthetic ferrimagnets**|Sougata Mallick et.al.|[2502.11621](http://arxiv.org/abs/2502.11621)|null|
@@ -137,7 +137,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-03**|**Adaptive cold-atom magnetometry mitigating the trade-off between sensitivity and dynamic range**|Zhu Ma et.al.|[2503.01211](http://arxiv.org/abs/2503.01211)|null|
 |**2025-03-01**|**High Dynamic Range Video Compression: A Large-Scale Benchmark Dataset and A Learned Bit-depth Scalable Compression Algorithm**|Zhaoyi Tian et.al.|[2503.00410](http://arxiv.org/abs/2503.00410)|**[link](https://github.com/sdkinda/hdr-learned-video-coding)**|
 |**2025-03-01**|**Adversarial Attacks on Event-Based Pedestrian Detectors: A Physical Approach**|Guixu Lin et.al.|[2503.00377](http://arxiv.org/abs/2503.00377)|null|
-|**2025-02-28**|**EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**|Kuangyi Chen et.al.|[2503.00167](http://arxiv.org/abs/2503.00167)|null|
+|**2025-02-28**|**EVLoc: Event-based Visual Localization in LiDAR Maps via Event-Depth Registration**|Kuangyi Chen et.al.|[2503.00167](http://arxiv.org/abs/2503.00167)|**[link](https://github.com/EasonChen99/EVLoc)**|
 |**2025-02-28**|**SEE: See Everything Every Time -- Adaptive Brightness Adjustment for Broad Light Range Images via Events**|Yunfan Lu et.al.|[2502.21120](http://arxiv.org/abs/2502.21120)|null|
 |**2025-02-18**|**Fast Antibiotic resistance-Based gene editing of mammalian cells with CRISPR-Cas9 (FAB-CRISPR)**|Petia Adarska et.al.|[2502.12675](http://arxiv.org/abs/2502.12675)|null|
 |**2025-02-14**|**Quantifying Phase Magnitudes of Open-Source Focused-Probe 4D-STEM Ptychography Reconstructions**|Toma Susi et.al.|[2502.09938](http://arxiv.org/abs/2502.09938)|**[link](https://github.com/TomaSusi/arina-ptycho)**|
@@ -1673,7 +1673,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684](http://arxiv.org/abs/2503.05684)|null|
 |**2025-03-07**|**Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**|Zhenxuan Zhang et.al.|[2503.05682](http://arxiv.org/abs/2503.05682)|null|
 |**2025-03-07**|**AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data**|Zengqun Zhao et.al.|[2503.05665](http://arxiv.org/abs/2503.05665)|null|
-|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|null|
+|**2025-03-07**|**VideoPainter: Any-length Video Inpainting and Editing with Plug-and-Play Context Control**|Yuxuan Bian et.al.|[2503.05639](http://arxiv.org/abs/2503.05639)|**[link](https://github.com/TencentARC/VideoPainter)**|
 |**2025-03-07**|**Nuanced Safety for Generative AI: How Demographics Shape Responsiveness to Severity**|Pushkar Mishra et.al.|[2503.05609](http://arxiv.org/abs/2503.05609)|null|
 |**2025-03-07**|**Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models**|Zheng Li et.al.|[2503.05595](http://arxiv.org/abs/2503.05595)|null|
 |**2025-03-07**|**Evaluating open-source Large Language Models for automated fact-checking**|Nicolo' Fontana et.al.|[2503.05565](http://arxiv.org/abs/2503.05565)|null|
