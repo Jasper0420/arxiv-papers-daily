@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.14</span>
+# Updated on <span style='color:orange;'>2025.03.15</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -15,7 +15,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking**|Xinglong Sun et.al.|[2503.09951](http://arxiv.org/abs/2503.09951)|null|
-|**2025-03-09**|**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**|Chaocan Xue et.al.|[2503.06625](http://arxiv.org/abs/2503.06625)|null|
+|**2025-03-09**|**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**|Chaocan Xue et.al.|[2503.06625](http://arxiv.org/abs/2503.06625)|**[link](https://github.com/gxnu-zhonglab/sglatrack)**|
 |**2025-03-09**|**Dynamic Updates for Language Adaptation in Visual-Language Tracking**|Xiaohai Li et.al.|[2503.06621](http://arxiv.org/abs/2503.06621)|null|
 |**2025-03-06**|**High resolution spectra of the [6297-6303] and [6361-6367] Angstr{ö}m domains (including forbidden OI lines) of the Sun and brightest stars**|Jean-Marie Malherbe et.al.|[2503.05832](http://arxiv.org/abs/2503.05832)|null|
 |**2025-03-07**|**Separating the bulk and interface contribution of spin-orbit torque in ferromagnet-Heavy metal bilayers tuned by variation of resistivity of heavy metal**|Abu Bakkar Miah et.al.|[2503.05341](http://arxiv.org/abs/2503.05341)|null|
@@ -137,7 +137,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-13**|**GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping**|Jinfeng Liu et.al.|[2503.10143](http://arxiv.org/abs/2503.10143)|null|
 |**2025-03-10**|**Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion**|Haowen Bai et.al.|[2503.07235](http://arxiv.org/abs/2503.07235)|null|
 |**2025-03-08**|**Optimization models for needle placement in 3D-printed masks for high dose rate brachytherapy**|Nasim Mirzavand Boroujeni et.al.|[2503.06000](http://arxiv.org/abs/2503.06000)|null|
-|**2025-03-05**|**DeepGrav: Anomalous Gravitational-Wave Detection Through Deep Latent Features**|Jianqi Yan et.al.|[2503.03799](http://arxiv.org/abs/2503.03799)|null|
+|**2025-03-05**|**DeepGrav: Anomalous Gravitational-Wave Detection Through Deep Latent Features**|Jianqi Yan et.al.|[2503.03799](http://arxiv.org/abs/2503.03799)|**[link](https://github.com/yan123yan/hdr-anomaly-challenge-submission)**|
 |**2025-03-05**|**BAT: Learning Event-based Optical Flow with Bidirectional Adaptive Temporal Correlation**|Gangwei Xu et.al.|[2503.03256](http://arxiv.org/abs/2503.03256)|null|
 |**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|**[link](https://github.com/lodew920/eretinex)**|
 |**2025-03-03**|**S-R2D2: a spherical extension of the R2D2 deep neural network series paradigm for wide-field radio-interferometric imaging**|A. Tajja et.al.|[2503.01462](http://arxiv.org/abs/2503.01462)|null|
