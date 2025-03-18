@@ -14,6 +14,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network**|Siyuan Yao et.al.|[2503.12888](http://arxiv.org/abs/2503.12888)|**[link](https://github.com/ManOfStory/UncTrack)**|
+|**2025-03-16**|**Equivalent-Circuit Thermal Model for Batteries with One-Shot Parameter Identification**|Myisha A. Chowdhury et.al.|[2503.12616](http://arxiv.org/abs/2503.12616)|null|
 |**2025-03-13**|**Target-aware Bidirectional Fusion Transformer for Aerial Object Tracking**|Xinglong Sun et.al.|[2503.09951](http://arxiv.org/abs/2503.09951)|null|
 |**2025-03-09**|**Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking**|Chaocan Xue et.al.|[2503.06625](http://arxiv.org/abs/2503.06625)|**[link](https://github.com/gxnu-zhonglab/sglatrack)**|
 |**2025-03-09**|**Dynamic Updates for Language Adaptation in Visual-Language Tracking**|Xiaohai Li et.al.|[2503.06621](http://arxiv.org/abs/2503.06621)|null|
@@ -134,6 +136,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**UCF-Crime-DVS: A Novel Event-Based Dataset for Video Anomaly Detection with Spiking Neural Networks**|Yuanbin Qian et.al.|[2503.12905](http://arxiv.org/abs/2503.12905)|null|
+|**2025-03-17**|**Stereo Event-based, 6-DOF Pose Tracking for Uncooperative Spacecraft**|Zibin Liu et.al.|[2503.12732](http://arxiv.org/abs/2503.12732)|null|
+|**2025-03-16**|**EgoEvGesture: Gesture Recognition Based on Egocentric Event Camera**|Luming Wang et.al.|[2503.12419](http://arxiv.org/abs/2503.12419)|null|
+|**2025-03-14**|**Gain-MLP: Improving HDR Gain Map Encoding via a Lightweight MLP**|Trevor D. Canham et.al.|[2503.11883](http://arxiv.org/abs/2503.11883)|null|
 |**2025-03-13**|**GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping**|Jinfeng Liu et.al.|[2503.10143](http://arxiv.org/abs/2503.10143)|null|
 |**2025-03-10**|**Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion**|Haowen Bai et.al.|[2503.07235](http://arxiv.org/abs/2503.07235)|null|
 |**2025-03-08**|**Optimization models for needle placement in 3D-printed masks for high dose rate brachytherapy**|Nasim Mirzavand Boroujeni et.al.|[2503.06000](http://arxiv.org/abs/2503.06000)|null|
@@ -281,6 +287,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
+|**2025-03-17**|**From Zero to Detail: Deconstructing Ultra-High-Definition Image Restoration from Progressive Spectral Perspective**|Chen Zhao et.al.|[2503.13165](http://arxiv.org/abs/2503.13165)|null|
+|**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
+|**2025-03-17**|**Decouple to Reconstruct: High Quality UHD Restoration via Active Feature Disentanglement and Reversible Fusion**|Yidi Liu et.al.|[2503.12764](http://arxiv.org/abs/2503.12764)|null|
+|**2025-03-16**|**DPF-Net: Physical Imaging Model Embedded Data-Driven Underwater Image Enhancement**|Han Mei et.al.|[2503.12470](http://arxiv.org/abs/2503.12470)|null|
+|**2025-03-16**|**Pathology Image Restoration via Mixture of Prompts**|Jiangdong Cai et.al.|[2503.12399](http://arxiv.org/abs/2503.12399)|null|
 |**2025-03-14**|**Advancements in Real-Time Oncology Diagnosis: Harnessing AI and Image Fusion Techniques**|Leila Bagheriye et.al.|[2503.11332](http://arxiv.org/abs/2503.11332)|null|
 |**2025-03-14**|**Breaking Shallow Limits: Task-Driven Pixel Fusion for Gap-free RGBT Tracking**|Andong Lu et.al.|[2503.11247](http://arxiv.org/abs/2503.11247)|null|
 |**2025-03-14**|**Toward Generalized Image Quality Assessment: Relaxing the Perfect Reference Quality Assumption**|Du Chen et.al.|[2503.11221](http://arxiv.org/abs/2503.11221)|null|
@@ -831,6 +843,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
@@ -906,6 +920,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/abs/2503.13399)|null|
+|**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383](http://arxiv.org/abs/2503.13383)|null|
+|**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/abs/2503.13360)|null|
+|**2025-03-17**|**3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o**|Dingning Liu et.al.|[2503.13185](http://arxiv.org/abs/2503.13185)|null|
+|**2025-03-17**|**MM-Spatial: Exploring 3D Spatial Understanding in Multimodal LLMs**|Erik Daxberger et.al.|[2503.13111](http://arxiv.org/abs/2503.13111)|null|
+|**2025-03-17**|**Lifting the Veil on Visual Information Flow in MLLMs: Unlocking Pathways to Faster Inference**|Hao Yin et.al.|[2503.13108](http://arxiv.org/abs/2503.13108)|**[link](https://github.com/ustc-hyin/HiMAP)**|
+|**2025-03-17**|**ClearSight: Visual Signal Enhancement for Object Hallucination Mitigation in Multimodal Large language Models**|Hao Yin et.al.|[2503.13107](http://arxiv.org/abs/2503.13107)|**[link](https://github.com/ustc-hyin/ClearSight)**|
+|**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055](http://arxiv.org/abs/2503.13055)|null|
+|**2025-03-17**|**Efficient Motion-Aware Video MLLM**|Zijia Zhao et.al.|[2503.13016](http://arxiv.org/abs/2503.13016)|null|
+|**2025-03-17**|**HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model**|Haiyang Guo et.al.|[2503.12941](http://arxiv.org/abs/2503.12941)|null|
 |**2025-03-14**|**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**|Jing Bi et.al.|[2503.11557](http://arxiv.org/abs/2503.11557)|null|
 |**2025-03-14**|**A Framework for a Capability-driven Evaluation of Scenario Understanding for Multimodal Large Language Models in Autonomous Driving**|Tin Stribor Sohn et.al.|[2503.11400](http://arxiv.org/abs/2503.11400)|null|
 |**2025-03-14**|**Cornstarch: Distributed Multimodal Training Must Be Multimodality-Aware**|Insu Jang et.al.|[2503.11367](http://arxiv.org/abs/2503.11367)|null|
@@ -1749,6 +1773,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Faithfulness of LLM Self-Explanations for Commonsense Tasks: Larger Is Better, and Instruction-Tuning Allows Trade-Offs but Not Pareto Dominance**|Noah Y. Siegel et.al.|[2503.13445](http://arxiv.org/abs/2503.13445)|null|
+|**2025-03-17**|**VideoMind: A Chain-of-LoRA Agent for Long Video Reasoning**|Ye Liu et.al.|[2503.13444](http://arxiv.org/abs/2503.13444)|null|
+|**2025-03-17**|**DPC: Dual-Prompt Collaboration for Tuning Vision-Language Models**|Haoyang Li et.al.|[2503.13443](http://arxiv.org/abs/2503.13443)|null|
+|**2025-03-17**|**MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling**|Yingyue Li et.al.|[2503.13440](http://arxiv.org/abs/2503.13440)|**[link](https://github.com/hustvl/MaTVLM)**|
+|**2025-03-17**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413](http://arxiv.org/abs/2503.13413)|null|
+|**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/abs/2503.13399)|null|
+|**2025-03-17**|**Aligned Probing: Relating Toxic Behavior and Model Internals**|Andreas Waldis et.al.|[2503.13390](http://arxiv.org/abs/2503.13390)|null|
+|**2025-03-17**|**Mitigating Visual Forgetting via Take-along Visual Conditioning for Multi-modal Long CoT Reasoning**|Hai-Long Sun et.al.|[2503.13360](http://arxiv.org/abs/2503.13360)|null|
+|**2025-03-17**|**LEAVS: An LLM-based Labeler for Abdominal CT Supervision**|Ricardo Bigolin Lanfredi et.al.|[2503.13330](http://arxiv.org/abs/2503.13330)|null|
+|**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
 |**2025-03-14**|**RNN-DAS: A New Deep Learning Approach for Detection and Real-Time Monitoring of Volcano-Tectonic Events Using Distributed Acoustic Sensing**|Javier Fernandez-Carabantes et.al.|[2503.11622](http://arxiv.org/abs/2503.11622)|null|
 |**2025-03-14**|**Synthesizing Access Control Policies using Large Language Models**|Adarsh Vatsa et.al.|[2503.11573](http://arxiv.org/abs/2503.11573)|null|
 |**2025-03-14**|**Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models**|Hao Cheng et.al.|[2503.11519](http://arxiv.org/abs/2503.11519)|null|
