@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.17</span>
+# Updated on <span style='color:orange;'>2025.03.18</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -137,7 +137,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-13**|**GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping**|Jinfeng Liu et.al.|[2503.10143](http://arxiv.org/abs/2503.10143)|null|
 |**2025-03-10**|**Retinex-MEF: Retinex-based Glare Effects Aware Unsupervised Multi-Exposure Image Fusion**|Haowen Bai et.al.|[2503.07235](http://arxiv.org/abs/2503.07235)|null|
 |**2025-03-08**|**Optimization models for needle placement in 3D-printed masks for high dose rate brachytherapy**|Nasim Mirzavand Boroujeni et.al.|[2503.06000](http://arxiv.org/abs/2503.06000)|null|
-|**2025-03-05**|**DeepGrav: Anomalous Gravitational-Wave Detection Through Deep Latent Features**|Jianqi Yan et.al.|[2503.03799](http://arxiv.org/abs/2503.03799)|**[link](https://github.com/yan123yan/hdr-anomaly-challenge-submission)**|
+|**2025-03-16**|**DeepGrav: Anomalous Gravitational-Wave Detection Through Deep Latent Features**|Jianqi Yan et.al.|[2503.03799](http://arxiv.org/abs/2503.03799)|**[link](https://github.com/yan123yan/hdr-anomaly-challenge-submission)**|
 |**2025-03-05**|**BAT: Learning Event-based Optical Flow with Bidirectional Adaptive Temporal Correlation**|Gangwei Xu et.al.|[2503.03256](http://arxiv.org/abs/2503.03256)|null|
 |**2025-03-04**|**ERetinex: Event Camera Meets Retinex Theory for Low-Light Image Enhancement**|Xuejian Guo et.al.|[2503.02484](http://arxiv.org/abs/2503.02484)|**[link](https://github.com/lodew920/eretinex)**|
 |**2025-03-03**|**S-R2D2: a spherical extension of the R2D2 deep neural network series paradigm for wide-field radio-interferometric imaging**|A. Tajja et.al.|[2503.01462](http://arxiv.org/abs/2503.01462)|null|
