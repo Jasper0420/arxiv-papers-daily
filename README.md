@@ -146,6 +146,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Neuromorphic Cameras in Astronomy: Unveiling the Future of Celestial Imaging Beyond Conventional Limits**|Satyapreet Singh Yadav et.al.|[2503.15883](http://arxiv.org/abs/2503.15883)|null|
 |**2025-03-19**|**Boosting HDR Image Reconstruction via Semantic Knowledge Transfer**|Qingsen Yan et.al.|[2503.15361](http://arxiv.org/abs/2503.15361)|null|
 |**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
 |**2025-03-18**|**Weakly Supervised Spatial Implicit Neural Representation Learning for 3D MRI-Ultrasound Deformable Image Registration in HDR Prostate Brachytherapy**|Jing Wang et.al.|[2503.14395](http://arxiv.org/abs/2503.14395)|null|
@@ -302,6 +303,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems**|Teresa Klatzer et.al.|[2503.16222](http://arxiv.org/abs/2503.16222)|null|
+|**2025-03-20**|**3-D Image-to-Image Fusion in Lightsheet Microscopy by Two-Step Adversarial Network: Contribution to the FuseMyCells Challenge**|Marek Wodzinski et.al.|[2503.16075](http://arxiv.org/abs/2503.16075)|null|
+|**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
+|**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
+|**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
+|**2025-03-20**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-19**|**Image Restoration Models with Optimal Transport and Total Variation Regularization**|Weijia Huang et.al.|[2503.14947](http://arxiv.org/abs/2503.14947)|null|
 |**2025-03-19**|**MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance**|Zihan Cao et.al.|[2503.14944](http://arxiv.org/abs/2503.14944)|null|
 |**2025-03-19**|**Degradation Alchemy: Self-Supervised Unknown-to-Known Transformation for Blind Hyperspectral Image Fusion**|He Huang et.al.|[2503.14892](http://arxiv.org/abs/2503.14892)|null|
@@ -868,6 +875,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
+|**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
@@ -948,6 +957,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence**|Long Yuan et.al.|[2503.16326](http://arxiv.org/abs/2503.16326)|null|
+|**2025-03-20**|**Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data**|Zijian Li et.al.|[2503.16260](http://arxiv.org/abs/2503.16260)|null|
+|**2025-03-20**|**CLS-RL: Image Classification with Rule-Based Reinforcement Learning**|Ming Li et.al.|[2503.16188](http://arxiv.org/abs/2503.16188)|null|
+|**2025-03-20**|**OThink-MR1: Stimulating multimodal generalized reasoning capabilities through dynamic reinforcement learning**|Zhiyuan Liu et.al.|[2503.16081](http://arxiv.org/abs/2503.16081)|null|
+|**2025-03-20**|**Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models**|Zhihang Liu et.al.|[2503.16036](http://arxiv.org/abs/2503.16036)|null|
+|**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[2503.16023](http://arxiv.org/abs/2503.16023)|null|
+|**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
+|**2025-03-20**|**A Vision Centric Remote Sensing Benchmark**|Abduljaleel Adejumo et.al.|[2503.15816](http://arxiv.org/abs/2503.15816)|null|
+|**2025-03-19**|**LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning**|Federico Cocchi et.al.|[2503.15621](http://arxiv.org/abs/2503.15621)|null|
 |**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426](http://arxiv.org/abs/2503.15426)|null|
 |**2025-03-19**|**Leveraging Perfect Multimodal Alignment and Gaussian Assumptions for Cross-modal Transfer**|Abhi Kamboj et.al.|[2503.15352](http://arxiv.org/abs/2503.15352)|null|
 |**2025-03-19**|**LEGION: Learning to Ground and Explain for Synthetic Image Detection**|Hengrui Kang et.al.|[2503.15264](http://arxiv.org/abs/2503.15264)|null|
@@ -1823,6 +1841,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-20**|**DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding**|Keyan Chen et.al.|[2503.16426](http://arxiv.org/abs/2503.16426)|**[link](https://github.com/KyanChen/DynamicVis)**|
+|**2025-03-20**|**Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models**|Yang Sui et.al.|[2503.16419](http://arxiv.org/abs/2503.16419)|null|
+|**2025-03-20**|**Sparse Nonparametric Contextual Bandits**|Hamish Flynn et.al.|[2503.16382](http://arxiv.org/abs/2503.16382)|null|
+|**2025-03-20**|**Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model**|Seshu Babu Barma et.al.|[2503.16335](http://arxiv.org/abs/2503.16335)|null|
+|**2025-03-20**|**LLM Braces: Straightening Out LLM Predictions with Relevant Sub-Updates**|Ying Shen et.al.|[2503.16334](http://arxiv.org/abs/2503.16334)|null|
+|**2025-03-20**|**Issue2Test: Generating Reproducing Test Cases from Issue Reports**|Noor Nashid et.al.|[2503.16320](http://arxiv.org/abs/2503.16320)|null|
+|**2025-03-20**|**PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification**|Sharon Peled et.al.|[2503.16284](http://arxiv.org/abs/2503.16284)|null|
+|**2025-03-20**|**Chain of Functions: A Programmatic Pipeline for Fine-Grained Chart Reasoning Data**|Zijian Li et.al.|[2503.16260](http://arxiv.org/abs/2503.16260)|null|
+|**2025-03-20**|**M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation**|Markus Karmann et.al.|[2503.16254](http://arxiv.org/abs/2503.16254)|null|
+|**2025-03-20**|**AI Agents in Cryptoland: Practical Attacks and No Silver Bullet**|Atharv Singh Patlan et.al.|[2503.16248](http://arxiv.org/abs/2503.16248)|null|
 |**2025-03-20**|**Dynamic Bi-Elman Attention Networks (DBEAN): Dual-Directional Context-Aware Representation Learning for Enhanced Text Classification**|ZhengLin Lai et.al.|[2503.15469](http://arxiv.org/abs/2503.15469)|**[link](https://github.com/Bearisbug/Bi-Elman)**|
 |**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426](http://arxiv.org/abs/2503.15426)|null|
 |**2025-03-19**|**Probing the topology of the space of tokens with structured prompts**|Michael Robinson et.al.|[2503.15421](http://arxiv.org/abs/2503.15421)|null|
