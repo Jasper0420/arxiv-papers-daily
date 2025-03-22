@@ -965,7 +965,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-20**|**BadToken: Token-level Backdoor Attacks to Multi-modal Large Language Models**|Zenghui Yuan et.al.|[2503.16023](http://arxiv.org/abs/2503.16023)|null|
 |**2025-03-20**|**DocVideoQA: Towards Comprehensive Understanding of Document-Centric Videos through Question Answering**|Haochen Wang et.al.|[2503.15887](http://arxiv.org/abs/2503.15887)|null|
 |**2025-03-20**|**A Vision Centric Remote Sensing Benchmark**|Abduljaleel Adejumo et.al.|[2503.15816](http://arxiv.org/abs/2503.15816)|null|
-|**2025-03-19**|**LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning**|Federico Cocchi et.al.|[2503.15621](http://arxiv.org/abs/2503.15621)|null|
+|**2025-03-19**|**LLaVA-MORE: A Comparative Study of LLMs and Visual Backbones for Enhanced Visual Instruction Tuning**|Federico Cocchi et.al.|[2503.15621](http://arxiv.org/abs/2503.15621)|**[link](https://github.com/aimagelab/LLaVA-MORE)**|
 |**2025-03-19**|**Visual Position Prompt for MLLM based Visual Grounding**|Wei Tang et.al.|[2503.15426](http://arxiv.org/abs/2503.15426)|null|
 |**2025-03-19**|**Leveraging Perfect Multimodal Alignment and Gaussian Assumptions for Cross-modal Transfer**|Abhi Kamboj et.al.|[2503.15352](http://arxiv.org/abs/2503.15352)|null|
 |**2025-03-19**|**LEGION: Learning to Ground and Explain for Synthetic Image Detection**|Hengrui Kang et.al.|[2503.15264](http://arxiv.org/abs/2503.15264)|null|
