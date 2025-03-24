@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.23</span>
+# Updated on <span style='color:orange;'>2025.03.24</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 <details open>
@@ -140,7 +140,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|**[link](https://github.com/fatemehN/TrackPGD)**|
 |**2024-07-04**|**Out-of-Plane Polarization from Spin Reflection Induces Field-Free Spin-Orbit Torque Switching in Structures with Canted NiO Interfacial Moments**|Zhe Zhang et.al.|[2407.03676](http://arxiv.org/abs/2407.03676)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## HDR
 
@@ -297,7 +297,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Neuromorphic Imaging with Super-Resolution**|Pei Zhang et.al.|[2407.05764](http://arxiv.org/abs/2407.05764)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Low-Level
 
@@ -308,7 +308,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
 |**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
 |**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
-|**2025-03-20**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
+|**2025-03-21**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-19**|**Image Restoration Models with Optimal Transport and Total Variation Regularization**|Weijia Huang et.al.|[2503.14947](http://arxiv.org/abs/2503.14947)|null|
 |**2025-03-19**|**MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance**|Zihan Cao et.al.|[2503.14944](http://arxiv.org/abs/2503.14944)|null|
 |**2025-03-19**|**Degradation Alchemy: Self-Supervised Unknown-to-Known Transformation for Blind Hyperspectral Image Fusion**|He Huang et.al.|[2503.14892](http://arxiv.org/abs/2503.14892)|null|
@@ -869,7 +869,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Image Matching
 
@@ -879,7 +879,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
-|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
@@ -951,7 +951,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|**[link](https://github.com/naver/mast3r)**|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## MutilModal
 
@@ -1835,7 +1835,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
 |**2024-07-17**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Prompt
 
@@ -3449,7 +3449,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|**[link](https://github.com/teto1992/declace)**|
 |**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|null|
 
-<p align=right>(<a href=#updated-on-20250323>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors

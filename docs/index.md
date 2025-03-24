@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.23</span>
+# Updated on <span style='color:orange;'>2025.03.24</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -296,7 +296,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-20**|**PromptHash: Affinity-Prompted Collaborative Cross-Modal Learning for Adaptive Hashing Retrieval**|Qiang Zou et.al.|[2503.16064](http://arxiv.org/abs/2503.16064)|**[link](https://github.com/ShiShuMo/PromptHash)**|
 |**2025-03-20**|**Automating 3D Dataset Generation with Neural Radiance Fields**|P. Schulz et.al.|[2503.15997](http://arxiv.org/abs/2503.15997)|null|
 |**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
-|**2025-03-20**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
+|**2025-03-21**|**UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations**|Debabrata Mandal et.al.|[2503.15868](http://arxiv.org/abs/2503.15868)|null|
 |**2025-03-19**|**Image Restoration Models with Optimal Transport and Total Variation Regularization**|Weijia Huang et.al.|[2503.14947](http://arxiv.org/abs/2503.14947)|null|
 |**2025-03-19**|**MMAIF: Multi-task and Multi-degradation All-in-One for Image Fusion with Language Guidance**|Zihan Cao et.al.|[2503.14944](http://arxiv.org/abs/2503.14944)|null|
 |**2025-03-19**|**Degradation Alchemy: Self-Supervised Unknown-to-Known Transformation for Blind Hyperspectral Image Fusion**|He Huang et.al.|[2503.14892](http://arxiv.org/abs/2503.14892)|null|
@@ -865,7 +865,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
-|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
