@@ -24,7 +24,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |---|---|---|---|---|
 |**2025-03-26**|**Symmetry Enhanced Unconventional Spin Current Anisotropy in a Collinear Antiferromagnet**|Pankhuri Gupta et.al.|[2503.20545](http://arxiv.org/abs/2503.20545)|null|
 |**2025-03-26**|**Intrinsic back-switching phenomenon in SOT-MRAM devices**|Kuldeep Ray et.al.|[2503.19840](http://arxiv.org/abs/2503.19840)|null|
-|**2025-03-22**|**MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**|Haolin Qin et.al.|[2503.17699](http://arxiv.org/abs/2503.17699)|null|
+|**2025-03-22**|**MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**|Haolin Qin et.al.|[2503.17699](http://arxiv.org/abs/2503.17699)|**[link](https://github.com/q2479036243/must-multispectral-uav-single-object-tracking)**|
 |**2025-03-21**|**Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID**|Yu-Hsi Chen et.al.|[2503.17237](http://arxiv.org/abs/2503.17237)|null|
 |**2025-03-21**|**Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks**|Haijin Zeng et.al.|[2503.16930](http://arxiv.org/abs/2503.16930)|null|
 |**2025-03-21**|**Dynamic Attention Mechanism in Spatiotemporal Memory Networks for Object Tracking**|Meng Zhou et.al.|[2503.16768](http://arxiv.org/abs/2503.16768)|null|
@@ -155,7 +155,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-26**|**SpikeDerain: Unveiling Clear Videos from Rainy Sequences Using Color Spike Streams**|Hanwen Liang et.al.|[2503.20315](http://arxiv.org/abs/2503.20315)|null|
 |**2025-03-26**|**A Survey on Event-driven 3D Reconstruction: Development under Different Categories**|Chuanzhi Xu et.al.|[2503.19753](http://arxiv.org/abs/2503.19753)|null|
 |**2025-03-25**|**Maximum Likelihood Estimation Based Complex-Valued Robust Chinese Remainder Theorem and Its Fast Algorithm**|Xiaoping Li et.al.|[2503.18625](http://arxiv.org/abs/2503.18625)|null|
-|**2025-03-21**|**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**|Shuang Guo et.al.|[2503.17262](http://arxiv.org/abs/2503.17262)|null|
+|**2025-03-21**|**Unsupervised Joint Learning of Optical Flow and Intensity with Event Cameras**|Shuang Guo et.al.|[2503.17262](http://arxiv.org/abs/2503.17262)|**[link](https://github.com/tub-rip/e2fai)**|
 |**2025-03-20**|**Neuromorphic Cameras in Astronomy: Unveiling the Future of Celestial Imaging Beyond Conventional Limits**|Satyapreet Singh Yadav et.al.|[2503.15883](http://arxiv.org/abs/2503.15883)|null|
 |**2025-03-19**|**Boosting HDR Image Reconstruction via Semantic Knowledge Transfer**|Qingsen Yan et.al.|[2503.15361](http://arxiv.org/abs/2503.15361)|null|
 |**2025-03-20**|**VideoGen-of-Thought: Step-by-step generating multi-shot video with minimal manual intervention**|Mingzhe Zheng et.al.|[2503.15138](http://arxiv.org/abs/2503.15138)|null|
@@ -319,7 +319,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410](http://arxiv.org/abs/2503.21410)|null|
 |**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|null|
 |**2025-03-27**|**Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing**|Shuai Li et.al.|[2503.21236](http://arxiv.org/abs/2503.21236)|null|
-|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|null|
+|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485](http://arxiv.org/abs/2503.20485)|**[link](https://github.com/vidya-rejul/uie-snn)**|
 |**2025-03-26**|**Devil is in the Uniformity: Exploring Diverse Learners within Transformer for Image Restoration**|Shihao Zhou et.al.|[2503.20174](http://arxiv.org/abs/2503.20174)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset**|Manjushree Aithal et.al.|[2503.19804](http://arxiv.org/abs/2503.19804)|null|
