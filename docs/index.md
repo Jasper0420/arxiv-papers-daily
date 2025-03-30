@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.03.29</span>
+# Updated on <span style='color:orange;'>2025.03.30</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -17,7 +17,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-26**|**Symmetry Enhanced Unconventional Spin Current Anisotropy in a Collinear Antiferromagnet**|Pankhuri Gupta et.al.|[2503.20545](http://arxiv.org/abs/2503.20545)|null|
 |**2025-03-26**|**Intrinsic back-switching phenomenon in SOT-MRAM devices**|Kuldeep Ray et.al.|[2503.19840](http://arxiv.org/abs/2503.19840)|null|
 |**2025-03-22**|**MUST: The First Dataset and Unified Framework for Multispectral UAV Single Object Tracking**|Haolin Qin et.al.|[2503.17699](http://arxiv.org/abs/2503.17699)|**[link](https://github.com/q2479036243/must-multispectral-uav-single-object-tracking)**|
-|**2025-03-21**|**Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID**|Yu-Hsi Chen et.al.|[2503.17237](http://arxiv.org/abs/2503.17237)|null|
+|**2025-03-21**|**Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID**|Yu-Hsi Chen et.al.|[2503.17237](http://arxiv.org/abs/2503.17237)|**[link](https://github.com/wish44165/yolov12-bot-sort-reid)**|
 |**2025-03-21**|**Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks**|Haijin Zeng et.al.|[2503.16930](http://arxiv.org/abs/2503.16930)|null|
 |**2025-03-21**|**Dynamic Attention Mechanism in Spatiotemporal Memory Networks for Object Tracking**|Meng Zhou et.al.|[2503.16768](http://arxiv.org/abs/2503.16768)|null|
 |**2025-03-17**|**UncTrack: Reliable Visual Object Tracking with Uncertainty-Aware Prototype Memory Network**|Siyuan Yao et.al.|[2503.12888](http://arxiv.org/abs/2503.12888)|**[link](https://github.com/ManOfStory/UncTrack)**|
@@ -1901,7 +1901,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**Test-Time Visual In-Context Tuning**|Jiahao Xie et.al.|[2503.21777](http://arxiv.org/abs/2503.21777)|**[link](https://github.com/jiahao000/vict)**|
 |**2025-03-27**|**MemInsight: Autonomous Memory Augmentation for LLM Agents**|Rana Salama et.al.|[2503.21760](http://arxiv.org/abs/2503.21760)|null|
-|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758](http://arxiv.org/abs/2503.21758)|null|
+|**2025-03-27**|**Lumina-Image 2.0: A Unified and Efficient Image Generative Framework**|Qi Qin et.al.|[2503.21758](http://arxiv.org/abs/2503.21758)|**[link](https://github.com/alpha-vllm/lumina-image-2.0)**|
 |**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755](http://arxiv.org/abs/2503.21755)|**[link](https://github.com/vchitect/vbench)**|
 |**2025-03-27**|**LeX-Art: Rethinking Text Generation via Scalable High-Quality Data Synthesis**|Shitian Zhao et.al.|[2503.21749](http://arxiv.org/abs/2503.21749)|null|
 |**2025-03-27**|**3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models**|Yuhan Zhang et.al.|[2503.21745](http://arxiv.org/abs/2503.21745)|null|
