@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.04.01</span>
+# Updated on <span style='color:orange;'>2025.04.02</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -998,7 +998,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-31**|**H2VU-Benchmark: A Comprehensive Benchmark for Hierarchical Holistic Video Understanding**|Qi Wu et.al.|[2503.24008](http://arxiv.org/abs/2503.24008)|null|
 |**2025-03-31**|**BeMERC: Behavior-Aware MLLM-based Framework for Multimodal Emotion Recognition in Conversation**|Yumeng Fu et.al.|[2503.23990](http://arxiv.org/abs/2503.23990)|null|
 |**2025-03-31**|**Boosting MLLM Reasoning with Text-Debiased Hint-GRPO**|Qihan Huang et.al.|[2503.23905](http://arxiv.org/abs/2503.23905)|null|
-|**2025-03-31**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
+|**2025-04-01**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859](http://arxiv.org/abs/2503.23859)|null|
 |**2025-03-31**|**OrchMLLM: Orchestrate Multimodal Data with Batch Post-Balancing to Accelerate Multimodal Large Language Model Training**|Yijie Zheng et.al.|[2503.23830](http://arxiv.org/abs/2503.23830)|null|
 |**2025-03-31**|**XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?**|Fengxiang Wang et.al.|[2503.23771](http://arxiv.org/abs/2503.23771)|null|
 |**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[2503.23765](http://arxiv.org/abs/2503.23765)|null|
