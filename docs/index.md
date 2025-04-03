@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.04.02</span>
+# Updated on <span style='color:orange;'>2025.04.03</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -1937,7 +1937,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|
 |**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|**[link](https://github.com/linjc16/Rec-R1)**|
 |**2025-03-31**|**EP240414a: Off-axis View of a Jet-Cocoon System from an Expanded Progenitor Star**|Jian-He Zheng et.al.|[2503.24266](http://arxiv.org/abs/2503.24266)|null|
-|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
+|**2025-04-02**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
 |**2025-03-31**|**Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms**|Shuoming Zhang et.al.|[2503.24191](http://arxiv.org/abs/2503.24191)|null|
 |**2025-03-31**|**LLM4FS: Leveraging Large Language Models for Feature Selection and How to Improve It**|Jianhao Li et.al.|[2503.24157](http://arxiv.org/abs/2503.24157)|null|
 |**2025-03-28**|**ActionStudio: A Lightweight Framework for Data and Training of Action Models**|Jianguo Zhang et.al.|[2503.22673](http://arxiv.org/abs/2503.22673)|**[link](https://github.com/SalesforceAIResearch/xLAM)**|
