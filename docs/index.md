@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.04.08</span>
+# Updated on <span style='color:orange;'>2025.04.09</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -144,7 +144,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-07**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924](http://arxiv.org/abs/2504.04924)|null|
+|**2025-04-08**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924](http://arxiv.org/abs/2504.04924)|null|
 |**2025-04-06**|**eKalibr-Stereo: Continuous-Time Spatiotemporal Calibration for Event-Based Stereo Visual Systems**|Shuolong Chen et.al.|[2504.04451](http://arxiv.org/abs/2504.04451)|**[link](https://github.com/unsigned-long/ekalibr)**|
 |**2025-04-05**|**Autoregressive High-Order Finite Difference Modulo Imaging: High-Dynamic Range for Computer Vision Applications**|Brayan Monroy et.al.|[2504.04228](http://arxiv.org/abs/2504.04228)|null|
 |**2025-04-03**|**Brightness Perceiving for Recursive Low-Light Image Enhancement**|Haodian Wang et.al.|[2504.02362](http://arxiv.org/abs/2504.02362)|null|
@@ -313,7 +313,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-04-07**|**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**|Jiamei Xiong et.al.|[2504.05135](http://arxiv.org/abs/2504.05135)|null|
-|**2025-04-07**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
+|**2025-04-08**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
 |**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
 |**2025-04-07**|**Inland Waterway Object Detection in Multi-environment: Dataset and Approach**|Shanshan Wang et.al.|[2504.04835](http://arxiv.org/abs/2504.04835)|null|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
@@ -1986,8 +1986,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
-|**2025-04-07**|**NoveltyBench: Evaluating Creativity and Diversity in Language Models**|Yiming Zhang et.al.|[2504.05228](http://arxiv.org/abs/2504.05228)|null|
-|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
+|**2025-04-08**|**NoveltyBench: Evaluating Language Models for Humanlike Diversity**|Yiming Zhang et.al.|[2504.05228](http://arxiv.org/abs/2504.05228)|null|
+|**2025-04-08**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
 |**2025-04-07**|**MSA-UNet3+: Multi-Scale Attention UNet3+ with New Supervised Prototypical Contrastive Loss for Coronary DSA Image Segmentation**|Rayan Merghani Ahmed et.al.|[2504.05184](http://arxiv.org/abs/2504.05184)|null|
 |**2025-04-07**|**BRIDGES: Bridging Graph Modality and Large Language Models within EDA Tasks**|Wei Li et.al.|[2504.05180](http://arxiv.org/abs/2504.05180)|null|
 |**2025-04-07**|**Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**|Guangqiang Li et.al.|[2504.05172](http://arxiv.org/abs/2504.05172)|null|

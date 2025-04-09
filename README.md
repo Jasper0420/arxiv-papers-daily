@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.04.08</span>
+# Updated on <span style='color:orange;'>2025.04.09</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 <details open>
@@ -148,13 +148,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|**[link](https://github.com/fatemehN/TrackPGD)**|
 |**2024-07-04**|**Out-of-Plane Polarization from Spin Reflection Induces Field-Free Spin-Orbit Torque Switching in Structures with Canted NiO Interfacial Moments**|Zhe Zhang et.al.|[2407.03676](http://arxiv.org/abs/2407.03676)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## HDR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-07**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924](http://arxiv.org/abs/2504.04924)|null|
+|**2025-04-08**|**Inter-event Interval Microscopy for Event Cameras**|Changqing Su et.al.|[2504.04924](http://arxiv.org/abs/2504.04924)|null|
 |**2025-04-06**|**eKalibr-Stereo: Continuous-Time Spatiotemporal Calibration for Event-Based Stereo Visual Systems**|Shuolong Chen et.al.|[2504.04451](http://arxiv.org/abs/2504.04451)|**[link](https://github.com/unsigned-long/ekalibr)**|
 |**2025-04-05**|**Autoregressive High-Order Finite Difference Modulo Imaging: High-Dynamic Range for Computer Vision Applications**|Brayan Monroy et.al.|[2504.04228](http://arxiv.org/abs/2504.04228)|null|
 |**2025-04-03**|**Brightness Perceiving for Recursive Low-Light Image Enhancement**|Haodian Wang et.al.|[2504.02362](http://arxiv.org/abs/2504.02362)|null|
@@ -317,7 +317,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Neuromorphic Imaging with Super-Resolution**|Pei Zhang et.al.|[2407.05764](http://arxiv.org/abs/2407.05764)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Low-Level
 
@@ -325,7 +325,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |---|---|---|---|---|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-04-07**|**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**|Jiamei Xiong et.al.|[2504.05135](http://arxiv.org/abs/2504.05135)|null|
-|**2025-04-07**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
+|**2025-04-08**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
 |**2025-04-07**|**Content-Aware Transformer for All-in-one Image Restoration**|Gang Wu et.al.|[2504.04869](http://arxiv.org/abs/2504.04869)|null|
 |**2025-04-07**|**Inland Waterway Object Detection in Multi-environment: Dataset and Approach**|Shanshan Wang et.al.|[2504.04835](http://arxiv.org/abs/2504.04835)|null|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
@@ -944,7 +944,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1032,7 +1032,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|**[link](https://github.com/naver/mast3r)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## MutilModal
 
@@ -1996,7 +1996,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
 |**2024-07-17**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## Prompt
 
@@ -2004,8 +2004,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |---|---|---|---|---|
 |**2025-04-07**|**CREA: A Collaborative Multi-Agent Framework for Creative Content Generation with Diffusion Models**|Kavana Venkatesh et.al.|[2504.05306](http://arxiv.org/abs/2504.05306)|null|
 |**2025-04-07**|**URECA: Unique Region Caption Anything**|Sangbeom Lim et.al.|[2504.05305](http://arxiv.org/abs/2504.05305)|null|
-|**2025-04-07**|**NoveltyBench: Evaluating Creativity and Diversity in Language Models**|Yiming Zhang et.al.|[2504.05228](http://arxiv.org/abs/2504.05228)|null|
-|**2025-04-07**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
+|**2025-04-08**|**NoveltyBench: Evaluating Language Models for Humanlike Diversity**|Yiming Zhang et.al.|[2504.05228](http://arxiv.org/abs/2504.05228)|null|
+|**2025-04-08**|**Leveraging LLMs for Utility-Focused Annotation: Reducing Manual Effort for Retrieval and RAG**|Hengran Zhang et.al.|[2504.05220](http://arxiv.org/abs/2504.05220)|null|
 |**2025-04-07**|**MSA-UNet3+: Multi-Scale Attention UNet3+ with New Supervised Prototypical Contrastive Loss for Coronary DSA Image Segmentation**|Rayan Merghani Ahmed et.al.|[2504.05184](http://arxiv.org/abs/2504.05184)|null|
 |**2025-04-07**|**BRIDGES: Bridging Graph Modality and Large Language Models within EDA Tasks**|Wei Li et.al.|[2504.05180](http://arxiv.org/abs/2504.05180)|null|
 |**2025-04-07**|**Attention-Based Multi-Scale Temporal Fusion Network for Uncertain-Mode Fault Diagnosis in Multimode Processes**|Guangqiang Li et.al.|[2504.05172](http://arxiv.org/abs/2504.05172)|null|
@@ -3720,7 +3720,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|**[link](https://github.com/teto1992/declace)**|
 |**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|**[link](https://github.com/amazon-science/visfocus)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
