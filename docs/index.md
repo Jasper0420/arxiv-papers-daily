@@ -313,6 +313,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
+|**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
+|**2025-04-09**|**Rethinking LayerNorm in Image Restoration Transformers**|MinKyu Lee et.al.|[2504.06629](http://arxiv.org/abs/2504.06629)|null|
+|**2025-04-08**|**AstroClearNet: Deep image prior for multi-frame astronomical image restoration**|Yashil Sukurdeep et.al.|[2504.06463](http://arxiv.org/abs/2504.06463)|null|
 |**2025-04-09**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-04-07**|**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**|Jiamei Xiong et.al.|[2504.05135](http://arxiv.org/abs/2504.05135)|null|
@@ -939,6 +943,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -1026,6 +1031,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**|Xinhao Li et.al.|[2504.06958](http://arxiv.org/abs/2504.06958)|null|
+|**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
+|**2025-04-09**|**Integrating Cognitive Processing Signals into Language Models: A Review of Advances, Applications and Future Directions**|Angela Lopez-Cardona et.al.|[2504.06843](http://arxiv.org/abs/2504.06843)|null|
+|**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
+|**2025-04-09**|**Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program**|Minghe Gao et.al.|[2504.06606](http://arxiv.org/abs/2504.06606)|null|
+|**2025-04-08**|**Mind the Gap: Evaluating Vision Systems in Small Data Applications**|Samuel Stevens et.al.|[2504.06486](http://arxiv.org/abs/2504.06486)|null|
 |**2025-04-08**|**Transfer between Modalities with MetaQueries**|Xichen Pan et.al.|[2504.06256](http://arxiv.org/abs/2504.06256)|null|
 |**2025-04-08**|**V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148](http://arxiv.org/abs/2504.06148)|null|
 |**2025-04-08**|**MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**|Pengfei Zhou et.al.|[2504.05782](http://arxiv.org/abs/2504.05782)|null|
@@ -1992,6 +2003,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility**|Andreas Hochlehnert et.al.|[2504.07086](http://arxiv.org/abs/2504.07086)|null|
+|**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060](http://arxiv.org/abs/2504.07060)|null|
+|**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|null|
+|**2025-04-09**|**Towards LLMs Robustness to Changes in Prompt Format Styles**|Lilian Ngweta et.al.|[2504.06969](http://arxiv.org/abs/2504.06969)|null|
+|**2025-04-09**|**RuOpinionNE-2024: Extraction of Opinion Tuples from Russian News Texts**|Natalia Loukachevitch et.al.|[2504.06947](http://arxiv.org/abs/2504.06947)|null|
+|**2025-04-09**|**Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration**|Kostas Hatalis et.al.|[2504.06943](http://arxiv.org/abs/2504.06943)|null|
+|**2025-04-09**|**FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks**|Dekun Dai et.al.|[2504.06939](http://arxiv.org/abs/2504.06939)|null|
+|**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
+|**2025-04-09**|**MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking**|Chang Nie et.al.|[2504.06863](http://arxiv.org/abs/2504.06863)|null|
+|**2025-04-09**|**EIDT-V: Exploiting Intersections in Diffusion Trajectories for Model-Agnostic, Zero-Shot, Training-Free Text-to-Video Generation**|Diljeet Jagpal et.al.|[2504.06861](http://arxiv.org/abs/2504.06861)|null|
 |**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
 |**2025-04-08**|**Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning**|Muhammad Baqer Mollah et.al.|[2504.06173](http://arxiv.org/abs/2504.06173)|**[link](https://github.com/mbaqer/V2X-mmWave-Beamforming)**|
 |**2025-04-08**|**A Large-Scale Analysis on Contextual Self-Supervised Video Representation Learning**|Akash Kumar et.al.|[2504.06153](http://arxiv.org/abs/2504.06153)|null|
