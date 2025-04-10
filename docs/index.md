@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.04.09</span>
+# Updated on <span style='color:orange;'>2025.04.10</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -313,7 +313,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-08**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
+|**2025-04-09**|**Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions**|Hao Zhang et.al.|[2504.05795](http://arxiv.org/abs/2504.05795)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
 |**2025-04-07**|**DA2Diff: Exploring Degradation-aware Adaptive Diffusion Priors for All-in-One Weather Restoration**|Jiamei Xiong et.al.|[2504.05135](http://arxiv.org/abs/2504.05135)|null|
 |**2025-04-08**|**Lumina-OmniLV: A Unified Multimodal Framework for General Low-Level Vision**|Yuandong Pu et.al.|[2504.04903](http://arxiv.org/abs/2504.04903)|null|
@@ -1992,7 +1992,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
+|**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
 |**2025-04-08**|**Multi-Modality Sensing in mmWave Beamforming for Connected Vehicles Using Deep Learning**|Muhammad Baqer Mollah et.al.|[2504.06173](http://arxiv.org/abs/2504.06173)|**[link](https://github.com/mbaqer/V2X-mmWave-Beamforming)**|
 |**2025-04-08**|**A Large-Scale Analysis on Contextual Self-Supervised Video Representation Learning**|Akash Kumar et.al.|[2504.06153](http://arxiv.org/abs/2504.06153)|null|
 |**2025-04-08**|**Multi-Sense Embeddings for Language Models and Knowledge Distillation**|Qitong Wang et.al.|[2504.06036](http://arxiv.org/abs/2504.06036)|null|
