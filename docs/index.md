@@ -14,6 +14,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Bayesian Reasoning Enabled by Spin-Orbit Torque Magnetic Tunnel Junctions**|Yingqian Xu et.al.|[2504.08257](http://arxiv.org/abs/2504.08257)|null|
 |**2025-04-08**|**Magnetic Memory Driven by Orbital Current**|Jingkai Xu et.al.|[2504.05780](http://arxiv.org/abs/2504.05780)|null|
 |**2025-04-07**|**Dimensionality Enhanced Out-of-Plane Spin Currents in NbIrTe $_4$ for Efficient Field-Free Switching of Perpendicular Magnetization**|Wei Yang et.al.|[2504.05280](http://arxiv.org/abs/2504.05280)|null|
 |**2025-04-02**|**Shape Anisotropy Enabled Field Free Switching of Perpendicular Nanomagnets**|Akanksha Chouhan et.al.|[2504.01634](http://arxiv.org/abs/2504.01634)|null|
@@ -314,6 +315,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
+|**2025-04-11**|**ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration**|Yongsheng Yu et.al.|[2504.08591](http://arxiv.org/abs/2504.08591)|null|
+|**2025-04-11**|**FocalLens: Instruction Tuning Enables Zero-Shot Conditional Image Representations**|Cheng-Yu Hsieh et.al.|[2504.08368](http://arxiv.org/abs/2504.08368)|null|
+|**2025-04-11**|**DreamFuse: Adaptive Image Fusion with Diffusion Transformer**|Junjia Huang et.al.|[2504.08291](http://arxiv.org/abs/2504.08291)|null|
+|**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219](http://arxiv.org/abs/2504.08219)|null|
 |**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
 |**2025-04-10**|**Multi-modal Reference Learning for Fine-grained Text-to-Image Retrieval**|Zehong Ma et.al.|[2504.07718](http://arxiv.org/abs/2504.07718)|null|
 |**2025-04-10**|**Multi-Modal Data Fusion for Moisture Content Prediction in Apple Drying**|Shichen Li et.al.|[2504.07465](http://arxiv.org/abs/2504.07465)|null|
@@ -949,6 +955,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|**[link](https://github.com/stilcrad/denseaffine)**|
@@ -1037,6 +1044,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images**|Boyang Deng et.al.|[2504.08727](http://arxiv.org/abs/2504.08727)|null|
+|**2025-04-10**|**POEM: Precise Object-level Editing via MLLM control**|Marco Schouten et.al.|[2504.08111](http://arxiv.org/abs/2504.08111)|null|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
 |**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|**[link](https://github.com/syuan03/mm-ifengine)**|
 |**2025-04-10**|**Perception-R1: Pioneering Perception Policy with Reinforcement Learning**|En Yu et.al.|[2504.07954](http://arxiv.org/abs/2504.07954)|**[link](https://github.com/linkangheng/pr1)**|
@@ -2018,6 +2027,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Towards an Understanding of Context Utilization in Code Intelligence**|Yanlin Wang et.al.|[2504.08734](http://arxiv.org/abs/2504.08734)|null|
+|**2025-04-11**|**Generating Fine Details of Entity Interactions**|Xinyi Gu et.al.|[2504.08714](http://arxiv.org/abs/2504.08714)|null|
+|**2025-04-11**|**Fast-Slow-Thinking: Complex Task Solving with Large Language Models**|Yiliu Sun et.al.|[2504.08690](http://arxiv.org/abs/2504.08690)|null|
+|**2025-04-11**|**Variability-Driven User-Story Generation using LLM and Triadic Concept Analysis**|Alexandre Bazin et.al.|[2504.08666](http://arxiv.org/abs/2504.08666)|null|
+|**2025-04-11**|**Quality evaluation of Tabby coding assistant using real source code snippets**|Marta Borek et.al.|[2504.08650](http://arxiv.org/abs/2504.08650)|null|
+|**2025-04-11**|**Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization**|Jialu Li et.al.|[2504.08641](http://arxiv.org/abs/2504.08641)|null|
+|**2025-04-11**|**A Survey of Machine Learning Models and Datasets for the Multi-label Classification of Textual Hate Speech in English**|Julian Bäumler et.al.|[2504.08609](http://arxiv.org/abs/2504.08609)|null|
+|**2025-04-11**|**Lexical Bundle Frequency as a Construct-Relevant Candidate Feature in Automated Scoring of L2 Academic Writing**|Burak Senel et.al.|[2504.08537](http://arxiv.org/abs/2504.08537)|null|
+|**2025-04-11**|**Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks**|Ye Ye et.al.|[2504.08525](http://arxiv.org/abs/2504.08525)|null|
+|**2025-04-11**|**Scholar Inbox: Personalized Paper Recommendations for Scientists**|Markus Flicke et.al.|[2504.08385](http://arxiv.org/abs/2504.08385)|null|
 |**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
 |**2025-04-10**|**Towards Sustainable Creativity Support: An Exploratory Study on Prompt Based Image Generation**|Daniel Hove Paludan et.al.|[2504.07879](http://arxiv.org/abs/2504.07879)|null|
