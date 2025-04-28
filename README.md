@@ -725,7 +725,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-12-06**|**ReF-LDM: A Latent Diffusion Model for Reference-based Face Image Restoration**|Chi-Wei Hsiao et.al.|[2412.05043](http://arxiv.org/abs/2412.05043)|null|
 |**2024-12-06**|**DEYOLO: Dual-Feature-Enhancement YOLO for Cross-Modality Object Detection**|Yishuo Chen et.al.|[2412.04931](http://arxiv.org/abs/2412.04931)|**[link](https://github.com/chips96/deyolo)**|
 |**2024-12-06**|**DAug: Diffusion-based Channel Augmentation for Radiology Image Retrieval and Classification**|Ying Jin et.al.|[2412.04828](http://arxiv.org/abs/2412.04828)|null|
-|**2024-12-06**|**Modality Decoupling is All You Need: A Simple Solution for Unsupervised Hyperspectral Image Fusion**|Songcheng Du et.al.|[2412.04802](http://arxiv.org/abs/2412.04802)|null|
+|**2024-12-06**|**Modality Decoupling is All You Need: A Simple Solution for Unsupervised Hyperspectral Image Fusion**|Songcheng Du et.al.|[2412.04802](http://arxiv.org/abs/2412.04802)|**[link](https://github.com/dusongcheng/mossfuse)**|
 |**2024-12-05**|**Generalized Recorrupted-to-Recorrupted: Self-Supervised Learning Beyond Gaussian Noise**|Brayan Monroy et.al.|[2412.04648](http://arxiv.org/abs/2412.04648)|**[link](https://github.com/bemc22/GeneralizedR2R)**|
 |**2024-12-05**|**MetaFormer: High-fidelity Metalens Imaging via Aberration Correcting Transformers**|Byeonghyeon Lee et.al.|[2412.04591](http://arxiv.org/abs/2412.04591)|null|
 |**2024-12-05**|**Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image**|Shuang Xu et.al.|[2412.04201](http://arxiv.org/abs/2412.04201)|null|
@@ -768,7 +768,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-11-22**|**Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration**|Darshan Thaker et.al.|[2411.15295](http://arxiv.org/abs/2411.15295)|null|
 |**2024-11-22**|**MambaIRv2: Attentive State Space Restoration**|Hang Guo et.al.|[2411.15269](http://arxiv.org/abs/2411.15269)|**[link](https://github.com/csguoh/mambair)**|
 |**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
-|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
+|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|**[link](https://github.com/rssl-mtu/enhancement-detection-analysis)**|
 |**2024-11-21**|**Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion**|Jinhong He et.al.|[2411.13961](http://arxiv.org/abs/2411.13961)|**[link](https://github.com/hejh8/joint-wavelet-and-fourier-priors-guided-diffusion)**|
 |**2024-11-20**|**Analysis and Synthesis Denoisers for Forward-Backward Plug-and-Play Algorithms**|Matthieu Kowalski et.al.|[2411.13276](http://arxiv.org/abs/2411.13276)|null|
 |**2024-11-20**|**Globally Correlation-Aware Hard Negative Generation**|Wenjie Peng et.al.|[2411.13145](http://arxiv.org/abs/2411.13145)|**[link](https://github.com/pwenjay/gca-hng)**|
@@ -1149,7 +1149,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-04-22**|**FaceInsight: A Multimodal Large Language Model for Face Perception**|Jingzhi Li et.al.|[2504.15624](http://arxiv.org/abs/2504.15624)|null|
 |**2025-04-22**|**AdaViP: Aligning Multi-modal LLMs via Adaptive Vision-enhanced Preference Optimization**|Jinda Lu et.al.|[2504.15619](http://arxiv.org/abs/2504.15619)|null|
 |**2025-04-21**|**IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs**|David Ma et.al.|[2504.15415](http://arxiv.org/abs/2504.15415)|null|
-|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
+|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|**[link](https://github.com/Chenyu-Wang567/All-Angles-Bench)**|
 |**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279](http://arxiv.org/abs/2504.15279)|null|
 |**2025-04-21**|**A Call for New Recipes to Enhance Spatial Reasoning in MLLMs**|Huanyu Zhang et.al.|[2504.15037](http://arxiv.org/abs/2504.15037)|null|
 |**2025-04-21**|**IoT-AMLHP: Aligned Multimodal Learning of Header-Payload Representations for Resource-Efficient Malicious IoT Traffic Classification**|Fengyuan Nie et.al.|[2504.14833](http://arxiv.org/abs/2504.14833)|null|
@@ -1163,7 +1163,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112](http://arxiv.org/abs/2504.13112)|null|
 |**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092](http://arxiv.org/abs/2504.13092)|null|
-|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|**[link](https://github.com/skyworkai/skyreels-v2)**|
 |**2025-04-17**|**ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images**|Sangwook Kim et.al.|[2504.13023](http://arxiv.org/abs/2504.13023)|null|
 |**2025-04-17**|**EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**|Wei Zhang et.al.|[2504.12795](http://arxiv.org/abs/2504.12795)|null|
 |**2025-04-17**|**Enhancing the Geometric Problem-Solving Ability of Multimodal LLMs via Symbolic-Neural Integration**|Yicheng Pan et.al.|[2504.12773](http://arxiv.org/abs/2504.12773)|**[link](https://github.com/ycpnotfound/geogen)**|
@@ -1485,7 +1485,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-02-06**|**EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models**|He Hu et.al.|[2502.04424](http://arxiv.org/abs/2502.04424)|null|
 |**2025-02-05**|**PerPO: Perceptual Preference Optimization via Discriminative Rewarding**|Zining Zhu et.al.|[2502.04371](http://arxiv.org/abs/2502.04371)|**[link](https://github.com/ningerhhh/perpo)**|
 |**2025-02-06**|**PixFoundation: Are We Heading in the Right Direction with Pixel-level Vision Foundation Models?**|Mennatullah Siam et.al.|[2502.04192](http://arxiv.org/abs/2502.04192)|**[link](https://github.com/msiam/pixfoundation)**|
-|**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|null|
+|**2025-02-06**|**MRAMG-Bench: A BeyondText Benchmark for Multimodal Retrieval-Augmented Multimodal Generation**|Qinhan Yu et.al.|[2502.04176](http://arxiv.org/abs/2502.04176)|**[link](https://github.com/mramg-bench/mramg)**|
 |**2025-02-05**|**Large Language Models Are Universal Recommendation Learners**|Junguang Jiang et.al.|[2502.03041](http://arxiv.org/abs/2502.03041)|null|
 |**2025-02-05**|**Position: Multimodal Large Language Models Can Significantly Advance Scientific Reasoning**|Yibo Yan et.al.|[2502.02871](http://arxiv.org/abs/2502.02871)|null|
 |**2025-02-04**|**SAISA: Towards Multimodal Large Language Models with Both Training and Inference Efficiency**|Qianhao Yuan et.al.|[2502.02458](http://arxiv.org/abs/2502.02458)|**[link](https://github.com/icip-cas/saisa)**|
@@ -2225,14 +2225,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-04-21**|**Chinese-LiPS: A Chinese audio-visual speech recognition dataset with Lip-reading and Presentation Slides**|Jinghua Zhao et.al.|[2504.15066](http://arxiv.org/abs/2504.15066)|null|
 |**2025-04-21**|**OPO: Making Decision-Focused Data Acquisition Decisions**|Egon Peršak et.al.|[2504.15062](http://arxiv.org/abs/2504.15062)|null|
 |**2025-04-18**|**Audit Cards: Contextualizing AI Evaluations**|Leon Staufer et.al.|[2504.13839](http://arxiv.org/abs/2504.13839)|null|
-|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|null|
-|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
+|**2025-04-18**|**Science Hierarchography: Hierarchical Organization of Science Literature**|Muhan Gao et.al.|[2504.13834](http://arxiv.org/abs/2504.13834)|**[link](https://github.com/jhu-clsp/science-hierarchography)**|
+|**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|**[link](https://github.com/gair-nlp/cognition-engineering)**|
 |**2025-04-18**|**Quantum Contextuality for Contextual Word Embeddings**|Karl Svozil et.al.|[2504.13824](http://arxiv.org/abs/2504.13824)|null|
 |**2025-04-18**|**Fighting Fires from Space: Leveraging Vision Transformers for Enhanced Wildfire Detection and Characterization**|Aman Agarwal et.al.|[2504.13776](http://arxiv.org/abs/2504.13776)|null|
 |**2025-04-21**|**BadApex: Backdoor Attack Based on Adaptive Optimization Mechanism of Black-box Large Language Models**|Zhengxian Wu et.al.|[2504.13775](http://arxiv.org/abs/2504.13775)|null|
 |**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756](http://arxiv.org/abs/2504.13756)|null|
 |**2025-04-18**|**ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis**|Andrea Rigo et.al.|[2504.13745](http://arxiv.org/abs/2504.13745)|null|
-|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|null|
+|**2025-04-18**|**Controlled Territory and Conflict Tracking (CONTACT): (Geo-)Mapping Occupied Territory from Open Source Intelligence**|Paul K. Mandal et.al.|[2504.13730](http://arxiv.org/abs/2504.13730)|**[link](https://github.com/paulkmandal/contact)**|
 |**2025-04-18**|**Exploring Multimodal Prompt for Visualization Authoring with Large Language Models**|Zhen Wen et.al.|[2504.13700](http://arxiv.org/abs/2504.13700)|null|
 |**2025-04-17**|**IMAGGarment-1: Fine-Grained Garment Generation for Controllable Fashion Design**|Fei Shen et.al.|[2504.13176](http://arxiv.org/abs/2504.13176)|**[link](https://github.com/muzishen/imaggarment-1)**|
 |**2025-04-17**|**Personalized Text-to-Image Generation with Auto-Regressive Models**|Kaiyue Sun et.al.|[2504.13162](http://arxiv.org/abs/2504.13162)|**[link](https://github.com/kaiyuesun98/t2i-personalization-with-ar)**|
@@ -2240,7 +2240,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-04-17**|**Object-Driven Narrative in AR: A Scenario-Metaphor Framework with VLM Integration**|Yusi Sun et.al.|[2504.13119](http://arxiv.org/abs/2504.13119)|null|
 |**2025-04-17**|**Should We Tailor the Talk? Understanding the Impact of Conversational Styles on Preference Elicitation in Conversational Recommender Systems**|Ivica Kostric et.al.|[2504.13095](http://arxiv.org/abs/2504.13095)|**[link](https://github.com/iai-group/umap2025-convstyles)**|
 |**2025-04-17**|**EventVAD: Training-Free Event-Aware Video Anomaly Detection**|Yihua Shao et.al.|[2504.13092](http://arxiv.org/abs/2504.13092)|null|
-|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|null|
+|**2025-04-18**|**SkyReels-V2: Infinite-length Film Generative Model**|Guibin Chen et.al.|[2504.13074](http://arxiv.org/abs/2504.13074)|**[link](https://github.com/skyworkai/skyreels-v2)**|
 |**2025-04-17**|**Early Accessibility: Automating Alt-Text Generation for UI Icons During App Development**|Sabrina Haque et.al.|[2504.13069](http://arxiv.org/abs/2504.13069)|null|
 |**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068](http://arxiv.org/abs/2504.13068)|null|
 |**2025-04-17**|**Aspect-Based Summarization with Self-Aspect Retrieval Enhanced Generation**|Yichao Feng et.al.|[2504.13054](http://arxiv.org/abs/2504.13054)|null|
@@ -2248,7 +2248,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-04-16**|**Cobra: Efficient Line Art COlorization with BRoAder References**|Junhao Zhuang et.al.|[2504.12240](http://arxiv.org/abs/2504.12240)|null|
 |**2025-04-16**|**Exploring GRBs and supernovae connection: does a superluminous hypernova population exist?**|Achille Fiore et.al.|[2504.12224](http://arxiv.org/abs/2504.12224)|null|
 |**2025-04-16**|**Trusting CHATGPT: how minor tweaks in the prompts lead to major differences in sentiment classification**|Jaime E. Cuellar et.al.|[2504.12180](http://arxiv.org/abs/2504.12180)|null|
-|**2025-04-16**|**FocusedAD: Character-centric Movie Audio Description**|Xiaojun Ye et.al.|[2504.12157](http://arxiv.org/abs/2504.12157)|null|
+|**2025-04-16**|**FocusedAD: Character-centric Movie Audio Description**|Xiaojun Ye et.al.|[2504.12157](http://arxiv.org/abs/2504.12157)|**[link](https://github.com/thorin215/focusedad)**|
 |**2025-04-16**|**ARCeR: an Agentic RAG for the Automated Definition of Cyber Ranges**|Matteo Lupinacci et.al.|[2504.12143](http://arxiv.org/abs/2504.12143)|null|
 |**2025-04-16**|**Multilingual Contextualization of Large Language Models for Document-Level Machine Translation**|Miguel Moura Ramos et.al.|[2504.12140](http://arxiv.org/abs/2504.12140)|null|
 |**2025-04-16**|**Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models -**|Laura Fieback et.al.|[2504.12137](http://arxiv.org/abs/2504.12137)|null|
@@ -2298,7 +2298,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-04-09**|**Generalized Semantic Contrastive Learning via Embedding Side Information for Few-Shot Object Detection**|Ruoyu Chen et.al.|[2504.07060](http://arxiv.org/abs/2504.07060)|**[link](https://github.com/RuoyuChen10/CCL-FSOD)**|
 |**2025-04-09**|**TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2504.07053](http://arxiv.org/abs/2504.07053)|**[link](https://github.com/mtkresearch/taste-spokenlm)**|
 |**2025-04-09**|**Towards LLMs Robustness to Changes in Prompt Format Styles**|Lilian Ngweta et.al.|[2504.06969](http://arxiv.org/abs/2504.06969)|null|
-|**2025-04-09**|**RuOpinionNE-2024: Extraction of Opinion Tuples from Russian News Texts**|Natalia Loukachevitch et.al.|[2504.06947](http://arxiv.org/abs/2504.06947)|null|
+|**2025-04-09**|**RuOpinionNE-2024: Extraction of Opinion Tuples from Russian News Texts**|Natalia Loukachevitch et.al.|[2504.06947](http://arxiv.org/abs/2504.06947)|**[link](https://github.com/dialogue-evaluation/RuOpinionNE-2024)**|
 |**2025-04-09**|**Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration**|Kostas Hatalis et.al.|[2504.06943](http://arxiv.org/abs/2504.06943)|null|
 |**2025-04-09**|**FeedbackEval: A Benchmark for Evaluating Large Language Models in Feedback-Driven Code Repair Tasks**|Dekun Dai et.al.|[2504.06939](http://arxiv.org/abs/2504.06939)|**[link](https://github.com/sysuselab/feedbackeval)**|
 |**2025-04-09**|**MedSegFactory: Text-Guided Generation of Medical Image-Mask Pairs**|Jiawei Mao et.al.|[2504.06897](http://arxiv.org/abs/2504.06897)|null|
