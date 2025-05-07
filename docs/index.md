@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.05.06</span>
+# Updated on <span style='color:orange;'>2025.05.07</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -1146,12 +1146,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-05**|**R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning**|Yi-Fan Zhang et.al.|[2505.02835](http://arxiv.org/abs/2505.02835)|null|
-|**2025-05-05**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
+|**2025-05-06**|**MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation**|Mingcheng Li et.al.|[2505.02648](http://arxiv.org/abs/2505.02648)|null|
 |**2025-05-05**|**SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning**|Jinpeng Chen et.al.|[2505.02486](http://arxiv.org/abs/2505.02486)|null|
 |**2025-05-05**|**Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction**|Biao Gong et.al.|[2505.02471](http://arxiv.org/abs/2505.02471)|null|
 |**2025-05-05**|**Uncertainty-Weighted Image-Event Multimodal Fusion for Video Anomaly Detection**|Sungheon Jeong et.al.|[2505.02393](http://arxiv.org/abs/2505.02393)|null|
 |**2025-05-04**|**Retrieval-augmented in-context learning for multimodal large language models in disease classification**|Zaifu Zhan et.al.|[2505.02087](http://arxiv.org/abs/2505.02087)|null|
-|**2025-05-04**|**RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and Reasoning through Real-Time Video**|Shuhang Xun et.al.|[2505.02064](http://arxiv.org/abs/2505.02064)|null|
+|**2025-05-06**|**RTV-Bench: Benchmarking MLLM Continuous Perception, Understanding and Reasoning through Real-Time Video**|Shuhang Xun et.al.|[2505.02064](http://arxiv.org/abs/2505.02064)|null|
 |**2025-05-04**|**R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation**|Meng-Hao Guo et.al.|[2505.02018](http://arxiv.org/abs/2505.02018)|null|
 |**2025-05-04**|**MLLM-Enhanced Face Forgery Detection: A Vision-Language Fusion Solution**|Siran Peng et.al.|[2505.02013](http://arxiv.org/abs/2505.02013)|null|
 |**2025-05-02**|**VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations for Synthetic Videos**|Zongxia Li et.al.|[2505.01481](http://arxiv.org/abs/2505.01481)|null|
@@ -2231,7 +2231,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-05-05**|**Giving Simulated Cells a Voice: Evolving Prompt-to-Intervention Models for Cellular Control**|Nam H. Le et.al.|[2505.02766](http://arxiv.org/abs/2505.02766)|null|
 |**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753](http://arxiv.org/abs/2505.02753)|null|
 |**2025-05-05**|**How May U.S. Courts Scrutinize Their Recidivism Risk Assessment Tools? Contextualizing AI Fairness Criteria on a Judicial Scrutiny-based Framework**|Tin Nguyen et.al.|[2505.02749](http://arxiv.org/abs/2505.02749)|null|
-|**2025-05-05**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Pons Gerard et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
+|**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737](http://arxiv.org/abs/2505.02737)|null|
 |**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
 |**2025-05-02**|**A Factorized Probabilistic Model of the Semantics of Vague Temporal Adverbials Relative to Different Event Types**|Svenja Kenneweg et.al.|[2505.01311](http://arxiv.org/abs/2505.01311)|null|
 |**2025-05-02**|**Deblurring fission fragment mass distributions**|Pierre Nzabahimana et.al.|[2505.01294](http://arxiv.org/abs/2505.01294)|null|
