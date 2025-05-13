@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.05.12</span>
+# Updated on <span style='color:orange;'>2025.05.13</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -169,7 +169,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-05-06**|**Benchmark-based Study of CPU/GPU Power-Related Features through JAX and TensorFlow**|Roblex Nana Tchakoute et.al.|[2505.03398](http://arxiv.org/abs/2505.03398)|null|
 |**2025-05-02**|**High Dynamic Range Novel View Synthesis with Single Exposure**|Kaixuan Zhang et.al.|[2505.01212](http://arxiv.org/abs/2505.01212)|null|
 |**2025-04-29**|**A Survey on Event-based Optical Marker Systems**|Nafiseh Jabbari Tofighi et.al.|[2504.20736](http://arxiv.org/abs/2504.20736)|null|
-|**2025-04-26**|**Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Cameras**|Yunzhong Zhang et.al.|[2504.18864](http://arxiv.org/abs/2504.18864)|null|
+|**2025-05-12**|**Spike Imaging Velocimetry: Dense Motion Estimation of Fluids Using Spike Cameras**|Yunzhong Zhang et.al.|[2504.18864](http://arxiv.org/abs/2504.18864)|null|
 |**2025-04-25**|**Boxi: Design Decisions in the Context of Algorithmic Performance for Robotics**|Jonas Frey et.al.|[2504.18500](http://arxiv.org/abs/2504.18500)|null|
 |**2025-04-25**|**BiasBench: A reproducible benchmark for tuning the biases of event cameras**|Andreas Ziegler et.al.|[2504.18235](http://arxiv.org/abs/2504.18235)|null|
 |**2025-04-25**|**Post-Transfer Learning Statistical Inference in High-Dimensional Regression**|Nguyen Vu Khai Tam et.al.|[2504.18212](http://arxiv.org/abs/2504.18212)|null|
