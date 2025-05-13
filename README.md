@@ -22,6 +22,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-11**|**Nonlinear Model Predictive Control for Leaderless UAV Formation Flying with Collision Avoidance under Directed Graphs**|Yiming Wang et.al.|[2505.06895](http://arxiv.org/abs/2505.06895)|null|
+|**2025-05-11**|**Streaming Sliced Optimal Transport**|Khai Nguyen et.al.|[2505.06835](http://arxiv.org/abs/2505.06835)|null|
+|**2025-05-10**|**Nonlinearity Modulation of Auto-oscillations in Three-terminal Magnetic Tunnel Junctions**|Zixi Wang et.al.|[2505.06547](http://arxiv.org/abs/2505.06547)|null|
+|**2025-05-06**|**Show or Tell? A Benchmark To Evaluate Visual and Textual Prompts in Semantic Segmentation**|Gabriele Rosi et.al.|[2505.06280](http://arxiv.org/abs/2505.06280)|**[link](https://github.com/FocoosAI/ShowOrTell)**|
 |**2025-05-09**|**CGTrack: Cascade Gating Network with Hierarchical Feature Aggregation for UAV Tracking**|Weihong Li et.al.|[2505.05936](http://arxiv.org/abs/2505.05936)|**[link](https://github.com/nightwatch-fox11/cgtrack)**|
 |**2025-05-08**|**A Simple Detector with Frame Dynamics is a Strong Tracker**|Chenxu Peng et.al.|[2505.04917](http://arxiv.org/abs/2505.04917)|null|
 |**2025-05-06**|**Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking**|Shenglan Li et.al.|[2505.03507](http://arxiv.org/abs/2505.03507)|**[link](https://github.com/lishenglana/gdstrack)**|
@@ -173,6 +177,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Towards a physically realistic computationally efficient DVS pixel model**|Rui Graca et.al.|[2505.07386](http://arxiv.org/abs/2505.07386)|null|
+|**2025-05-12**|**RealRep: Generalized SDR-to-HDR Conversion with Style Disentangled Representation Learning**|Gang He et.al.|[2505.07322](http://arxiv.org/abs/2505.07322)|null|
 |**2025-04-30**|**From Events to Enhancement: A Survey on Event-Based Imaging Technologies**|Yunfan Lu et.al.|[2505.05488](http://arxiv.org/abs/2505.05488)|null|
 |**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391](http://arxiv.org/abs/2505.05391)|null|
 |**2025-05-07**|**EvEnhancer: Empowering Effectiveness, Efficiency and Generalizability for Continuous Space-Time Video Super-Resolution with Events**|Shuoyan Wei et.al.|[2505.04657](http://arxiv.org/abs/2505.04657)|null|
@@ -365,6 +371,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation**|Dragos-Patru Covei et.al.|[2505.07699](http://arxiv.org/abs/2505.07699)|null|
+|**2025-05-12**|**Generalizable Pancreas Segmentation via a Dual Self-Supervised Learning Framework**|Jun Li et.al.|[2505.07165](http://arxiv.org/abs/2505.07165)|null|
+|**2025-05-11**|**Bi-directional Self-Registration for Misaligned Infrared-Visible Image Fusion**|Timing Li et.al.|[2505.06920](http://arxiv.org/abs/2505.06920)|null|
+|**2025-05-10**|**UnfoldIR: Rethinking Deep Unfolding Network in Illumination Degradation Image Restoration**|Chunming He et.al.|[2505.06683](http://arxiv.org/abs/2505.06683)|null|
+|**2025-05-10**|**MultiTaskVIF: Segmentation-oriented visible and infrared image fusion via multi-task learning**|Zixian Zhao et.al.|[2505.06665](http://arxiv.org/abs/2505.06665)|null|
 |**2025-05-09**|**A review of advancements in low-light image enhancement using deep learning**|Fangxue Liu et.al.|[2505.05759](http://arxiv.org/abs/2505.05759)|null|
 |**2025-05-08**|**Semantic Style Transfer for Enhancing Animal Facial Landmark Detection**|Anadil Hussein et.al.|[2505.05640](http://arxiv.org/abs/2505.05640)|null|
 |**2025-05-08**|**A Preliminary Study for GPT-4o on Image Restoration**|Hao Yang et.al.|[2505.05621](http://arxiv.org/abs/2505.05621)|**[link](https://github.com/noxsine/gpt_restoration)**|
@@ -1086,6 +1097,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
@@ -1184,6 +1196,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Multimodal Survival Modeling in the Age of Foundation Models**|Steven Song et.al.|[2505.07683](http://arxiv.org/abs/2505.07683)|null|
+|**2025-05-12**|**Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning**|Xiaokun Wang et.al.|[2505.07263](http://arxiv.org/abs/2505.07263)|null|
+|**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[2505.07084](http://arxiv.org/abs/2505.07084)|null|
+|**2025-05-11**|**ParaView-MCP: An Autonomous Visualization Agent with Direct Tool Use**|Shusen Liu et.al.|[2505.07064](http://arxiv.org/abs/2505.07064)|null|
+|**2025-05-11**|**MELLM: Exploring LLM-Powered Micro-Expression Understanding Enhanced by Subtle Motion Perception**|Zhengye Zhang et.al.|[2505.07007](http://arxiv.org/abs/2505.07007)|**[link](https://github.com/zyzhangustc/mellm)**|
+|**2025-05-11**|**Visual Evolutionary Optimization on Combinatorial Problems with Multimodal Large Language Models: A Case Study of Influence Maximization**|Jie Zhao et.al.|[2505.06850](http://arxiv.org/abs/2505.06850)|null|
+|**2025-05-11**|**Visual Instruction Tuning with Chain of Region-of-Interest**|Yixin Chen et.al.|[2505.06840](http://arxiv.org/abs/2505.06840)|null|
+|**2025-05-09**|**Is your multimodal large language model a good science tutor?**|Ming Liu et.al.|[2505.06418](http://arxiv.org/abs/2505.06418)|null|
+|**2025-05-09**|**NSF-MAP: Neurosymbolic Multimodal Fusion for Robust and Interpretable Anomaly Prediction in Assembly Pipelines**|Chathurangi Shyalika et.al.|[2505.06333](http://arxiv.org/abs/2505.06333)|**[link](https://github.com/chathurangishyalika/nsf-map)**|
 |**2025-05-09**|**MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills**|Niladri Shekhar Dutt et.al.|[2505.06176](http://arxiv.org/abs/2505.06176)|null|
 |**2025-05-09**|**The Application of Deep Learning for Lymph Node Segmentation: A Systematic Review**|Jingguo Qu et.al.|[2505.06118](http://arxiv.org/abs/2505.06118)|null|
 |**2025-05-09**|**ArtRAG: Retrieval-Augmented Generation with Structured Context for Visual Art Understanding**|Shuai Wang et.al.|[2505.06020](http://arxiv.org/abs/2505.06020)|null|
@@ -2284,6 +2305,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**A Comparative Analysis of Static Word Embeddings for Hungarian**|Máté Gedeon et.al.|[2505.07809](http://arxiv.org/abs/2505.07809)|null|
+|**2025-05-12**|**Domain Regeneration: How well do LLMs match syntactic properties of text domains?**|Da Ju et.al.|[2505.07784](http://arxiv.org/abs/2505.07784)|null|
+|**2025-05-12**|**Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding**|Yifeng Di et.al.|[2505.07768](http://arxiv.org/abs/2505.07768)|null|
+|**2025-05-12**|**"I Apologize For Not Understanding Your Policy": Exploring the Specification and Evaluation of User-Managed Access Control Policies by AI Virtual Assistants**|Jennifer Mondragon et.al.|[2505.07759](http://arxiv.org/abs/2505.07759)|null|
+|**2025-05-12**|**Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**|Weiyu Li et.al.|[2505.07747](http://arxiv.org/abs/2505.07747)|null|
+|**2025-05-12**|**VTutor for High-Impact Tutoring at Scale: Managing Engagement and Real-Time Multi-Screen Monitoring with P2P Connections**|Eason Chen et.al.|[2505.07736](http://arxiv.org/abs/2505.07736)|null|
+|**2025-05-12**|**Gameplay Highlights Generation**|Vignesh Edithal et.al.|[2505.07721](http://arxiv.org/abs/2505.07721)|null|
+|**2025-05-12**|**Codifying Character Logic in Role-Playing**|Letian Peng et.al.|[2505.07705](http://arxiv.org/abs/2505.07705)|null|
+|**2025-05-12**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672](http://arxiv.org/abs/2505.07672)|null|
+|**2025-05-12**|**ShotAdapter: Text-to-Multi-Shot Video Generation with Diffusion Models**|Ozgur Kara et.al.|[2505.07652](http://arxiv.org/abs/2505.07652)|null|
 |**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224](http://arxiv.org/abs/2505.06224)|null|
 |**2025-05-09**|**Adapting a Segmentation Foundation Model for Medical Image Classification**|Pengfei Gu et.al.|[2505.06217](http://arxiv.org/abs/2505.06217)|null|
 |**2025-05-09**|**Turbo-ICL: In-Context Learning-Based Turbo Equalization**|Zihang Song et.al.|[2505.06175](http://arxiv.org/abs/2505.06175)|null|
