@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.05.20</span>
+# Updated on <span style='color:orange;'>2025.05.21</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -172,7 +172,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-17**|**NTIRE 2025 Challenge on Efficient Burst HDR and Restoration: Datasets, Methods, and Results**|Sangmin Lee et.al.|[2505.12089](http://arxiv.org/abs/2505.12089)|null|
-|**2025-05-17**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
+|**2025-05-20**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
 |**2025-05-16**|**Towards Navigation-Grade and Deployable Optomechanical Accelerometery**|Chang Ge et.al.|[2505.11751](http://arxiv.org/abs/2505.11751)|null|
 |**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116](http://arxiv.org/abs/2505.11116)|null|
 |**2025-05-14**|**Efficient Modelling of Lyman-α opacity fluctuations during late EoR**|Barun Maity et.al.|[2505.09369](http://arxiv.org/abs/2505.09369)|null|

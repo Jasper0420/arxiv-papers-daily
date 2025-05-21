@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.05.20</span>
+# Updated on <span style='color:orange;'>2025.05.21</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 <details open>
@@ -175,14 +175,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-04**|**TrackPGD: A White-box Attack using Binary Masks against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2407.03946](http://arxiv.org/abs/2407.03946)|**[link](https://github.com/fatemehN/TrackPGD)**|
 |**2024-07-04**|**Out-of-Plane Polarization from Spin Reflection Induces Field-Free Spin-Orbit Torque Switching in Structures with Canted NiO Interfacial Moments**|Zhe Zhang et.al.|[2407.03676](http://arxiv.org/abs/2407.03676)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## HDR
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-17**|**NTIRE 2025 Challenge on Efficient Burst HDR and Restoration: Datasets, Methods, and Results**|Sangmin Lee et.al.|[2505.12089](http://arxiv.org/abs/2505.12089)|null|
-|**2025-05-17**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
+|**2025-05-20**|**Multi-modal Collaborative Optimization and Expansion Network for Event-assisted Single-eye Expression Recognition**|Runduo Han et.al.|[2505.12007](http://arxiv.org/abs/2505.12007)|**[link](https://github.com/hrdhrd/MCO-E-Net)**|
 |**2025-05-16**|**Towards Navigation-Grade and Deployable Optomechanical Accelerometery**|Chang Ge et.al.|[2505.11751](http://arxiv.org/abs/2505.11751)|null|
 |**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116](http://arxiv.org/abs/2505.11116)|null|
 |**2025-05-14**|**Efficient Modelling of Lyman-α opacity fluctuations during late EoR**|Barun Maity et.al.|[2505.09369](http://arxiv.org/abs/2505.09369)|null|
@@ -376,7 +376,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-08**|**PanDORA: Casual HDR Radiance Acquisition for Indoor Scenes**|Mohammad Reza Karimi Dastjerdi et.al.|[2407.06150](http://arxiv.org/abs/2407.06150)|null|
 |**2024-07-08**|**Neuromorphic Imaging with Super-Resolution**|Pei Zhang et.al.|[2407.05764](http://arxiv.org/abs/2407.05764)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Low-Level
 
@@ -1117,7 +1117,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1217,7 +1217,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
 |**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|**[link](https://github.com/naver/mast3r)**|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## MutilModal
 
@@ -2360,7 +2360,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-12**|**SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**|Shraman Pramanick et.al.|[2407.09413](http://arxiv.org/abs/2407.09413)|**[link](https://github.com/google/spiqa)**|
 |**2024-07-17**|**Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study**|Yulong Yang et.al.|[2407.09295](http://arxiv.org/abs/2407.09295)|null|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 ## Prompt
 
@@ -4384,7 +4384,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2024-07-17**|**Continuous reasoning for adaptive container image distribution in the cloud-edge continuum**|Damiano Azzolini et.al.|[2407.12605](http://arxiv.org/abs/2407.12605)|**[link](https://github.com/teto1992/declace)**|
 |**2024-07-17**|**VisFocus: Prompt-Guided Vision Encoders for OCR-Free Dense Document Understanding**|Ofir Abramovich et.al.|[2407.12594](http://arxiv.org/abs/2407.12594)|**[link](https://github.com/amazon-science/visfocus)**|
 
-<p align=right>(<a href=#updated-on-20250520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Jasper0420/arxiv-papers-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Jasper0420/arxiv-papers-daily/graphs/contributors
