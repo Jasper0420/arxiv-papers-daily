@@ -14,6 +14,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking**|Cheng-Yen Yang et.al.|[2505.18111](http://arxiv.org/abs/2505.18111)|null|
 |**2025-05-19**|**Towards Low-Latency Event Stream-based Visual Object Tracking: A Slow-Fast Approach**|Shiao Wang et.al.|[2505.12903](http://arxiv.org/abs/2505.12903)|**[link](https://github.com/event-ahu/slowfast_event_track)**|
 |**2025-05-16**|**Effect of crystallinity on spin-orbit torque in 5 $\textit{d}$ iridium oxide IrO$_{2}$**|Tetsuro Morimoto et.al.|[2505.10907](http://arxiv.org/abs/2505.10907)|null|
 |**2025-05-14**|**Recent progress on electron- and magnon-mediated torques**|Jia-Min Lai et.al.|[2505.09257](http://arxiv.org/abs/2505.09257)|null|
@@ -171,6 +172,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
 |**2025-05-22**|**V2V: Scaling Event-Based Vision through Efficient Video-to-Voxel Simulation**|Hanyue Lou et.al.|[2505.16797](http://arxiv.org/abs/2505.16797)|null|
 |**2025-05-21**|**Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras**|Ryota Soga et.al.|[2505.15412](http://arxiv.org/abs/2505.15412)|null|
 |**2025-05-17**|**NTIRE 2025 Challenge on Efficient Burst HDR and Restoration: Datasets, Methods, and Results**|Sangmin Lee et.al.|[2505.12089](http://arxiv.org/abs/2505.12089)|null|
@@ -372,6 +374,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
+|**2025-05-23**|**MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery**|Hainuo Wang et.al.|[2505.17581](http://arxiv.org/abs/2505.17581)|null|
+|**2025-05-23**|**Dual Ascent Diffusion for Inverse Problems**|Minseo Kim et.al.|[2505.17353](http://arxiv.org/abs/2505.17353)|null|
 |**2025-05-22**|**Forward-only Diffusion Probabilistic Models**|Ziwei Luo et.al.|[2505.16733](http://arxiv.org/abs/2505.16733)|**[link](https://github.com/Algolzw/FoD)**|
 |**2025-05-22**|**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**|Yuetong Liu et.al.|[2505.16479](http://arxiv.org/abs/2505.16479)|null|
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
@@ -1121,6 +1127,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
@@ -1219,6 +1226,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling**|Bryan Wong et.al.|[2505.17982](http://arxiv.org/abs/2505.17982)|null|
+|**2025-05-23**|**T2I-Eval-R1: Reinforcement Learning-Driven Reasoning for Interpretable Text-to-Image Evaluation**|Zi-Ao Ma et.al.|[2505.17897](http://arxiv.org/abs/2505.17897)|null|
+|**2025-05-23**|**Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities**|Ziwei Zhou et.al.|[2505.17862](http://arxiv.org/abs/2505.17862)|**[link](https://github.com/lliar-liar/daily-omni)**|
+|**2025-05-23**|**Slot-MLLM: Object-Centric Visual Tokenization for Multimodal LLM**|Donghwan Chi et.al.|[2505.17726](http://arxiv.org/abs/2505.17726)|null|
+|**2025-05-23**|**HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning**|Chuhao Zhou et.al.|[2505.17645](http://arxiv.org/abs/2505.17645)|null|
+|**2025-05-23**|**RoHyDR: Robust Hybrid Diffusion Recovery for Incomplete Multimodal Emotion Recognition**|Yuehan Jin et.al.|[2505.17501](http://arxiv.org/abs/2505.17501)|null|
+|**2025-05-23**|**The Coherence Trap: When MLLM-Crafted Narratives Exploit Manipulated Visual Contexts**|Yuchen Zhang et.al.|[2505.17476](http://arxiv.org/abs/2505.17476)|null|
+|**2025-05-23**|**FinRAGBench-V: A Benchmark for Multimodal RAG with Visual Citation in the Financial Domain**|Suifeng Zhao et.al.|[2505.17471](http://arxiv.org/abs/2505.17471)|null|
+|**2025-05-23**|**FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow**|Haoyu Sun et.al.|[2505.17399](http://arxiv.org/abs/2505.17399)|null|
+|**2025-05-23**|**Chart-to-Experience: Benchmarking Multimodal LLMs for Predicting Experiential Impact of Charts**|Seon Gyeom Kim et.al.|[2505.17374](http://arxiv.org/abs/2505.17374)|null|
 |**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**|Kaixuan Fan et.al.|[2505.17018](http://arxiv.org/abs/2505.17018)|**[link](https://github.com/kxfan2002/sophiavl-r1)**|
@@ -2380,6 +2397,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders**|Savya Khosla et.al.|[2505.18153](http://arxiv.org/abs/2505.18153)|null|
+|**2025-05-23**|**Frankentext: Stitching random text fragments into long-form narratives**|Chau Minh Pham et.al.|[2505.18128](http://arxiv.org/abs/2505.18128)|null|
+|**2025-05-23**|**Instructify: Demystifying Metadata to Visual Instruction Tuning Data Conversion**|Jacob Hansen et.al.|[2505.18115](http://arxiv.org/abs/2505.18115)|null|
+|**2025-05-23**|**Planning without Search: Refining Frontier LLMs with Offline Goal-Conditioned RL**|Joey Hong et.al.|[2505.18098](http://arxiv.org/abs/2505.18098)|null|
+|**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097](http://arxiv.org/abs/2505.18097)|null|
+|**2025-05-23**|**Assessing the performance of 8 AI chatbots in bibliographic reference retrieval: Grok and DeepSeek outperform ChatGPT, but none are fully accurate**|Álvaro Cabezas-Clavijo et.al.|[2505.18059](http://arxiv.org/abs/2505.18059)|null|
+|**2025-05-23**|**FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation**|Zherui Zhang et.al.|[2505.18053](http://arxiv.org/abs/2505.18053)|null|
+|**2025-05-23**|**Structured Thinking Matters: Improving LLMs Generalization in Causal Inference Tasks**|Wentao Sun et.al.|[2505.18034](http://arxiv.org/abs/2505.18034)|null|
+|**2025-05-23**|**LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System**|Rashmi Gupta et.al.|[2505.18019](http://arxiv.org/abs/2505.18019)|null|
+|**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994](http://arxiv.org/abs/2505.17994)|null|
 |**2025-05-22**|**GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning**|Chengqi Duan et.al.|[2505.17022](http://arxiv.org/abs/2505.17022)|**[link](https://github.com/gogoduan/got-r1)**|
 |**2025-05-22**|**Let Androids Dream of Electric Sheep: A Human-like Image Implication Understanding and Reasoning Framework**|Chenhao Zhang et.al.|[2505.17019](http://arxiv.org/abs/2505.17019)|**[link](https://github.com/ming-zch/let-androids-dream-of-electric-sheep)**|
 |**2025-05-22**|**When Are Concepts Erased From Diffusion Models?**|Kevin Lu et.al.|[2505.17013](http://arxiv.org/abs/2505.17013)|null|
