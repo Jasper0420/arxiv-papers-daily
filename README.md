@@ -22,6 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834](http://arxiv.org/abs/2505.20834)|null|
 |**2025-05-26**|**Progressive Scaling Visual Object Tracking**|Jack Hong et.al.|[2505.19990](http://arxiv.org/abs/2505.19990)|null|
 |**2025-05-26**|**Systems of Twinned Systems: A Systematic Literature Review**|Feyi Adesanya et.al.|[2505.19916](http://arxiv.org/abs/2505.19916)|null|
 |**2025-05-26**|**Comparison of Polar Magnetic Fields Derived from MILOS and MERLIN Inversions with Hinode/SOT-SP Data**|Masahito Kubo et.al.|[2505.19468](http://arxiv.org/abs/2505.19468)|null|
@@ -185,6 +186,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting**|Yizhou Zhao et.al.|[2505.20582](http://arxiv.org/abs/2505.20582)|null|
 |**2025-05-27**|**EventEgoHands: Event-based Egocentric 3D Hand Mesh Reconstruction**|Ryosei Hara et.al.|[2505.19169](http://arxiv.org/abs/2505.19169)|null|
 |**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
 |**2025-05-22**|**V2V: Scaling Event-Based Vision through Efficient Video-to-Voxel Simulation**|Hanyue Lou et.al.|[2505.16797](http://arxiv.org/abs/2505.16797)|null|
@@ -390,6 +392,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Causality-Driven Infrared and Visible Image Fusion**|Linli Ma et.al.|[2505.20830](http://arxiv.org/abs/2505.20830)|null|
+|**2025-05-27**|**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**|Eric Xing et.al.|[2505.20764](http://arxiv.org/abs/2505.20764)|null|
+|**2025-05-27**|**See through the Dark: Learning Illumination-affined Representations for Nighttime Occupancy Prediction**|Yuan Wu et.al.|[2505.20641](http://arxiv.org/abs/2505.20641)|null|
+|**2025-05-26**|**PreP-OCR: A Complete Pipeline for Document Image Restoration and Enhanced OCR Accuracy**|Shuhao Guan et.al.|[2505.20429](http://arxiv.org/abs/2505.20429)|null|
+|**2025-05-26**|**Visualized Text-to-Image Retrieval**|Di Wu et.al.|[2505.20291](http://arxiv.org/abs/2505.20291)|null|
 |**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
 |**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
 |**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
@@ -1256,6 +1263,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**|Han Xiao et.al.|[2505.21496](http://arxiv.org/abs/2505.21496)|null|
+|**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457](http://arxiv.org/abs/2505.21457)|null|
+|**2025-05-27**|**AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs**|Xuanwen Ding et.al.|[2505.21389](http://arxiv.org/abs/2505.21389)|null|
+|**2025-05-27**|**Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?**|Junhao Cheng et.al.|[2505.21374](http://arxiv.org/abs/2505.21374)|null|
+|**2025-05-27**|**MME-VideoOCR: Evaluating OCR-Based Capabilities of Multimodal LLMs in Video Scenarios**|Yang Shi et.al.|[2505.21333](http://arxiv.org/abs/2505.21333)|null|
+|**2025-05-27**|**MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs**|Jiakang Yuan et.al.|[2505.21327](http://arxiv.org/abs/2505.21327)|null|
+|**2025-05-27**|**SOLIDGEO: Measuring Multimodal Spatial Math Reasoning in Solid Geometry**|Peijie Wang et.al.|[2505.21177](http://arxiv.org/abs/2505.21177)|null|
+|**2025-05-27**|**IKMo: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model**|Yang Zhao et.al.|[2505.21146](http://arxiv.org/abs/2505.21146)|null|
+|**2025-05-27**|**Uni3D-MoE: Scalable Multimodal 3D Scene Understanding via Mixture of Experts**|Yue Zhang et.al.|[2505.21079](http://arxiv.org/abs/2505.21079)|null|
 |**2025-05-27**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
 |**2025-05-26**|**FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities**|Jin Wang et.al.|[2505.20147](http://arxiv.org/abs/2505.20147)|null|
 |**2025-05-26**|**Multimodal LLM-Guided Semantic Correction in Text-to-Image Diffusion**|Zheqi Lv et.al.|[2505.20053](http://arxiv.org/abs/2505.20053)|null|
@@ -2439,6 +2456,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Be Decisive: Noise-Induced Layouts for Multi-Subject Generation**|Omer Dahary et.al.|[2505.21488](http://arxiv.org/abs/2505.21488)|null|
+|**2025-05-27**|**Policy Optimized Text-to-Image Pipeline Design**|Uri Gadot et.al.|[2505.21478](http://arxiv.org/abs/2505.21478)|null|
+|**2025-05-27**|**Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion**|Zhanqiu Hu et.al.|[2505.21467](http://arxiv.org/abs/2505.21467)|null|
+|**2025-05-27**|**Do LLMs Need to Think in One Language? Correlation between Latent Language and Task Performance**|Shintaro Ozaki et.al.|[2505.21458](http://arxiv.org/abs/2505.21458)|null|
+|**2025-05-27**|**Visual Product Graph: Bridging Visual Products And Composite Images For End-to-End Style Recommendations**|Yue Li Du et.al.|[2505.21454](http://arxiv.org/abs/2505.21454)|null|
+|**2025-05-27**|**Policy Induction: Predicting Startup Success via Explainable Memory-Augmented In-Context Learning**|Xianling Mu et.al.|[2505.21427](http://arxiv.org/abs/2505.21427)|null|
+|**2025-05-27**|**A Physics-Augmented GraphGPS Framework for the Reconstruction of 3D Riemann Problems from Sparse Data**|Rami Cassia et.al.|[2505.21421](http://arxiv.org/abs/2505.21421)|null|
+|**2025-05-27**|**DecisionFlow: Advancing Large Language Model as Principled Decision Maker**|Xiusi Chen et.al.|[2505.21397](http://arxiv.org/abs/2505.21397)|null|
+|**2025-05-27**|**Square $χ$PO: Differentially Private and Robust $χ^2$ -Preference Optimization in Offline Direct Alignment**|Xingyu Zhou et.al.|[2505.21395](http://arxiv.org/abs/2505.21395)|null|
+|**2025-05-27**|**Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits**|Maoli Liu et.al.|[2505.21393](http://arxiv.org/abs/2505.21393)|null|
 |**2025-05-26**|**Seeing is Believing, but How Much? A Comprehensive Analysis of Verbalized Calibration in Vision-Language Models**|Weihao Xuan et.al.|[2505.20236](http://arxiv.org/abs/2505.20236)|null|
 |**2025-05-26**|**The Mirage of Multimodality: Where Truth is Tested and Honesty Unravels**|Jiaming Ji et.al.|[2505.20214](http://arxiv.org/abs/2505.20214)|null|
 |**2025-05-26**|**Parameter-Efficient Fine-Tuning with Column Space Projection**|Junseo Hwang et.al.|[2505.20211](http://arxiv.org/abs/2505.20211)|null|
