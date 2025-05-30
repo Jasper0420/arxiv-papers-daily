@@ -22,6 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Nanoscale quantum imaging of field-free deterministic switching of a chiral antiferromagnet**|Jingcheng Zhou et.al.|[2505.22856](http://arxiv.org/abs/2505.22856)|null|
 |**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834](http://arxiv.org/abs/2505.20834)|null|
 |**2025-05-28**|**Progressive Scaling Visual Object Tracking**|Jack Hong et.al.|[2505.19990](http://arxiv.org/abs/2505.19990)|null|
 |**2025-05-26**|**Systems of Twinned Systems: A Systematic Literature Review**|Feyi Adesanya et.al.|[2505.19916](http://arxiv.org/abs/2505.19916)|**[link](https://github.com/ssm-lab/system-of-twinned-systems-replication-package)**|
@@ -186,6 +187,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals**|Yanbin Wang et.al.|[2505.23454](http://arxiv.org/abs/2505.23454)|null|
+|**2025-05-29**|**iHDR: Iterative HDR Imaging with Arbitrary Number of Exposures**|Yu Yuan et.al.|[2505.22971](http://arxiv.org/abs/2505.22971)|null|
 |**2025-05-27**|**HDRSDR-VQA: A Subjective Video Quality Dataset for HDR and SDR Comparative Evaluation**|Bowen Chen et.al.|[2505.21831](http://arxiv.org/abs/2505.21831)|null|
 |**2025-05-26**|**Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting**|Yizhou Zhao et.al.|[2505.20582](http://arxiv.org/abs/2505.20582)|null|
 |**2025-05-28**|**EventEgoHands: Event-based Egocentric 3D Hand Mesh Reconstruction**|Ryosei Hara et.al.|[2505.19169](http://arxiv.org/abs/2505.19169)|null|
@@ -393,6 +396,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
+|**2025-05-29**|**Proximal Algorithm Unrolling: Flexible and Efficient Reconstruction Networks for Single-Pixel Imaging**|Ping Wang et.al.|[2505.23180](http://arxiv.org/abs/2505.23180)|null|
+|**2025-05-29**|**CURVE: CLIP-Utilized Reinforcement Learning for Visual Image Enhancement via Simple Image Processing**|Yuka Ogino et.al.|[2505.23102](http://arxiv.org/abs/2505.23102)|null|
+|**2025-05-29**|**URWKV: Unified RWKV Model with Multi-state Perspective for Low-light Image Restoration**|Rui Xu et.al.|[2505.23068](http://arxiv.org/abs/2505.23068)|null|
+|**2025-05-29**|**Vision-Based Assistive Technologies for People with Cerebral Visual Impairment: A Review and Focus Study**|Bhanuka Gamage et.al.|[2505.22983](http://arxiv.org/abs/2505.22983)|null|
+|**2025-05-29**|**EquiReg: Equivariance Regularized Diffusion for Inverse Problems**|Bahareh Tolooshams et.al.|[2505.22973](http://arxiv.org/abs/2505.22973)|null|
 |**2025-05-28**|**From Controlled Scenarios to Real-World: Cross-Domain Degradation Pattern Matching for All-in-One Image Restoration**|Junyu Fan et.al.|[2505.22284](http://arxiv.org/abs/2505.22284)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
@@ -1273,6 +1282,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
+|**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
+|**2025-05-29**|**Spatial-MLLM: Boosting MLLM Capabilities in Visual-based Spatial Intelligence**|Diankun Wu et.al.|[2505.23747](http://arxiv.org/abs/2505.23747)|null|
+|**2025-05-29**|**PixelThink: Towards Efficient Chain-of-Pixel Reasoning**|Song Wang et.al.|[2505.23727](http://arxiv.org/abs/2505.23727)|null|
+|**2025-05-29**|**VF-Eval: Evaluating Multimodal LLMs for Generating Feedback on AIGC Videos**|Tingyu Song et.al.|[2505.23693](http://arxiv.org/abs/2505.23693)|null|
+|**2025-05-29**|**Human Empathy as Encoder: AI-Assisted Depression Assessment in Special Education**|Boning Zhao et.al.|[2505.23631](http://arxiv.org/abs/2505.23631)|null|
+|**2025-05-29**|**A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**|Shengyuan Liu et.al.|[2505.23601](http://arxiv.org/abs/2505.23601)|null|
+|**2025-05-29**|**MAPLE: A Mobile Assistant with Persistent Finite State Machines for Recovery Reasoning**|Linqiang Guo et.al.|[2505.23596](http://arxiv.org/abs/2505.23596)|null|
+|**2025-05-29**|**Jigsaw-R1: A Study of Rule-based Visual Reinforcement Learning with Jigsaw Puzzles**|Zifu Wang et.al.|[2505.23590](http://arxiv.org/abs/2505.23590)|null|
+|**2025-05-29**|**OmniEarth-Bench: Towards Holistic Evaluation of Earth's Six Spheres and Cross-Spheres Interactions with Multimodal Observational Earth Data**|Fengxiang Wang et.al.|[2505.23522](http://arxiv.org/abs/2505.23522)|null|
 |**2025-05-28**|**Spatial Knowledge Graph-Guided Multimodal Synthesis**|Yida Xue et.al.|[2505.22633](http://arxiv.org/abs/2505.22633)|null|
 |**2025-05-28**|**RICO: Improving Accuracy and Completeness in Image Recaptioning via Visual Reconstruction**|Yuchi Wang et.al.|[2505.22613](http://arxiv.org/abs/2505.22613)|null|
 |**2025-05-28**|**Multi-MLLM Knowledge Distillation for Out-of-Context News Detection**|Yimeng Gu et.al.|[2505.22517](http://arxiv.org/abs/2505.22517)|null|
@@ -2476,6 +2495,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**LoRAShop: Training-Free Multi-Concept Image Generation and Editing with Rectified Flow Transformers**|Yusuf Dalva et.al.|[2505.23758](http://arxiv.org/abs/2505.23758)|null|
+|**2025-05-29**|**MAGREF: Masked Guidance for Any-Reference Video Generation**|Yufan Deng et.al.|[2505.23742](http://arxiv.org/abs/2505.23742)|null|
+|**2025-05-29**|**How Animals Dance (When You're Not Looking)**|Xiaojuan Wang et.al.|[2505.23738](http://arxiv.org/abs/2505.23738)|null|
+|**2025-05-29**|**EmotionRankCLAP: Bridging Natural Language Speaking Styles and Ordinal Speech Emotion via Rank-N-Contrast**|Shreeram Suresh Chandra et.al.|[2505.23732](http://arxiv.org/abs/2505.23732)|null|
+|**2025-05-29**|**SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via Subspace-Constrained LoRA**|Minrui Luo et.al.|[2505.23724](http://arxiv.org/abs/2505.23724)|null|
+|**2025-05-29**|**ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering**|Zexi Liu et.al.|[2505.23723](http://arxiv.org/abs/2505.23723)|null|
+|**2025-05-29**|**Label-Guided In-Context Learning for Named Entity Recognition**|Fan Bai et.al.|[2505.23722](http://arxiv.org/abs/2505.23722)|null|
+|**2025-05-29**|**COBRA: Contextual Bandit Algorithm for Ensuring Truthful Strategic Agents**|Arun Verma et.al.|[2505.23720](http://arxiv.org/abs/2505.23720)|null|
+|**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719](http://arxiv.org/abs/2505.23719)|null|
+|**2025-05-29**|**Don't Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models**|Jinzhe Li et.al.|[2505.23715](http://arxiv.org/abs/2505.23715)|null|
 |**2025-05-28**|**GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning**|Qingchen Yu et.al.|[2505.22661](http://arxiv.org/abs/2505.22661)|null|
 |**2025-05-28**|**Characterizing Bias: Benchmarking Large Language Models in Simplified versus Traditional Chinese**|Hanjia Lyu et.al.|[2505.22645](http://arxiv.org/abs/2505.22645)|null|
 |**2025-05-28**|**Understanding (Un)Reliability of Steering Vectors in Language Models**|Joschka Braun et.al.|[2505.22637](http://arxiv.org/abs/2505.22637)|null|
