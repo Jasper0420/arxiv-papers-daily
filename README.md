@@ -188,6 +188,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444](http://arxiv.org/abs/2506.04444)|**[link](https://github.com/facebookresearch/egocentric_splats)**|
 |**2025-06-04**|**GRAVITY+ adaptive optics (GPAO) tests in Europe**|Florentin Millour et.al.|[2506.03721](http://arxiv.org/abs/2506.03721)|null|
 |**2025-06-03**|**IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation**|Yuanze Lin et.al.|[2506.03150](http://arxiv.org/abs/2506.03150)|null|
 |**2025-05-29**|**LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals**|Yanbin Wang et.al.|[2505.23454](http://arxiv.org/abs/2505.23454)|null|
@@ -399,6 +400,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**SeedVR2: One-Step Video Restoration via Diffusion Adversarial Post-Training**|Jianyi Wang et.al.|[2506.05301](http://arxiv.org/abs/2506.05301)|null|
+|**2025-06-05**|**Physics Informed Capsule Enhanced Variational AutoEncoder for Underwater Image Enhancement**|Niki Martinel et.al.|[2506.04753](http://arxiv.org/abs/2506.04753)|null|
+|**2025-06-04**|**A Poisson-Guided Decomposition Network for Extreme Low-Light Image Enhancement**|Isha Rao et.al.|[2506.04470](http://arxiv.org/abs/2506.04470)|null|
 |**2025-06-04**|**WIFE-Fusion:Wavelet-aware Intra-inter Frequency Enhancement for Multi-model Image Fusion**|Tianpei Zhang et.al.|[2506.03555](http://arxiv.org/abs/2506.03555)|null|
 |**2025-06-03**|**NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**|Xiaohong Liu et.al.|[2506.02875](http://arxiv.org/abs/2506.02875)|null|
 |**2025-06-03**|**ControlMambaIR: Conditional Controls with State-Space Model for Image Restoration**|Cheng Yang et.al.|[2506.02633](http://arxiv.org/abs/2506.02633)|null|
@@ -1197,6 +1201,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-28**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
@@ -1300,6 +1306,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
+|**2025-06-05**|**AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs**|Lidong Lu et.al.|[2506.05328](http://arxiv.org/abs/2506.05328)|null|
+|**2025-06-05**|**EOC-Bench: Can MLLMs Identify, Recall, and Forecast Objects in an Egocentric World?**|Yuqian Yuan et.al.|[2506.05287](http://arxiv.org/abs/2506.05287)|null|
+|**2025-06-05**|**MokA: Multimodal Low-Rank Adaptation for MLLMs**|Yake Wei et.al.|[2506.05191](http://arxiv.org/abs/2506.05191)|null|
+|**2025-06-05**|**On the Comprehensibility of Multi-structured Financial Documents using LLMs and Pre-processing Tools**|Shivani Upadhyay et.al.|[2506.05182](http://arxiv.org/abs/2506.05182)|null|
+|**2025-06-05**|**The NTNU System at the S&I Challenge 2025 SLA Open Track**|Hong-Yun Lin et.al.|[2506.05121](http://arxiv.org/abs/2506.05121)|null|
+|**2025-06-05**|**FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis**|Wenyan Xu et.al.|[2506.05019](http://arxiv.org/abs/2506.05019)|null|
+|**2025-06-05**|**TextVidBench: A Benchmark for Long Video Scene Text Understanding**|Yangyang Zhong et.al.|[2506.04983](http://arxiv.org/abs/2506.04983)|null|
+|**2025-06-05**|**APVR: Hour-Level Long Video Understanding with Adaptive Pivot Visual Information Retrieval**|Hong Gao et.al.|[2506.04953](http://arxiv.org/abs/2506.04953)|null|
+|**2025-06-05**|**From Objects to Anywhere: A Holistic Benchmark for Multi-level Visual Grounding in 3D Scenes**|Tianxu Wang et.al.|[2506.04897](http://arxiv.org/abs/2506.04897)|null|
 |**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
 |**2025-06-04**|**MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos**|Kejian Zhu et.al.|[2506.04141](http://arxiv.org/abs/2506.04141)|null|
 |**2025-06-04**|**Multimodal Tabular Reasoning with Privileged Structured Information**|Jun-Peng Jiang et.al.|[2506.04088](http://arxiv.org/abs/2506.04088)|null|
@@ -2543,6 +2559,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos**|Hanoona Rasheed et.al.|[2506.05349](http://arxiv.org/abs/2506.05349)|null|
+|**2025-06-05**|**ContentV: Efficient Training of Video Generation Models with Limited Compute**|Wenfeng Lin et.al.|[2506.05343](http://arxiv.org/abs/2506.05343)|null|
+|**2025-06-05**|**Refer to Anything with Vision-Language Prompts**|Shengcao Cao et.al.|[2506.05342](http://arxiv.org/abs/2506.05342)|null|
+|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|null|
+|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305](http://arxiv.org/abs/2506.05305)|null|
+|**2025-06-05**|**Power Law Guided Dynamic Sifting for Efficient Attention**|Nirav Koley et.al.|[2506.05300](http://arxiv.org/abs/2506.05300)|null|
+|**2025-06-05**|**Stable Vision Concept Transformers for Medical Diagnosis**|Lijie Hu et.al.|[2506.05286](http://arxiv.org/abs/2506.05286)|null|
+|**2025-06-05**|**Video World Models with Long-term Spatial Memory**|Tong Wu et.al.|[2506.05284](http://arxiv.org/abs/2506.05284)|null|
+|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274](http://arxiv.org/abs/2506.05274)|null|
+|**2025-06-05**|**Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties Reinforcement Learning**|Violet Xiang et.al.|[2506.05256](http://arxiv.org/abs/2506.05256)|null|
 |**2025-06-04**|**LayerFlow: A Unified Model for Layer-aware Video Generation**|Sihui Ji et.al.|[2506.04228](http://arxiv.org/abs/2506.04228)|null|
 |**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220](http://arxiv.org/abs/2506.04220)|null|
 |**2025-06-04**|**Does Thinking More always Help? Understanding Test-Time Scaling in Reasoning Models**|Soumya Suvra Ghosal et.al.|[2506.04210](http://arxiv.org/abs/2506.04210)|null|
