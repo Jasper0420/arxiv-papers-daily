@@ -390,6 +390,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Beyond Calibration: Physically Informed Learning for Raw-to-Raw Mapping**|Peter Grönquist et.al.|[2506.08650](http://arxiv.org/abs/2506.08650)|null|
 |**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
 |**2025-06-09**|**Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods**|Beining Xu et.al.|[2506.07779](http://arxiv.org/abs/2506.07779)|null|
@@ -1306,6 +1307,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models**|Amina Mollaysa et.al.|[2506.08936](http://arxiv.org/abs/2506.08936)|null|
+|**2025-06-10**|**What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities**|Wendong Bu et.al.|[2506.08933](http://arxiv.org/abs/2506.08933)|null|
+|**2025-06-10**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion: A Study on the Impact of CBCT Quality and Alignment**|Maximilian Tschuchnig et.al.|[2506.08716](http://arxiv.org/abs/2506.08716)|null|
+|**2025-06-10**|**From Pixels to Graphs: using Scene and Knowledge Graphs for HD-EPIC VQA Challenge**|Agnese Taluzzi et.al.|[2506.08553](http://arxiv.org/abs/2506.08553)|null|
+|**2025-06-09**|**Serendipitous Recommendation with Multimodal LLM**|Haoting Wang et.al.|[2506.08283](http://arxiv.org/abs/2506.08283)|null|
+|**2025-06-09**|**Instruction-Tuned Video-Audio Models Elucidate Functional Specialization in the Brain**|Subba Reddy Oota et.al.|[2506.08277](http://arxiv.org/abs/2506.08277)|null|
 |**2025-06-09**|**GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior**|Penghao Wu et.al.|[2506.08012](http://arxiv.org/abs/2506.08012)|null|
 |**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-09**|**CyberV: Cybernetics for Test-time Scaling in Video Understanding**|Jiahao Meng et.al.|[2506.07971](http://arxiv.org/abs/2506.07971)|null|
@@ -2575,6 +2582,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Understanding Task Vectors in In-Context Learning: Emergence, Functionality, and Limitations**|Yuxin Dong et.al.|[2506.09048](http://arxiv.org/abs/2506.09048)|null|
+|**2025-06-10**|**Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual Backpropagation**|Xiaowen Ma et.al.|[2506.09046](http://arxiv.org/abs/2506.09046)|null|
+|**2025-06-10**|**MagCache: Fast Video Generation with Magnitude-Aware Cache**|Zehong Ma et.al.|[2506.09045](http://arxiv.org/abs/2506.09045)|null|
+|**2025-06-10**|**AbstentionBench: Reasoning LLMs Fail on Unanswerable Questions**|Polina Kirichenko et.al.|[2506.09038](http://arxiv.org/abs/2506.09038)|null|
+|**2025-06-10**|**Comparing human and LLM proofreading in L2 writing: Impact on lexical and syntactic features**|Hakyung Sung et.al.|[2506.09021](http://arxiv.org/abs/2506.09021)|null|
+|**2025-06-10**|**SPEED-RL: Faster Training of Reasoning Models via Online Curriculum Learning**|Ruiqi Zhang et.al.|[2506.09016](http://arxiv.org/abs/2506.09016)|null|
+|**2025-06-10**|**Boosting Rust Unit Test Coverage through Hybrid Program Analysis and Large Language Models**|Bei Chu et.al.|[2506.09002](http://arxiv.org/abs/2506.09002)|null|
+|**2025-06-10**|**Do Concept Replacement Techniques Really Erase Unacceptable Concepts?**|Anudeep Das et.al.|[2506.08991](http://arxiv.org/abs/2506.08991)|null|
+|**2025-06-10**|**ADAM: Autonomous Discovery and Annotation Model using LLMs for Context-Aware Annotations**|Amirreza Rouhi et.al.|[2506.08968](http://arxiv.org/abs/2506.08968)|null|
+|**2025-06-10**|**WIP: Large Language Model-Enhanced Smart Tutor for Undergraduate Circuit Analysis**|Liangliang Chen et.al.|[2506.08962](http://arxiv.org/abs/2506.08962)|null|
 |**2025-06-09**|**Hidden in plain sight: VLMs overlook their visual representations**|Stephanie Fu et.al.|[2506.08008](http://arxiv.org/abs/2506.08008)|null|
 |**2025-06-09**|**PairEdit: Learning Semantic Variations for Exemplar-based Image Editing**|Haoguang Lu et.al.|[2506.07992](http://arxiv.org/abs/2506.07992)|null|
 |**2025-06-09**|**Rethinking Cross-Modal Interaction in Multimodal Diffusion Transformers**|Zhengyao Lv et.al.|[2506.07986](http://arxiv.org/abs/2506.07986)|null|
