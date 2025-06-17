@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.16</span>
+# Updated on <span style='color:orange;'>2025.06.17</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -396,8 +396,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-10**|**Adaptive Object Detection with ESRGAN-Enhanced Resolution & Faster R-CNN**|Divya Swetha K et.al.|[2506.11122](http://arxiv.org/abs/2506.11122)|null|
-|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|null|
-|**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|null|
+|**2025-06-12**|**FSATFusion: Frequency-Spatial Attention Transformer for Infrared and Visible Image Fusion**|Tianpei Zhang et.al.|[2506.10366](http://arxiv.org/abs/2506.10366)|**[link](https://github.com/lmmh058/fsatfusion)**|
+|**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|**[link](https://github.com/adobe-research/polar-vl)**|
 |**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
 |**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
@@ -1321,7 +1321,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991](http://arxiv.org/abs/2506.11991)|null|
+|**2025-06-16**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991](http://arxiv.org/abs/2506.11991)|null|
 |**2025-06-13**|**Are Multimodal Large Language Models Pragmatically Competent Listeners in Simple Reference Resolution Tasks?**|Simeon Junker et.al.|[2506.11807](http://arxiv.org/abs/2506.11807)|null|
 |**2025-06-13**|**Mitigating Hallucination Through Theory-Consistent Symmetric Multimodal Preference Optimization**|Wenqi Liu et.al.|[2506.11712](http://arxiv.org/abs/2506.11712)|null|
 |**2025-06-13**|**Dynamic Mixture of Curriculum LoRA Experts for Continual Multimodal Instruction Tuning**|Chendi Ge et.al.|[2506.11672](http://arxiv.org/abs/2506.11672)|null|
