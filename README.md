@@ -22,6 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Improving Practical Aspects of End-to-End Multi-Talker Speech Recognition for Online and Offline Scenarios**|Aswin Shanmugam Subramanian et.al.|[2506.14204](http://arxiv.org/abs/2506.14204)|null|
 |**2025-06-15**|**Learning Unpaired Image Dehazing with Physics-based Rehazy Generation**|Haoyou Deng et.al.|[2506.12824](http://arxiv.org/abs/2506.12824)|null|
 |**2025-06-15**|**SC-SOT: Conditioning the Decoder on Diarized Speaker Information for End-to-End Overlapped Speech Recognition**|Yuta Hirano et.al.|[2506.12672](http://arxiv.org/abs/2506.12672)|null|
 |**2025-06-12**|**Joint ASR and Speaker Role Tagging with Serialized Output Training**|Anfeng Xu et.al.|[2506.10349](http://arxiv.org/abs/2506.10349)|null|
@@ -409,6 +410,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
+|**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
+|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|null|
+|**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
+|**2025-06-17**|**GrFormer: A Novel Transformer on Grassmann Manifold for Infrared and Visible Image Fusion**|Huan Kang et.al.|[2506.14384](http://arxiv.org/abs/2506.14384)|null|
+|**2025-06-16**|**DREAM: On hallucinations in AI-generated content for nuclear medicine imaging**|Menghua Xia et.al.|[2506.13995](http://arxiv.org/abs/2506.13995)|null|
 |**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733](http://arxiv.org/abs/2506.13733)|null|
 |**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
@@ -1349,6 +1356,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/abs/2506.14766)|null|
+|**2025-06-17**|**Exploring MLLMs Perception of Network Visualization Principles**|Jacob Miller et.al.|[2506.14611](http://arxiv.org/abs/2506.14611)|null|
+|**2025-06-17**|**M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2506.14532](http://arxiv.org/abs/2506.14532)|null|
+|**2025-06-17**|**LingoLoop Attack: Trapping MLLMs via Linguistic Context and State Entrapment into Endless Loops**|Jiyuan Fu et.al.|[2506.14493](http://arxiv.org/abs/2506.14493)|null|
+|**2025-06-17**|**GUI-Robust: A Comprehensive Dataset for Testing GUI Agent Robustness in Real-World Anomalies**|Jingqi Yang et.al.|[2506.14477](http://arxiv.org/abs/2506.14477)|null|
+|**2025-06-17**|**Dense360: Dense Understanding from Omnidirectional Panoramas**|Yikang Zhou et.al.|[2506.14471](http://arxiv.org/abs/2506.14471)|null|
+|**2025-06-17**|**Vela: Scalable Embeddings with Voice Large Language Models for Multimodal Retrieval**|Ruofan Hu et.al.|[2506.14445](http://arxiv.org/abs/2506.14445)|null|
+|**2025-06-17**|**From Black Boxes to Transparent Minds: Evaluating and Enhancing the Theory of Mind in Multimodal Large Language Models**|Xinyang Li et.al.|[2506.14224](http://arxiv.org/abs/2506.14224)|null|
+|**2025-06-17**|**A multi-stage augmented multimodal interaction network for fish feeding intensity quantification**|Shulong Zhang et.al.|[2506.14170](http://arxiv.org/abs/2506.14170)|null|
+|**2025-06-17**|**SceneAware: Scene-Constrained Pedestrian Trajectory Prediction with LLM-Guided Walkability**|Juho Bai et.al.|[2506.14144](http://arxiv.org/abs/2506.14144)|null|
 |**2025-06-16**|**Discrete Diffusion in Large Language and Multimodal Models: A Survey**|Runpeng Yu et.al.|[2506.13759](http://arxiv.org/abs/2506.13759)|null|
 |**2025-06-16**|**TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning**|Junru Zhang et.al.|[2506.13705](http://arxiv.org/abs/2506.13705)|null|
 |**2025-06-16**|**DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models**|Yunnong Chen et.al.|[2506.13663](http://arxiv.org/abs/2506.13663)|null|
@@ -2661,6 +2678,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**|Chengyuan Zhang et.al.|[2506.14762](http://arxiv.org/abs/2506.14762)|null|
+|**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753](http://arxiv.org/abs/2506.14753)|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
+|**2025-06-17**|**Procedural Knowledge Libraries: Towards Executable (Research) Memory**|Hamidah Oderinwale et.al.|[2506.14715](http://arxiv.org/abs/2506.14715)|null|
+|**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709](http://arxiv.org/abs/2506.14709)|null|
+|**2025-06-17**|**Treasure Hunt: Real-time Targeting of the Long Tail using Training-Time Markers**|Daniel D'souza et.al.|[2506.14702](http://arxiv.org/abs/2506.14702)|null|
+|**2025-06-17**|**FocalClick-XL: Towards Unified and High-quality Interactive Segmentation**|Xi Chen et.al.|[2506.14686](http://arxiv.org/abs/2506.14686)|null|
+|**2025-06-17**|**AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models**|Ads Dawson et.al.|[2506.14682](http://arxiv.org/abs/2506.14682)|null|
+|**2025-06-17**|**StreetLens: Enabling Human-Centered AI Agents for Neighborhood Assessment from Street View Imagery**|Jina Kim et.al.|[2506.14670](http://arxiv.org/abs/2506.14670)|null|
+|**2025-06-17**|**GuiLoMo: Allocating Expert Number and Rank for LoRA-MoE via Bilevel Optimization with GuidedSelection Vectors**|Hengyuan Zhang et.al.|[2506.14646](http://arxiv.org/abs/2506.14646)|null|
 |**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
 |**2025-06-16**|**ExtendAttack: Attacking Servers of LRMs via Extending Reasoning**|Zhenhao Zhu et.al.|[2506.13737](http://arxiv.org/abs/2506.13737)|null|
 |**2025-06-16**|**Instruction Following by Boosting Attention of Large Language Models**|Vitoria Guardieiro et.al.|[2506.13734](http://arxiv.org/abs/2506.13734)|null|
