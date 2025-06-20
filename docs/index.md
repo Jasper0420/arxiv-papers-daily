@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.19</span>
+# Updated on <span style='color:orange;'>2025.06.20</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**SOT Enabled 3D Magnetic Field Sensor with Low Offset and High Sensitivity**|Sebastian Zeilinger et.al.|[2506.15320](http://arxiv.org/abs/2506.15320)|null|
 |**2025-06-17**|**Improving Practical Aspects of End-to-End Multi-Talker Speech Recognition for Online and Offline Scenarios**|Aswin Shanmugam Subramanian et.al.|[2506.14204](http://arxiv.org/abs/2506.14204)|null|
 |**2025-06-15**|**Learning Unpaired Image Dehazing with Physics-based Rehazy Generation**|Haoyou Deng et.al.|[2506.12824](http://arxiv.org/abs/2506.12824)|null|
 |**2025-06-15**|**SC-SOT: Conditioning the Decoder on Diarized Speaker Information for End-to-End Overlapped Speech Recognition**|Yuta Hirano et.al.|[2506.12672](http://arxiv.org/abs/2506.12672)|null|
@@ -398,6 +399,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|null|
+|**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
 |**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
 |**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|null|
@@ -1232,6 +1235,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
@@ -1241,7 +1245,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-06-05**|**Universal Domain Adaptation for Semantic Segmentation**|Seun-An Choe et.al.|[2505.22458](http://arxiv.org/abs/2505.22458)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
@@ -1340,6 +1344,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
+|**2025-06-18**|**Creating User-steerable Projections with Interactive Semantic Mapping**|Artur André Oliveira et.al.|[2506.15479](http://arxiv.org/abs/2506.15479)|null|
+|**2025-06-18**|**Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning**|Chunlei Li et.al.|[2506.15477](http://arxiv.org/abs/2506.15477)|null|
+|**2025-06-18**|**Understanding GUI Agent Localization Biases through Logit Sharpness**|Xingjian Tao et.al.|[2506.15425](http://arxiv.org/abs/2506.15425)|null|
+|**2025-06-18**|**MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering**|Xinqi Fan et.al.|[2506.15298](http://arxiv.org/abs/2506.15298)|null|
+|**2025-06-18**|**From LLMs to MLLMs to Agents: A Survey of Emerging Paradigms in Jailbreak Attacks and Defenses within LLM Ecosystem**|Yanxu Mao et.al.|[2506.15170](http://arxiv.org/abs/2506.15170)|null|
 |**2025-06-17**|**ASCD: Attention-Steerable Contrastive Decoding for Reducing Hallucination in MLLM**|Yujun Wang et.al.|[2506.14766](http://arxiv.org/abs/2506.14766)|null|
 |**2025-06-17**|**Exploring MLLMs Perception of Network Visualization Principles**|Jacob Miller et.al.|[2506.14611](http://arxiv.org/abs/2506.14611)|null|
 |**2025-06-17**|**M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2506.14532](http://arxiv.org/abs/2506.14532)|null|
@@ -2660,6 +2670,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|null|
+|**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674](http://arxiv.org/abs/2506.15674)|null|
+|**2025-06-18**|**PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**|Wenhao Li et.al.|[2506.15656](http://arxiv.org/abs/2506.15656)|null|
+|**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
+|**2025-06-18**|**FindingDory: A Benchmark to Evaluate Memory in Embodied Agents**|Karmesh Yadav et.al.|[2506.15635](http://arxiv.org/abs/2506.15635)|null|
+|**2025-06-18**|**Revisiting Compositional Generalization Capability of Large Language Models Considering Instruction Following Ability**|Yusuke Sakai et.al.|[2506.15629](http://arxiv.org/abs/2506.15629)|null|
+|**2025-06-18**|**HOIDiNi: Human-Object Interaction through Diffusion Noise Optimization**|Roey Ron et.al.|[2506.15625](http://arxiv.org/abs/2506.15625)|null|
+|**2025-06-18**|**The Effect of State Representation on LLM Agent Behavior in Dynamic Routing Games**|Lyle Goodyear et.al.|[2506.15624](http://arxiv.org/abs/2506.15624)|null|
+|**2025-06-18**|**The Compositional Architecture of Regret in Large Language Models**|Xiangxiang Cui et.al.|[2506.15617](http://arxiv.org/abs/2506.15617)|null|
+|**2025-06-18**|**One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution**|Yujing Sun et.al.|[2506.15591](http://arxiv.org/abs/2506.15591)|null|
 |**2025-06-17**|**Markov Regime-Switching Intelligent Driver Model for Interpretable Car-Following Behavior**|Chengyuan Zhang et.al.|[2506.14762](http://arxiv.org/abs/2506.14762)|null|
 |**2025-06-17**|**Cost-Aware Routing for Efficient Text-To-Image Generation**|Qinchan et.al.|[2506.14753](http://arxiv.org/abs/2506.14753)|null|
 |**2025-06-18**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ling Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
