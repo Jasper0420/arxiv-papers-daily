@@ -195,6 +195,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**Seven-Probe Fiber Detector for Time-Resolved Source Tracking in HDR-Brachytherapy: Experimental Evaluation**|Mathieu Gonod et.al.|[2506.16124](http://arxiv.org/abs/2506.16124)|null|
 |**2025-06-14**|**Fine-Grained HDR Image Quality Assessment From Noticeably Distorted to Very High Fidelity**|Mohsen Jenadeleh et.al.|[2506.12505](http://arxiv.org/abs/2506.12505)|null|
 |**2025-06-13**|**Automated Treatment Planning for Interstitial HDR Brachytherapy for Locally Advanced Cervical Cancer using Deep Reinforcement Learning**|Mohammadamin Moradi et.al.|[2506.11957](http://arxiv.org/abs/2506.11957)|null|
 |**2025-06-11**|**Automatic Treatment Planning using Reinforcement Learning for High-dose-rate Prostate Brachytherapy**|Tonghe Wang et.al.|[2506.09805](http://arxiv.org/abs/2506.09805)|null|
@@ -411,6 +412,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Reversing Flow for Image Restoration**|Haina Qin et.al.|[2506.16961](http://arxiv.org/abs/2506.16961)|null|
+|**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960](http://arxiv.org/abs/2506.16960)|null|
+|**2025-06-20**|**Temperature calibration of surface emissivities with an improved thermal image enhancement network**|Ning Chu et.al.|[2506.16803](http://arxiv.org/abs/2506.16803)|null|
+|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
+|**2025-06-20**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|null|
+|**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
+|**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745](http://arxiv.org/abs/2506.16745)|null|
+|**2025-06-20**|**TeSG: Textual Semantic Guidance for Infrared and Visible Image Fusion**|Mingrui Zhu et.al.|[2506.16730](http://arxiv.org/abs/2506.16730)|null|
+|**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|null|
+|**2025-06-19**|**Fine-grained Image Retrieval via Dual-Vision Adaptation**|Xin Jiang et.al.|[2506.16273](http://arxiv.org/abs/2506.16273)|null|
 |**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|**[link](https://github.com/hedan-11/dm-fnet)**|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
@@ -1360,6 +1371,15 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**MUCAR: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models**|Xiaolong Wang et.al.|[2506.17046](http://arxiv.org/abs/2506.17046)|null|
+|**2025-06-20**|**MM-AttacKG: A Multimodal Approach to Attack Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2506.16968](http://arxiv.org/abs/2506.16968)|null|
+|**2025-06-20**|**Enhancing Step-by-Step and Verifiable Medical Reasoning in MLLMs**|Haoran Sun et.al.|[2506.16962](http://arxiv.org/abs/2506.16962)|null|
+|**2025-06-20**|**LAION-C: An Out-of-Distribution Benchmark for Web-Scale Vision Models**|Fanfei Li et.al.|[2506.16950](http://arxiv.org/abs/2506.16950)|null|
+|**2025-06-20**|**Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning**|Jiaqi Chen et.al.|[2506.16931](http://arxiv.org/abs/2506.16931)|null|
+|**2025-06-20**|**With Limited Data for Multimodal Alignment, Let the STRUCTURE Guide You**|Fabian Gröger et.al.|[2506.16895](http://arxiv.org/abs/2506.16895)|null|
+|**2025-06-20**|**IsoNet: Causal Analysis of Multimodal Transformers for Neuromuscular Gesture Classification**|Eion Tyacke et.al.|[2506.16744](http://arxiv.org/abs/2506.16744)|null|
+|**2025-06-19**|**How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?**|Giuseppe Lando et.al.|[2506.16450](http://arxiv.org/abs/2506.16450)|null|
+|**2025-06-19**|**GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning**|Yi Chen et.al.|[2506.16141](http://arxiv.org/abs/2506.16141)|null|
 |**2025-06-18**|**Demystifying the Visual Quality Paradox in Multimodal Large Language Models**|Shuo Xing et.al.|[2506.15645](http://arxiv.org/abs/2506.15645)|null|
 |**2025-06-18**|**Creating User-steerable Projections with Interactive Semantic Mapping**|Artur André Oliveira et.al.|[2506.15479](http://arxiv.org/abs/2506.15479)|null|
 |**2025-06-18**|**Multimodal Large Language Models for Medical Report Generation via Customized Prompt Tuning**|Chunlei Li et.al.|[2506.15477](http://arxiv.org/abs/2506.15477)|null|
@@ -2688,6 +2708,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
+|**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|null|
+|**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144](http://arxiv.org/abs/2506.17144)|null|
+|**2025-06-20**|**Acquiring and Accumulating Knowledge from Diverse Datasets for Multi-label Driving Scene Classification**|Ke Li et.al.|[2506.17101](http://arxiv.org/abs/2506.17101)|null|
+|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090](http://arxiv.org/abs/2506.17090)|null|
+|**2025-06-20**|**Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**|Jiahao Cheng et.al.|[2506.17088](http://arxiv.org/abs/2506.17088)|null|
+|**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|null|
+|**2025-06-20**|**Relaxed syntax modeling in Transformers for future-proof license plate recognition**|Florent Meyer et.al.|[2506.17051](http://arxiv.org/abs/2506.17051)|null|
+|**2025-06-20**|**The Hidden Cost of an Image: Quantifying the Energy Consumption of AI Image Generation**|Giulia Bertazzini et.al.|[2506.17016](http://arxiv.org/abs/2506.17016)|null|
+|**2025-06-20**|**LLM-Generated Feedback Supports Learning If Learners Choose to Use It**|Danielle R. Thomas et.al.|[2506.17006](http://arxiv.org/abs/2506.17006)|null|
 |**2025-06-18**|**Evolutionary Caching to Accelerate Your Off-the-Shelf Diffusion Model**|Anirud Aggarwal et.al.|[2506.15682](http://arxiv.org/abs/2506.15682)|**[link](https://github.com/aniaggarwal/ecad)**|
 |**2025-06-18**|**Leaky Thoughts: Large Reasoning Models Are Not Private Thinkers**|Tommaso Green et.al.|[2506.15674](http://arxiv.org/abs/2506.15674)|**[link](https://github.com/parameterlab/leaky_thoughts)**|
 |**2025-06-18**|**PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection**|Wenhao Li et.al.|[2506.15656](http://arxiv.org/abs/2506.15656)|null|
