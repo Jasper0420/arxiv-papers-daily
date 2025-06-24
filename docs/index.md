@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.23</span>
+# Updated on <span style='color:orange;'>2025.06.24</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -403,7 +403,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-06-20**|**Reversing Flow for Image Restoration**|Haina Qin et.al.|[2506.16961](http://arxiv.org/abs/2506.16961)|null|
 |**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960](http://arxiv.org/abs/2506.16960)|null|
 |**2025-06-20**|**Temperature calibration of surface emissivities with an improved thermal image enhancement network**|Ning Chu et.al.|[2506.16803](http://arxiv.org/abs/2506.16803)|null|
-|**2025-06-20**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
+|**2025-06-23**|**RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought**|Junbo Qiao et.al.|[2506.16796](http://arxiv.org/abs/2506.16796)|null|
 |**2025-06-20**|**TextBraTS: Text-Guided Volumetric Brain Tumor Segmentation with Innovative Dataset Development and Fusion Module Exploration**|Xiaoyu Shi et.al.|[2506.16784](http://arxiv.org/abs/2506.16784)|null|
 |**2025-06-20**|**Infrared and Visible Image Fusion Based on Implicit Neural Representations**|Shuchen Sun et.al.|[2506.16773](http://arxiv.org/abs/2506.16773)|null|
 |**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745](http://arxiv.org/abs/2506.16745)|null|
@@ -2690,11 +2690,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-20**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
+|**2025-06-23**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
 |**2025-06-20**|**Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation**|Qing Xu et.al.|[2506.17159](http://arxiv.org/abs/2506.17159)|null|
 |**2025-06-20**|**Do We Need Large VLMs for Spotting Soccer Actions?**|Ritabrata Chakraborty et.al.|[2506.17144](http://arxiv.org/abs/2506.17144)|null|
-|**2025-06-20**|**Acquiring and Accumulating Knowledge from Diverse Datasets for Multi-label Driving Scene Classification**|Ke Li et.al.|[2506.17101](http://arxiv.org/abs/2506.17101)|null|
-|**2025-06-20**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090](http://arxiv.org/abs/2506.17090)|null|
+|**2025-06-23**|**Multi-label Scene Classification for Autonomous Vehicles: Acquiring and Accumulating Knowledge from Diverse Datasets**|Ke Li et.al.|[2506.17101](http://arxiv.org/abs/2506.17101)|null|
+|**2025-06-23**|**Better Language Model Inversion by Compactly Representing Next-Token Distributions**|Murtaza Nazir et.al.|[2506.17090](http://arxiv.org/abs/2506.17090)|null|
 |**2025-06-20**|**Chain-of-Thought Prompting Obscures Hallucination Cues in Large Language Models: An Empirical Evaluation**|Jiahao Cheng et.al.|[2506.17088](http://arxiv.org/abs/2506.17088)|null|
 |**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|null|
 |**2025-06-20**|**Relaxed syntax modeling in Transformers for future-proof license plate recognition**|Florent Meyer et.al.|[2506.17051](http://arxiv.org/abs/2506.17051)|null|
