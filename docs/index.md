@@ -401,6 +401,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
+|**2025-06-26**|**Learning to See in the Extremely Dark**|Hai Jiang et.al.|[2506.21132](http://arxiv.org/abs/2506.21132)|null|
 |**2025-06-25**|**On the Burstiness of Faces in Set**|Jiong Wang et.al.|[2506.20312](http://arxiv.org/abs/2506.20312)|null|
 |**2025-06-25**|**TDiR: Transformer based Diffusion for Image Restoration Tasks**|Abbas Anwar et.al.|[2506.20302](http://arxiv.org/abs/2506.20302)|null|
 |**2025-06-24**|**A Comparative Study of NAFNet Baselines for Image Restoration**|Vladislav Esaulov et.al.|[2506.19845](http://arxiv.org/abs/2506.19845)|null|
@@ -1368,6 +1370,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
+|**2025-06-26**|**TableMoE: Neuro-Symbolic Routing for Structured Expert Reasoning in Multimodal Table Understanding**|Junwen Zhang et.al.|[2506.21393](http://arxiv.org/abs/2506.21393)|null|
+|**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
+|**2025-06-26**|**FairyGen: Storied Cartoon Video from a Single Child-Drawn Character**|Jiayi Zheng et.al.|[2506.21272](http://arxiv.org/abs/2506.21272)|null|
+|**2025-06-26**|**Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents**|Tianyi Men et.al.|[2506.21252](http://arxiv.org/abs/2506.21252)|null|
+|**2025-06-26**|**Task-Aware KV Compression For Cost-Effective Long Video Understanding**|Minghao Qin et.al.|[2506.21184](http://arxiv.org/abs/2506.21184)|null|
+|**2025-06-26**|**OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**|Caoshuo Li et.al.|[2506.21101](http://arxiv.org/abs/2506.21101)|null|
+|**2025-06-26**|**V2X-REALM: Vision-Language Model-Based Robust End-to-End Cooperative Autonomous Driving with Adaptive Long-Tail Modeling**|Junwei You et.al.|[2506.21041](http://arxiv.org/abs/2506.21041)|null|
+|**2025-06-26**|**Evidence-based diagnostic reasoning with multi-agent copilot for human pathology**|Chengkuan Chen et.al.|[2506.20964](http://arxiv.org/abs/2506.20964)|null|
+|**2025-06-26**|**E-FreeM2: Efficient Training-Free Multi-Scale and Cross-Modal News Verification via MLLMs**|Van-Hoang Phan et.al.|[2506.20944](http://arxiv.org/abs/2506.20944)|null|
 |**2025-06-25**|**UniCode $^2$ : Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation**|Yanzhe Chen et.al.|[2506.20214](http://arxiv.org/abs/2506.20214)|null|
 |**2025-06-25**|**BrokenVideos: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos**|Jiahao Lin et.al.|[2506.20103](http://arxiv.org/abs/2506.20103)|null|
 |**2025-06-24**|**MNN-AECS: Energy Optimization for LLM Decoding on Mobile Devices via Adaptive Core Selection**|Zhengxiang Huang et.al.|[2506.19884](http://arxiv.org/abs/2506.19884)|null|
@@ -2724,6 +2736,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547](http://arxiv.org/abs/2506.21547)|null|
+|**2025-06-26**|**Assessing an evolutionary search engine for small language models, prompts, and evaluation metrics**|Cláudio Lúcio do Val Lopes et.al.|[2506.21512](http://arxiv.org/abs/2506.21512)|null|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**Aligning Spoken Dialogue Models from User Interactions**|Anne Wu et.al.|[2506.21463](http://arxiv.org/abs/2506.21463)|null|
+|**2025-06-26**|**ThinkSound: Chain-of-Thought Reasoning in Multimodal Large Language Models for Audio Generation and Editing**|Huadai Liu et.al.|[2506.21448](http://arxiv.org/abs/2506.21448)|null|
+|**2025-06-26**|**Controllable 3D Placement of Objects with Scene-Aware Diffusion Models**|Mohamed Omran et.al.|[2506.21446](http://arxiv.org/abs/2506.21446)|null|
+|**2025-06-26**|**Text2Cypher Across Languages: Evaluating Foundational Models Beyond English**|Makbule Gulcin Ozsoy et.al.|[2506.21445](http://arxiv.org/abs/2506.21445)|null|
+|**2025-06-26**|**Benchmarking Deep Learning and Vision Foundation Models for Atypical vs. Normal Mitosis Classification with Cross-Dataset Evaluation**|Sweta Banerjee et.al.|[2506.21444](http://arxiv.org/abs/2506.21444)|null|
+|**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443](http://arxiv.org/abs/2506.21443)|null|
+|**2025-06-26**|**Evolution and determinants of firm-level systemic risk in local production networks**|Anna Mancini et.al.|[2506.21426](http://arxiv.org/abs/2506.21426)|null|
 |**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
 |**2025-06-25**|**EditP23: 3D Editing via Propagation of Image Prompts to Multi-View**|Roi Bar-On et.al.|[2506.20652](http://arxiv.org/abs/2506.20652)|null|
 |**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
