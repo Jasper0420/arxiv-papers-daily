@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.26</span>
+# Updated on <span style='color:orange;'>2025.06.27</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -410,7 +410,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-06-23**|**BSMamba: Brightness and Semantic Modeling for Long-Range Interaction in Low-Light Image Enhancement**|Tongshun Zhang et.al.|[2506.18346](http://arxiv.org/abs/2506.18346)|null|
 |**2025-06-23**|**A Multi-Scale Spatial Attention-Based Zero-Shot Learning Framework for Low-Light Image Enhancement**|Muhammad Azeem Aslam et.al.|[2506.18323](http://arxiv.org/abs/2506.18323)|null|
 |**2025-06-23**|**Attention-Based Ensemble Learning for Crop Classification Using Landsat 8-9 Fusion**|Zeeshan Ramzan et.al.|[2506.18321](http://arxiv.org/abs/2506.18321)|null|
-|**2025-06-24**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
+|**2025-06-26**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
 |**2025-06-22**|**CmFNet: Cross-modal Fusion Network for Weakly-supervised Segmentation of Medical Images**|Dongdong Meng et.al.|[2506.18042](http://arxiv.org/abs/2506.18042)|null|
 |**2025-06-20**|**Reversing Flow for Image Restoration**|Haina Qin et.al.|[2506.16961](http://arxiv.org/abs/2506.16961)|null|
 |**2025-06-20**|**Visual-Instructed Degradation Diffusion for All-in-One Image Restoration**|Wenyang Luo et.al.|[2506.16960](http://arxiv.org/abs/2506.16960)|**[link](https://github.com/luowyang/defusion)**|
