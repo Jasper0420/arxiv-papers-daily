@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.06.30</span>
+# Updated on <span style='color:orange;'>2025.07.01</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -2756,7 +2756,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390](http://arxiv.org/abs/2506.22390)|null|
 |**2025-06-27**|**Can Video Large Multimodal Models Think Like Doubters-or Double-Down: A Study on Defeasible Video Entailment**|Yue Zhang et.al.|[2506.22385](http://arxiv.org/abs/2506.22385)|null|
 |**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Tiankai Chen et.al.|[2506.22375](http://arxiv.org/abs/2506.22375)|null|
-|**2025-06-27**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
+|**2025-06-30**|**Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny**|Carolina Carreira et.al.|[2506.22370](http://arxiv.org/abs/2506.22370)|null|
 |**2025-06-27**|**A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake**|Luigi Russo et.al.|[2506.22338](http://arxiv.org/abs/2506.22338)|null|
 |**2025-06-27**|**Evaluating Scoring Bias in LLM-as-a-Judge**|Qingquan Li et.al.|[2506.22316](http://arxiv.org/abs/2506.22316)|null|
 |**2025-06-27**|**Detection of Personal Data in Structured Datasets Using a Large Language Model**|Albert Agisha Ntwali et.al.|[2506.22305](http://arxiv.org/abs/2506.22305)|null|
