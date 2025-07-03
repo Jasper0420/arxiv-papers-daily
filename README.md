@@ -22,6 +22,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
+|**2025-07-01**|**UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions**|Siyuan Yao et.al.|[2507.00648](http://arxiv.org/abs/2507.00648)|null|
 |**2025-06-30**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
 |**2025-07-01**|**R1-Track: Direct Application of MLLMs to Visual Object Tracking via Reinforcement Learning**|Biao Wang et.al.|[2506.21980](http://arxiv.org/abs/2506.21980)|null|
 |**2025-06-23**|**Lightweight RGB-T Tracking with Mobile Vision Transformers**|Mahdi Falaki et.al.|[2506.19154](http://arxiv.org/abs/2506.19154)|null|
@@ -198,6 +200,8 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Enhancing Multi-Exposure High Dynamic Range Imaging with Overlapped Codebook for Improved Representation Learning**|Keuntek Lee et.al.|[2507.01588](http://arxiv.org/abs/2507.01588)|null|
+|**2025-07-02**|**DiffusionLight-Turbo: Accelerated Light Probes for Free via Single-Pass Chrome Ball Inpainting**|Worameth Chinchuthakun et.al.|[2507.01305](http://arxiv.org/abs/2507.01305)|null|
 |**2025-06-30**|**Event-based Tiny Object Detection: A Benchmark Dataset and Baseline**|Nuo Chen et.al.|[2506.23575](http://arxiv.org/abs/2506.23575)|null|
 |**2025-06-30**|**AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm**|Xinyue Li et.al.|[2506.23537](http://arxiv.org/abs/2506.23537)|null|
 |**2025-06-29**|**Event-based Stereo Visual-Inertial Odometry with Voxel Map**|Zhaoxing Zhang et.al.|[2506.23078](http://arxiv.org/abs/2506.23078)|null|
@@ -421,6 +425,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices**|Hailong Yan et.al.|[2507.01838](http://arxiv.org/abs/2507.01838)|null|
+|**2025-07-02**|**DocShaDiffusion: Diffusion Model in Latent Space for Document Image Shadow Removal**|Wenjie Liu et.al.|[2507.01422](http://arxiv.org/abs/2507.01422)|null|
+|**2025-07-01**|**UAVD-Mamba: Deformable Token Fusion Vision Mamba for Multimodal UAV Detection**|Wei Li et.al.|[2507.00849](http://arxiv.org/abs/2507.00849)|null|
+|**2025-07-01**|**LD-RPS: Zero-Shot Unified Image Restoration via Latent Diffusion Recurrent Posterior Sampling**|Huaqiu Li et.al.|[2507.00790](http://arxiv.org/abs/2507.00790)|null|
+|**2025-07-01**|**Laplace-Mamba: Laplace Frequency Prior-Guided Mamba-CNN Fusion Network for Image Dehazing**|Yongzhen Wang et.al.|[2507.00501](http://arxiv.org/abs/2507.00501)|null|
 |**2025-06-30**|**Oneta: Multi-Style Image Enhancement Using Eigentransformation Functions**|Jiwon Kim et.al.|[2506.23547](http://arxiv.org/abs/2506.23547)|null|
 |**2025-06-29**|**Layer Decomposition and Morphological Reconstruction for Task-Oriented Infrared Image Enhancement**|Siyuan Chai et.al.|[2506.23353](http://arxiv.org/abs/2506.23353)|null|
 |**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
@@ -1291,6 +1300,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -1408,6 +1418,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-02**|**Token Communication in the Era of Large Models: An Information Bottleneck-Based Approach**|Hao Wei et.al.|[2507.01728](http://arxiv.org/abs/2507.01728)|null|
+|**2025-07-02**|**AdamMeme: Adaptively Probe the Reasoning Capacity of Multimodal Large Language Models on Harmfulness**|Zixin Chen et.al.|[2507.01702](http://arxiv.org/abs/2507.01702)|null|
+|**2025-07-02**|**SAILViT: Towards Robust and Generalizable Visual Backbones for MLLMs via Gradual Feature Refinement**|Weijie Yin et.al.|[2507.01643](http://arxiv.org/abs/2507.01643)|null|
+|**2025-07-02**|**SafePTR: Token-Level Jailbreak Defense in Multimodal LLMs via Prune-then-Restore Mechanism**|Beitao Chen et.al.|[2507.01513](http://arxiv.org/abs/2507.01513)|null|
+|**2025-07-02**|**AVC-DPO: Aligned Video Captioning via Direct Preference Optimization**|Jiyang Tang et.al.|[2507.01492](http://arxiv.org/abs/2507.01492)|null|
+|**2025-07-02**|**AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing**|Yinwang Ren et.al.|[2507.01376](http://arxiv.org/abs/2507.01376)|null|
+|**2025-07-02**|**Dynamical Multimodal Fusion with Mixture-of-Experts for Localizations**|Bohao Wang et.al.|[2507.01337](http://arxiv.org/abs/2507.01337)|null|
 |**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
@@ -2793,6 +2813,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation**|Zhuoyang Zhang et.al.|[2507.01957](http://arxiv.org/abs/2507.01957)|null|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**Characterizing control between interacting subsystems with deep Jacobian estimation**|Adam J. Eisen et.al.|[2507.01946](http://arxiv.org/abs/2507.01946)|null|
+|**2025-07-02**|**DIY-MKG: An LLM-Based Polyglot Language Learning System**|Kenan Tang et.al.|[2507.01872](http://arxiv.org/abs/2507.01872)|null|
+|**2025-07-02**|**Bridging UI Design and chatbot Interactions: Applying Form-Based Principles to Conversational Agents**|Sanjay Krishna Anbalagan et.al.|[2507.01862](http://arxiv.org/abs/2507.01862)|null|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
+|**2025-07-02**|**Modeling the Deterioration of Pavement Skid Resistance and Surface Texture After Preventive Maintenance**|Lu Gao et.al.|[2507.01842](http://arxiv.org/abs/2507.01842)|null|
+|**2025-07-02**|**Automatic Rank Determination for Low-Rank Adaptation via Submodular Function Maximization**|Yihang Gao et.al.|[2507.01841](http://arxiv.org/abs/2507.01841)|null|
+|**2025-07-02**|**Evaluating Structured Output Robustness of Small Language Models for Open Attribute-Value Extraction from Clinical Notes**|Nikita Neveditsin et.al.|[2507.01810](http://arxiv.org/abs/2507.01810)|null|
+|**2025-07-02**|**LoRA Fine-Tuning Without GPUs: A CPU-Efficient Meta-Generation Framework for LLMs**|Reza Arabpour et.al.|[2507.01806](http://arxiv.org/abs/2507.01806)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**TextMesh4D: High-Quality Text-to-4D Mesh Generation**|Sisi Dai et.al.|[2506.24121](http://arxiv.org/abs/2506.24121)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
