@@ -417,6 +417,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
+|**2025-07-08**|**OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval**|Zhiwei Chen et.al.|[2507.05631](http://arxiv.org/abs/2507.05631)|null|
+|**2025-07-08**|**Kernel Density Steering: Inference-Time Scaling via Mode Seeking for Image Restoration**|Yuyang Hu et.al.|[2507.05604](http://arxiv.org/abs/2507.05604)|null|
+|**2025-07-07**|**Simulating Refractive Distortions and Weather-Induced Artifacts for Resource-Constrained Autonomous Perception**|Moseli Mots'oehli et.al.|[2507.05536](http://arxiv.org/abs/2507.05536)|null|
+|**2025-07-07**|**Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model**|Mengyao Xu et.al.|[2507.05513](http://arxiv.org/abs/2507.05513)|null|
 |**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
 |**2025-07-06**|**Multi-Modal Semantic Parsing for the Interpretation of Tombstone Inscriptions**|Xiao Zhang et.al.|[2507.04377](http://arxiv.org/abs/2507.04377)|null|
 |**2025-07-06**|**Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices**|Guangrui Bai et.al.|[2507.04277](http://arxiv.org/abs/2507.04277)|null|
@@ -1415,6 +1420,12 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
+|**2025-07-08**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration**|Maximilian Tschuchnig et.al.|[2507.06067](http://arxiv.org/abs/2507.06067)|null|
+|**2025-07-08**|**BlueLM-2.5-3B Technical Report**|Baojiao Xiong et.al.|[2507.05934](http://arxiv.org/abs/2507.05934)|null|
+|**2025-07-08**|**From ID-based to ID-free: Rethinking ID Effectiveness in Multimodal Collaborative Filtering Recommendation**|Guohao Li et.al.|[2507.05715](http://arxiv.org/abs/2507.05715)|null|
+|**2025-07-08**|**MLlm-DR: Towards Explainable Depression Recognition with MultiModal Large Language Models**|Wei Zhang et.al.|[2507.05591](http://arxiv.org/abs/2507.05591)|null|
+|**2025-07-07**|**MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents**|Ming Gong et.al.|[2507.05330](http://arxiv.org/abs/2507.05330)|null|
 |**2025-07-07**|**Beyond Simple Edits: X-Planner for Complex Instruction-Based Image Editing**|Chun-Hsiao Yeh et.al.|[2507.05259](http://arxiv.org/abs/2507.05259)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning**|Yana Wei et.al.|[2507.05255](http://arxiv.org/abs/2507.05255)|null|
@@ -2826,6 +2837,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231](http://arxiv.org/abs/2507.06231)|null|
+|**2025-07-08**|**CultureCLIP: Empowering CLIP with Cultural Awareness through Synthetic Images and Contextualized Captions**|Yuchen Huang et.al.|[2507.06210](http://arxiv.org/abs/2507.06210)|null|
+|**2025-07-08**|**Ontological differentiation as a measure of semantic accuracy**|Pablo Garcia-Cuadrillero et.al.|[2507.06208](http://arxiv.org/abs/2507.06208)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Ensemble Methods for Detection of Scientific Discourse on Social Media**|Ayush Parikh et.al.|[2507.06205](http://arxiv.org/abs/2507.06205)|null|
+|**2025-07-08**|**Identity isn't everything -- how far do demographics take us towards self-identified party ID?**|Sabina Tomkins et.al.|[2507.06193](http://arxiv.org/abs/2507.06193)|null|
+|**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185](http://arxiv.org/abs/2507.06185)|null|
+|**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
+|**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
+|**2025-07-08**|**NeoBabel: A Multilingual Open Tower for Visual Generation**|Mohammad Mahdi Derakhshani et.al.|[2507.06137](http://arxiv.org/abs/2507.06137)|null|
+|**2025-07-08**|**A Bayesian circular mixed-effects model for explaining variability in directional movement in American football**|Quang Nguyen et.al.|[2507.06122](http://arxiv.org/abs/2507.06122)|null|
 |**2025-07-07**|**Spatio-Temporal LLM: Reasoning about Environments and Actions**|Haozhen Zheng et.al.|[2507.05258](http://arxiv.org/abs/2507.05258)|null|
 |**2025-07-07**|**Response Attack: Exploiting Contextual Priming to Jailbreak Large Language Models**|Ziqi Miao et.al.|[2507.05248](http://arxiv.org/abs/2507.05248)|null|
 |**2025-07-07**|**Logit Reweighting for Topic-Focused Summarization**|Joschka Braun et.al.|[2507.05235](http://arxiv.org/abs/2507.05235)|null|
