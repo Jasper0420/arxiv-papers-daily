@@ -14,6 +14,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**|Qiangqiang Wu et.al.|[2507.07483](http://arxiv.org/abs/2507.07483)|null|
 |**2025-07-02**|**TrackingMiM: Efficient Mamba-in-Mamba Serialization for Real-time UAV Object Tracking**|Bingxi Liu et.al.|[2507.01535](http://arxiv.org/abs/2507.01535)|null|
 |**2025-07-01**|**UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions**|Siyuan Yao et.al.|[2507.00648](http://arxiv.org/abs/2507.00648)|null|
 |**2025-06-30**|**Mamba-FETrack V2: Revisiting State Space Model for Frame-Event based Visual Object Tracking**|Shiao Wang et.al.|[2506.23783](http://arxiv.org/abs/2506.23783)|null|
@@ -419,6 +420,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Single-Step Latent Diffusion for Underwater Image Restoration**|Jiayi Wu et.al.|[2507.07878](http://arxiv.org/abs/2507.07878)|null|
+|**2025-07-10**|**IRAF-SLAM: An Illumination-Robust and Adaptive Feature-Culling Front-End for Visual SLAM in Challenging Environments**|Thanh Nguyen Canh et.al.|[2507.07752](http://arxiv.org/abs/2507.07752)|null|
+|**2025-07-10**|**Degradation-Agnostic Statistical Facial Feature Transformation for Blind Face Restoration in Adverse Weather Conditions**|Chang-Hwan Son et.al.|[2507.07464](http://arxiv.org/abs/2507.07464)|null|
+|**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
 |**2025-07-09**|**HVI-CIDNet+: Beyond Extreme Darkness for Low-Light Image Enhancement**|Qingsen Yan et.al.|[2507.06814](http://arxiv.org/abs/2507.06814)|null|
 |**2025-07-09**|**Residual Prior-driven Frequency-aware Network for Image Fusion**|Guan Zheng et.al.|[2507.06735](http://arxiv.org/abs/2507.06735)|null|
 |**2025-07-09**|**Enhancing Diffusion Model Stability for Image Restoration via Gradient Management**|Hongjie Wu et.al.|[2507.06656](http://arxiv.org/abs/2507.06656)|null|
@@ -1428,6 +1433,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**PyVision: Agentic Vision with Dynamic Tooling**|Shitian Zhao et.al.|[2507.07998](http://arxiv.org/abs/2507.07998)|null|
+|**2025-07-10**|**OST-Bench: Evaluating the Capabilities of MLLMs in Online Spatio-temporal Scene Understanding**|JingLi Lin et.al.|[2507.07984](http://arxiv.org/abs/2507.07984)|null|
+|**2025-07-10**|**MIRA: A Novel Framework for Fusing Modalities in Medical RAG**|Jinhong Wang et.al.|[2507.07902](http://arxiv.org/abs/2507.07902)|null|
+|**2025-07-10**|**SpatialViz-Bench: Automatically Generated Spatial Visualization Reasoning Tasks for MLLMs**|Siting Wang et.al.|[2507.07610](http://arxiv.org/abs/2507.07610)|null|
+|**2025-07-10**|**Single-to-mix Modality Alignment with Multimodal Large Language Model for Document Image Machine Translation**|Yupu Liang et.al.|[2507.07572](http://arxiv.org/abs/2507.07572)|null|
+|**2025-07-10**|**StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley**|Weihao Tan et.al.|[2507.07445](http://arxiv.org/abs/2507.07445)|null|
+|**2025-07-10**|**Corvid: Improving Multimodal Large Language Models Towards Chain-of-Thought Reasoning**|Jingjing Jiang et.al.|[2507.07424](http://arxiv.org/abs/2507.07424)|null|
+|**2025-07-09**|**Robust Multimodal Large Language Models Against Modality Conflict**|Zongmeng Zhang et.al.|[2507.07151](http://arxiv.org/abs/2507.07151)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-09**|**Learning Deliberately, Acting Intuitively: Unlocking Test-Time Reasoning in Multimodal LLMs**|Yahan Yu et.al.|[2507.06999](http://arxiv.org/abs/2507.06999)|null|
 |**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
@@ -2847,6 +2860,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Multigranular Evaluation for Brain Visual Decoding**|Weihao Xia et.al.|[2507.07993](http://arxiv.org/abs/2507.07993)|null|
+|**2025-07-10**|**Martian World Models: Controllable Video Synthesis with Physically Accurate 3D Reconstructions**|Longfei Li et.al.|[2507.07978](http://arxiv.org/abs/2507.07978)|null|
+|**2025-07-10**|**Defending Against Prompt Injection With a Few DefensiveTokens**|Sizhe Chen et.al.|[2507.07974](http://arxiv.org/abs/2507.07974)|null|
+|**2025-07-10**|**MIRIX: Multi-Agent Memory System for LLM-Based Agents**|Yu Wang et.al.|[2507.07957](http://arxiv.org/abs/2507.07957)|null|
+|**2025-07-10**|**Low Resource Reconstruction Attacks Through Benign Prompts**|Sol Yarkoni et.al.|[2507.07947](http://arxiv.org/abs/2507.07947)|null|
+|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[2507.07938](http://arxiv.org/abs/2507.07938)|null|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-10**|**DocCHA: Towards LLM-Augmented Interactive Online diagnosis System**|Xinyi Liu et.al.|[2507.07870](http://arxiv.org/abs/2507.07870)|null|
+|**2025-07-10**|**Pre-Trained AI Model Assisted Online Decision-Making under Missing Covariates: A Theoretical Perspective**|Haichen Hu et.al.|[2507.07852](http://arxiv.org/abs/2507.07852)|null|
+|**2025-07-10**|**From Ambiguity to Accuracy: The Transformative Effect of Coreference Resolution on Retrieval-Augmented Generation systems**|Youngjoon Jang et.al.|[2507.07847](http://arxiv.org/abs/2507.07847)|null|
 |**2025-07-09**|**Towards Multimodal Understanding via Stable Diffusion as a Task-Aware Feature Extractor**|Vatsal Agarwal et.al.|[2507.07106](http://arxiv.org/abs/2507.07106)|null|
 |**2025-07-09**|**How to Bridge the Sim-to-Real Gap in Digital Twin-Aided Telecommunication Networks**|Clement Ruah et.al.|[2507.07067](http://arxiv.org/abs/2507.07067)|null|
 |**2025-07-09**|**Evaluating Large Multimodal Models for Nutrition Analysis: A Benchmark Enriched with Contextual Metadata**|Bruce Coburn et.al.|[2507.07048](http://arxiv.org/abs/2507.07048)|null|
