@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.07.14</span>
+# Updated on <span style='color:orange;'>2025.07.15</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -192,7 +192,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-11**|**MetaH2: A Snapshot Metasurface HDR Hyperspectral Camera**|Yuxuan Liu et.al.|[2507.08282](http://arxiv.org/abs/2507.08282)|null|
+|**2025-07-14**|**MetaH2: A Snapshot Metasurface HDR Hyperspectral Camera**|Yuxuan Liu et.al.|[2507.08282](http://arxiv.org/abs/2507.08282)|null|
 |**2025-07-09**|**A hybrid dosimetry approach for remote audits in Ir-192 HDR interstitial brachytherapy: Development and pilot implementation**|Eleftherios P Pappas et.al.|[2507.06958](http://arxiv.org/abs/2507.06958)|null|
 |**2025-07-09**|**Capturing Stable HDR Videos Using a Dual-Camera System**|Qianyu Zhang et.al.|[2507.06593](http://arxiv.org/abs/2507.06593)|null|
 |**2025-07-07**|**Clinical test cases for model-based dose calculation algorithm commissioning, QA and benchmarking, for 192Ir HDR brachytherapy of gynecologic cancers**|V. Peppa et.al.|[2507.05144](http://arxiv.org/abs/2507.05144)|null|
@@ -1442,7 +1442,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-07-11**|**DatasetAgent: A Novel Multi-Agent System for Auto-Constructing Datasets from Real-World Images**|Haoran Sun et.al.|[2507.08648](http://arxiv.org/abs/2507.08648)|null|
 |**2025-07-11**|**Visual Semantic Description Generation with MLLMs for Image-Text Matching**|Junyu Chen et.al.|[2507.08590](http://arxiv.org/abs/2507.08590)|null|
 |**2025-07-11**|**Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation**|Liu He et.al.|[2507.08513](http://arxiv.org/abs/2507.08513)|null|
-|**2025-07-11**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Pablo Robin Guerrero et.al.|[2507.08505](http://arxiv.org/abs/2507.08505)|null|
+|**2025-07-14**|**Efficient Deployment of Vision-Language Models on Mobile Devices: A Case Study on OnePlus 13R**|Pablo Robin Guerrero et.al.|[2507.08505](http://arxiv.org/abs/2507.08505)|null|
 |**2025-07-11**|**Multi-modal Mutual-Guidance Conditional Prompt Learning for Vision-Language Models**|Shijun Yang et.al.|[2507.08410](http://arxiv.org/abs/2507.08410)|null|
 |**2025-07-11**|**MM-Gesture: Towards Precise Micro-Gesture Recognition through Multimodal Fusion**|Jihao Gu et.al.|[2507.08344](http://arxiv.org/abs/2507.08344)|null|
 |**2025-07-11**|**Improving MLLM's Document Image Machine Translation via Synchronously Self-reviewing Its OCR Proficiency**|Yupu Liang et.al.|[2507.08309](http://arxiv.org/abs/2507.08309)|null|
