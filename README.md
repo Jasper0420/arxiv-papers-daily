@@ -205,6 +205,9 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931](http://arxiv.org/abs/2507.11931)|null|
+|**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910](http://arxiv.org/abs/2507.11910)|null|
+|**2025-07-16**|**CompressedVQA-HDR: Generalized Full-reference and No-reference Quality Assessment Models for Compressed High Dynamic Range Videos**|Wei Sun et.al.|[2507.11900](http://arxiv.org/abs/2507.11900)|null|
 |**2025-07-14**|**MetaH2: A Snapshot Metasurface HDR Hyperspectral Camera**|Yuxuan Liu et.al.|[2507.08282](http://arxiv.org/abs/2507.08282)|null|
 |**2025-07-09**|**A hybrid dosimetry approach for remote audits in Ir-192 HDR interstitial brachytherapy: Development and pilot implementation**|Eleftherios P Pappas et.al.|[2507.06958](http://arxiv.org/abs/2507.06958)|null|
 |**2025-07-09**|**Capturing Stable HDR Videos Using a Dual-Camera System**|Qianyu Zhang et.al.|[2507.06593](http://arxiv.org/abs/2507.06593)|null|
@@ -437,6 +440,11 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
+|**2025-07-16**|**Wavelet-based Decoupling Framework for low-light Stereo Image Enhancement**|Shuangli Du et.al.|[2507.12188](http://arxiv.org/abs/2507.12188)|null|
+|**2025-07-16**|**Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement**|Junyu Lou et.al.|[2507.12135](http://arxiv.org/abs/2507.12135)|null|
+|**2025-07-16**|**Unsupervised Part Discovery via Descriptor-Based Masked Image Restoration with Optimized Constraints**|Jiahao Xia et.al.|[2507.11985](http://arxiv.org/abs/2507.11985)|null|
+|**2025-07-16**|**A Spatial-Physics Informed Model for 3D Spiral Sample Scanned by SQUID Microscopy**|J. Senthilnath et.al.|[2507.11853](http://arxiv.org/abs/2507.11853)|null|
 |**2025-07-14**|**CWNet: Causal Wavelet Network for Low-Light Image Enhancement**|Tongshun Zhang et.al.|[2507.10689](http://arxiv.org/abs/2507.10689)|null|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
 |**2025-07-14**|**RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction**|Zhicun Yin et.al.|[2507.10470](http://arxiv.org/abs/2507.10470)|null|
@@ -1462,6 +1470,14 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
+|**2025-07-16**|**Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**|Tairan Huang et.al.|[2507.11997](http://arxiv.org/abs/2507.11997)|null|
+|**2025-07-16**|**Watch, Listen, Understand, Mislead: Tri-modal Adversarial Attacks on Short Videos for Content Appropriateness Evaluation**|Sahid Hossain Mustakim et.al.|[2507.11968](http://arxiv.org/abs/2507.11968)|null|
+|**2025-07-16**|**Hyperphantasia: A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal LLMs**|Mohammad Shahab Sepehri et.al.|[2507.11932](http://arxiv.org/abs/2507.11932)|null|
+|**2025-07-16**|**MNO : A Multi-modal Neural Operator for Parametric Nonlinear BVPs**|Vamshi C. Madala et.al.|[2507.11870](http://arxiv.org/abs/2507.11870)|null|
+|**2025-07-15**|**Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification**|Moises Andrade et.al.|[2507.11662](http://arxiv.org/abs/2507.11662)|null|
+|**2025-07-15**|**MapIQ: Benchmarking Multimodal Large Language Models for Map Question Answering**|Varun Srivastava et.al.|[2507.11625](http://arxiv.org/abs/2507.11625)|null|
 |**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
 |**2025-07-15**|**How Far Have Medical Vision-Language Models Come? A Comprehensive Benchmarking Study**|Che Liu et.al.|[2507.11200](http://arxiv.org/abs/2507.11200)|null|
 |**2025-07-15**|**KptLLM++: Towards Generic Keypoint Comprehension with Large Language Model**|Jie Yang et.al.|[2507.11102](http://arxiv.org/abs/2507.11102)|null|
@@ -2917,6 +2933,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Traffic-Aware Pedestrian Intention Prediction**|Fahimeh Orvati Nia et.al.|[2507.12433](http://arxiv.org/abs/2507.12433)|null|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379](http://arxiv.org/abs/2507.12379)|null|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
+|**2025-07-16**|**Deconstructing Implicit Beliefs in Visual Data Journalism: Unstable Meanings Behind Data as Truth & Design for Insight**|Ke Er Amy Zhang et.al.|[2507.12377](http://arxiv.org/abs/2507.12377)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|
+|**2025-07-16**|**PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning**|M. Anwar Ma'sum et.al.|[2507.12305](http://arxiv.org/abs/2507.12305)|null|
+|**2025-07-16**|**RegCL: Continual Adaptation of Segment Anything Model via Model Merging**|Yuan-Chen Shu et.al.|[2507.12297](http://arxiv.org/abs/2507.12297)|null|
 |**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
 |**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
 |**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
