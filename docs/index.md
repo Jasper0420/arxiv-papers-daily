@@ -429,6 +429,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**SAIGFormer: A Spatially-Adaptive Illumination-Guided Network for Low-Light Image Enhancement**|Hanting Li et.al.|[2507.15520](http://arxiv.org/abs/2507.15520)|null|
+|**2025-07-20**|**EBA-AI: Ethics-Guided Bias-Aware AI for Efficient Underwater Image Enhancement and Coral Reef Monitoring**|Lyes Saad Saoud et.al.|[2507.15036](http://arxiv.org/abs/2507.15036)|null|
+|**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
+|**2025-07-20**|**Exploring Scalable Unified Modeling for General Low-Level Vision**|Xiangyu Chen et.al.|[2507.14801](http://arxiv.org/abs/2507.14801)|null|
 |**2025-07-18**|**Global Modeling Matters: A Fast, Lightweight and Effective Baseline for Efficient Image Restoration**|Xingyu Jiang et.al.|[2507.13663](http://arxiv.org/abs/2507.13663)|null|
 |**2025-07-17**|**FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12823](http://arxiv.org/abs/2507.12823)|null|
 |**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
@@ -1458,6 +1462,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**True Multimodal In-Context Learning Needs Attention to the Visual Context**|Shuo Chen et.al.|[2507.15807](http://arxiv.org/abs/2507.15807)|null|
+|**2025-07-21**|**Surfacing Variations to Calibrate Perceived Reliability of MLLM-generated Image Descriptions**|Meng Chen et.al.|[2507.15692](http://arxiv.org/abs/2507.15692)|null|
+|**2025-07-21**|**Extracting Visual Facts from Intermediate Layers for Mitigating Hallucinations in Multimodal Large Language Models**|Haoran Zhou et.al.|[2507.15652](http://arxiv.org/abs/2507.15652)|null|
+|**2025-07-21**|**DynImg: Key Frames with Visual Prompts are Good Representation for Multi-Modal Video Understanding**|Xiaoyi Bao et.al.|[2507.15569](http://arxiv.org/abs/2507.15569)|null|
+|**2025-07-21**|**FreeCus: Free Lunch Subject-driven Customization in Diffusion Transformers**|Yanbing Zhang et.al.|[2507.15249](http://arxiv.org/abs/2507.15249)|null|
+|**2025-07-20**|**Enhancing Visual Planning with Auxiliary Tasks and Multi-token Prediction**|Ce Zhang et.al.|[2507.15130](http://arxiv.org/abs/2507.15130)|null|
+|**2025-07-20**|**Language Integration in Fine-Tuning Multimodal Large Language Models for Image-Based Regression**|Roy H. Jennings et.al.|[2507.14997](http://arxiv.org/abs/2507.14997)|null|
+|**2025-07-20**|**Open-set Cross Modal Generalization via Multimodal Unified Representation**|Hai Huang et.al.|[2507.14935](http://arxiv.org/abs/2507.14935)|null|
+|**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
+|**2025-07-20**|**LeAdQA: LLM-Driven Context-Aware Temporal Grounding for Video Question Answering**|Xinxin Dong et.al.|[2507.14784](http://arxiv.org/abs/2507.14784)|null|
 |**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
 |**2025-07-17**|**"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**|Jing Gu et.al.|[2507.13428](http://arxiv.org/abs/2507.13428)|null|
 |**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314](http://arxiv.org/abs/2507.13314)|null|
@@ -2930,6 +2944,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
+|**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
+|**2025-07-21**|**Fluid Antenna-enabled Near-Field Integrated Sensing, Computing and Semantic Communication for Emerging Applications**|Yinchao Yang et.al.|[2507.15800](http://arxiv.org/abs/2507.15800)|null|
+|**2025-07-21**|**Regularized Low-Rank Adaptation for Few-Shot Organ Segmentation**|Ghassen Baklouti et.al.|[2507.15793](http://arxiv.org/abs/2507.15793)|null|
+|**2025-07-21**|**DialogueForge: LLM Simulation of Human-Chatbot Dialogue**|Ruizhe Zhu et.al.|[2507.15752](http://arxiv.org/abs/2507.15752)|null|
+|**2025-07-21**|**Visual-Language Model Knowledge Distillation Method for Image Quality Assessment**|Yongkang Hou et.al.|[2507.15680](http://arxiv.org/abs/2507.15680)|null|
+|**2025-07-21**|**P3: Prompts Promote Prompting**|Xinyu Zhang et.al.|[2507.15675](http://arxiv.org/abs/2507.15675)|null|
+|**2025-07-21**|**BugScope: Learn to Find Bugs Like Human**|Jinyao Guo et.al.|[2507.15671](http://arxiv.org/abs/2507.15671)|null|
+|**2025-07-21**|**SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models**|Giordano d'Aloisio et.al.|[2507.15663](http://arxiv.org/abs/2507.15663)|null|
 |**2025-07-18**|**NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining**|Maksim Kuprashevich et.al.|[2507.14119](http://arxiv.org/abs/2507.14119)|null|
 |**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
 |**2025-07-18**|**UGPL: Uncertainty-Guided Progressive Learning for Evidence-Based Classification in Computed Tomography**|Shravan Venkatraman et.al.|[2507.14102](http://arxiv.org/abs/2507.14102)|null|
