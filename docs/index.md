@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-# Updated on <span style='color:orange;'>2025.07.21</span>
+# Updated on <span style='color:orange;'>2025.07.22</span>
 ## Website 
 You can learn directly from this [page](https://jasper0420.github.io/arxiv-papers-daily/)
 ## Tracking
@@ -203,7 +203,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 |**2025-07-09**|**A hybrid dosimetry approach for remote audits in Ir-192 HDR interstitial brachytherapy: Development and pilot implementation**|Eleftherios P Pappas et.al.|[2507.06958](http://arxiv.org/abs/2507.06958)|null|
 |**2025-07-09**|**Capturing Stable HDR Videos Using a Dual-Camera System**|Qianyu Zhang et.al.|[2507.06593](http://arxiv.org/abs/2507.06593)|null|
 |**2025-07-07**|**Clinical test cases for model-based dose calculation algorithm commissioning, QA and benchmarking, for 192Ir HDR brachytherapy of gynecologic cancers**|V. Peppa et.al.|[2507.05144](http://arxiv.org/abs/2507.05144)|null|
-|**2025-07-07**|**Reviving Cultural Heritage: A Novel Approach for Comprehensive Historical Document Restoration**|Yuyi Zhang et.al.|[2507.05108](http://arxiv.org/abs/2507.05108)|null|
+|**2025-07-21**|**Reviving Cultural Heritage: A Novel Approach for Comprehensive Historical Document Restoration**|Yuyi Zhang et.al.|[2507.05108](http://arxiv.org/abs/2507.05108)|null|
 |**2025-07-05**|**Towards Spatially-Varying Gain and Binning**|Anqi Yang et.al.|[2507.04190](http://arxiv.org/abs/2507.04190)|null|
 |**2025-07-01**|**EvRWKV: A RWKV Framework for Effective Event-guided Low-Light Image Enhancement**|WenJie Cai et.al.|[2507.03184](http://arxiv.org/abs/2507.03184)|null|
 |**2025-07-02**|**Enhancing Multi-Exposure High Dynamic Range Imaging with Overlapped Codebook for Improved Representation Learning**|Keuntek Lee et.al.|[2507.01588](http://arxiv.org/abs/2507.01588)|null|
