@@ -22,6 +22,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Giant Damping-like Torque Efficiency via Synergistic Spin Hall and enhanced Orbital Hall Effects**|Subhakanta Das et.al.|[2507.17372](http://arxiv.org/abs/2507.17372)|null|
 |**2025-07-21**|**Is Tracking really more challenging in First Person Egocentric Vision?**|Matteo Dunnhofer et.al.|[2507.16015](http://arxiv.org/abs/2507.16015)|null|
 |**2025-07-18**|**AeroThrow: An Autonomous Aerial Throwing System for Precise Payload Delivery**|Ziliang Li et.al.|[2507.13903](http://arxiv.org/abs/2507.13903)|null|
 |**2025-07-14**|**Vision-Based Anti Unmanned Aerial Technology: Opportunities and Challenges**|Guanghai Ding et.al.|[2507.10006](http://arxiv.org/abs/2507.10006)|null|
@@ -207,6 +208,7 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**UNICE: Training A Universal Image Contrast Enhancer**|Ruodai Cui et.al.|[2507.17157](http://arxiv.org/abs/2507.17157)|null|
 |**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931](http://arxiv.org/abs/2507.11931)|null|
 |**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910](http://arxiv.org/abs/2507.11910)|null|
 |**2025-07-16**|**CompressedVQA-HDR: Generalized Full-reference and No-reference Quality Assessment Models for Compressed High Dynamic Range Videos**|Wei Sun et.al.|[2507.11900](http://arxiv.org/abs/2507.11900)|null|
@@ -442,6 +444,10 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**DFDNet: Dynamic Frequency-Guided De-Flare Network**|Minglong Xue et.al.|[2507.17489](http://arxiv.org/abs/2507.17489)|null|
+|**2025-07-23**|**Content-based 3D Image Retrieval and a ColBERT-inspired Re-ranking for Tumor Flagging and Staging**|Farnaz Khun Jush et.al.|[2507.17412](http://arxiv.org/abs/2507.17412)|null|
+|**2025-07-23**|**PolarAnything: Diffusion-based Polarimetric Image Synthesis**|Kailong Zhang et.al.|[2507.17268](http://arxiv.org/abs/2507.17268)|null|
+|**2025-07-23**|**UNICE: Training A Universal Image Contrast Enhancer**|Ruodai Cui et.al.|[2507.17157](http://arxiv.org/abs/2507.17157)|null|
 |**2025-07-22**|**A High Magnifications Histopathology Image Dataset for Oral Squamous Cell Carcinoma Diagnosis and Prognosis**|Jinquan Guan et.al.|[2507.16360](http://arxiv.org/abs/2507.16360)|null|
 |**2025-07-21**|**SAIGFormer: A Spatially-Adaptive Illumination-Guided Network for Low-Light Image Enhancement**|Hanting Li et.al.|[2507.15520](http://arxiv.org/abs/2507.15520)|null|
 |**2025-07-20**|**EBA-AI: Ethics-Guided Bias-Aware AI for Efficient Underwater Image Enhancement and Coral Reef Monitoring**|Lyes Saad Saoud et.al.|[2507.15036](http://arxiv.org/abs/2507.15036)|null|
@@ -1481,6 +1487,13 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
+|**2025-07-23**|**ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents**|Chang Nie et.al.|[2507.17462](http://arxiv.org/abs/2507.17462)|null|
+|**2025-07-23**|**HiProbe-VAD: Video Anomaly Detection via Hidden States Probing in Tuning-Free Multimodal LLMs**|Zhaolin Cai et.al.|[2507.17394](http://arxiv.org/abs/2507.17394)|null|
+|**2025-07-23**|**A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model**|Zhe Xu et.al.|[2507.17303](http://arxiv.org/abs/2507.17303)|null|
+|**2025-07-23**|**Filter-And-Refine: A MLLM Based Cascade System for Industrial-Scale Video Content Moderation**|Zixuan Wang et.al.|[2507.17204](http://arxiv.org/abs/2507.17204)|null|
+|**2025-07-22**|**Toward Scalable Video Narration: A Training-free Approach Using Multimodal Large Language Models**|Tz-Ying Wu et.al.|[2507.17050](http://arxiv.org/abs/2507.17050)|null|
 |**2025-07-22**|**HOComp: Interaction-Aware Human-Object Composition**|Dong Liang et.al.|[2507.16813](http://arxiv.org/abs/2507.16813)|null|
 |**2025-07-22**|**Enhancing Remote Sensing Vision-Language Models Through MLLM and LLM-Based High-Quality Image-Text Dataset Generation**|Yiguo He et.al.|[2507.16716](http://arxiv.org/abs/2507.16716)|null|
 |**2025-07-22**|**Self-Contradiction as Self-Improvement: Mitigating the Generation-Understanding Gap in MLLMs**|Yujin Han et.al.|[2507.16663](http://arxiv.org/abs/2507.16663)|null|
@@ -2972,6 +2985,16 @@ You can learn directly from this [page](https://jasper0420.github.io/arxiv-paper
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation**|Robel Mamo et.al.|[2507.17727](http://arxiv.org/abs/2507.17727)|null|
+|**2025-07-23**|**Contextual Code Retrieval for Commit Message Generation: A Preliminary Study**|Bo Xiong et.al.|[2507.17690](http://arxiv.org/abs/2507.17690)|null|
+|**2025-07-23**|**CNS-Bench: Benchmarking Image Classifier Robustness Under Continuous Nuisance Shifts**|Olaf Dünkel et.al.|[2507.17651](http://arxiv.org/abs/2507.17651)|null|
+|**2025-07-23**|**Dual-branch Prompting for Multimodal Machine Translation**|Jie Wang et.al.|[2507.17588](http://arxiv.org/abs/2507.17588)|null|
+|**2025-07-23**|**BoSS: Beyond-Semantic Speech**|Qing Wang et.al.|[2507.17563](http://arxiv.org/abs/2507.17563)|null|
+|**2025-07-23**|**Generalized Low-Rank Matrix Contextual Bandits with Graph Information**|Yao Wang et.al.|[2507.17528](http://arxiv.org/abs/2507.17528)|null|
+|**2025-07-23**|**Probing Vision-Language Understanding through the Visual Entailment Task: promises and pitfalls**|Elena Pitta et.al.|[2507.17467](http://arxiv.org/abs/2507.17467)|null|
+|**2025-07-23**|**VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**|Sania Waheed et.al.|[2507.17455](http://arxiv.org/abs/2507.17455)|null|
+|**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Joobin Jin et.al.|[2507.17418](http://arxiv.org/abs/2507.17418)|null|
+|**2025-07-23**|**Content-based 3D Image Retrieval and a ColBERT-inspired Re-ranking for Tumor Flagging and Staging**|Farnaz Khun Jush et.al.|[2507.17412](http://arxiv.org/abs/2507.17412)|null|
 |**2025-07-23**|**Test-Time-Matching: Decouple Personality, Memory, and Linguistic Style in LLM-based Role-Playing Language Agent**|Xiaoyu Zhan et.al.|[2507.16799](http://arxiv.org/abs/2507.16799)|null|
 |**2025-07-22**|**ChatChecker: A Framework for Dialogue System Testing and Evaluation Through Non-cooperative User Simulation**|Roman Mayr et.al.|[2507.16792](http://arxiv.org/abs/2507.16792)|null|
 |**2025-07-22**|**When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs**|Yue Li et.al.|[2507.16773](http://arxiv.org/abs/2507.16773)|null|
